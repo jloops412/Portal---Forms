@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Jaa sisältö
+SHARE_BY_MAIL	Jaa sähköpostitse
+URL_OF_CURRENT_PAGE	Nykyisen sivun URL
+TASK	Tehtävä
+GLOSSARY	Sanasto
+CONTEXT_INFO	Kontekstitiedot
+CONTEXT_ROLES	Roolit
+CONTEXT_ROLES_NOROLES	Näytä konteksti ilman rooleja
+CONTEXT_MY_ROLES	Omat roolit
+CLOSEBUBBLE	Sulje kupla
+MAXBUBBLE	Palauta kupla
+MINBUBBLE	Pienennä kupla
+VOLUME	Äänenvoimakkuus
+SETTINGS	Asetukset
+CLOSE_TASK	Sulje @{TASK}
+CLOSE	Sulje
+EXIT	Lopeta
+SELECTION	Valinta
+KEYWORD_SEARCH	Asiasanahaku
+SEARCH	Hae
+SEARCH_STRING	Hakumerkkijono
+KEYWORDS	Asiasanat
+SEARCH_CLEAR	Tyhjennä hakutiedot
+FILTER	Suodatin
+RESOURCES	Resurssit
+VIEW	Näkymä
+CANCEL	Peruuta
+CONTINUING	Jatka
+OK	OK
+PLAY	Toista
+PAUSE	Keskeytä
+BACK	Paluu
+PREVIOUS	Edellinen
+NEXT	Seuraava
+PLAYING	Toistetaan
+PAUSED	Keskeytä
+USERINPUT	Syöttö
+IDLE	""
+START	Sivua ladataan...
+RESTART	Aloita uudelleen
+TEXT	Teksti
+TITLE	Otsikko
+MINIMIZE	Pienennä
+RESTORE	Palauta
+ACQUIRED_SCORE	Kokonaispistemäärä
+TEST_RESULT	Tulos
+TESTDETAILS	Näytä lisätiedot
+TESTDETAILS1	Piilota lisätiedot
+PRINT	Tulosta sivu
+LESSON	Simulointi
+OF	/
+DESCRIPTION	Kuvaus
+FULLSCREEN	Kokonäyttö
+TOGGLE_TASKINFO	Näytä/piilota tehtävän kuvaus
+PANEL_VIEWMODE	Paneelin näyttötila
+PANEL_TOGGLE	Näytä/piilota paneeli
+PANEL	Sivupalkki / koko sisältö
+BOOKMARK_FAVORITE	Suosikki
+CONTENT	Sisältö/toistoalue
+TOC	Sisällysluettelo
+FAVORITES	Suosikit
+RECENT	Sivuhistoria
+QRCODE	QR-koodi
+QR_URL_TOO_BIG	URL liian suuri. QR-koodia ei voi generoida.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	Ääni pois
+AUDIO_PLAY	Toista ääni
+AUDIO_PAUSE	Keskeytä ääni
+AUDIO_ON	Ääni päällä
+AUDIO_OFF	Ääni pois
+CHANNEL_MASTER	Master
+CHANNEL_BOOKSOUND	Kirjan ääni
+CHANNEL_NARRATIVE	Selostus
+CHANNEL_EFFECTS	Tehosteet
+LIB_NOMATCH	Ei vastaavuuksia
+LIB_NOFILTER	Ei suodatinta
+LIBFLAG_NEWWIN	Avaa sisältö uudessa ikkunassa
+LIBFLAG_TITLE	Hae otsikko
+LIBFLAG_SHORTDESC	Hae lyhyt kuvaus
+LIBFLAG_DESC	Hae kuvaus
+LIBFLAG_KEYW	Hae asiasanat
+LIBFLAG_SLIDES	Hae kirjan sivun sisältö
+GUI_TOP_BAR	Yläpalkki
+GUI_BOTTOM_BAR	Alapalkki
+ORIENTATION_TOGGLE_TOP	Yläpalkki
+ORIENTATION_TOGGLE_BOTTOM	Alapalkki
+FEEDBACK	Palaute tekijälle
+FEEDBACK_TITLE	Palautteesi
+FEEDBACK_QUESTION	Haluatko kommentoida tätä simulointia?
+FEEDBACK_MISTAKE	Löysin virheen
+FEEDBACK_COMMENTS	Minulla on kommentteja, toivomuksia
+FEEDBACK_SEND	Lähetä palaute
+SEND_CONTENT	Jaa sisältö
+SEND_CONTENT_SUBJECT	Suositeltu sisältö
+SEND_CONTENT_TEMPLATE	Hei,\n\ntämä sisältö saattaa kiinnostaa sinua. \n\nTeksti: @{SEND_CAPTION}\nLinkki: @{SEND_LINK}\n\nYstävällisin terveisin\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	On tapahtunut virhe. Ota yhteys pääkäyttäjään.
+ERROR_GENERAL	Sisäinen virhe.
+ERROR_1	Ponnahdusikkunoiden esto estää simuloinnin toiston.
+ERROR_1.h	Ponnahdusikkunoiden esto on estänyt uuden selainikkunan avaamisen. Sulje ponnahdusikkunoiden esto tai poista sen aktivointi tätä verkkoaluetta varten.
+ERROR_2	Tarvittavaa konfiguraatiotiedostoa ei voitu ladata.
+ERROR_2.h	@{LESSONPLAYER} ei voinut ladata oikeaa toiminnallisuutta varten tarvittavaa konfiguraatiotiedostoa.
+SCORM_LOCATION_ERROR	Edistymistäsi ei voitu tallentaa LMS-järjestelmästäsi puuttuvan toiminnallisuuden vuoksi.
+RESTART_COMPLETED_LMS_LESSON	Olet aloittamassa simulointia, joka on jo päätetty tai läpäisty hyväksytysti. Kaikki tähän mennessä saavutetut pisteet nollataan, ja päätetty- tai hyväksytty-tunnuksen asetus poistetaan. Haluatko todella aloittaa uudelleen?
+RESTART_Av_LMS_LESSON	Olet aloittamassa simulointia, joka on jo päätetty tai läpäisty hyväksytysti. Kaikki tähän mennessä saavutetut pisteet nollataan, ja päätetty- tai hyväksytty-tunnuksen asetus poistetaan. Käynnistä uudelleen napsauttamalla OK tai sulje napsauttamalla Peruuta?
+BOOK_NEXT_CHAPTER	Seuraava kappale
+BOOK_PREV_CHAPTER	Edellinen kappale
+BOOK_NEXT_PAGE	Seuraava sivu
+BOOK_PREV_PAGE	Edellinen sivu
+BOOK_INDEX_PAGE	Aloitussivu
+SLIDE_MOREINFO	Lisätietoja
+SLIDE_TIPS	Vihjeet
+SLIDE_ATTACH	Liitteet
+SLIDE_SHOWATTACH	Näytä liitteet
+SLIDE_OPEN	Avaa
+SLIDE_ADD	Lisää
+SLIDE_EDIT	Muokkaa
+SLIDE_DELETE	Poista
+SLIDE_BUTTONAREA	Toistopalkki
+HELP	Ohje
+HELP_REGION_BAR	Pikavalinnat: painamalla voit kohdistaa soitinpalkin
+HELP_REGION_PANEL	Painamalla voit kohdistaa sivupalkin
+HELP_REGION_CONTENT	Painamalla voit kohdistaa sisällön
+HELP_LIBRARY	Näytä ohje - @{LIBRARY}
+HELP_TRAINER	Näytä ohje - @{LESSONPLAYER}
+HELP_BOOK	Näytä ohje - @{BOOKPLAYER}
+DEMO_START	Demotila
+DEMO_START1	Demotilassa voit seurata tehtävän suorittamista sovelluksessa. Seuraa vain esitystä, kaikki vaiheet suoritetaan automaattisesti.
+DEMO_START2	Alareunan navigointirivin avulla voit keskeyttää tai lopettaa esityksen. Voit lisäksi siirtyä eteenpäin seuraavaan ja taaksepäin edelliseen vaiheeseen.
+DEMO_STOP	Demotila on lopetettu.
+CONCURRENT_START	Rinnakkaistila
+CONCURRENT_START1	Rinnakkaistila näyttää sinulla askel askeleelta, miten tehtävä suoritetaan sovelluksessa.
+CONCURRENT_START2	Simulointi keskeytetään jokaisen askeleen jälkeen, jotta voit päättää askeleen todellisessa sovelluksessa.
+CONCURRENT_STOP	Rinnakkaistila on lopetettu.
+PRACTICE_START	Harjoitustila
+PRACTICE_START1	Harjoitustilassa voit kokeilla oppimaasi ratkaisemalla itse tehtävän sovelluksessa.
+PRACTICE_START2	Seuraat vain askelkohtaisia ohjeita.
+PRACTICE_STOP	Harjoitustila on lopetettu.
+TEST_START	Testitila
+TEST_START1	Testitilassa voit testata tietosi ratkaisemalla tehtävän itse sovelluksessa: Lukuun ottamatta syötettäviä esimerkkitietojä sinulle ei anneta mitään vaiheittaisia ohjeita. Koko tehtävä kuvataan tehtäväikkunassa, jonka voit tarvittaessa suurentaa tai pienentää otsikkopalkin painikkeiden avulla.
+TEST_START2	Testin lopussa saat pisteitä oikein päätettyjen askelten lukumäärän perusteella. Tämä arviointi on tarkoitettu tehtäväalueen itsearviointiin.
+TEST_START3	Ole erittäin huolellinen, koska järjestelmä rekisteröi kaikki kirjoitusvirheet ja väärät napsautukset ja alentaa pistemäärääsi vastaavasti. Jos päätät pyytää apua järjestelmältä askeleen päättämistä varten, pistemääräsi nollataan kyseisen askeleen osalta.
+TEST_START4	Kokonaispistemääräsi näytetään testin lopussa. Yritä saavuttaa tavoitepistemäärä (@{res_mastery_percent} %).
+TEST_OK	Testi hyväksytty
+TEST_OK1	Onnittelumme, ratkaisit tämän tehtävän onnistuneesti.
+TEST_FAILED	Testi hylätty
+TEST_FAILED1	Koska sait vähemmän kuin @{res_mastery_percent} % mahdollisesta maksimipistemäärästä, suosittelemme sinua käymään kurssin sisällön vielä kerran läpi ja testaamaan sen jälkeen tietosi uudelleen testitilassa.
+TEST_FINISHED	Tämä testi on tarkoitettu ainoastaan itsearviointia varten. Tuloksia ei kirjata eikä välitetä eteenpäin.
+TEST_SCORE	Pistemäärä
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	Vapaa esitystila
+FREEPRESENTATION_START1	Vapaa esitystila sallii prosessin suorituksen simuloinnissa.
+FREEPRESENTATION_START2	Suorita toimet askel askeleelta. Nouda ohje käyttämällä F1-näppäintä.
+FREEPRESENTATION_STOP	Vapaa esitys on lopetettu.
+GUIDEDPRESENTATION_START	Ohjattu esitystila
+GUIDEDPRESENTATION_START1	Ohjattu esitystila suorittaa prosessin automaattisesti simuloinnin aikana. Hiiren osoitin ja korostus näyttävät nykyisen vaiheen.
+GUIDEDPRESENTATION_START2	Seuraa toimia askel askeleelta ja vahvista jokainen toimi jälkeenpäin.
+GUIDEDPRESENTATION_STOP	Ohjattu esitys on lopetettu.
+EXER_FAIL1	Suorittamasi toimi oli virheellinen.
+EXER_FAIL2	Suorittamasi toimi oli virheellinen. Kokonaispistemäärästä vähennetään yksi piste. Tämän toimen jäljellä olevat pisteet: @1_rest-points_.
+EXER_FAIL3	Suorittamasi toimi oli virheellinen. Kokonaispistemäärästä vähennetään yksi piste kutakin virhettä kohti. Tämän toimen jäljellä olevat pisteet: @1_rest-points_.
+EXER_FAILKEY1	Painoit näppäintä @1_key_.
+EXER_FAILKEY2	Toimintonäppäiment, joita voidaan käyttää ovat: @1_keys_.
+EXER_FAILRADIO	Kaikki voimassa olevat painikkeet on korostettu.
+EXER_FAILINPUT	Kaikki voimassa olevat tekstialueet on korostettu.
+EXER_FAILSELECT	Kaikki voimassa olevat valintaruudut on korostettu.
+EXER_FAILDRAG	Suoritit virheellisen veto-operaation @1_keys_.
+EXER_FAILDRAG1	Suorita veto-operaatio @1_keys_ korostetulla alueella.
+EXER_FAILDROP	Suoritit virheellisen pudotusoperaation @1_keys_.
+EXER_FAILDROP1	Suorita pudotusoperaatio @1_keys_ korostetulla alueella.
+EXER_FAILDBLCLICK	Suoritit virheellisen kaksoisnapsautuksen @1_keys_.
+EXER_FAILDBLCLICK1	Suorita kaksoisnapsautus @1_keys_ korostetulla alueella.
+EXER_FAILCLICK	Napsautit @1_keys_ virheellistä aluetta.
+EXER_FAILCLICK1	Kaikki voimassa olevat alueet on korostettu.
+EXER_FAILCLICK2	Suoritit virheellisen napsautuksen @1_keys_.
+EXER_FAILCLICK3	Suorita napsautus @1_keys_ korostetulla alueella.
+EXER_FAILENTER	Suoritit virheellisen hiiri kohteen päälle -operaation @1_keys_.
+EXER_FAILENTER1	Suorita hiiri kohteen päälle -operaatio @1_keys_ korostetulla alueella.
+EXER_FAILMCLICK	Keskipainikkeen napsautus @1_keys_ ei ole sallittu.
+EXER_WOULDGOON	(Huomautus: muuten jatketaan automaattisesti)
+EXER_YOURINPUT	Olet syöttänyt: '@1_input_'.
+EXER_TEXTINPUT	Syötä '@1' syöttökenttään '@2'.
+EXER_SELECT	Valitse merkintä '@1'.
+EXER_GOON	Jatka seuraavaan askeleeseen
+EXER_SHOWHELP	Kyllä, näytä ohje
+EXER_TRYAGAIN	Yritä uudelleen
+EXER_ASK4HELP	Tarvitsetko apua?
+EXER_ONLY_VALID	Sallittuja toimia ovat:
+EXER_FORM_PREFIX	Syötä seuraavat arvot:
+EXER_OR	tai
+EXER_AND	ja
+SCORE	Pisteet
+SCORE_REDUCED	Tämän askeleen mahdollisia pisteitä vähennetty pistemäärään
+TOUR_START	Simuloinnin aloitus
+TOUR_STOP	Simuloinnin keskeytys
+TOUR_END	Simuloinnin lopetus
+TOUR_PLAY	Jatka-painike
+TOUR_JUMP	Siirryttiin toiseen askeleeseen simuloinnin sisällä.
+TOUR_PREV	Paluu
+TOUR_NEXT	Seuraava
+USER_ACTION_CORRECT_ACTION	Oppija suoritti askeleen onnistuneesti.
+USER_ACTION_WRONG_ACTION	Oppija teki virheen.
+USER_ACTION_GOON	Oppija napsautti 'Jatka', ei pisteitä tästä askeleesta.
+USER_ACTION_GOON_AUTO	Simulointi jatkui automaattisesti virheiden määrän vuoksi.
+USER_ACTION_HELP	Oppija pyysi apua, ei pisteitä tästä askeleesta.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Oppija avasi tekstiruudun.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Oppija on sulki tekstiruudun.
+QUIZ_CORRECT_RESPONSE	Oikea vastaus
+QUIZ_STUDENT_RESPONSE	Oppijan vastaus
+QUIZ_LATENCY	Aika
+QUIZ_SCORE	Kokonaispistemäärä
+QUIZ_REQ_SCORE	Vaadittava pistemäärä
+QUIZ_MAX_SCORE	Maksimipistemäärä
+QUIZ_TIMEOUT_REACHED	Aikakatkaisu saavutettu
+QUIZTYPE_MCHOICE	Testi: monivalinta
+QUIZTYPE_SQMAQUIZ	Testi: kenttien täyttäminen
+QUIZTYPE_FIBQUIZ	Testi: tyhjien kohtien täyttäminen
+QUIZTYPE_MATCHQUIZ	Testi: kohdistaminen
+QUIZTYPE_CONNQUIZ	Testi: yhteys
+QUIZTYPE_SCALEQUIZ	Testi: liukusäädin
+QUIZTYPE_GRIDQUIZ	Testi: ruudukko
+QUIZTYPE_HOTSPOTQUIZ	Testi: kohdepiste
+QUIZTYPE_PUZZLEQUIZ	Testi: palapeli
+QUIZTYPE_MIXQUIZ	Testi: lajittelu
+CONNECTING	Yhdistetään...
+SYNCHRONIZE	Synkronoi
+SYNCHRONIZED	Synkronoitu
+CONNECT	Yhdistä
+BUBBLESTYLE_NOT_FOUND	Kuplan tyyliä ei löytynyt.
+LOADING_MACROSET	Ladataan sisältöä ja resursseja.
+ZOOM_LEVEL_NOTIFICATION	Varoitus: Zoomauksen taso on eri kuin 100%.
+ctx_html.header_title	Kontekstiohje
+ctx_html.introtext	Seuraavat ohjesisällöt ovat käytettävissä nykyistä kontekstia varten. Napsauta elementtiä, jonka haluat käynnistää.
+ctx_html.introtext_noresult	Nykyistä kontekstia varten ei ole käytettävissä sisältöä. Avaa library otsikosta, tai nouda lisää sisältöä käyttämällä hakua.
+ctx_html.query_empty	Tyhjä kysely.
+ctx_html.query_malformed	Virheellinen kysely.
+ctx_html.search	Hae
+ctx_html.library	Avaa library
+ctx_html.language	Kieli
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Tallennus
+qr_hint_dlg.dont_bother	Älä näytä enää uudelleen
+qr_hint_dlg.hint_end	Lopeta tallennus.
+qr_hint_dlg.hint_pause	Keskeytä tallennus.
+btnOk	Kiitos
+qr_hint_dlg.hint_title	Tallennusvihjeitä
+qr_hint_dlg.audio_help	Tallenna teksti ennen ohjauselementin valitsemista.
+quiz_error_no_template_file	Virhe: mallitiedostoa ei löytynyt. Käytetään oletusta.
+qr_hint_dlg.hint_end_1	LOPPU-näppäin
+qr_hint_dlg.hint_pause_1	KESKEYTÄ-näppäin

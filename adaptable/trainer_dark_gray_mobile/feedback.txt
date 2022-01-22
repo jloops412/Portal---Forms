@@ -1,0 +1,101 @@
+﻿{
+ "background_color": "#FFFFFF",
+ "w": 540,
+ "h": 415,
+ "frame": {
+  "w_w": 130,
+  "e_w": 20,
+  "n_h": 41,
+  "s_h": 41,
+  "nw": {
+   "image": {"id": "s.png", "x": -204, "y": -387}
+  },
+  "n": {
+   "image": {"id": "sh.png", "x": 0, "y": -190, "repeat": "x"}
+  },
+  "ne": {
+   "image": {"id": "s.png", "x": -344, "y": -387}
+  },
+  "w": {
+   "background_color": "#404040",
+   "w": 2
+  },
+  "e": {
+   "background_color": "#404040",
+   "w": 2
+  },
+  "sw": {
+   "image": {"id": "s.png", "x": -204, "y": -438}
+  },
+  "s": {
+   "image": {"id": "sh.png", "x": 0, "y": -241, "repeat": "x"}
+  },
+  "se": {
+   "image": {"id": "s.png", "x": -344, "y": -438}
+  }
+ },
+ "title": {
+  "text_color": "#FFFFFF",
+  "font_family": "Arial,Helvetica,sans-serif",
+  "font_size": 15,
+  "font_weight": "bold",
+  "x": 10,
+  "y": 12
+ },
+ "text": {
+  "background_color": "#FFFFFF",
+  "font_family": "Arial,Helvetica,sans-serif",
+  "font_size": 12,
+  "text_color": "#000000",
+  "line_height": 34,
+  "outer_spacing_l": 10,
+  "outer_spacing_r": 10
+ },
+ "input": {
+  "font_family": "Arial,Helvetica,sans-serif",
+  "font_size": 13,
+  "text_color": "#000000",
+  "line_height": 16
+ },
+ "inputradio": {
+  "w": 24,
+  "h": 24,
+  "outer_spacing_t": 5,
+  "outer_spacing_r": 5,
+  "outer_spacing_b": 5,
+  "outer_spacing_l": 5
+ },
+ "button": {
+   "text_color": "#FFFFFF",
+   "text_color_h": "#FFFFFF",
+   "text_color_a": "#FFFFFF",
+   "text_color_d": "#808080",
+   "font_weight": "bold",
+   "font_size": 14,
+   "font_family": "Arial,Helvetica,sans-serif",
+   "src": "s.png",
+   "bg": {
+    "l": {"x": 0, "y": 0, "w": 10},
+    "m": {"id": "sh.png", "x": 0, "y": -490},
+    "r": {"x": -20, "y": 0, "w": 10}
+   },
+   "bg_h": {
+    "l": {"x": -30, "y": 0, "w": 10},
+    "m": {"id": "sh.png", "x": 0, "y": -530},
+    "r": {"x": -50, "y": 0, "w": 10}
+   },
+   "bg_a": {
+    "l": {"x": -60, "y": 0, "w": 10},
+    "m": {"id": "sh.png", "x": 0, "y": -570},
+    "r": {"x": -80, "y": 0, "w": 10}
+   },
+   "bg_d": {
+    "l": {"x": -90, "y": 0, "w": 20},
+    "m": {"id": "sh.png", "x": 0, "y": -610},
+    "r": {"x": -110, "y": 0, "w": 20}
+   },
+   "h": 30,
+   "inner_spacing_r": 5,
+   "outer_spacing_r": 4
+  }
+}

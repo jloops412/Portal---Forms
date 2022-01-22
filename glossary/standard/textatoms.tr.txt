@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	İçeriği paylaş
+SHARE_BY_MAIL	E-posta aracılığıyla paylaş
+URL_OF_CURRENT_PAGE	Geçerli sayfanın URL'si
+TASK	Görev
+GLOSSARY	Sözlük
+CONTEXT_INFO	Bağlam bilgisi
+CONTEXT_ROLES	Roller
+CONTEXT_ROLES_NOROLES	Roller olmadan bağlamı göster
+CONTEXT_MY_ROLES	Rollerim
+CLOSEBUBBLE	Balonu kapat
+MAXBUBBLE	Balonu geri yükle
+MINBUBBLE	Balonu simge durumuna küçült
+VOLUME	Ses seviyesi
+SETTINGS	Ayarlar
+CLOSE_TASK	@{TASK} görevini kapat
+CLOSE	Kapat
+EXIT	Çıkış
+SELECTION	Seçim
+KEYWORD_SEARCH	Anahtar sözcük arama
+SEARCH	Arama
+SEARCH_STRING	Arama dizesi
+KEYWORDS	Anahtar sözcükler
+SEARCH_CLEAR	Arama girişini temizle
+FILTER	Filtre
+RESOURCES	Kaynaklar
+VIEW	Görüntüle
+CANCEL	İptal
+CONTINUING	Devam
+OK	Tamam
+PLAY	Oynat
+PAUSE	Duraklat
+BACK	Geri
+PREVIOUS	Önceki
+NEXT	İleri
+PLAYING	Oynatılıyor
+PAUSED	Duraklat
+USERINPUT	Giriş
+IDLE	""
+START	Sayfa yükleniyor...
+RESTART	Yeniden başlat
+TEXT	Metin
+TITLE	Başlık
+MINIMIZE	Simge durumuna küçült
+RESTORE	Geri yükle
+ACQUIRED_SCORE	Edinilen puan
+TEST_RESULT	Sonuç
+TESTDETAILS	Ayrıntıları göster
+TESTDETAILS1	Ayrıntıları gizle
+PRINT	Sayfayı yazdır
+LESSON	Simülasyon
+OF	/
+DESCRIPTION	Tanım
+FULLSCREEN	Tam ekran
+TOGGLE_TASKINFO	Görev tanımını göster/gizle
+PANEL_VIEWMODE	Panel görüntüleme modu
+PANEL_TOGGLE	Paneli göster/gizle
+PANEL	Kenar çubuğu/tüm içerikler
+BOOKMARK_FAVORITE	Favori
+CONTENT	İçerik/kayıttan yürütme alanı
+TOC	İçerik tablosu
+FAVORITES	Favoriler
+RECENT	Sayma geçmişi
+QRCODE	QR kodu
+QR_URL_TOO_BIG	Url çok büyük. QR kodu oluşturulamıyor.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	Sessiz
+AUDIO_PLAY	Sesi oynat
+AUDIO_PAUSE	Sesi duraklat
+AUDIO_ON	Ses açık
+AUDIO_OFF	Ses kapalı
+CHANNEL_MASTER	Ana
+CHANNEL_BOOKSOUND	Kitap sesi
+CHANNEL_NARRATIVE	Açıklama
+CHANNEL_EFFECTS	Efektler
+LIB_NOMATCH	Eşleşme yok
+LIB_NOFILTER	Filtre yok
+LIBFLAG_NEWWIN	İçeriği yeni pencerede aç
+LIBFLAG_TITLE	Başlık ara
+LIBFLAG_SHORTDESC	Kısa tanım ara
+LIBFLAG_DESC	Tanım ara
+LIBFLAG_KEYW	Anahtar sözcük ara
+LIBFLAG_SLIDES	Kitap sayfası içeriği ara
+GUI_TOP_BAR	Üst çubuk
+GUI_BOTTOM_BAR	Alt çubuk
+ORIENTATION_TOGGLE_TOP	Üst çubuk
+ORIENTATION_TOGGLE_BOTTOM	Alt çubuk
+FEEDBACK	Yazana geri bildirim
+FEEDBACK_TITLE	Geri bildiriminiz
+FEEDBACK_QUESTION	Bu derse ilişkin açıklamalarınız var mı?
+FEEDBACK_MISTAKE	Bir hata keşfettim
+FEEDBACK_COMMENTS	Açıklamalarım, isteklerim var
+FEEDBACK_SEND	Geri bildirim gönder
+SEND_CONTENT	İçeriği paylaş
+SEND_CONTENT_SUBJECT	Önerilen içerik
+SEND_CONTENT_TEMPLATE	Merhaba,\n\nBu içerik sizin için ilginç olabilir. \n\nBaşlık: @{SEND_CAPTION}\nBağlantı: @{SEND_LINK}\n\nSaygılarımızla\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Hata oluştu. Yöneticinizle irtibata geçin.
+ERROR_GENERAL	Dahili hata.
+ERROR_1	Açılır pencere engelleyicisi simülasyonun oynatılmasını engellemektedir.
+ERROR_1.h	Açılır pencere engelleyicisi yeni bir tarayıcı penceresinin açılmasını engelledi. Açılır pencere engelleyicisini kapat veya bu etki alanı için devre dışı bırak.
+ERROR_2	Gerekli konfigürasyon dosyası yüklenemedi.
+ERROR_2.h	@{LESSONPLAYER}, uygun işlevsellik için gerekli olan konfigürasyon dosyasını yükleyemedi. 
+SCORM_LOCATION_ERROR	İlerlemeniz LMS sisteminizin eksik bir işlevselliği nedeniyle kaydedilemedi.
+RESTART_COMPLETED_LMS_LESSON	Zaten tamamlanmış veya başarıyla geçilmiş bir simülasyonu başlatıyorsunuz. Bu işlem şimdiye kadar aldığınız tüm puanları sıfırlayacak ve tamamlandı veya geçti işaretini geri alacak. Yeniden başlatılsın mı?
+RESTART_Av_LMS_LESSON	Zaten tamamlanmış veya başarıyla geçilmiş bir simülasyonu başlatıyorsunuz. Bu işlem şimdiye kadar aldığınız tüm puanları sıfırlayacak ve tamamlandı veya geçti işaretini geri alacak. Yeniden başlatmak için 'Tamam' veya kapatmak için 'İptal'e tıkla?
+BOOK_NEXT_CHAPTER	Sonraki bölüm
+BOOK_PREV_CHAPTER	Önceki bölüm
+BOOK_NEXT_PAGE	Sonraki sayfa
+BOOK_PREV_PAGE	Önceki sayfa
+BOOK_INDEX_PAGE	Başlangıç sayfası
+SLIDE_MOREINFO	Daha fazla bilgi
+SLIDE_TIPS	İpuçları
+SLIDE_ATTACH	Ekler
+SLIDE_SHOWATTACH	Ekleri göster
+SLIDE_OPEN	Aç
+SLIDE_ADD	Ekle
+SLIDE_EDIT	Düzenle
+SLIDE_DELETE	Sil
+SLIDE_BUTTONAREA	Kayıttan yürütme çubuğu
+HELP	Yardım
+HELP_REGION_BAR	Kısayollar: Oynatıcı çubuğuna odaklamak için basın
+HELP_REGION_PANEL	Kenar çubuğuna odaklamak için basın
+HELP_REGION_CONTENT	İçeriğe odaklamak için basın
+HELP_LIBRARY	@{LIBRARY} yardımını göster
+HELP_TRAINER	@{LESSONPLAYER} yardımını göster
+HELP_BOOK	@{BOOKPLAYER} yardımını göster
+DEMO_START	Demo modu
+DEMO_START1	Demo modunda uygulamada yürütülen bir aktiviteyi gözlemleyebilirsiniz. Yalnızca simülasyonu takip edin; tüm adımlar otomatik olarak yürütülecek.
+DEMO_START2	Demoyu duraklatmak veya durdurmak için ekranın alt tarafında yer alan gezinme çubuğunu kullanabilirsiniz. Ayrıca sonraki veya önceki adıma atlayabilirsiniz.
+DEMO_STOP	Demo modu sonlandırıldı.
+CONCURRENT_START	Eşzamanlı mod
+CONCURRENT_START1	Eşzamanlı mod size uygulamada bir görevi adım adım nasıl yürüteceğinizi gösterir.
+CONCURRENT_START2	Simülasyon, size adımı gerçek uygulamada tamamlama imkanını vermek için her adımdan sonra yarıda kesilir.
+CONCURRENT_STOP	Eşzamanlı mod sonlandırıldı.
+PRACTICE_START	Alıştırma modu
+PRACTICE_START1	Alıştırma modunda uygulamadaki görevi kendi kendinize çözerek öğrendiklerinizi deneyebilirsiniz.
+PRACTICE_START2	Sadece adım adım talimatları takip edin.
+PRACTICE_STOP	Alıştırma modu sonlandırıldı.
+TEST_START	Test modu
+TEST_START1	Test modunda uygulamadaki bir görevi çözerek bilginizi kendi kendinize test edebilirsiniz. Girmeniz gereken örnek verilerden ayrı olarak adım adım talimatlar almayacaksınız. Görevin tamamı başlık çubuğundaki düğmeleri kullanarak büyütüp simge durumuna küçültebileceğiniz görev penceresinde tarif edilmiştir.
+TEST_START2	Testin sonunda başarıyla tamamlanan adım sayısına göre puan alacaksınız. Bu puanlama görev alanına ilişkin kendi kendini değerlendirme içindir.
+TEST_START3	Sistem yanlış yazılmış girişleri ve yanlış tıklamaları kaydettiğinden ve buna göre puanınızı düşürdüğünden işlemlerinizi çok dikkatlice yapın. Adımı tamamlamak için sistemden yardım almaya karar verirseniz bu adıma özgü puanınız sıfırlanacaktır.
+TEST_START4	Toplam puanınız testin sonunda görüntülenecektir. %@{res_mastery_percent} hedef puanına ulaşmaya çalışın.
+TEST_OK	Test başarılı
+TEST_OK1	Tebrikler, bu görevi başarıyla tamamladınız.
+TEST_FAILED	Test başarısız
+TEST_FAILED1	Alınabilecek azami puanın %@{res_mastery_percent} daha az puan aldığınızdan dolayı bu eğitim kursunun kapsadığı içeriği tekrar gözden geçirmenizi ve bilginizi test modunda test etmenizi öneririz.
+TEST_FINISHED	Bu test yalnızca kendinizi değerlendirmeniz içindi. Sonuçlar kaydedilmeyecek veya üçüncü kişilere aktarılmayacak.
+TEST_SCORE	Puan
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	Serbest sunum modu
+FREEPRESENTATION_START1	Serbest sunum modu, simülasyonda bir süreç yürütmenize izin verir.
+FREEPRESENTATION_START2	İşlemleri adım adım yürütün. Yardım almak için F1 tuşunu kullanın.
+FREEPRESENTATION_STOP	Serbest sunum sonlandı.
+GUIDEDPRESENTATION_START	Destekli sunum modu
+GUIDEDPRESENTATION_START1	Destekli sunum modu, simülasyon içinde otomatik olarak bir süreç yürütür.  Fare imleci ve vurgu geçerli adımı görüntüler.
+GUIDEDPRESENTATION_START2	İşlemleri adım adım izleyin ve her işlemi teyit edin.
+GUIDEDPRESENTATION_STOP	Destekli sunum sonlandı.
+EXER_FAIL1	Yürüttüğünüz eylem yanlıştı.
+EXER_FAIL2	Yürüttüğünüz işlem yanlıştı. Toplam puanınızdan 1 puan düşürülecek. Bu işlem için kalan puan: @1_rest-points_.
+EXER_FAIL3	Yürüttüğünüz işlem yanlıştı. Her hata için toplam puanınızdan 1 puan düşürülecek. Bu işlem için kalan puan: @1_rest-points_.
+EXER_FAILKEY1	@1_key_ tuşuna bastınız.
+EXER_FAILKEY2	Kullanılabilen işlev tuşları: @1_keys_.
+EXER_FAILRADIO	Tüm geçerli düğmeler vurgulanmıştır.
+EXER_FAILINPUT	Tüm geçerli metin alanları vurgulanmıştır.
+EXER_FAILSELECT	Tüm geçerli seçim kutuları vurgulanmıştır.
+EXER_FAILDRAG	Geçersiz @1_keys_ sürükleme işlemi yürüttünüz.
+EXER_FAILDRAG1	Vurgulu alan içinde @1_keys_ sürükleme işlemi yürütün.
+EXER_FAILDROP	Geçersiz @1_keys_ bırakma işlemi yürüttünüz.
+EXER_FAILDROP1	Vurgulu alan içinde @1_keys_ bırakma işlemi yürütün.
+EXER_FAILDBLCLICK	Geçersiz @1_keys_ çift tıklama yürüttünüz.
+EXER_FAILDBLCLICK1	Vurgulu alan içinde @1_keys_ çift tıklama yürütün.
+EXER_FAILCLICK	@1_keys_ geçersiz bir alana tıkladınız.
+EXER_FAILCLICK1	Tüm geçerli alanlar vurgulanmıştır.
+EXER_FAILCLICK2	Geçersiz @1_keys_ tıklama yürüttünüz.
+EXER_FAILCLICK3	Vurgulu alan içinde @1_keys_ tıklama yürütün.
+EXER_FAILENTER	Geçersiz @1_keys_ mouseover yürüttünüz.
+EXER_FAILENTER1	Vurgulu alan içinde @1_keys_ mouseover yürütün.
+EXER_FAILMCLICK	@1_keys_ orta tıklamaya izin verilmemektedir.
+EXER_WOULDGOON	(Not: Aksi halde otomatik olarak devam edilir)
+EXER_YOURINPUT	"@1_input_" girdiniz.
+EXER_TEXTINPUT	 "@2" giriş alanına "@1" girin!
+EXER_SELECT	"@1" girişini seçin!
+EXER_GOON	Sonraki adıma geç
+EXER_SHOWHELP	Evet, yardımı göster
+EXER_TRYAGAIN	Yeniden dene
+EXER_ASK4HELP	Yardım gerekiyor mu?
+EXER_ONLY_VALID	İzin verilen eylemler:
+EXER_FORM_PREFIX	Şu değerlerde giriş yapın:
+EXER_OR	veya
+EXER_AND	ve
+SCORE	Puanlar
+SCORE_REDUCED	Bu adım için olanaklı puanlar şuna düşürüldü
+TOUR_START	Simülasyon başlangıcı
+TOUR_STOP	Simülasyon iptali
+TOUR_END	Simülasyon bitişi
+TOUR_PLAY	Devam düğmesi
+TOUR_JUMP	Simülasyon içinde başka bir adıma atlandı.
+TOUR_PREV	Geri
+TOUR_NEXT	İleri
+USER_ACTION_CORRECT_ACTION	Öğrenen, adımı başarıyla uyguladı.
+USER_ACTION_WRONG_ACTION	Öğrenen bir hata yaptı.
+USER_ACTION_GOON	Öğrenen "Devam"ı tıkladı, bu adım için puan yok.
+USER_ACTION_GOON_AUTO	Hata sayısı nedeniyle, simülasyon otomatik devam etti.
+USER_ACTION_HELP	Öğrenen yardım istedi, bu adım için puan yok.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Öğrenen, metin kutusunu açtı.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Öğrenen, metin kutusunu kapattı.
+QUIZ_CORRECT_RESPONSE	Doğru yanıt
+QUIZ_STUDENT_RESPONSE	Öğrenenin cevabı
+QUIZ_LATENCY	Zaman
+QUIZ_SCORE	Edinilen puan
+QUIZ_REQ_SCORE	Gereken puan
+QUIZ_MAX_SCORE	Maksimum puan
+QUIZ_TIMEOUT_REACHED	Zaman aşımına ulaşıldı
+QUIZTYPE_MCHOICE	Sınav: Çoklu seçim
+QUIZTYPE_SQMAQUIZ	Sınav: Alanları doldurma
+QUIZTYPE_FIBQUIZ	Sınav: Boşlukları doldurma
+QUIZTYPE_MATCHQUIZ	Sınav: Eşleştirme
+QUIZTYPE_CONNQUIZ	Sınav: Bağlantı
+QUIZTYPE_SCALEQUIZ	Sınav: Kaydırma denetimi
+QUIZTYPE_GRIDQUIZ	Sınav: Izgara
+QUIZTYPE_HOTSPOTQUIZ	Sınav: Etkin nokta
+QUIZTYPE_PUZZLEQUIZ	Sınav: Bulmaca
+QUIZTYPE_MIXQUIZ	Sınav: Sıralama
+CONNECTING	Bağlanıyor...
+SYNCHRONIZE	Senkronize et
+SYNCHRONIZED	Senkronize edildi
+CONNECT	Bağlan
+BUBBLESTYLE_NOT_FOUND	Balon stili bulunamadı.
+LOADING_MACROSET	Yükleme içeriği ve kaynakları.
+ZOOM_LEVEL_NOTIFICATION	Uyarı: Zoom düzeyiniz 100'den farklı%.
+ctx_html.header_title	Bağlam yardımı
+ctx_html.introtext	Aşağıdaki yardım içerikleri geçerli bağlam için kullanılır. Başlatmak istediğiniz öğeye tıklayın.
+ctx_html.introtext_noresult	Geçerli bağlam için içerik mevcut değil. Başlıktan library açın veya daha geniş içerik için aramayı kullanın.
+ctx_html.query_empty	Sorgu boş.
+ctx_html.query_malformed	Sorgu geçersiz.
+ctx_html.search	Ara
+ctx_html.library	library aç
+ctx_html.language	Dil
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Kayıt
+qr_hint_dlg.dont_bother	Artık gösterme
+qr_hint_dlg.hint_end	Kaydı sonlandırın.
+qr_hint_dlg.hint_pause	Kaydı duraklatın.
+btnOk	Teşekkürler
+qr_hint_dlg.hint_title	Kayıt ipuçları
+qr_hint_dlg.audio_help	Denetim seçmeden önce metninizi kaydedin.
+quiz_error_no_template_file	Hata: Şablon bulunamadı. Varsayılan kullanılacak.
+qr_hint_dlg.hint_end_1	END tuşu
+qr_hint_dlg.hint_pause_1	PAUSE tuşu

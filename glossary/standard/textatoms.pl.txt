@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Udostępnianie zawartości
+SHARE_BY_MAIL	Udostępnianie przez e-mail
+URL_OF_CURRENT_PAGE	URL bieżącej strony
+TASK	Zadanie
+GLOSSARY	Słownik
+CONTEXT_INFO	Informacja kontekstowa
+CONTEXT_ROLES	Role
+CONTEXT_ROLES_NOROLES	Wyświetlanie kontekstów bez ról
+CONTEXT_MY_ROLES	Moje role
+CLOSEBUBBLE	Zamykanie dymku
+MAXBUBBLE	Przywracanie dymku
+MINBUBBLE	Minimalizacja dymku
+VOLUME	Głośność
+SETTINGS	Ustawienia
+CLOSE_TASK	Zamykanie @{TASK}
+CLOSE	Zamykanie
+EXIT	Zakończenie
+SELECTION	Wybór
+KEYWORD_SEARCH	Wyszukiwanie słów kluczowych
+SEARCH	Szukanie
+SEARCH_STRING	Szukany ciąg znaków
+KEYWORDS	Słowa kluczowe
+SEARCH_CLEAR	Czyszczenie danych wejściowych wyszukiwania
+FILTER	Filtr
+RESOURCES	Zasoby
+VIEW	Wgląd
+CANCEL	Zaniechanie
+CONTINUING	Kontynuacja
+OK	OK
+PLAY	Odtwarzanie
+PAUSE	Przerwa
+BACK	Powrót
+PREVIOUS	Poprzednie
+NEXT	Kontynuacja
+PLAYING	Odtwarzanie
+PAUSED	Przerwa
+USERINPUT	Wprowadzanie
+IDLE	""
+START	Ładowanie strony...
+RESTART	Ponowne uruchomienie
+TEXT	Tekst
+TITLE	Tytuł
+MINIMIZE	Minimalizacja
+RESTORE	Przywracanie
+ACQUIRED_SCORE	Uzyskana liczba punktów
+TEST_RESULT	Wynik
+TESTDETAILS	Wyświetlanie szczegółów
+TESTDETAILS1	Ukrywanie szczegółów
+PRINT	Strona wydruku
+LESSON	Symulacja
+OF	Wył.
+DESCRIPTION	Opis
+FULLSCREEN	Pełny ekran
+TOGGLE_TASKINFO	Wyświetlanie/ukrywanie opisu zadania
+PANEL_VIEWMODE	Tryb wyświetlania panelu
+PANEL_TOGGLE	Wyświetlanie/ukrywanie panelu
+PANEL	Pasek boczny/cała zawartość
+BOOKMARK_FAVORITE	Ulubione
+CONTENT	Obszar zawartości/odtwarzania
+TOC	Spis treści
+FAVORITES	Ulubione
+RECENT	Historia strony
+QRCODE	Kod QR
+QR_URL_TOO_BIG	URL jest za duży. Nie można wygenerować kodu QR.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	Wyciszenie audio
+AUDIO_PLAY	Odtwarzanie audio
+AUDIO_PAUSE	Wstrzymanie audio
+AUDIO_ON	Audio włączone
+AUDIO_OFF	Audio wyłączone
+CHANNEL_MASTER	Główne
+CHANNEL_BOOKSOUND	Dźwięk księgi
+CHANNEL_NARRATIVE	Opisowe
+CHANNEL_EFFECTS	Efekty
+LIB_NOMATCH	Brak wystąpień
+LIB_NOFILTER	Brak filtra
+LIBFLAG_NEWWIN	Otwieranie zawartości w nowym oknie
+LIBFLAG_TITLE	Wyszukiwanie tytułu
+LIBFLAG_SHORTDESC	Wyszukiwanie krótkiego opisu
+LIBFLAG_DESC	Wyszukiwanie opisu
+LIBFLAG_KEYW	Wyszukiwanie słów kluczowych
+LIBFLAG_SLIDES	Wyszukiwanie zawartości strony księgi
+GUI_TOP_BAR	Pasek górny
+GUI_BOTTOM_BAR	Pasek dolny
+ORIENTATION_TOGGLE_TOP	Pasek górny
+ORIENTATION_TOGGLE_BOTTOM	Pasek dolny
+FEEDBACK	Informacja zwrotna do autora
+FEEDBACK_TITLE	Informacja zwrotna użytkownika
+FEEDBACK_QUESTION	Czy użytkownik ma komentarze dot. tej symulacji?
+FEEDBACK_MISTAKE	Użytkownik odkrył błąd
+FEEDBACK_COMMENTS	Użytkownik ma komentarze, życzenia
+FEEDBACK_SEND	Wysyłanie informacji zwrotnej
+SEND_CONTENT	Udostępnianie zawartości
+SEND_CONTENT_SUBJECT	Zalecana zawartość
+SEND_CONTENT_TEMPLATE	Witamy,\n\nTa zawartość może być ciekawa. \n\nPodpis: Odsyłacz @{SEND_CAPTION}\n: @{SEND_LINK}\n\nZ pozdrowieniami\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Wystąpił błąd. Skontaktuj się z administratorem.
+ERROR_GENERAL	Błąd wewnętrzny.
+ERROR_1	Program blokady wyskakujących okienek uniemożliwia odtworzenie symulacji.
+ERROR_1.h	Program blokady wyskakujących okienek nie zezwolił na otwarcie nowego okna przeglądarki. Proszę zamknąć program blokady wyskakujących okienek lub wyłączyć go dla tej domeny.
+ERROR_2	Nie można było wczytać wymaganego pliku konfiguracji.
+ERROR_2.h	@{LESSONPLAYER} nie mógł wczytać pliku konfiguracji wymaganego dla odpowiedniej funkcjonalności.
+SCORM_LOCATION_ERROR	Nie można było zapisać postępu użytkownika z powodu braku funkcji w systemie LMS.
+RESTART_COMPLETED_LMS_LESSON	Użytkownik ma zamiar uruchomić symulację, która została już zakończona lub zaliczona. To spowoduje ponowne ustawienie na 0 wszystkich dotychczas zdobytych punktów i usunięcie znacznika Zakończone lub Zaliczone. Czy na pewno uruchomić ponownie?
+RESTART_Av_LMS_LESSON	Użytkownik ma zamiar uruchomić symulację, która została już zakończona lub zaliczona. To spowoduje ponowne ustawienie na 0 wszystkich dotychczas zdobytych punktów i usunięcie znacznika Zakończone lub Zaliczone. Proszę kliknąć opcję 'OK', aby uruchomić ponownie lub 'Anulowanie, aby zamknąć.
+BOOK_NEXT_CHAPTER	Następny rozdział
+BOOK_PREV_CHAPTER	Poprzedni rozdział
+BOOK_NEXT_PAGE	Następna strona
+BOOK_PREV_PAGE	Poprzednia strona
+BOOK_INDEX_PAGE	Strona początkowa
+SLIDE_MOREINFO	Więcej informacji
+SLIDE_TIPS	Wskazówki
+SLIDE_ATTACH	Załączniki
+SLIDE_SHOWATTACH	Wyświetlanie załączników
+SLIDE_OPEN	Otwieranie
+SLIDE_ADD	Dodawanie
+SLIDE_EDIT	Edycja
+SLIDE_DELETE	Usuwanie
+SLIDE_BUTTONAREA	Pasek odtwarzania
+HELP	Pomoc
+HELP_REGION_BAR	Skróty: Proszę nacisnąć, aby ustawić fokus dla paska odtwarzacza
+HELP_REGION_PANEL	Proszę nacisnąć, aby ustawić fokus dla paska bocznego
+HELP_REGION_CONTENT	Proszę nacisnąć, aby ustawić fokus dla zawartości
+HELP_LIBRARY	Wyświetlanie pomocy @{LIBRARY}
+HELP_TRAINER	Wyświetlanie pomocy @{LESSONPLAYER}
+HELP_BOOK	Wyświetlanie pomocy @{BOOKPLAYER}
+DEMO_START	Tryb demonstracyjny
+DEMO_START1	W trybie demonstracyjnym można obserwować czynność wykonywaną w obrębie aplikacji. Proszę postępować zgodnie z symulacją; wszystkie kroki zostaną wykonane automatycznie.
+DEMO_START2	Za pomocą paska nawigacji w dolnej części ekranu można wstrzymywać lub zatrzymywać wersję demonstracyjną. Można także przejść do następnego lub poprzedniego kroku.
+DEMO_STOP	Tryb demonstracyjny zakończony.
+CONCURRENT_START	Tryb równoczesny
+CONCURRENT_START1	W trybie równoczesnym wyświetlany jest krok po kroku sposób wykonania zadania w obrębie aplikacji.
+CONCURRENT_START2	Symulacja przerywana jest po każdym kroku, aby umożliwić użytkownikowi wykonanie danego kroku w aplikacji.
+CONCURRENT_STOP	Tryb równoczesny zakończony.
+PRACTICE_START	Tryb ćwiczeń
+PRACTICE_START1	W trybie ćwiczeń można wypróbować zdobytą wiedzę, wykonując samodzielnie zadanie w obrębie aplikacji.
+PRACTICE_START2	Proszę postępować krok po kroku według instrukcji.
+PRACTICE_STOP	Tryb ćwiczeń zakończony.
+TEST_START	Tryb testowy
+TEST_START1	W trybie testowym można testować swoją wiedzę, samodzielnie rozwiązując zadanie w aplikacji: Poza przykładowymi danymi, które należy wprowadzić, użytkownik nie otrzyma instrukcji jak postępować krok po kroku. Całe zadanie opisano w oknie zadania, które w zależności od potrzeb można powiększać lub minimalizować za pomocą przycisków na pasku tytułu.
+TEST_START2	Na koniec testu użytkownik otrzyma punkty na podstawie liczby prawidłowo ukończonych kroków. Ten wynik służy samoocenie w zakresie danego zadania.
+TEST_START3	Proszę starannie wykonywać czynności, ponieważ system rejestruje wszystkie błędy w pisowni i nieprawidłowe kliknięcia oraz odpowiednio obniża wynik. Jeśli użytkownik zdecyduje się na pomoc systemu, aby ukończyć krok, wynik za poszczególny krok zostanie ustawiony na zero.
+TEST_START4	Łączny wynik zostanie wyświetlony po ukończeniu testu. Proszę spróbować osiągnąć wynik docelowy @{res_mastery_percent}%.
+TEST_OK	Test zaliczony.
+TEST_OK1	Gratulujemy pomyślnego ukończenia zadania.
+TEST_FAILED	Test niezaliczony.
+TEST_FAILED1	Ponieważ użytkownik uzyskał mniej niż @{res_mastery_percent}% maksymalnej możliwej liczby punktów, zaleca się ponowne przejrzenie zawartości tego szkolenia, a następnie ponownie przetestować wiedzę w trybie testowym.
+TEST_FINISHED	Ten test służył wyłącznie samoocenie. Wyniki nie zostaną zapisane ani przekazane stronom trzecim.
+TEST_SCORE	Liczba punktów
+TEST_SCOREVALUE	@{res_collected_points} z @{res_possible_points}
+FREEPRESENTATION_START	Tryb wolnej prezentacji
+FREEPRESENTATION_START1	Tryb wolnej prezentacji umożliwia wykonanie procesu w ramach symulacji.
+FREEPRESENTATION_START2	Proszę wykonać czynności krok po kroku. Proszę użyć kl. F1, aby uzyskać pomoc.
+FREEPRESENTATION_STOP	Wolna prezentacja zakończona.
+GUIDEDPRESENTATION_START	Tryb wspomaganej prezentacji
+GUIDEDPRESENTATION_START1	Tryb Wspomagana prezentacja automatycznie wykonuje proces w ramach symulacji. Wskaźnik myszy oraz podświetlenie wskazują bieżący krok.
+GUIDEDPRESENTATION_START2	Proszę wykonać czynności krok po kroku i potwierdzić każdą z nich.
+GUIDEDPRESENTATION_STOP	Prezentacja wspomagana zakończona.
+EXER_FAIL1	Wykonana czynność jest nieprawidłowa.
+EXER_FAIL2	Wykonana czynność jest nieprawidłowa. Od ogólnego wyniku odejmowany jest 1 punkt. Liczba punktów pozostałych dla tej czynności: @1_rest-points_.
+EXER_FAIL3	Wykonana czynność jest nieprawidłowa. Za każdy błąd od ogólnego wyniku odejmowany jest 1 punkt. Liczba punktów pozostałych dla tej czynności: @1_rest-points_.
+EXER_FAILKEY1	Użytkownik nacisnął nieprawidłowy klawisz @1_key_.
+EXER_FAILKEY2	Klawisze funkcyjne możliwe do użycia w tym miejscu: @1_keys_.
+EXER_FAILRADIO	Wszystkie prawidłowe przyciski są podświetlone.
+EXER_FAILINPUT	Wszystkie prawidłowe obszary tekstowe są podświetlone.
+EXER_FAILSELECT	Wszystkie prawidłowe pola wyboru są podświetlone.
+EXER_FAILDRAG	Użytkownik wykonał nieprawidłową czynność przeciągania @1_keys_.
+EXER_FAILDRAG1	Proszę wykonać czynność przeciągania @1_keys_ w podświetlonym obszarze.
+EXER_FAILDROP	Użytkownik wykonał nieprawidłową czynność upuszczania @1_keys_.
+EXER_FAILDROP1	Proszę wykonać czynność upuszczania @1_keys_ w podświetlonym obszarze.
+EXER_FAILDBLCLICK	Użytkownik wykonał nieprawidłowe dwukrotne kliknięcie @1_keys_.
+EXER_FAILDBLCLICK1	Proszę dwukrotnie kliknąć @1_keys_ w podświetlonym obszarze.
+EXER_FAILCLICK	Użytkownik @1_keys_ kliknął nieprawidłowy obszar.
+EXER_FAILCLICK1	Wszystkie prawidłowe obszary są podświetlone.
+EXER_FAILCLICK2	Użytkownik wykonał nieprawidłowe kliknięcie @1_keys_.
+EXER_FAILCLICK3	Proszę kliknąć @1_keys_ w podświetlonym obszarze.
+EXER_FAILENTER	Użytkownik wykonał nieprawidłową czynność mouseover @1_keys_.
+EXER_FAILENTER1	Proszę wykonać czynność mouseover @1_keys_ w podświetlonym obszarze.
+EXER_FAILMCLICK	Kliknięcie środkowym przyciskiem myszy @1_keys_ jest niedozwolone.
+EXER_WOULDGOON	(Uwaga: W przeciwnym razie nastąpi automatyczna kontynuacja)
+EXER_YOURINPUT	Wpis użytkownika: "@1_input_".
+EXER_TEXTINPUT	Proszę wprowadzić "@1" w polu wprowadzania "@2"!
+EXER_SELECT	Proszę wybrać wpis "@1"!
+EXER_GOON	Skok do następnego kroku
+EXER_SHOWHELP	Tak, proszę wyświetlić pomoc
+EXER_TRYAGAIN	Proszę spróbować ponownie
+EXER_ASK4HELP	Czy jest potrzebna pomoc?
+EXER_ONLY_VALID	Dozwolone czynności:
+EXER_FORM_PREFIX	Proszę wprowadzić następujące wartości:
+EXER_OR	lub
+EXER_AND	oraz
+SCORE	Punkty
+SCORE_REDUCED	Liczbę możliwych punktów za ten krok zredukowano do
+TOUR_START	Rozpoczęcie symulacji
+TOUR_STOP	Przerwanie symulacji
+TOUR_END	Zakończenie symulacji
+TOUR_PLAY	Przycisk Kontynuacja
+TOUR_JUMP	Wykonano skok do innego kroku w ramach symulacji.
+TOUR_PREV	Powrót
+TOUR_NEXT	Kontynuacja
+USER_ACTION_CORRECT_ACTION	Uczestnik szkolenia pomyślnie wykonał krok.
+USER_ACTION_WRONG_ACTION	Uczestnik szkolenia popełnił błąd.
+USER_ACTION_GOON	Uczestnik szkolenia kliknął "kontynuacja", brak punktów za ten krok.
+USER_ACTION_GOON_AUTO	Z powodu liczby błędów symulacja była kontynuowana automatycznie.
+USER_ACTION_HELP	Uczestnik szkolenia poprosił o pomoc, brak punktów za ten krok.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Uczestnik szkolenia otworzył pole tekstowe.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Uczestnik szkolenia zamknął pole tekstowe.
+QUIZ_CORRECT_RESPONSE	Prawidłowa odpowiedź
+QUIZ_STUDENT_RESPONSE	Odpowiedź uczestnika szkolenia
+QUIZ_LATENCY	Czas
+QUIZ_SCORE	Uzyskana liczba punktów
+QUIZ_REQ_SCORE	Wymagana liczba punktów
+QUIZ_MAX_SCORE	Maksymalna liczba punktów
+QUIZ_TIMEOUT_REACHED	Osiągnięto limit czasu
+QUIZTYPE_MCHOICE	Quiz: Test wielokrotnego wyboru
+QUIZTYPE_SQMAQUIZ	Quiz: Wypełnianie pól
+QUIZTYPE_FIBQUIZ	Quiz: Wypełnianie luk
+QUIZTYPE_MATCHQUIZ	Quiz: Przyporządkowywanie
+QUIZTYPE_CONNQUIZ	Quiz: Połączenie
+QUIZTYPE_SCALEQUIZ	Quiz: Sterowanie suwakiem
+QUIZTYPE_GRIDQUIZ	Quiz: Siatka
+QUIZTYPE_HOTSPOTQUIZ	Quiz: Aktywny punkt
+QUIZTYPE_PUZZLEQUIZ	Quiz: Układanka
+QUIZTYPE_MIXQUIZ	Quiz: Sortowanie
+CONNECTING	Łączenie...
+SYNCHRONIZE	Synchronizacja
+SYNCHRONIZED	Zsynchronizowano
+CONNECT	Połączenie
+BUBBLESTYLE_NOT_FOUND	Nie znaleziono stylu dymku.
+LOADING_MACROSET	Wczytywanie zawartości i zasobów.
+ZOOM_LEVEL_NOTIFICATION	Ostrzeżenie: Poziom powiększenia jest inny niż 100%.
+ctx_html.header_title	Pomoc kontekstowa
+ctx_html.introtext	Dla bieżącego kontekstu dostępna jest następująca zawartość pomocy. Proszę kliknąć na pozycję, która ma zostać uruchomiona.
+ctx_html.introtext_noresult	Brak dost. zawart. dla aktual. kontekstu. Aby pobrać kolejną zawart., proszę otworzyć bibl. z nagłówka lub użyć wyszuk.
+ctx_html.query_empty	Zapytanie jest puste.
+ctx_html.query_malformed	zapytanie jest nieprawidłowe.
+ctx_html.search	Szukanie
+ctx_html.library	Otwieranie biblioteki
+ctx_html.language	Język
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Zapis
+qr_hint_dlg.dont_bother	Bez ponownego wyświetlania
+qr_hint_dlg.hint_end	Zakończenie zapisu.
+qr_hint_dlg.hint_pause	Wstrzymanie zapisu.
+btnOk	Dziękujemy
+qr_hint_dlg.hint_title	Wskazówki dot. zapisu
+qr_hint_dlg.audio_help	Proszę zapisać swój tekst przed wyborem kontroli.
+quiz_error_no_template_file	Błąd: Nie znaleziono pliku szablonu. Zostanie użyty domyślny.
+qr_hint_dlg.hint_end_1	Klawisz END
+qr_hint_dlg.hint_pause_1	Klawisz PAUSE

@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	共享內容
+SHARE_BY_MAIL	透過電子郵件共享
+URL_OF_CURRENT_PAGE	目前頁面的 URL
+TASK	工作細項
+GLOSSARY	辭彙說明
+CONTEXT_INFO	內容資訊
+CONTEXT_ROLES	角色
+CONTEXT_ROLES_NOROLES	顯示內容 (無角色)
+CONTEXT_MY_ROLES	我的角色
+CLOSEBUBBLE	關閉氣泡框
+MAXBUBBLE	還原氣泡框
+MINBUBBLE	最小化氣泡框
+VOLUME	音量
+SETTINGS	設定
+CLOSE_TASK	關閉 @{TASK}
+CLOSE	關閉
+EXIT	跳出
+SELECTION	選擇
+KEYWORD_SEARCH	關鍵字搜尋
+SEARCH	搜尋
+SEARCH_STRING	搜尋字串
+KEYWORDS	關鍵字
+SEARCH_CLEAR	清除搜尋輸入
+FILTER	篩選
+RESOURCES	資源
+VIEW	檢視
+CANCEL	取消
+CONTINUING	繼續
+OK	確定
+PLAY	播放
+PAUSE	暫停
+BACK	返回
+PREVIOUS	上一頁
+NEXT	下一步
+PLAYING	播放中
+PAUSED	暫停
+USERINPUT	輸入
+IDLE	""
+START	網頁載入中...
+RESTART	重新啟動
+TEXT	內文
+TITLE	標題
+MINIMIZE	最小化
+RESTORE	回存
+ACQUIRED_SCORE	取得分數
+TEST_RESULT	結果
+TESTDETAILS	顯示明細
+TESTDETAILS1	隱藏明細
+PRINT	列印頁面
+LESSON	模擬
+OF	/
+DESCRIPTION	說明
+FULLSCREEN	全畫面
+TOGGLE_TASKINFO	顯示/隱藏工作細項說明
+PANEL_VIEWMODE	面板顯示模式
+PANEL_TOGGLE	顯示/隱藏面板
+PANEL	側邊列/所有內容
+BOOKMARK_FAVORITE	最愛
+CONTENT	內容/錄放區域
+TOC	目錄
+FAVORITES	最愛
+RECENT	頁面歷史記錄
+QRCODE	QR 代碼
+QR_URL_TOO_BIG	URL 過大。無法產生 QR 代碼。
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	靜音
+AUDIO_PLAY	播放音訊
+AUDIO_PAUSE	暫停音訊
+AUDIO_ON	開啟音訊
+AUDIO_OFF	關閉音訊
+CHANNEL_MASTER	主要
+CHANNEL_BOOKSOUND	電子書音效
+CHANNEL_NARRATIVE	敘述
+CHANNEL_EFFECTS	效果
+LIB_NOMATCH	無符合
+LIB_NOFILTER	未篩選
+LIBFLAG_NEWWIN	於新視窗中開啟內容
+LIBFLAG_TITLE	搜尋標題
+LIBFLAG_SHORTDESC	搜尋簡短說明
+LIBFLAG_DESC	搜尋說明
+LIBFLAG_KEYW	搜尋關鍵字
+LIBFLAG_SLIDES	搜尋電子書頁面內容
+GUI_TOP_BAR	頂列
+GUI_BOTTOM_BAR	底列
+ORIENTATION_TOGGLE_TOP	頂列
+ORIENTATION_TOGGLE_BOTTOM	底列
+FEEDBACK	提供給作者的反饋
+FEEDBACK_TITLE	您的反饋
+FEEDBACK_QUESTION	您對此模擬有任何意見嗎？
+FEEDBACK_MISTAKE	我已發現錯誤
+FEEDBACK_COMMENTS	我有想法和請求
+FEEDBACK_SEND	傳送反饋
+SEND_CONTENT	共享內容
+SEND_CONTENT_SUBJECT	建議的內容
+SEND_CONTENT_TEMPLATE	您好，\n\n您或許會對此內容有興趣。\n\n標題：@{SEND_CAPTION}\n連結：@{SEND_LINK}\n\n順頌商祺\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	發生錯誤。請聯絡您的管理員。
+ERROR_GENERAL	發生內部錯誤
+ERROR_1	蹦現畫面封鎖程式正在阻擋播放模擬
+ERROR_1.h	蹦現畫面封鎖程式已阻擋新的瀏覽器視窗開啟。請關閉蹦現畫面封鎖程式或針對此網域關閉封鎖程式。
+ERROR_2	無法載入必要組態檔案
+ERROR_2.h	@{LESSONPLAYER} 無法載入正常運作所需的組態檔案。
+SCORM_LOCATION_ERROR	由於缺少 LMS 系統功能，因此無法儲存您的進度。
+RESTART_COMPLETED_LMS_LESSON	您正在啟動已完成或成功通過的模擬，這會將之前的所有得分重設為零且取消設定已完成或通過的旗標。您確定要重新啟動嗎？
+RESTART_Av_LMS_LESSON	您正在啟動已完成或成功通過的模擬，這會將之前的所有得分重設為零且取消設定已完成或通過的旗標。您要按一下 [確定] 重新啟動，或按一下 [取消] 關閉？
+BOOK_NEXT_CHAPTER	下一章
+BOOK_PREV_CHAPTER	上一章
+BOOK_NEXT_PAGE	下一頁
+BOOK_PREV_PAGE	上一頁
+BOOK_INDEX_PAGE	起始頁
+SLIDE_MOREINFO	更多資訊
+SLIDE_TIPS	秘訣
+SLIDE_ATTACH	附件
+SLIDE_SHOWATTACH	顯示附件
+SLIDE_OPEN	開啟
+SLIDE_ADD	新增
+SLIDE_EDIT	編輯
+SLIDE_DELETE	刪除
+SLIDE_BUTTONAREA	錄放列
+HELP	輔助說明
+HELP_REGION_BAR	捷徑：按下以聚焦播放器列
+HELP_REGION_PANEL	按下以聚焦側邊列
+HELP_REGION_CONTENT	按下以聚焦內容
+HELP_LIBRARY	顯示 @{LIBRARY} 輔助說明
+HELP_TRAINER	顯示 @{LESSONPLAYER} 輔助說明
+HELP_BOOK	顯示 @{BOOKPLAYER} 輔助說明
+DEMO_START	示範模式
+DEMO_START1	在示範模式中，您可以觀察正在應用程式內執行的作業。僅需遵循模擬；系統將會自動執行所有步驟。
+DEMO_START2	您可以使用畫面底部的瀏覽列來暫停或停止示範。您也可以向前跳至下一個步驟或向後跳回上一個步驟。
+DEMO_STOP	已完成示範模式
+CONCURRENT_START	並行模式
+CONCURRENT_START1	並行模式會逐步顯示如何執行應用程式內的工作細項。
+CONCURRENT_START2	系統會在每個步驟後中斷模擬，讓您有機會在實際應用程式中完成步驟。
+CONCURRENT_STOP	已完成並行模式。
+PRACTICE_START	練習模式
+PRACTICE_START1	在練習模式中，您可以藉由自行解決應用程式內的工作細項來測試您所學的知識。
+PRACTICE_START2	請務必依循逐步教學說明進行。
+PRACTICE_STOP	練習模式結束。
+TEST_START	測試模式
+TEST_START1	在測試模式中，您可以透過自行在應用程式內解決工作細項來測試您的知識。除了您必須輸入的樣本資料以外，您將不會收到任何逐步指示。整個工作細項都說明在工作細項視窗中，您可以使用標題列中的按鈕來放大或最小化此視窗。
+TEST_START2	在測試結束時，將會依據正確完成的步驟來評分。此計分用於您在工作細項區域上的自我評估。
+TEST_START3	由於系統將會登記拼錯的輸入項和錯誤點擊並依此扣分，因此請小心動作。若您決定要接收系統協助來完成步驟，您在此特定步驟的分數將會是零。
+TEST_START4	測試結束時會顯示您的總分。請嘗試達到目標分數 @{res_mastery_percent}%。
+TEST_OK	測試通過
+TEST_OK1	恭喜！您已成功完成此工作細項。
+TEST_FAILED	測試失敗
+TEST_FAILED1	由於您的成績低於最大可能分數的 @{res_mastery_percent}%，我們建議您再一次複習此訓練課程所涵蓋的內容，並在測試模式中再次測試您的知識。
+TEST_FINISHED	此測試僅供您自行評量，其結果不會記錄或傳遞給第三方。
+TEST_SCORE	分數
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	自由簡報模式
+FREEPRESENTATION_START1	自由簡報模式允許您於模擬內執行程序。
+FREEPRESENTATION_START2	逐步執行動作。請使用 F1 按鍵取得輔助說明。
+FREEPRESENTATION_STOP	已結束自由簡報。
+GUIDEDPRESENTATION_START	導覽簡報模式
+GUIDEDPRESENTATION_START1	導覽簡報模式會於模擬內自動執行程序。由滑鼠游標和反白顯示目前步驟。
+GUIDEDPRESENTATION_START2	逐步依循動作並隨後確認各動作。
+GUIDEDPRESENTATION_STOP	已完成導覽簡報。
+EXER_FAIL1	您所執行的動作不正確
+EXER_FAIL2	您執行的動作不正確。將從您的整體分數扣掉 1 分。此動作剩餘分數：@1_rest-points_。
+EXER_FAIL3	您執行的動作不正確。將從您的整體分數針對每個錯誤扣掉 1 分。此動作剩餘分數：@1_rest-points_。
+EXER_FAILKEY1	您已按下 @1_key_ 鍵。
+EXER_FAILKEY2	可使用的功能鍵為：@1_keys_。
+EXER_FAILRADIO	全部有效按鈕皆已反白。
+EXER_FAILINPUT	全部有效文字區域皆已反白。
+EXER_FAILSELECT	全部有效選擇方塊皆已反白。
+EXER_FAILDRAG	您已執行無效的 @1_keys_ 拖曳作業。
+EXER_FAILDRAG1	請在反白區域內執行 @1_keys_ 拖曳作業。
+EXER_FAILDROP	您已執行無效的 @1_keys_ 置放作業。
+EXER_FAILDROP1	請在反白區域內執行 @1_keys_ 置放作業。
+EXER_FAILDBLCLICK	您已執行無效的 @1_keys_ 雙擊。
+EXER_FAILDBLCLICK1	請在反白區域內執行 @1_keys_ 雙擊。
+EXER_FAILCLICK	您 @1_keys_ 已點擊無效區域。
+EXER_FAILCLICK1	已反白所有有效區域
+EXER_FAILCLICK2	您已執行無效的 @1_keys_ 點擊。
+EXER_FAILCLICK3	請在反白區域內執行 @1_keys_ 點擊。
+EXER_FAILENTER	您已執行無效的 @1_keys_ 滑鼠游標暫留。
+EXER_FAILENTER1	請在反白區域內執行 @1_keys_ 滑鼠游標暫留。
+EXER_FAILMCLICK	不允許 @1_keys_ 中間鍵點擊。
+EXER_WOULDGOON	(請注意：否則會自動繼續)
+EXER_YOURINPUT	您已輸入 "@1_input_"。
+EXER_TEXTINPUT	請在輸入欄位 "@2" 中輸入 "@1"。
+EXER_SELECT	請選擇輸入項 "@1"！
+EXER_GOON	轉到下一步
+EXER_SHOWHELP	是，請顯示輔助說明
+EXER_TRYAGAIN	請重試
+EXER_ASK4HELP	您需要幫助嗎？
+EXER_ONLY_VALID	允許的動作為：
+EXER_FORM_PREFIX	輸入下列值：
+EXER_OR	或
+EXER_AND	和
+SCORE	分數
+SCORE_REDUCED	此步驟可能獲得的分數已扣到
+TOUR_START	模擬開始
+TOUR_STOP	模擬取消
+TOUR_END	模擬結束
+TOUR_PLAY	繼續按鈕
+TOUR_JUMP	跳轉至模擬中的其他步驟
+TOUR_PREV	返回
+TOUR_NEXT	下一步
+USER_ACTION_CORRECT_ACTION	學員已成功執行該步驟。
+USER_ACTION_WRONG_ACTION	學員執行步驟時發生錯誤。
+USER_ACTION_GOON	學員已按一下 [繼續]，此步驟無點數。
+USER_ACTION_GOON_AUTO	由於錯誤數量，因此已自動繼續模擬。
+USER_ACTION_HELP	學員尋求協助，此步驟無點數。
+SLIDE_USER_ACTION_TEXTBOX_OPEN	學員已開啟文字欄位。
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	學員已關閉文字欄位。
+QUIZ_CORRECT_RESPONSE	正確回應
+QUIZ_STUDENT_RESPONSE	學員的答覆
+QUIZ_LATENCY	時間
+QUIZ_SCORE	取得分數
+QUIZ_REQ_SCORE	必要分數
+QUIZ_MAX_SCORE	最高分數
+QUIZ_TIMEOUT_REACHED	已逾時
+QUIZTYPE_MCHOICE	測驗：複選
+QUIZTYPE_SQMAQUIZ	測驗：填寫欄位
+QUIZTYPE_FIBQUIZ	測驗：填寫空白處
+QUIZTYPE_MATCHQUIZ	測驗：配對
+QUIZTYPE_CONNQUIZ	測驗：連接
+QUIZTYPE_SCALEQUIZ	測驗：滑動軸控制
+QUIZTYPE_GRIDQUIZ	測驗：選項劃記表
+QUIZTYPE_HOTSPOTQUIZ	測驗：熱點
+QUIZTYPE_PUZZLEQUIZ	測驗：拼圖
+QUIZTYPE_MIXQUIZ	測驗：排序
+CONNECTING	連線中...
+SYNCHRONIZE	同步化
+SYNCHRONIZED	已同步
+CONNECT	連線
+BUBBLESTYLE_NOT_FOUND	找不到氣泡框樣式。
+LOADING_MACROSET	載入內容和資源
+ZOOM_LEVEL_NOTIFICATION	警告：您的縮放比例不是 100%。
+ctx_html.header_title	內容輔助說明
+ctx_html.introtext	目前內容有後續輔助說明內容。按一下需要的項目以開始。
+ctx_html.introtext_noresult	目前內容沒有內容。請從表頭開啟 library 或使用搜尋取得進一步內容。
+ctx_html.query_empty	查詢空白。
+ctx_html.query_malformed	查詢無效。
+ctx_html.search	搜尋
+ctx_html.library	開啟 library
+ctx_html.language	語言
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	錄製
+qr_hint_dlg.dont_bother	不再顯示
+qr_hint_dlg.hint_end	完成錄製。
+qr_hint_dlg.hint_pause	暫停錄製。
+btnOk	感謝您
+qr_hint_dlg.hint_title	錄製提示
+qr_hint_dlg.audio_help	先錄製您的內文再選取控制項。
+quiz_error_no_template_file	錯誤：找不到範本檔案，將使用預設值。
+qr_hint_dlg.hint_end_1	結束鍵
+qr_hint_dlg.hint_pause_1	暫停鍵

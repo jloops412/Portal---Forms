@@ -1,0 +1,11 @@
+﻿SHARE_CONTENT	Hivatkozás megosztása
+SHARE_BY_MAIL	Pošalji e-poštu
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	Kontextusszerepek
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Tartalomhivatkozás küldése
+ERROR_2.h	A @{LESSONPLAYER} nem tudott betölteni egy szükséges konfigurációs fájlt.
+ctx_html.introtext_noresult	Nincs elérhető tartalom az aktuális kontextushoz. Nyissa meg a @{LIBRARY} a fejlécből, vagy keressen további tartalmat a keresőfunkcióval.
+ctx_html.library	@{LIBRARY} megnyitása
+	

@@ -1,0 +1,9 @@
+﻿business_process	Quy trình kinh doanh
+process_tutorials	Hướng dẫn quy trình
+guided_tours	Tham quan có hướng dẫn
+training_courses	Khóa học đào tạo
+user_assistance	Trợ giúp người dùng
+compliance	Tuân thủ
+tips_tricks	Mẹo ̃& Thủ thuật
+faq	Câu hỏi thường xuyên
+misc	Hỗn hợp

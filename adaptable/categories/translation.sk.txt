@@ -1,0 +1,9 @@
+﻿business_process	Obchodné procesy
+process_tutorials	Procesné výučbové programy
+guided_tours	Prehliadky s výkladom
+training_courses	Školiace kurzy
+user_assistance	Pomoc používateľom
+compliance	Zhoda
+tips_tricks	Tipy a triky
+faq	Často kladené otázky
+misc	Rôzne

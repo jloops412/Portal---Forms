@@ -1,0 +1,9 @@
+﻿business_process	İş süreçleri
+process_tutorials	Süreç kılavuzları
+guided_tours	Rehberli turlar
+training_courses	Eğitim kursları
+user_assistance	Kullanıcı yardımı
+compliance	Uygunluk
+tips_tricks	İpuçları ve püf noktaları
+faq	SSS
+misc	Diğer

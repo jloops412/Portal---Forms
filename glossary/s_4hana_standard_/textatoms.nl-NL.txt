@@ -1,0 +1,13 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Koppeling delen
+SHARE_BY_MAIL	E-mail verzenden
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Contentlink verzenden
+ERROR_2.h	De @{LESSONPLAYER} kan geen configuratiebestand laden voor juiste functionaliteit
+ctx_html.introtext_noresult	Geen content beschikbaar voor de huidige context. Open de @{LIBRARY} vanuit de kop of gebruik de zoekfunctie voor andere content.
+ctx_html.library	@{LIBRARY} openen
+	

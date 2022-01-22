@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>video export</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <style type="text/css">
+        * { margin: 0; padding: 0}
+
+        #trainer {
+            border-width: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        body {
+            overflow: hidden;
+        }
+    </style>
+
+    <script type="text/javascript">
+        var Renderer = {
+            PARAMS: {
+                fps: {
+                    id: 'video_mode',
+                    init: 25,
+                    value: null
+                }
+            },
+            
+            SetConfig: function(cfg, val) {
+                if (this.PARAMS[cfg]) this.PARAMS[cfg].value = val;
+            },
+            
+            Resize: function() {
+                var e = document.getElementById('trainer');
+                var w = window.innerWidth ? innerWidth : (document.documentElement.clientWidth || document.body.offsetWidth);
+                var h = window.innerHeight ? innerHeight : (document.documentElement.clientHeight || document.body.offsetHeight);
+                e.style.width = w + 'px';
+                e.style.height = h + 'px';
+                
+                try {
+                    external.OnResized(w, h);
+                } catch (e) {
+                }
+            },
+
+            Ready: function() {
+                // called frome T2; trainer is ready
+                this.Resize();
+
+                try {
+                    external.OnReady();
+                } catch(e) {
+                }
+            },
+
+            Tick: function() {
+                // called from P.video engine
+                // orders me to do another tick
+                var m = document.getElementById('trainer').contentWindow.MANAGER;
+                var h = m.handler.GetActive();
+                h.VideoTick();
+            },
+
+            TickDone: function() {
+                // called from trainer; tick has been executed
+                // let P.video take a screenshot
+                try {
+                    external.OnFrameReady();
+                } catch(e) {
+                }
+            },
+
+            Audio: function(mode, src) {
+                // called from trainer; audio has started/stopped
+                // deliver audio src to P.video
+                try {
+                    external[mode == 'start' ? 'OnAudioStart' : 'OnAudioStop'](src);
+                } catch(e) {
+                }
+            },
+
+            Fini: function() {
+                // called from trainer; playback is done
+                // finish recording process
+                try {
+                    external.OnFinish();
+                } catch(e) {
+                }
+            }
+        };  // Renderer
+
+        function on_load() {
+            var s = location.href.replace(/printer\.html/, 'index.html');
+            var e = document.getElementById('trainer');
+
+            var m = null;
+            var p = Renderer.PARAMS;
+            if (s.indexOf('?') >= 0) {
+                m = '?';
+                s = s.split('?');
+                s = [s[0]].concat(s[1].split('#'));
+            } else if (s.indexOf('#') >= 0) {
+                m = '#';
+                s = s.split('#');
+            } else {
+                m = '?';
+                s = [s];
+            }
+
+            var d = {};
+            var a = s[1] ? s[1].split('&') : [];
+            for (var i = 0, l = a.length; i < l; i++) {
+                a[i] = a[i].split('=');
+                d[a[i][0]] = a[i][1];
+            }
+            for (var c in p) {
+                var v = d[c];
+
+                delete d[c];
+                d[p[c].id] = p[c].value != null 
+                	? p[c].value
+        	        : (typeof v != 'undefined' ? v : p[c].init);
+            }
+            a = [];
+            for (var c in d) {
+                a.push(c + '=' + d[c]);
+            }
+
+            e.src = s[0] + m + a.join('&') + (s[2] ? '#' + s[2] : '');
+        };
+    </script>
+</head>
+<body onload="on_load()" id="lesson_master">
+    <iframe id="trainer" frameborder="0"></iframe>
+</body>
+</html>

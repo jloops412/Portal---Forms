@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	컨텐츠 공유
+SHARE_BY_MAIL	전자메일을 통해 공유
+URL_OF_CURRENT_PAGE	현재 페이지 URL
+TASK	작업
+GLOSSARY	용어집
+CONTEXT_INFO	컨텍스트 정보
+CONTEXT_ROLES	역할
+CONTEXT_ROLES_NOROLES	역할이 없는 컨텍스트 표시
+CONTEXT_MY_ROLES	내 역할
+CLOSEBUBBLE	말풍선 닫기
+MAXBUBBLE	말풍선 복원
+MINBUBBLE	말풍선 최소화
+VOLUME	볼륨
+SETTINGS	설정
+CLOSE_TASK	@{TASK} 닫기
+CLOSE	닫기
+EXIT	종료
+SELECTION	선택
+KEYWORD_SEARCH	키워드 검색
+SEARCH	검색
+SEARCH_STRING	검색 문자열
+KEYWORDS	키워드
+SEARCH_CLEAR	검색어 입력 지우기
+FILTER	필터
+RESOURCES	리소스
+VIEW	보기
+CANCEL	취소
+CONTINUING	계속
+OK	확인
+PLAY	재생
+PAUSE	일시 중지
+BACK	뒤로
+PREVIOUS	이전
+NEXT	다음
+PLAYING	실행
+PAUSED	일시 중지
+USERINPUT	입력
+IDLE	''
+START	페이지 로드하는 중...
+RESTART	다시 시작
+TEXT	텍스트
+TITLE	제목
+MINIMIZE	최소화
+RESTORE	복원
+ACQUIRED_SCORE	취득 점수
+TEST_RESULT	결과
+TESTDETAILS	세부사항 표시
+TESTDETAILS1	세부사항 숨기기
+PRINT	페이지 인쇄
+LESSON	시뮬레이션
+OF	/
+DESCRIPTION	설명
+FULLSCREEN	전체 화면
+TOGGLE_TASKINFO	작업 설명 표시/숨기기
+PANEL_VIEWMODE	패널 표시 모드
+PANEL_TOGGLE	패널 표시/숨기기
+PANEL	사이드바/모든 컨텐트
+BOOKMARK_FAVORITE	즐겨찾기
+CONTENT	컨텐트/재생 영역
+TOC	목차
+FAVORITES	즐겨찾기
+RECENT	페이지 이력
+QRCODE	QR 코드
+QR_URL_TOO_BIG	URL이 너무 길어서 QR 코드를 생성할 수 없습니다.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	오디오 음소거
+AUDIO_PLAY	오디오 재생
+AUDIO_PAUSE	오디오 일시 중지
+AUDIO_ON	오디오 켜기
+AUDIO_OFF	오디오 끄기
+CHANNEL_MASTER	마스터
+CHANNEL_BOOKSOUND	책 사운드
+CHANNEL_NARRATIVE	내러티브
+CHANNEL_EFFECTS	효과
+LIB_NOMATCH	일치 항목 없음
+LIB_NOFILTER	필터 없음
+LIBFLAG_NEWWIN	새 창에서 컨텐츠 열기
+LIBFLAG_TITLE	제목 찾기
+LIBFLAG_SHORTDESC	간략한 설명 검색
+LIBFLAG_DESC	설명 검색
+LIBFLAG_KEYW	키워드 검색
+LIBFLAG_SLIDES	북 페이지 컨텐츠 검색
+GUI_TOP_BAR	위쪽 막대
+GUI_BOTTOM_BAR	아래쪽 막대
+ORIENTATION_TOGGLE_TOP	위쪽 막대
+ORIENTATION_TOGGLE_BOTTOM	아래쪽 막대
+FEEDBACK	작성자에 대한 피드백
+FEEDBACK_TITLE	귀하의 피드백
+FEEDBACK_QUESTION	이 시뮬레이션에 대한 의견이 있습니까?
+FEEDBACK_MISTAKE	오류를 발견했습니다.
+FEEDBACK_COMMENTS	의견과 요청사항이 있습니다.
+FEEDBACK_SEND	피드백 보내기
+SEND_CONTENT	컨텐츠 공유
+SEND_CONTENT_SUBJECT	권장 컨텐츠
+SEND_CONTENT_TEMPLATE	안녕하십니까?\n\n도움이 될 만한 컨텐츠에 관해 알려 드립니다. \n\n캡션: @{SEND_CAPTION}\n링크: @{SEND_LINK}\n\n감사합니다.\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	오류가 발생했습니다. 관리자에게 문의하십시오.
+ERROR_GENERAL	내부 오류 발생
+ERROR_1	팝업 차단기로 인해 시뮬레이션을 재생할 수 없습니다.
+ERROR_1.h	팝업 차단기가 새 브라우저 창이 열리는 것을 막고 있습니다. 팝업 차단기를 닫거나 이 도메인에 대해 팝업 차단기를 해제하십시오.
+ERROR_2	필요한 구성 파일을 로드할 수 없습니다.
+ERROR_2.h	@{LESSONPLAYER}에서 적절한 기능에 필요한 구성 파일을 로드할 수 없습니다.
+SCORM_LOCATION_ERROR	LMS 시스템의 누락된 기능으로 인해 진행 상황을 저장할 수 없습니다.
+RESTART_COMPLETED_LMS_LESSON	이미 완료되었거나 통과한 시뮬레이션을 시작하려고 합니다. 이전에 얻은 모든 포인트가 0으로 설정되고 완료 또는 통과 플래그 설정이 해제됩니다. 다시 시작하시겠습니까?
+RESTART_Av_LMS_LESSON	이미 완료되었거나 통과한 시뮬레이션을 시작하려고 합니다. 이전에 얻은 모든 포인트가 0으로 설정되고 완료 또는 통과 플래그 설정이 해제됩니다. 다시 시작하려면 '확인'을, 닫으려면 '취소'를 클릭하십시오.
+BOOK_NEXT_CHAPTER	다음 장
+BOOK_PREV_CHAPTER	이전 장
+BOOK_NEXT_PAGE	다음 페이지
+BOOK_PREV_PAGE	이전 페이지
+BOOK_INDEX_PAGE	시작 페이지
+SLIDE_MOREINFO	추가 정보
+SLIDE_TIPS	팁
+SLIDE_ATTACH	첨부파일
+SLIDE_SHOWATTACH	첨부파일 표시
+SLIDE_OPEN	열기
+SLIDE_ADD	추가
+SLIDE_EDIT	편집
+SLIDE_DELETE	삭제
+SLIDE_BUTTONAREA	재생 막대
+HELP	도움말
+HELP_REGION_BAR	바로가기: 플레이어 막대에 중점을 두려면 누르기
+HELP_REGION_PANEL	사이드바에 중점을 두려면 누르기
+HELP_REGION_CONTENT	컨텐츠에 중점을 두려면 누르기
+HELP_LIBRARY	@{LIBRARY} 도움말 표시
+HELP_TRAINER	@{LESSONPLAYER} 도움말 표시
+HELP_BOOK	@{BOOKPLAYER} 도움말 표시
+DEMO_START	데모 모드
+DEMO_START1	데모 모드에서는 애플리케이션에서 수행 중인 액티비티를 볼 수 있습니다. 모든 단계는 순서에 따라 차례로 자동으로 실시됩니다.
+DEMO_START2	화면 아래에 있는 탐색 모음을 사용하여 데모를 일시 중지하거나 중지할 수 있습니다. 또한 이전 단계나 다음 단계로 이동할 수도 있습니다.
+DEMO_STOP	데모 모드가 종료되었습니다.
+CONCURRENT_START	지원 모드
+CONCURRENT_START1	지원 모드에서는 애플리케이션에서 작업을 수행하는 방법을 단계별로 보여줍니다.
+CONCURRENT_START2	각 단계가 끝날 때마다 시뮬레이션이 일시 중단되므로 실제 애플리케이션에서 해당하는 단계를 완료할 수 있습니다.
+CONCURRENT_STOP	지원 모드가 종료되었습니다.
+PRACTICE_START	연습 모드
+PRACTICE_START1	연습 모드에서는 애플리케이션에서 작업을 해결하며 배운 내용을 직접 실행해 볼 수 있습니다.
+PRACTICE_START2	단계별 설명서를 따르십시오.
+PRACTICE_STOP	연습 모드가 종료되었습니다.
+TEST_START	테스트 모드
+TEST_START1	테스트 모드에서 작업을 해결하면서 배운 내용을 테스트해 볼 수 있습니다. 입력한 샘플 데이터 외에 단계별 지시사항은 제시되지 않습니다.  전체 작업은 제목 표시줄의 버튼을 사용하여 필요에 따라 확대하거나 축소할 수 있는 작업 창에 설명되어 있습니다.
+TEST_START2	테스트가 끝나면 올바르게 완료된 단계 수에 따라 채점됩니다. 이 평가는 작업 영역의 자기평가를 위한 것입니다.
+TEST_START3	시스템에 모든 입력 착오와 잘못된 클릭이 기록되고 그에 따라 평가 시 감점이 될 수 있으므로, 다음 과정을 매우 주의하여 실행해 주십시오. 이 단계를 완료하기 위해 시스템에서 지원을 받기로 결정하면 이 특정 단계에 대한 점수는 0으로 설정됩니다.
+TEST_START4	총 점수는 테스트 종료 시 표시됩니다. 목표 점수 @{res_mastery_percent}%에 다다를 수 있도록 노력해 주십시오.
+TEST_OK	테스트에 합격했습니다.
+TEST_OK1	축하합니다. 작업을 성공적으로 완료했습니다.
+TEST_FAILED	테스트에 불합격했습니다.
+TEST_FAILED1	@{res_mastery_percent}%보다 낮은 점수이므로 과정의 내용을 다시 한 번 실행하고 습득한 학습 내용을 다시 한 번 테스트 모드로 점검해 보시기 바랍니다.
+TEST_FINISHED	이 테스트는 자기 평가만을 위한 것입니다. 결과가 저장되거나 제3자에게 공개되지 않습니다.
+TEST_SCORE	점수
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	프리 프레젠테이션 모드
+FREEPRESENTATION_START1	프리 프레젠테이션 모드를 사용하면 시뮬레이션 내에서 프로세스를 실행할 수 있습니다.
+FREEPRESENTATION_START2	액션을 단계별로 실행하십시오. F1 키를 사용하면 도움말을 가져올 수 있습니다.
+FREEPRESENTATION_STOP	프리 프레젠테이션 모드가 종료됩니다.
+GUIDEDPRESENTATION_START	프레젠테이션 모드 가이드
+GUIDEDPRESENTATION_START1	프레젠테이션 모드 가이드에서는 시뮬레이션 내에서 자동으로 프로세스를 실행합니다. 마우스 포인터 및 하이라이트는 현재 단계를 나타냅니다.
+GUIDEDPRESENTATION_START2	단계별 후속 액션에 따라 이후 각 액션을 확인하십시오.
+GUIDEDPRESENTATION_STOP	프레젠테이션 가이드가 종료됩니다.
+EXER_FAIL1	수행한 작업이 올바르지 않습니다.
+EXER_FAIL2	수행한 작업이 올바르지 않습니다. 전체 점수에서 1포인트가 차감됩니다. 이 작업에 대해 남은 포인트: @1_rest-points_.
+EXER_FAIL3	수행한 작업이 올바르지 않습니다. 각 실수에 대해 전체 점수에서 1포인트가 차감됩니다. 이 작업에 대해 남은 포인트: @1_rest-points_.
+EXER_FAILKEY1	@1_key_ 키를 눌렀습니다.
+EXER_FAILKEY2	사용할 수 있는 기능 키: @1_keys_.
+EXER_FAILRADIO	유효한 모든 버튼이 하이라이트되어 있습니다.
+EXER_FAILINPUT	유효한 모든 텍스트 영역이 하이라이트되어 있습니다.
+EXER_FAILSELECT	유효한 모든 선택 상자가 하이라이트되어 있습니다.
+EXER_FAILDRAG	유효하지 않은 @1_keys_ 드래그 작업을 수행했습니다.
+EXER_FAILDRAG1	하이라이트된 영역에서 @1_keys_ 드래그 작업을 실행하십시오.
+EXER_FAILDROP	유효하지 않은 @1_keys_ 드롭 작업을 수행했습니다.
+EXER_FAILDROP1	하이라이트된 영역에서 @1_keys_ 드롭 작업을 실행하십시오.
+EXER_FAILDBLCLICK	유효하지 않은 @1_keys_ 더블 클릭을 수행했습니다.
+EXER_FAILDBLCLICK1	하이라이트된 영역에서 @1_keys_ 더블 클릭을 실행하십시오.
+EXER_FAILCLICK	유효하지 않은 영역을 @1_keys_ 클릭했습니다.
+EXER_FAILCLICK1	유효한 모든 영역이 하이라이트되어 있습니다.
+EXER_FAILCLICK2	유효하지 않은 @1_keys_ 클릭에서 수행했습니다.
+EXER_FAILCLICK3	하이라이트된 영역에서 @1_keys_ 클릭을 실행하십시오.
+EXER_FAILENTER	유효하지 않은 @1_keys_ 마우스오버를 실행했습니다.
+EXER_FAILENTER1	하이라이트된 영역에서 @1_keys_ 마우스오버를 실행하십시오.
+EXER_FAILMCLICK	@1_keys_ 중간 클릭이 허용되지 않습니다.
+EXER_WOULDGOON	(참고: 그 외의 경우에는 자동으로 계속됨)
+EXER_YOURINPUT	'@1_input_'을(를) 입력했습니다.
+EXER_TEXTINPUT	입력 필드 '@2'에 '@1'을(를) 입력하십시오!
+EXER_SELECT	항목 '@1'을(를) 선택하십시오!
+EXER_GOON	다음 단계로 이동
+EXER_SHOWHELP	예, 도움말을 표시합니다.
+EXER_TRYAGAIN	다시 시도
+EXER_ASK4HELP	도움말이 필요하십니까?
+EXER_ONLY_VALID	허용되는 작업:
+EXER_FORM_PREFIX	다음 값을 입력하십시오:
+EXER_OR	또는
+EXER_AND	그리고
+SCORE	포인트
+SCORE_REDUCED	이 단계에서 가능한 점수가 다음으로 감소:
+TOUR_START	시뮬레이션 시작
+TOUR_STOP	시뮬레이션 중단
+TOUR_END	시뮬레이션 종료
+TOUR_PLAY	계속 버튼
+TOUR_JUMP	시뮬레이션 내의 다른 단계로 이동했습니다.
+TOUR_PREV	뒤로
+TOUR_NEXT	다음
+USER_ACTION_CORRECT_ACTION	학습자가 성공적으로 단계를 수행했습니다.
+USER_ACTION_WRONG_ACTION	학습자가 실수를 했습니다.
+USER_ACTION_GOON	학습자가 '계속'을 클릭했습니다. 이 단계에는 포인트가 없습니다.
+USER_ACTION_GOON_AUTO	실수의 개수가 많아 시뮬레이션이 자동으로 계속됩니다.
+USER_ACTION_HELP	학습자가 도움을 요청했습니다. 이 단계에 대한 포인트는 없습니다.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	학습자가 텍스트 상자를 열었습니다.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	학습자가 텍스트 상자를 닫았습니다.
+QUIZ_CORRECT_RESPONSE	정답
+QUIZ_STUDENT_RESPONSE	학습자의 답변
+QUIZ_LATENCY	시간
+QUIZ_SCORE	취득 점수
+QUIZ_REQ_SCORE	필요한 점수
+QUIZ_MAX_SCORE	최고 점수
+QUIZ_TIMEOUT_REACHED	시간 제한에 도달했습니다.
+QUIZTYPE_MCHOICE	퀴즈: 복수 선택
+QUIZTYPE_SQMAQUIZ	퀴즈: 필드에 입력
+QUIZTYPE_FIBQUIZ	퀴즈: 빈칸에 입력
+QUIZTYPE_MATCHQUIZ	퀴즈: 매칭
+QUIZTYPE_CONNQUIZ	퀴즈: 연결
+QUIZTYPE_SCALEQUIZ	퀴즈: 슬라이드 컨트롤
+QUIZTYPE_GRIDQUIZ	퀴즈: 그리드
+QUIZTYPE_HOTSPOTQUIZ	퀴즈: 핫스폿
+QUIZTYPE_PUZZLEQUIZ	퀴즈: 퍼즐
+QUIZTYPE_MIXQUIZ	퀴즈: 정렬
+CONNECTING	연결 중...
+SYNCHRONIZE	동기화
+SYNCHRONIZED	동기화됨
+CONNECT	연결
+BUBBLESTYLE_NOT_FOUND	말풍선 스타일이 없습니다.
+LOADING_MACROSET	컨텐츠 및 리소스를 로드하는 중입니다.
+ZOOM_LEVEL_NOTIFICATION	경고: 확대/축소 레벨이 100%가 아닙니다.
+ctx_html.header_title	상황에 맞는 도움말
+ctx_html.introtext	현재 컨텍스트에서는 다음과 같은 도움말 컨텐츠가 제공됩니다. 시작을 원하는 항목을 클릭하십시오.
+ctx_html.introtext_noresult	현재 컨텍스트에 사용 가능한 컨텐츠가 없습니다. 헤더에서 library를 열거나 검색을 통해 추가 컨텐츠를 가져오십시오.
+ctx_html.query_empty	빈 쿼리입니다.
+ctx_html.query_malformed	잘못된 쿼리입니다.
+ctx_html.search	검색
+ctx_html.library	library 열기
+ctx_html.language	언어
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	녹화
+qr_hint_dlg.dont_bother	더 이상 표시하지 않음
+qr_hint_dlg.hint_end	녹화를 종료하십시오.
+qr_hint_dlg.hint_pause	녹화를 일시 중지하십시오.
+btnOk	감사합니다. 
+qr_hint_dlg.hint_title	녹화 힌트
+qr_hint_dlg.audio_help	제어를 선택하기 전에 텍스트를 녹화하십시오.
+quiz_error_no_template_file	오류: 템플릿 파일이 없습니다. 기본값이 사용됩니다.
+qr_hint_dlg.hint_end_1	END 키
+qr_hint_dlg.hint_pause_1	PAUSE 키

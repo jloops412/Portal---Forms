@@ -1,0 +1,9 @@
+﻿business_process	व्यवसाय प्रोसेस
+process_tutorials	शैक्षणिक प्रोसेस करें
+guided_tours	निर्देशित यात्राएं
+training_courses	प्रशिक्षण पाठ्यक्रम
+user_assistance	उपयोगकर्ता सहायता
+compliance	अनुपालन
+tips_tricks	टिप और ट्रिक
+faq	अक्सर पूछे जाने वाले प्रश्न
+misc	विविध

@@ -1,0 +1,9 @@
+﻿business_process	Biznesa procesi
+process_tutorials	Procesu mācības
+guided_tours	Vadītās norādes
+training_courses	Mācību kursi
+user_assistance	Lietotāju palīdzība
+compliance	Atbilstība
+tips_tricks	Padomi un ieteikumi
+faq	BUJ
+misc	Dažādi

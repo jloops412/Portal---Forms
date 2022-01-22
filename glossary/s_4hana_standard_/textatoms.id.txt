@@ -1,0 +1,13 @@
+﻿SHARE_CONTENT	Bagi tautan
+SHARE_BY_MAIL	Kirim surel
+URL_OF_CURRENT_PAGE	URL
+RESOURCES	Sumber
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Kirim tautan konten
+ERROR_2.h	@{LESSONPLAYER} tidak dapat memuat file konfigurasi yang diperlukan untuk fungsi yang sesuai.
+TEST_START	Mode Tes
+TEST_SCORE	Nilai yang dicapai
+ctx_html.introtext_noresult	Tidak ada konten yang tersedia untuk konteks terkini. Buka @{LIBRARY} dari bagian atas atau gunakan pencarian untuk mendapatkan konten lebih lanjut.
+ctx_html.library	Buka @{LIBRARY}
+	

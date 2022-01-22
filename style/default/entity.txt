@@ -1,0 +1,22 @@
+﻿{
+
+        "sub_type":"scorm",
+        "root_group":"project!PR_DE3E8A59CA79C6AF",
+        "include_dependencies":1,
+        "target_file":"C:\\Users\\I513536\\Documents\\E-Learning\\Love and Light Ent\\Portal - Forms.zip",
+        "use_wa_style":0,
+        "simulation_playback":"simulation_playback",
+        "navigation_playback":"navigation_playback",
+        "text_styles":"text_styles",
+        "text_styles_xray":"",
+        "scorm_version":"1",
+        "scorm_save_1_0_copyright":1,
+        "scorm_save_1_0_version":"1.0",
+        "scorm_zip_add_schemas":0,
+        "scorm_add_schema_locs":0,
+        "scorm_params":"0",
+        "scorm_book_mode":"1",
+        "scorm_inc_docu":0,
+        "scorm_org_ids":1,
+        "scorm_delivery_controls":1
+    }

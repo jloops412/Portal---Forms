@@ -1,0 +1,10 @@
+﻿SHARE_CONTENT	опубликовать ссылку
+SHARE_BY_MAIL	написать письмо
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Отправить ссылку на контент
+ERROR_2.h	В @{LESSONPLAYER} не удалось загрузить файл конфигурации, необходимый для надлежащего функционирования.
+ctx_html.introtext_noresult	Отсутствует доступный контент для текущего контекста. Откройте @{LIBRARY} через строку заголовка ли используйте поиск для получения дополнительного контента.
+ctx_html.library	Открыть @{LIBRARY}
+	

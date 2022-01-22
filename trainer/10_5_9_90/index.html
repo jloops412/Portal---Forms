@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>trainer</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, height=device-height, minimum-scale=1, maximum-scale=1, initial-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link id="apple1" rel="apple-touch-icon" sizes="57x57">
+<link id="apple2" rel="apple-touch-icon" sizes="76x76">
+<link id="apple3" rel="apple-touch-icon" sizes="120x120">
+<link id="apple4" rel="apple-touch-icon" sizes="152x152">
+<link id="apple5" rel="apple-touch-icon" sizes="167x167">
+<link id="apple6" rel="apple-touch-icon" sizes="180x180">
+<link id="icon1" rel="icon">
+<link id="icon2" rel="icon" sizes="128x128">
+<link id="icon3" rel="icon" sizes="192x192">
+<meta id="msa1" name="msapplication-square70x70logo">
+<meta id="msa2" name="msapplication-square150x150logo">
+<meta id="msa3" name="msapplication-wide310x150logo">
+<meta id="msa4" name="msapplication-square310x310logo">
+<style type="text/css">
+* {
+margin: 0;
+padding: 0;
+-ms-high-contrast-adjust: none;
+}
+*:not(.highlight-focus-layer):focus { outline: none; }
+.accessibility-mode *:not(.highlight-focus-layer):focus { outline: 1px dashed #999; }
+.accessibility-mode .region-sidebar:focus:after,
+.accessibility-mode .region-content:focus:after,
+.accessibility-mode div[role=toolbar]:focus:after {
+display: block;
+position: absolute;
+margin: 1px;
+height: calc(100% - 7px);
+width: calc(100% - 4px);
+content: "";
+z-index: 10000;
+border: 1px dashed #999;
+pointer-events: none;
+}
+.accessibility-mode div[role=toolbar]:focus:after { height: calc(100% - 4px); }
+html, body {
+-ms-touch-action: none;
+-ms-user-select: none;
+}
+input::-ms-clear { display: none; }
+html { overflow: hidden; }
+body .error_container { display: none; }
+body.error {
+color: #000000;
+font-family: Arial,Helvetica,Liberation Sans,sans-serif;;
+font-size: 10px;
+font-weight: bold;
+height: 100%;
+text-align: center;
+width: 100%;
+}
+body.error:focus { outline: 0; }
+body.error .error_container {
+background-color: #FFFFFF;
+display: block;
+height: 200px;
+margin: 10px auto;
+width: 750px;
+}
+body.error .error_container .error_msg {
+color: #D96F70;
+font-size: 18px;
+padding: 70px 15px 10px;
+}
+body.error .error_container .error_opt { padding: 10px 15px; }
+body.error .error_container .error_msg .loading_text {
+color: #999;
+margin: 10px 5px;
+font-size: 24px;
+font-weight: normal;
+}
+body.error .error_container .error_opt .wait_text {
+font-size: 14px;
+font-weight: normal;
+}
+body.error .error_container .error_msg .loading_ani {
+color: #81ceef;
+font-family: Times New Roman,Times,FreeSerif,serif;
+display: inline-block;
+vertical-align: middle;
+-webkit-animation-name: spin;
+-webkit-animation-duration: 4000ms;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-timing-function: linear;
+-moz-animation-name: spin;
+-moz-animation-duration: 4000ms;
+-moz-animation-iteration-count: infinite;
+-moz-animation-timing-function: linear;
+-ms-animation-name: spin;
+-ms-animation-duration: 4000ms;
+-ms-animation-iteration-count: infinite;
+-ms-animation-timing-function: linear;
+animation-name: spin;
+animation-duration: 4000ms;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+}
+body.error .error_container .error_msg .loading_ani span {
+margin-top: 28px;
+display: block;
+font-size: 80px;
+font-weight: normal;
+line-height: 1;
+}
+@-ms-keyframes spin {
+from { -ms-transform: rotate(0deg); }
+to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+from { -moz-transform: rotate(0deg); }
+to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+from { -webkit-transform: rotate(0deg); }
+to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+from { transform:rotate(0deg); }
+to { transform:rotate(360deg); }
+}
+@media print { .white_background { background-color: white !important; }}
+@media screen and (orientation:portrait) { #oricheck { background-color: white; }}
+@media screen and (orientation:landscape) { #oricheck { background-color: black; }}
+@media screen and (-ms-high-contrast: white-on-black) {
+body { background-color: #010101 !important; }
+*:not(.highlight-focus-layer):focus,
+.accessibility-mode *:not(.highlight-focus-layer):focus { outline: 2px dashed #fff; }
+body.error .error_container { background-color: #000;}
+body.error .error_container .error_msg .loading_text,
+body.error .error_container .error_opt .wait_text,
+body.error .error_container .error_msg .loading_ani { color: #fff; }
+.wct-controls-popup textarea { color: #fff !important; }
+.wct-controls-fader.cover { background-color: #000 !important; }
+.trainer-settings .content > div,
+.trainer-settings .content > div > div {
+background-color: #000 !important;
+border-color: #fff !important;
+color: #fff !important;
+}
+.trainer-search {
+background-color: #000 !important;
+border-color: #fff !important;
+}
+.trainer-search input { color: #fff !important; }
+}
+@media screen and (-ms-high-contrast: black-on-white) {
+body { background-color: #fefefe !important; }
+*:not(.highlight-focus-layer):focus,
+.accessibility-mode *:not(.highlight-focus-layer):focus { outline: 2px dashed #000; }
+body.error .error_container { background-color: #fff;}
+body.error .error_container .error_msg .loading_text,
+body.error .error_container .error_opt .wait_text,
+body.error .error_container .error_msg .loading_ani { color: #000; }
+.trainer-settings .content > div,
+.trainer-settings .content > div > div {
+background-color: #fff !important;
+border-color: #000 !important;
+color: #000 !important;
+}
+.trainer-search {
+background-color: #fff !important;
+border-color: #000 !important;
+}
+.trainer-search input { color: #000 !important; }
+}
+@media screen and (-ms-high-contrast: active) {
+* { background-color: transparent; }
+}
+</style>
+</head>
+<body onunload="stop()" class="error" role="application">
+<p id="region_keys" tabindex="0"></p>
+<div class="error_container">
+<div id="error_msg" class="error_msg" lang="en">JavaScript is turned off.</div>
+<div id="error_opt" class="error_opt" lang="en">
+trainer is not available because JavaScript or scripting is turned off.
+Please check that you have enough rights to use JavaScript in this domain.
+</div>
+</div>
+<!-- div to know, which orientation we have in android by using media querries (see above) -->
+<div id="oricheck" style="position:absolute;display:none;width:0;height:0;"></div>
+<script type="text/javascript">
+var TRAINER_VERSION="10_5_9_90",m=document.getElementById("error_msg"),o=document.getElementById("error_opt");m&&(m.innerHTML='<span class="loading_ani"><span>*</span></span><span class="loading_text">Loading...</span>'),o&&(o.innerHTML='<span class="wait_text">Loading content. Please wait.</span>');var files=['trainer.js'],head=document.getElementsByTagName("head")[0],url="trainer/"+TRAINER_VERSION+"/";function stop(){window.MANAGER&&MANAGER.Unload()}!function load(){if(files.length){var s=url+files.shift(),e=document.createElement("script");e.type="text/javascript",e.readyState?e.onreadystatechange=function(){"loaded"!==this.readyState&&"complete"!==this.readyState||(this.onreadystatechange=null,load())}:e.onload=function(){this.onload=null,load()},e.src=s,head.appendChild(e)}else(function t(){window.MANAGER?setTimeout("MANAGER.Init()",1):setTimeout(t,20)})()}();
+</script>
+</body>
+</html>

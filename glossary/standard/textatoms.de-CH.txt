@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Inhalt teilen
+SHARE_BY_MAIL	Per E-Mail teilen
+URL_OF_CURRENT_PAGE	URL der aktuellen Seite
+TASK	Aufgabe
+GLOSSARY	Glossar
+CONTEXT_INFO	Kontextinformationen
+CONTEXT_ROLES	Rollen
+CONTEXT_ROLES_NOROLES	Kontext ohne Rollen anzeigen
+CONTEXT_MY_ROLES	Meine Rollen
+CLOSEBUBBLE	Bubble schliessen
+MAXBUBBLE	Bubble wiederherstellen
+MINBUBBLE	Bubble minimieren
+VOLUME	Lautstärke
+SETTINGS	Einstellungen
+CLOSE_TASK	@{TASK} schliessen
+CLOSE	Schliessen
+EXIT	Beenden
+SELECTION	Auswahl
+KEYWORD_SEARCH	Stichwortsuche
+SEARCH	Suchen
+SEARCH_STRING	Suchbegriff
+KEYWORDS	Stichworte
+SEARCH_CLEAR	Sucheingabe löschen
+FILTER	Filtern
+RESOURCES	Ressourcen
+VIEW	Anzeigen
+CANCEL	Abbrechen
+CONTINUING	Weiter
+OK	OK
+PLAY	Abspielen
+PAUSE	Anhalten
+BACK	Zurück
+PREVIOUS	Zurück
+NEXT	Weiter
+PLAYING	Wird abgespielt
+PAUSED	Anhalten
+USERINPUT	Eingabe
+IDLE	""
+START	Seite wird geladen...
+RESTART	Neu starten
+TEXT	Text
+TITLE	Titel
+MINIMIZE	Minimieren
+RESTORE	Wiederherstellen
+ACQUIRED_SCORE	Erzielte Punktzahl
+TEST_RESULT	Ergebnis
+TESTDETAILS	Details anzeigen
+TESTDETAILS1	Details ausblenden
+PRINT	Seite drucken
+LESSON	Simulation
+OF	von
+DESCRIPTION	Beschreibung
+FULLSCREEN	Vollbild
+TOGGLE_TASKINFO	Aufgabentext anzeigen/ausblenden
+PANEL_VIEWMODE	Bereichsanzeigemodus
+PANEL_TOGGLE	Bereich anzeigen/ausblenden
+PANEL	Randleiste/Alle Inhalte
+BOOKMARK_FAVORITE	Favorit
+CONTENT	Inhalt/Abspielbereich
+TOC	Inhaltsverzeichnis
+FAVORITES	Favoriten
+RECENT	Seitenhistorie
+QRCODE	QR-Code
+QR_URL_TOO_BIG	URL zu lang. QR-Code kann nicht generiert werden.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	Ton aus
+AUDIO_PLAY	Audio abspielen
+AUDIO_PAUSE	Audio anhalten
+AUDIO_ON	Audio an
+AUDIO_OFF	Audio aus
+CHANNEL_MASTER	Master
+CHANNEL_BOOKSOUND	Buchsound
+CHANNEL_NARRATIVE	Erklärung
+CHANNEL_EFFECTS	Effekte
+LIB_NOMATCH	Es wurde nichts gefunden.
+LIB_NOFILTER	Kein Filter
+LIBFLAG_NEWWIN	Inhalt in neuem Fenster öffnen
+LIBFLAG_TITLE	Titel durchsuchen
+LIBFLAG_SHORTDESC	Kurzbeschreibung durchsuchen
+LIBFLAG_DESC	Beschreibung durchsuchen
+LIBFLAG_KEYW	Stichworte durchsuchen
+LIBFLAG_SLIDES	Buchseiteninhalt durchsuchen
+GUI_TOP_BAR	Leiste oben
+GUI_BOTTOM_BAR	Leiste unten
+ORIENTATION_TOGGLE_TOP	Leiste oben
+ORIENTATION_TOGGLE_BOTTOM	Leiste unten
+FEEDBACK	Feedback an Autor
+FEEDBACK_TITLE	Ihr Feedback
+FEEDBACK_QUESTION	Haben Sie Anmerkungen zu dieser Simulation?
+FEEDBACK_MISTAKE	Ich habe einen Fehler entdeckt
+FEEDBACK_COMMENTS	Ich habe Anregungen, Wünsche
+FEEDBACK_SEND	Feedback senden
+SEND_CONTENT	Inhalt teilen
+SEND_CONTENT_SUBJECT	Empfohlener Inhalt
+SEND_CONTENT_TEMPLATE	Hallo,\n\ndieser Inhalt könnte für Sie von Interesse sein. \n\nTitel: @{SEND_CAPTION}\nLink: @{SEND_LINK}\n\nMit freundlichen Grüssen\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Es ist ein Fehler aufgetreten. Wenden Sie sich an Ihren Administrator.
+ERROR_GENERAL	Interner Fehler.
+ERROR_1	Ein Popup-Blocker verhindert das Abspielen dieser Simulation.
+ERROR_1.h	Ein Popup-Blocker hat das Öffnen eines neuen Browserfensters verhindert. Schliessen Sie den Popup-Blocker der schalten Sie ihn für diese Domain aus.
+ERROR_2	Erforderliche Konfigurationsdatei konnte nicht geladen werden.
+ERROR_2.h	@{LESSONPLAYER} konnte eine für die ordnungsgemässe Funktionsweise erforderliche Konfigurationsdatei nicht laden.
+SCORM_LOCATION_ERROR	Ihr Fortschritt konnte nicht gespeichert werden, da diese Funktionalität von Ihrem LMS nicht unterstützt wird.
+RESTART_COMPLETED_LMS_LESSON	Sie haben eine Simulation gestartet, die bereits abgeschlossen oder erfolgreich bestanden wurde. Alle zuvor erreichten Punkte werden auf Null zurückgesetzt und das Kennzeichen "abgeschlossen" oder "bestanden" wird entfernt. Möchten Sie wirklich neu starten?
+RESTART_Av_LMS_LESSON	Sie haben eine Simulation gestartet, die bereits abgeschlossen oder erfolgreich bestanden wurde. Alle zuvor erreichten Punkte werden auf Null zurückgesetzt und das Kennzeichen "abgeschlossen" oder "bestanden" wird entfernt. Klicken Sie zum Neustarten auf "OK" und zum Schliessen auf "Abbrechen".
+BOOK_NEXT_CHAPTER	Nächstes Kapitel
+BOOK_PREV_CHAPTER	Vorheriges Kapitel
+BOOK_NEXT_PAGE	Nächste Seite
+BOOK_PREV_PAGE	Vorherige Seite
+BOOK_INDEX_PAGE	Startseite
+SLIDE_MOREINFO	Weitere Informationen
+SLIDE_TIPS	Tipps
+SLIDE_ATTACH	Anhänge
+SLIDE_SHOWATTACH	Anhänge anzeigen
+SLIDE_OPEN	Öffnen
+SLIDE_ADD	Hinzufügen
+SLIDE_EDIT	Bearbeiten
+SLIDE_DELETE	Löschen
+SLIDE_BUTTONAREA	Abspielleiste
+HELP	Hilfe
+HELP_REGION_BAR	Tastenkombinationen: Zum Fokussieren der Abspielleiste drücken
+HELP_REGION_PANEL	Zum Fokussieren der Randleiste drücken
+HELP_REGION_CONTENT	Zum Fokussieren des Inhalts drücken
+HELP_LIBRARY	@{LIBRARY} Hilfe anzeigen
+HELP_TRAINER	@{LESSONPLAYER} Hilfe anzeigen
+HELP_BOOK	@{BOOKPLAYER} Hilfe anzeigen
+DEMO_START	Demo-Modus
+DEMO_START1	Im Demo-Modus können Sie die Durchführung einer Aufgabe in der Applikation beobachten. Folgen Sie einfach der Simulation; alle Schritte werden automatisch ausgeführt.
+DEMO_START2	Mit der Navigationsleiste am unteren Bildschirmrand können Sie die Demo anhalten oder stoppen. Sie können ausserdem vorwärts zum nächsten und rückwärts zum vorherigen Schritt springen.
+DEMO_STOP	Der Demo-Modus wurde beendet.
+CONCURRENT_START	Praxis-Modus
+CONCURRENT_START1	Im Praxis-Modus erhalten Sie eine Schritt-für-Schritt-Anleitung für die Durchführung einer Aufgabe in der Applikation.
+CONCURRENT_START2	Nach jedem Schritt wird die Simulation unterbrochen, damit Sie den gezeigten Schritt in der Applikation nachvollziehen können.
+CONCURRENT_STOP	Der Praxis-Modus wurde beendet.
+PRACTICE_START	Übungs-Modus
+PRACTICE_START1	Im Übungs-Modus können Sie das Gelernte anwenden, indem Sie die Aufgabe innerhalb der Applikation selbst lösen.
+PRACTICE_START2	Folgen Sie einfach der Schritt-für-Schritt-Anleitung.
+PRACTICE_STOP	Der Übungs-Modus wurde beendet.
+TEST_START	Test-Modus
+TEST_START1	Im Test-Modus können Sie Ihre Kenntnisse testen, indem Sie selbst eine Aufgabe in der Applikation lösen. Neben den einzugebenden Beispieldaten erhalten Sie keine Arbeitsschritt-bezogenen Anweisungen. Die gesamte Aufgabe wird im Aufgabenfester beschrieben, das Sie nach Bedarf über die Drucktasten in der Titelleiste vergrössern oder verkleinern können.
+TEST_START2	Am Ende des Tests erhalten Sie eine Bewertung auf der Basis der erfolgreich ausgeführten Schritte. Diese Bewertung dient Ihrer Selbsteinschätzung über den Aufgabenbereich.
+TEST_START3	Führen Sie Ihre Aktionen sehr sorgfältig aus, da das System alle Schreibfehler und falschen Klicks registriert und die Bewertung entsprechend reduziert. Wenn Sie sich entscheiden, für einen Schritt Hilfe anzufordern, so verlieren Sie alle für diesen Schritt vorgesehenen Punkte.
+TEST_START4	Ihre Gesamtpunktzahl wird am Ende des Tests angezeigt. Versuchen Sie, die Zielpunktzahl von @{res_mastery_percent} % zu erreichen.
+TEST_OK	Test bestanden
+TEST_OK1	Herzlichen Glückwunsch, Sie haben diese Aufgabe erfolgreich absolviert.
+TEST_FAILED	Test nicht bestanden
+TEST_FAILED1	Da Sie weniger als @{res_mastery_percent} % der möglichen Punkte erreicht haben, empfehlen wir, den Inhalt dieses Kurses noch einmal durchzugehen und danach Ihr Wissen erneut im Test-Modus zu überprüfen.
+TEST_FINISHED	Dieser Test diente ausschliesslich Ihrer Selbsteinschätzung. Die Ergebnisse werden weder aufgezeichnet noch an Dritte übermittelt.
+TEST_SCORE	Punktzahl
+TEST_SCOREVALUE	@{res_collected_points} von @{res_possible_points}
+FREEPRESENTATION_START	Freier Präsentationsmodus
+FREEPRESENTATION_START1	Im freiem Präsentationsmodus können Sie einen Prozess in der Simulation ausführen.
+FREEPRESENTATION_START2	Führen Sie die Aktionen Schritt für Schritt aus. Hilfe erhalten Sie durch Drücken der F1-Taste.
+FREEPRESENTATION_STOP	Freier Präsentationsmodus wurde beendet.
+GUIDEDPRESENTATION_START	Geführter Präsentationsmodus
+GUIDEDPRESENTATION_START1	Im geführten Präsentationsmodus werden Prozesse in Simulationen automatisch ausgeführt. Der aktuelle Schritt wird durch einen Mauszeiger und eine Markierung angezeigt.
+GUIDEDPRESENTATION_START2	Folgen Sie den Aktionen Schritt für Schritt und bestätigen Sie jede Aktion.
+GUIDEDPRESENTATION_STOP	Geführte Präsentation wurde beendet.
+EXER_FAIL1	Die von Ihnen durchgeführte Aktion war leider falsch.
+EXER_FAIL2	Die von Ihnen durchgeführte Aktion war leider falsch. Es wird Ihnen 1 Punkt Ihrer Gesamtpunktzahl abgezogen. Verbleibende Punkte für diese Aktion: @1_rest-points_.
+EXER_FAIL3	Die von Ihnen durchgeführte Aktion war leider falsch. Für jeden Fehler wird Ihnen 1 Punkt Ihrer Gesamtpunktzahl abgezogen. Verbleibende Punkte für diese Aktion: @1_rest-points_.
+EXER_FAILKEY1	Sie haben die @1_key_ Taste gedrückt.
+EXER_FAILKEY2	Zulässige Funktionstasten sind: @1_keys_.
+EXER_FAILRADIO	Alle zulässigen Drucktasten sind markiert.
+EXER_FAILINPUT	Alle zulässigen Textbereiche sind markiert.
+EXER_FAILSELECT	Alle zulässigen Auswahllisten sind markiert.
+EXER_FAILDRAG	Sie haben einen unzulässigen @1_keys_ Drag-Vorgang durchgeführt.
+EXER_FAILDRAG1	Führen Sie im markierten Bereich einen @1_keys_ Drag-Vorgang aus.
+EXER_FAILDROP	Sie haben einen unzulässiges @1_keys_ Drop-Vorgang durchgeführt.
+EXER_FAILDROP1	Führen Sie im markierten Bereich einen @1_keys_ Drop-Vorgang aus.
+EXER_FAILDBLCLICK	Sie haben einen unzulässigen @1_keys_ Doppelklick durchgeführt.
+EXER_FAILDBLCLICK1	Führen Sie im markierten Bereich einen @1_keys_ Doppelklick aus.
+EXER_FAILCLICK	Sie haben in einem unzulässigen Bereich einen @1_keys_ Klick durchgeführt.
+EXER_FAILCLICK1	Alle zulässigen Bereiche sind markiert.
+EXER_FAILCLICK2	Sie haben einen unzulässigen @1_keys_ Klick durchgeführt.
+EXER_FAILCLICK3	Führen Sie im markierten Bereich einen @1_keys_ Klick aus.
+EXER_FAILENTER	Führen Sie ein gültiges @1_keys_ Mouseover aus.
+EXER_FAILENTER1	Führen Sie im markierten Bereich ein @1_keys_ Mouseover aus.
+EXER_FAILMCLICK	Ein @1_keys_ Klick mit der mittleren Maustaste ist unzulässig.
+EXER_WOULDGOON	(Hinweis: Wird sonst automatisch fortgesetzt)
+EXER_YOURINPUT	Sie haben "@1_input_" eingegeben.
+EXER_TEXTINPUT	Geben Sie "@1" in das Eingabefeld "@2" ein.
+EXER_SELECT	Wählen Sie den Eintrag "@1" aus.
+EXER_GOON	Weiter zum nächsten Schritt
+EXER_SHOWHELP	Ja, Hilfe annehmen
+EXER_TRYAGAIN	Erneut versuchen
+EXER_ASK4HELP	Benötigen Sie Hilfe?
+EXER_ONLY_VALID	Zulässige Aktionen:
+EXER_FORM_PREFIX	Geben Sie folgende Werte ein:
+EXER_OR	oder
+EXER_AND	und
+SCORE	Punkte
+SCORE_REDUCED	Mögliche Punkte für diesen Schritt reduziert auf
+TOUR_START	Simulation Anfang
+TOUR_STOP	Simulation Abbruch
+TOUR_END	Simulation Ende
+TOUR_PLAY	Drucktaste "Weiter"
+TOUR_JUMP	Sprung zu einem anderen Schritt in der Simulation.
+TOUR_PREV	Zurück
+TOUR_NEXT	Weiter
+USER_ACTION_CORRECT_ACTION	Der Lerner hat den Schritt richtig ausgeführt.
+USER_ACTION_WRONG_ACTION	Der Lerner hat einen Fehler gemacht.
+USER_ACTION_GOON	Der Lerner hat auf "Weiter" geklickt; keine Punkte für diesen Schritt.
+USER_ACTION_GOON_AUTO	Aufgrund der Anzahl der Fehler wurde die Simulation automatisch fortgesetzt.
+USER_ACTION_HELP	Der Lerner hat sich die Hilfe anzeigen lassen; keine Punkte für diesen Schritt.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Der Lerner hat ein Textfeld geöffnet.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Der Lerner hat ein Textfeld geschlossen.
+QUIZ_CORRECT_RESPONSE	Richtige Antwort
+QUIZ_STUDENT_RESPONSE	Antwort vom Lerner
+QUIZ_LATENCY	Zeit
+QUIZ_SCORE	Erzielte Punktzahl
+QUIZ_REQ_SCORE	Erforderliche Punktzahl
+QUIZ_MAX_SCORE	Maximale Punktzahl
+QUIZ_TIMEOUT_REACHED	Timeout erreicht
+QUIZTYPE_MCHOICE	Quiz: Mehrfachauswahl
+QUIZTYPE_SQMAQUIZ	Quiz: Felder ausfüllen
+QUIZTYPE_FIBQUIZ	Quiz: Lückentext
+QUIZTYPE_MATCHQUIZ	Quiz: Zuordnen
+QUIZTYPE_CONNQUIZ	Quiz: Verbindung
+QUIZTYPE_SCALEQUIZ	Quiz: Schieberegler
+QUIZTYPE_GRIDQUIZ	Quiz: Gitter
+QUIZTYPE_HOTSPOTQUIZ	Quiz: Bildbereich
+QUIZTYPE_PUZZLEQUIZ	Quiz: Puzzle
+QUIZTYPE_MIXQUIZ	Quiz: Sortieren
+CONNECTING	Verbindung wird hergestellt...
+SYNCHRONIZE	Synchronisieren
+SYNCHRONIZED	Synchronisiert
+CONNECT	Verbinden
+BUBBLESTYLE_NOT_FOUND	Bubble-Stil konnte nicht gefunden werden.
+LOADING_MACROSET	Inhalt und Ressourcen werden geladen.
+ZOOM_LEVEL_NOTIFICATION	Warnung: Ihr Zoomfaktor entspricht nicht 100 %.
+ctx_html.header_title	Kontexthilfe
+ctx_html.introtext	Folgende Hilfeinhalte stehen für den aktuellen Kontext zur Verfügung. Klicken Sie auf das Element, das Sie starten möchten.
+ctx_html.introtext_noresult	Für den aktuellen Kontext ist kein Inhalt verfügbar. Öffnen Sie die library über die Titelzeile oder verwenden Sie die Suchfunktion, um nach weiteren Inhalten zu suchen.
+ctx_html.query_empty	Anfrage leer.
+ctx_html.query_malformed	Anfrage ungültig.
+ctx_html.search	Suchen
+ctx_html.library	library öffnen
+ctx_html.language	Sprache
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Aufnahme
+qr_hint_dlg.dont_bother	Nicht mehr anzeigen
+qr_hint_dlg.hint_end	Beenden Sie die Aufnahme.
+qr_hint_dlg.hint_pause	Halten Sie die Aufnahme an.
+btnOk	Danke
+qr_hint_dlg.hint_title	Aufnahmehinweise
+qr_hint_dlg.audio_help	Nehmen Sie Ihren Text auf, bevor Sie ein Steuerelement auswählen.
+quiz_error_no_template_file	Fehler: Vorlage nicht gefunden. Standard wird verwendet.
+qr_hint_dlg.hint_end_1	Ende-Taste
+qr_hint_dlg.hint_pause_1	Pause-Taste

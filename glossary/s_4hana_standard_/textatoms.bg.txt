@@ -1,0 +1,10 @@
+﻿LESSONPLAYER	trainer
+SHARE_CONTENT	сподели връзката
+SHARE_BY_MAIL	изпращане на имейл
+URL_OF_CURRENT_PAGE	URL
+VOLUME	Обем
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Изпращане на връзка към съдържание
+ERROR_2.h	Инструкторът не може да зареди файл на конфигурация, необходим за правилната функционалност.
+	

@@ -1,0 +1,49 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<title>Internet Explorer’s zone model</title>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+<link type='text/css' href='../css/main.css' rel='stylesheet'>
+<link rel="stylesheet" media="print" href="../css/print.css" type="text/css" /> 
+  <!--[if IE 6]>
+    <link type="text/css" href='../css/alternate.css' rel='stylesheet'>
+  <![endif]-->
+  <!--[if IE]>
+    <link type="text/css" href='../css/ie.css' rel='stylesheet'>
+  <![endif]-->
+<script src='../script/varchars.js' type='text/javascript'></script>
+<script type="text/javascript">
+var bcCurrent = new Array("cdoc!CD_BD6527EAA3F6F194|Settings and Requirements","cdoc!CD_BA8CCDB2E59AA6B4|Settings for Internet Explorer","cdoc!CD_37056C831730E6B1|Internet Explorer’s zone model");
+</script>
+<script src='../script/cnt.js' type='text/javascript'></script>
+</head>
+<body onload='initPage("standard");chkBcheck();' class='print'>
+<div class="borderTop"></div>
+<div class="linksBar contentTopBar" id="linksBar">&nbsp;</div>
+<div class="contentContainer" id="contentContainer">
+<h4>Internet Explorer’s zone model</h4><div id="shortdest" class="txtFrame"></div>
+<div id="dest" class="txtFrame"><p>Security settings are divided into specific zones in Internet Explorer. Internet Explorer distinguishes between four zones: <span class="sap_screenelement">Internet, Local Intranet, Trusted sites</span> and <span class="sap_screenelement">Restricted sites</span>. It is possible to configure the settings in detail for the permitted actions within each zone. In corporate networks, it is generally the administrator who configures these settings in accordance with the company policy. Otherwise, users may also define the settings themselves.</p>
+<p>A document is assigned to a specific zone based on two characteristics:</p>
+<ul>
+<li> <p>Path / URL for documents – The paths/URLs for documents can be configured in Internet Explorer for each of the four zones (<span class="sap_screenelement">Internet, Local Intranet, Trusted sites</span> and <span class="sap_screenelement">Restricted sites</span>). All other paths/URLs are automatically allocated to the zone <span class="sap_screenelement">Internet</span>.</p>
+ </li>
+<li> <p>The file's source (when downloading via the Windows file system) - When a document is downloaded from an external source, the zone that the file was in upon downloading is automatically allocated to the file. In this case, Internet Explorer’s security settings for the zone (<span class="sap_screenelement">ZoneID</span>) detected in the file will apply.</p>
+ </li>
+</ul>
+
+<table cellspacing="0" cellpadding="0"><tr>
+<td><p class="headAttention">Attention:</p>
+<p>To ensure that everything runs smoothly, it is recommended that you verify that the security zone settings for the server as well as for the published contents and the Trainer on the end user's side allow the contents to be played back without any problems.</p>
+</td></tr>
+</table>
+</div>
+<div id='glosDiv'></div>
+<div id='showHistory'></div>
+<!--[if IE 6]>
+    <script type="text/javascript">
+        allowPNGie6();
+    </script>
+<![endif]-->
+</div>
+</body>
+</html>

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>trainer</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, initial-scale=1, user-scalable=no" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="white" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="apple-touch-icon" href="apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png" />
+    
+    <style type="text/css">
+        @CHARSET "UTF-8";
+    
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            color: #000000;
+            background-color: #5B5B5B;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            font-weight: bold;
+            height: 100%;
+            text-align: left;
+            width: 100%;
+        }
+        
+        .error_container {
+            background-color: #FFFFFF;
+            border-radius: 5px;
+            box-shadow: 5px 5px 5px #660000;
+            display: block;
+            height: 200px;
+            left: 50%;
+            margin-left: -380px;
+            margin-top: -117px;
+            position: absolute;
+            top: 50%;
+            width: 750px;
+        }
+        
+        .error_msg {
+            color: #D96F70;
+            font-size: 18px;
+            padding: 70px 15px 10px;
+            text-align: center;
+        }
+        
+        .error_opt {
+            padding: 10px 15px;
+            text-align: center;   
+        }
+    </style>
+    
+    <script type="text/javascript">
+
+        // Redirect from:
+        //   "protocol://{server}/{workarea}/context.html?{parameters}"
+        // to:
+        //   "protocol://{server}/{workarea}/index.html?ctx=1&{parameters}"
+        var loc = self.location;
+        var href = loc.href;
+        var hs = href.indexOf('?') >= 0;
+        var hh = href.indexOf('#') >= 0;
+        var url = href.split(hs || !hh ? '?' : '#')[0];
+
+        // determine separator char
+        var idx1 = url.lastIndexOf('/');
+        var idx2 = url.lastIndexOf('\\');
+        var idx = -1;
+        var st = '/';
+        if (idx1 >= 0) {
+            idx = idx1;
+        } else if (idx2 >= 0) {
+            idx = idx2;
+            st = '\\';
+        }
+
+        // assemble url and execute
+        var params = loc.search ? '&' + loc.search.substr(1) : '';
+        url = url.substr(0, idx >= 0 ? idx : 0);
+        url += st + 'index.html?ctx=1' + params;
+        self.location.href = url;
+
+    </script>
+</head>
+<body>
+    <div class="error_container">
+        <div class="error_msg">JavaScript is turned off.</div>
+        <div class="error_opt">
+            trainer is not available because JavaScript or scripting is turned off. 
+            Please check that you have enough rights to use JavaScript in this domain.
+        </div>
+    </div>
+</body>
+</html>

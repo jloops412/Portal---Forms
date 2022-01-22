@@ -1,0 +1,10 @@
+﻿SHARE_CONTENT	Sdílet odkaz
+SHARE_BY_MAIL	Odeslat e-mail
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Odeslat odkaz na obsah
+ERROR_2.h	Aplikace @{LESSONPLAYER} nemohla načíst nezbytný konfigurační soubor.
+ctx_html.introtext_noresult	Pro aktuální kontext není k dispozici žádný obsah. Otevřete @{LIBRARY} z hlavičky nebo zkuste získat další obsah hledáním.
+ctx_html.library	Otevřít @{LIBRARY}
+	

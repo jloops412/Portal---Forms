@@ -1,0 +1,13 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Compartir vínculo
+SHARE_BY_MAIL	Enviar correo electrónico
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Enviar enlace de contenido
+ERROR_2.h	El instructor no pudo cargar un archivo de configuración necesario para la funcionalidad adecuada.
+ctx_html.introtext_noresult	No hay contenido disponible para el contexto actual. Abra la @{LIBRARY} de la cabecera o use la búsqueda para obtener más contenido.
+ctx_html.library	Abrir @{LIBRARY}
+	

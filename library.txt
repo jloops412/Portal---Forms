@@ -1,0 +1,18 @@
+﻿{
+"categories":{
+}
+,
+"entity_filename":"entity.txt",
+"root":{
+"type":"Ref",
+"tclass":"project",
+"uid":"PR_DE3E8A59CA79C6AF",
+"caption":"Portal - Forms",
+"context_id":"",
+"roles":"",
+"context_info":"",
+"macroset":"standard",
+"filter":[
+"FLT_981A23CD395787BB"]
+}
+}

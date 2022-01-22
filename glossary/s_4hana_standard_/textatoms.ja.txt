@@ -1,0 +1,11 @@
+﻿SHARE_CONTENT	リンクを共有
+SHARE_BY_MAIL	メールを送信
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	コンテキストロール
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	コンテンツ送信リンク
+ERROR_2.h	@{LESSONPLAYER} が適切な機能に必要な設定ファイルをロードできませんでした。
+ctx_html.introtext_noresult	現在のコンテキストに利用できるコンテンツはありません。ヘッダから @{LIBRARY} を開くか検索を使用して、追加コンテンツを取得してください。
+ctx_html.library	@{LIBRARY} を開く
+	

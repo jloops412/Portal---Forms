@@ -1,0 +1,9 @@
+﻿business_process	Äriprotsessid
+process_tutorials	Protsessiõpetused
+guided_tours	Tutvustus
+training_courses	Koolituskursused
+user_assistance	Kasutajaabi
+compliance	Vastavus
+tips_tricks	Näpunäited
+faq	KKK
+misc	Muu

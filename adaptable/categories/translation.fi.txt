@@ -1,0 +1,9 @@
+﻿business_process	Liiketoimintaprosessit
+process_tutorials	Prosessien opetusohjelmat
+guided_tours	Opastetut kierrokset
+training_courses	Koulutuskursseja
+user_assistance	Käyttäjätuki
+compliance	Vaatimustenmukaisuus
+tips_tricks	Vihjeitä
+faq	Usein esitetyt kysymykset
+misc	Sekalaista

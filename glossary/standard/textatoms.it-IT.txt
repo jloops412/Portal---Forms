@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Condividere contenuto
+SHARE_BY_MAIL	Condividere via e-mail
+URL_OF_CURRENT_PAGE	URL della pagina attuale
+TASK	Compito
+GLOSSARY	Glossario
+CONTEXT_INFO	Informazione contesto
+CONTEXT_ROLES	Ruoli
+CONTEXT_ROLES_NOROLES	Visualizzare contesto senza ruoli
+CONTEXT_MY_ROLES	Ruoli utente
+CLOSEBUBBLE	Rimuovere area commento
+MAXBUBBLE	Ripristinare area commento
+MINBUBBLE	Ridurre area commento
+VOLUME	Volume
+SETTINGS	Parametrizzazioni
+CLOSE_TASK	Chiudere @{TASK}
+CLOSE	Chiudere
+EXIT	Uscire
+SELECTION	Selezione
+KEYWORD_SEARCH	Ricerca parole chiave
+SEARCH	Ricerca
+SEARCH_STRING	Ricerca stringa
+KEYWORDS	Parole chiave
+SEARCH_CLEAR	Cancellare inserimento di ricerca
+FILTER	Filtro
+RESOURCES	Risorse
+VIEW	Visualizzare
+CANCEL	Annullare
+CONTINUING	Continuare
+OK	OK
+PLAY	Riprodurre
+PAUSE	Fermare
+BACK	Indietro
+PREVIOUS	Precedente
+NEXT	Successivo
+PLAYING	Riproduzione
+PAUSED	Fermare
+USERINPUT	Immissione
+IDLE	""
+START	Caricamento pagine in corso ...
+RESTART	Riavviare
+TEXT	Testo
+TITLE	Titolo
+MINIMIZE	Ridurre a icona
+RESTORE	Ripristinare
+ACQUIRED_SCORE	Score complessivo
+TEST_RESULT	Risultato
+TESTDETAILS	Visualizzare dettagli
+TESTDETAILS1	Nascondere dettagli
+PRINT	Stampare pagina
+LESSON	Simulazione
+OF	di
+DESCRIPTION	Descrizione
+FULLSCREEN	Schermo intero
+TOGGLE_TASKINFO	Vis./Nascondere descrizione compito
+PANEL_VIEWMODE	Sessione di visualizzazione pannello
+PANEL_TOGGLE	Visualizzare/Nascondere pannello
+PANEL	Barra laterale/Tutti i contenuti
+BOOKMARK_FAVORITE	Preferito
+CONTENT	Area contenuto/playback
+TOC	Indice dei contenuti
+FAVORITES	Preferiti
+RECENT	Storico pagine navigate
+QRCODE	Codice QR
+QR_URL_TOO_BIG	URL troppo estesa. Impossibile generare codice QR
+CTRLKEY	CTRL
+ALTKEY	ALT
+SHIFTKEY	MAIUSC
+AUDIO_MUTE	Audio OFF
+AUDIO_PLAY	Riprodurre audio
+AUDIO_PAUSE	Mettere l'audio in pausa
+AUDIO_ON	Audio ON
+AUDIO_OFF	Audio OFF
+CHANNEL_MASTER	Principale
+CHANNEL_BOOKSOUND	Suono del libro
+CHANNEL_NARRATIVE	Narrativo
+CHANNEL_EFFECTS	Effetti
+LIB_NOMATCH	Nessun risultato trovato.
+LIB_NOFILTER	Nessun filtro
+LIBFLAG_NEWWIN	Aprire il contenuto in una nuova finestra
+LIBFLAG_TITLE	Ricerca titolo
+LIBFLAG_SHORTDESC	Ricerca breve descrizione
+LIBFLAG_DESC	Ricerca descrizione
+LIBFLAG_KEYW	Ricerca parole chiave
+LIBFLAG_SLIDES	Cercare contenuto pagina libro
+GUI_TOP_BAR	Barra in alto
+GUI_BOTTOM_BAR	Barra in basso
+ORIENTATION_TOGGLE_TOP	Barra in alto
+ORIENTATION_TOGGLE_BOTTOM	Barra in basso
+FEEDBACK	Feedback all'autore
+FEEDBACK_TITLE	Il vostro feedback
+FEEDBACK_QUESTION	Avete commenti su questa simulazione?
+FEEDBACK_MISTAKE	Ho trovato un errore
+FEEDBACK_COMMENTS	Ho dei suggerimenti, delle richieste
+FEEDBACK_SEND	Inviare feedback
+SEND_CONTENT	Condividere contenuto
+SEND_CONTENT_SUBJECT	Contenuto consigliato
+SEND_CONTENT_TEMPLATE	Buongiorno,\n\nQuesto contenuto potrebbe interessarLa. \n\nDidascalia: @{SEND_CAPTION}\nCollegamento: @{SEND_LINK}\n\nCordiali saluti,\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Si è verificato un errore. Rivolgersi al proprio amministratore.
+ERROR_GENERAL	Errore interno
+ERROR_1	Un blocco pop-up impedisce la riproduzione della simulazione
+ERROR_1.h	Un blocco pop-up ha impedito l'apertura di una nuova finestra del browser. Chiudere il blocco pop-up o disattivarlo per questo dominio.
+ERROR_2	Impossibile caricare il file di configurazione necessario.
+ERROR_2.h	@{LESSONPLAYER} non ha potuto caricare un file di configurazione richiesto per il funzionamento corretto.
+SCORM_LOCATION_ERROR	Impossibile salvare i progressi a causa di una funzione mancante nel proprio sistema LMS
+RESTART_COMPLETED_LMS_LESSON	Si sta per aprire una simulazione già conclusa o superata con successo. Tutti i precedenti punteggi verranno riportati a 0 e sarà deselezionato l'indicatore Concluso o Superato. Avviare comunque?
+RESTART_Av_LMS_LESSON	Si sta per aprire una simulazione già conclusa o superata con successo. Tutti i precedenti punteggi verranno riportati a 0 e sarà deselezionato l'indicatore Concluso o Superato. Fare clic su 'OK' per riavviare o 'Annullare' per chiudere?
+BOOK_NEXT_CHAPTER	Capitolo successivo
+BOOK_PREV_CHAPTER	Capitolo precedente
+BOOK_NEXT_PAGE	Pagina successiva
+BOOK_PREV_PAGE	Pagina precedente
+BOOK_INDEX_PAGE	Pagina iniziale
+SLIDE_MOREINFO	Ulteriori informazioni
+SLIDE_TIPS	Suggerimenti
+SLIDE_ATTACH	Allegati
+SLIDE_SHOWATTACH	Visualizzare allegati
+SLIDE_OPEN	Aprire
+SLIDE_ADD	Aggiungere
+SLIDE_EDIT	Elaborare
+SLIDE_DELETE	Eliminare
+SLIDE_BUTTONAREA	Barra riproduzione
+HELP	Guida
+HELP_REGION_BAR	Shortcuts: premere per evidenziare la barra player
+HELP_REGION_PANEL	Premere per evidenziare la  barra laterale
+HELP_REGION_CONTENT	Premere per evidenziare il contenuto
+HELP_LIBRARY	Visualizzare guida @{LIBRARY}
+HELP_TRAINER	Visualizzare guida @{LESSONPLAYER}
+HELP_BOOK	Visualizzare guida @{BOOKPLAYER}
+DEMO_START	Modalità Demo
+DEMO_START1	Nella modalità demo è possibile osservare l'esecuzione di un'attività all'interno dell'applicazione. Seguire semplicemente la simulazione; tutte le fasi saranno eseguite automaticamente.
+DEMO_START2	Per sospendere o arrestare la dimostrazione, è possibile utilizzare la barra di navigazione situata nella parte inferiore della videata. Inoltre è possibile passare alla fase successiva oppure tornare indietro alla fase precedente.
+DEMO_STOP	La modalità demo è terminata.
+CONCURRENT_START	Modalità Simultanea
+CONCURRENT_START1	La modalità simultanea spiega passo passo come completare un compito all'interno dell'applicazione.
+CONCURRENT_START2	La simulazione è interrotta dopo ogni fase per consentire all'utente di completare la fase nell'applicazione reale
+CONCURRENT_STOP	La modalità simultanea è terminata.
+PRACTICE_START	Modalità esercizio
+PRACTICE_START1	In modalità esercizio è possibile mettere alla prova quanto appreso completando il compito all'interno dell'applicazione
+PRACTICE_START2	È sufficiente seguire le istruzioni passo passo
+PRACTICE_STOP	La modalità esercitazione è terminata
+TEST_START	Modalità test
+TEST_START1	In modalità test è possibile mettere alla prova le proprie conoscenze risolvendo da soli un compito all'interno dell'applicazione: A parte i dati di esempio da inserire, non saranno fornite istruzioni passo passo. L'intero compito è descritto nella finestra dei compiti, le cui dimensioni possono essere ingrandite o ridotte, secondo necessità, per mezzo dei pulsanti nella barra del titolo.
+TEST_START2	Al termine del test si riceve un punteggio basato sul numero di passaggi completati correttamente. Questo punteggio è utile per l'autovalutazione nell'area dei compiti.
+TEST_START3	Eseguire le azioni con la massima precisione, in quanto il sistema registra gli errori di scrittura e i clic sbagliati, a discapito del punteggio finale. Se, per un passaggio, si chiede assistenza al sistema, si perdono i punti previsti per il passaggio stesso.
+TEST_START4	Il punteggio viene visualizzato alla fine del test. Cercare di ottenere il punteggio target di @{res_mastery_percent}
+TEST_OK	Test superato
+TEST_OK1	Congratulazioni per aver completato con successo questo compito.
+TEST_FAILED	Test non superato
+TEST_FAILED1	Il punteggio ottenuto è inferiore al @{res_mastery_percent}% del totale possibile; si raccomanda di ripassare il contenuto del corso e di rimettere poi alla prova quanto appreso in modalità test.
+TEST_FINISHED	Il test è solamente un'autovalutazione. Il punteggio non verrà né memorizzato, né trasmesso a terzi.
+TEST_SCORE	Punteggio
+TEST_SCOREVALUE	@{res_collected_points} di @{res_possible_points}
+FREEPRESENTATION_START	Modalità di presentazione libera
+FREEPRESENTATION_START1	La modalità di presentazione libera consente di eseguire un processo all'interno della simulazione
+FREEPRESENTATION_START2	Eseguire le azioni passo dopo passo; utilizzare il tasto F1 per l'help
+FREEPRESENTATION_STOP	Presentazione libera terminata
+GUIDEDPRESENTATION_START	Modalità di presentazione guidata
+GUIDEDPRESENTATION_START1	La modalità di presentazione guidata esegue un processo all'interno della simulazione automaticamente. Un puntatore del mouse e un'evidenziazione mostrano la fase attuale.
+GUIDEDPRESENTATION_START2	Seguire le azioni passo dopo passo e confermare successivamente ogni azione
+GUIDEDPRESENTATION_STOP	Presentazione guidata terminata
+EXER_FAIL1	L'operazione eseguita non è corretta.
+EXER_FAIL2	L'azione eseguita non è corretta. 1 punto verrà detratto dallo score complessivo. Punti rimanenti per questa azione: @1_rest-points_.
+EXER_FAIL3	L'azione eseguita non è corretta. 1 punto verrà detratto dallo score complessivo per ogni errore. Punti rimanenti per questa azione: @1_rest-points_.
+EXER_FAILKEY1	È stato premuto il tasto @1_key_.
+EXER_FAILKEY2	I tasti funzione che possono essere utilizzati sono: @1_keys_.
+EXER_FAILRADIO	Tutti i pulsanti validi sono evidenziati.
+EXER_FAILINPUT	Tutte le caselle di testo valide sono evidenziate.
+EXER_FAILSELECT	Tutte le caselle di selezione valide sono evidenziate.
+EXER_FAILDRAG	È stata eseguita un'operazione di trascinamento @1_keys_ non valida.
+EXER_FAILDRAG1	Eseguire un'operazione di trascinamento @1_keys_ entro l'area evidenziata.
+EXER_FAILDROP	È stata eseguita un'operazione di rilascio @1_keys_ non valida.
+EXER_FAILDROP1	Eseguire un'operazione di rilascio @1_keys_ entro l'area evidenziata.
+EXER_FAILDBLCLICK	È stato eseguito un doppio clic @1_keys_ non valido.
+EXER_FAILDBLCLICK1	Eseguire un doppio clic @1_keys_ entro l'area evidenziata.
+EXER_FAILCLICK	L'utente @1_keys_ ha fatto clic su un'area non valida.
+EXER_FAILCLICK1	Tutte le aree valide sono evidenziate.
+EXER_FAILCLICK2	È stato eseguito un clic @1_keys_ non valido.
+EXER_FAILCLICK3	Eseguire un clic @1_keys_ entro l'area evidenziata.
+EXER_FAILENTER	È stato eseguito un mouseover @1_keys_ non valido.
+EXER_FAILENTER1	Eseguire un mouseover @1_keys_ entro l'area evidenziata.
+EXER_FAILMCLICK	Non è consentito nessun middle-clic su @1_keys_.
+EXER_WOULDGOON	(Nota: in caso contrario si prosegue automaticamente)
+EXER_YOURINPUT	L'utente ha inserito "@1_input_".
+EXER_TEXTINPUT	Inserire "@1" nel campo "@2".
+EXER_SELECT	Selezionare la voce "@1".
+EXER_GOON	Procedere al passaggio successivo
+EXER_SHOWHELP	Sì, visualizzare la guida
+EXER_TRYAGAIN	Riprovare
+EXER_ASK4HELP	Serve aiuto?
+EXER_ONLY_VALID	Le operazioni consentite sono:
+EXER_FORM_PREFIX	Inserire i seguenti valori:
+EXER_OR	o
+EXER_AND	e
+SCORE	Punteggio
+SCORE_REDUCED	I punti possibili per questo passaggio si riducono a
+TOUR_START	Avvio simulazione
+TOUR_STOP	Interruzione simulazione
+TOUR_END	Arresto simulazione
+TOUR_PLAY	Pulsante Continuare
+TOUR_JUMP	Eseguito passaggio ad un'altra fase all'interno della simulazione
+TOUR_PREV	Indietro
+TOUR_NEXT	Successivo
+USER_ACTION_CORRECT_ACTION	Il partecipante ha eseguito correttamente il passaggio.
+USER_ACTION_WRONG_ACTION	Il partecipante ha commesso un errore.
+USER_ACTION_GOON	Il partecipante ha fatto clic su "Continuare"; nessun punto per questo passaggio
+USER_ACTION_GOON_AUTO	Proseguimento automatico della simulazione dato il numero di errori
+USER_ACTION_HELP	Il partecipante ha visualizzato la guida; nessun punto per questo passaggio
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Il partecipante ha aperto una casella di testo.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Il partecipante ha chiuso una casella di testo.
+QUIZ_CORRECT_RESPONSE	Risposta esatta
+QUIZ_STUDENT_RESPONSE	Risposta del partecipante
+QUIZ_LATENCY	Tempo
+QUIZ_SCORE	Score complessivo
+QUIZ_REQ_SCORE	Score richiesto
+QUIZ_MAX_SCORE	Score massimo
+QUIZ_TIMEOUT_REACHED	Timeout raggiunto
+QUIZTYPE_MCHOICE	Quiz: scelta multipla
+QUIZTYPE_SQMAQUIZ	Quiz: compilare i campi
+QUIZTYPE_FIBQUIZ	Quiz: compilare gli spazi vuoti
+QUIZTYPE_MATCHQUIZ	Quiz: effettuare corrispondenze
+QUIZTYPE_CONNQUIZ	Quiz: connessione
+QUIZTYPE_SCALEQUIZ	Quiz: cursore
+QUIZTYPE_GRIDQUIZ	Quiz: griglia
+QUIZTYPE_HOTSPOTQUIZ	Quiz: area sensibile
+QUIZTYPE_PUZZLEQUIZ	Quiz: puzzle
+QUIZTYPE_MIXQUIZ	Quiz: ordinamento
+CONNECTING	Connessione in corso...
+SYNCHRONIZE	Sincronizzare
+SYNCHRONIZED	Sincronizzato
+CONNECT	Connettere
+BUBBLESTYLE_NOT_FOUND	Stile area commento non trovato
+LOADING_MACROSET	Download di contenuto e risorse in corso
+ZOOM_LEVEL_NOTIFICATION	Avviso: Il livello di zoom applicato è diverso da 100%.
+ctx_html.header_title	Guida contesto
+ctx_html.introtext	I seguenti contenuti della guida sono disponibili per il contesto corrente. Fare clic sull'elemento da avviare
+ctx_html.introtext_noresult	Nessun contenuto disponibile per il contesto corrente. Aprire la library dalla testata o utilizzare la ricerca per ottenere altro contenuto
+ctx_html.query_empty	Query vuota
+ctx_html.query_malformed	Query non valida
+ctx_html.search	Cercare
+ctx_html.library	Aprire library
+ctx_html.language	Lingua
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Registrazione
+qr_hint_dlg.dont_bother	Non visualizzare più
+qr_hint_dlg.hint_end	Concludere la registrazione.
+qr_hint_dlg.hint_pause	Sospendere la registrazione.
+btnOk	Grazie
+qr_hint_dlg.hint_title	Note di registrazione
+qr_hint_dlg.audio_help	Registrare il proprio testo prima di selezionare un controllo.
+quiz_error_no_template_file	Errore: file modello non trovato. Sarà utilizzato default.
+qr_hint_dlg.hint_end_1	Tasto FINE
+qr_hint_dlg.hint_pause_1	Tasto PAUSA

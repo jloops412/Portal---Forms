@@ -1,0 +1,9 @@
+﻿business_process	Verslo procesai
+process_tutorials	Proceso mokomoji medžiaga
+guided_tours	Interaktyvusis žinynas
+training_courses	Mokymų programos
+user_assistance	Vartotojo pagalba
+compliance	Atitiktis
+tips_tricks	Patarimai ir gudrybės
+faq	DUK
+misc	Įvairūs

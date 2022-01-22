@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Del innhold
+SHARE_BY_MAIL	Del via e-post
+URL_OF_CURRENT_PAGE	URL for aktuell side
+TASK	Oppgave
+GLOSSARY	Glossar
+CONTEXT_INFO	Kontekstinformasjon
+CONTEXT_ROLES	Roller
+CONTEXT_ROLES_NOROLES	Vis kontekst uten roller
+CONTEXT_MY_ROLES	Mine roller
+CLOSEBUBBLE	Lukk boble
+MAXBUBBLE	Gjenopprett boble
+MINBUBBLE	Minimer boble
+VOLUME	Volum
+SETTINGS	Innstillinger
+CLOSE_TASK	Lukk @{TASK}
+CLOSE	Avslutt
+EXIT	Avslutt
+SELECTION	Utvalg
+KEYWORD_SEARCH	Nøkkelordsøk
+SEARCH	Søk
+SEARCH_STRING	Søkestreng
+KEYWORDS	Nøkkelord
+SEARCH_CLEAR	Tilbakestill søk
+FILTER	Filter
+RESOURCES	Ressurser
+VIEW	Vis
+CANCEL	Annuller
+CONTINUING	Fortsett
+OK	OK
+PLAY	Spill av
+PAUSE	Pause
+BACK	Tilbake
+PREVIOUS	Forrige
+NEXT	Neste
+PLAYING	Spiller av
+PAUSED	Pause
+USERINPUT	Inndata
+IDLE	""
+START	Laster inn side...
+RESTART	Start på nytt
+TEXT	Tekst
+TITLE	Tittel
+MINIMIZE	Minimer
+RESTORE	Gjenopprett
+ACQUIRED_SCORE	Oppnådd poengsum
+TEST_RESULT	Resultat
+TESTDETAILS	Vis detaljer
+TESTDETAILS1	Skjul detaljer
+PRINT	Skriv ut side
+LESSON	Simulering
+OF	av
+DESCRIPTION	Beskrivelse
+FULLSCREEN	Fullt skjermbilde
+TOGGLE_TASKINFO	Vis/skjul oppgavebeskrivelse
+PANEL_VIEWMODE	Panelvisningsmodus
+PANEL_TOGGLE	Vis/skjul panel
+PANEL	Sidepanel / alt innhold
+BOOKMARK_FAVORITE	Favoritt
+CONTENT	Innhold/avspillingsområde
+TOC	Innholdsfortegnelse
+FAVORITES	Favoritter
+RECENT	Sidehistorikk
+QRCODE	QR-kode
+QR_URL_TOO_BIG	URL for lang - kan ikke generere QR-kode
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Skift
+AUDIO_MUTE	Dempet lyd
+AUDIO_PLAY	Spill av lyd
+AUDIO_PAUSE	Stopp lyd
+AUDIO_ON	Lyd på
+AUDIO_OFF	Lyd av
+CHANNEL_MASTER	Master
+CHANNEL_BOOKSOUND	Boklyd
+CHANNEL_NARRATIVE	Kommentarspor
+CHANNEL_EFFECTS	Effekt
+LIB_NOMATCH	Ingen match
+LIB_NOFILTER	Ingen filter
+LIBFLAG_NEWWIN	Åpne innhold i nytt vindu
+LIBFLAG_TITLE	Søk etter tittel
+LIBFLAG_SHORTDESC	Søk etter kort beskrivelse
+LIBFLAG_DESC	Søkebeskrivelse
+LIBFLAG_KEYW	Søk etter nøkkelord
+LIBFLAG_SLIDES	Søk etter boksideinnhold
+GUI_TOP_BAR	Øverste felt
+GUI_BOTTOM_BAR	Nederste felt
+ORIENTATION_TOGGLE_TOP	Øverste felt
+ORIENTATION_TOGGLE_BOTTOM	Nederste felt
+FEEDBACK	Tilbakemelding til forfatter
+FEEDBACK_TITLE	Tilbakemeldingen din
+FEEDBACK_QUESTION	Har du kommentarer til simuleringen?
+FEEDBACK_MISTAKE	Jeg har oppdaget en feil
+FEEDBACK_COMMENTS	Jeg har kommentarer, ønsker
+FEEDBACK_SEND	Send tilbakemelding
+SEND_CONTENT	Del innhold
+SEND_CONTENT_SUBJECT	Anbefalt innhold
+SEND_CONTENT_TEMPLATE	Hei,\n\nDette innholdet kan kanskje være av interesse. \n\nOverskrift: @{SEND_CAPTION}\nLenke: @{SEND_LINK}\n\nVennlig hilsen\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Det har oppstått en feil. Kontakt administrator.
+ERROR_GENERAL	Intern feil
+ERROR_1	En popup-blokkering hindrer avspilling av simuleringen
+ERROR_1.h	Popup-blokkering hindrer åpning av et nytt nettleservindu. Lukk popup-blokkeringen eller slå den av for dette domenet.
+ERROR_2	Kan ikke laste inn nødvendig konfigurasjonsfil
+ERROR_2.h	@{LESSONPLAYER} kan ikke laste en konfigurasjonsfil som er nødvendig for riktig funksjonalitet.
+SCORM_LOCATION_ERROR	Kan ikke lagre fremdriften din fordi denne funksjonen støttes ikke av LMS-systemet
+RESTART_COMPLETED_LMS_LESSON	Du starter en simulering som er avsluttet eller bestått. Alle poeng tilbakestilles til 0, og indikatoren "avsluttet" eller "bestått" blir fjernet. Vil du starte den på nytt likevel?
+RESTART_Av_LMS_LESSON	Du starter en simulering som er avsluttet eller bestått. Alle poeng tilbakestilles til 0, og indikatoren "avsluttet" eller "bestått" blir fjernet. Klikk på 'OK' for å starte på nytt eller 'Avbryt' for å lukke.
+BOOK_NEXT_CHAPTER	Neste kapittel
+BOOK_PREV_CHAPTER	Forrige kapittel
+BOOK_NEXT_PAGE	Neste side
+BOOK_PREV_PAGE	Forrige side
+BOOK_INDEX_PAGE	Startside
+SLIDE_MOREINFO	Mer informasjon
+SLIDE_TIPS	Tips
+SLIDE_ATTACH	Vedlegg
+SLIDE_SHOWATTACH	Vis vedlegg
+SLIDE_OPEN	Åpne
+SLIDE_ADD	Legg til
+SLIDE_EDIT	Rediger
+SLIDE_DELETE	Slett
+SLIDE_BUTTONAREA	Avspillingsfelt
+HELP	Hjelp
+HELP_REGION_BAR	Snarveier: Trykk for å fokusere avspillingsfeltet
+HELP_REGION_PANEL	Trykk for å fokusere sidepanelet
+HELP_REGION_CONTENT	Trykk for å fokusere innholdet
+HELP_LIBRARY	Vis @{LIBRARY}-hjelp
+HELP_TRAINER	Vis @{LESSONPLAYER}-hjelp
+HELP_BOOK	Vis @{BOOKPLAYER}-hjelp
+DEMO_START	Demomodus
+DEMO_START1	I demomodus kan du se hvordan en aktivitet utføres i applikasjonen. Bare følg simuleringen - alle trinn utføres automatisk.
+DEMO_START2	Du kan bruke navigeringslinjen nederst til skjermbildet hvis du vil stoppe demoen eller sette den på pause. Du kan også hoppe til neste trinn eller gå tilbake til forrige trinn.
+DEMO_STOP	Demomodus er avsluttet
+CONCURRENT_START	Parallell modus
+CONCURRENT_START1	Parallell modus viser deg trinn-for-trinn hvordan du skal uføre en oppgave i applikasjonen
+CONCURRENT_START2	Simuleringen avbrytes etter hvert trinn, slik at du kan fullføre trinnet i applikasjonen
+CONCURRENT_STOP	Parallell modus er avsluttet
+PRACTICE_START	Øvingsmodus
+PRACTICE_START1	I øvingsmodus kan du teste det du har lært ved å løse oppgaven i selve applikasjonen
+PRACTICE_START2	Bare følg trinn-for-trinn-instruksjonene
+PRACTICE_STOP	Øvingsmodus er avsluttet
+TEST_START	Testmodus
+TEST_START1	I testmodus kan du teste kunnskapene dine ved å løse en oppgave i applikasjonen på egenhånd: Bortsett fra eksempeldataene du må oppgi, vil du ikke få noen trinn-for-trinn-instruksjoner. Hele oppgaven er beskrevet i oppgavevinduet. Dette vinduet kan du utvide eller minimere etter behov ved hjelp av knappene på tittellinjen.
+TEST_START2	På slutten av testen får du en poengsum basert på antall trinn som er utført korrekt. Med denne poengsummen kan du vurdere egen kunnskap om oppgaveområdet.
+TEST_START3	Vær oppmerksom på at systemet registrerer alle feilskrevne oppføringer og feil klikk. Poengsummen reduseres tilsvarende, så vær nøye med hva du gjør. Hvis du velger å få veiledning fra systemet for å fullføre et trinn, blir poengsummen din for dette trinnet satt til null.
+TEST_START4	Den totale poengsummen vises på slutten av testen. Du bør prøve å oppnå målpoengsummen på @{res_mastery_percent} prosent.
+TEST_OK	Test bestått
+TEST_OK1	Gratulerer, du har fullført denne oppgaven
+TEST_FAILED	Test ikke bestått
+TEST_FAILED1	Fordi du fikk mindre enn @{res_mastery_percent} prosent av mulig maksimumspoengsum, anbefaler vi at du går gjennom innholdet i dette kurset en gang til og deretter tester kunnskapene dine i testmodus.
+TEST_FINISHED	Dette var en selvtest. Resultatene blir ikke registrert eller sendt til en tredjepart.
+TEST_SCORE	Poengsum
+TEST_SCOREVALUE	@{res_collected_points} av @{res_possible_points}
+FREEPRESENTATION_START	Fri presentasjonsmodus
+FREEPRESENTATION_START1	Med den frie presentasjonsmodusen kan du utføre en prosess i simuleringen.
+FREEPRESENTATION_START2	Utfør aktivitetene trinn for trinn. Bruk F1 for å få hjelp.
+FREEPRESENTATION_STOP	Fri presentasjon er fullført.
+GUIDEDPRESENTATION_START	Veiledet presentasjonsmodus
+GUIDEDPRESENTATION_START1	I veiledet presentasjonsmodus utføres en prosess i simuleringen automatisk. En musepeker og en utheving viser det aktuelle trinnet.
+GUIDEDPRESENTATION_START2	Følg aktivitetene trinn for trinn og bekreft hver aktivitet etterpå.
+GUIDEDPRESENTATION_STOP	Veiledet presentasjon er fullført.
+EXER_FAIL1	Aktiviteten du utførte var feil
+EXER_FAIL2	Handlingen du utførte, var ikke korrekt. 1 poeng trekkes fra den totale poengsummen. Gjenstående poeng for denne handlingen: @1_rest-points_.
+EXER_FAIL3	Handlingen du utførte, var ikke korrekt. For hver feil trekkes det 1 poeng fra den totale poengsummen. Gjenstående poeng for denne handlingen: @1_rest-points_.
+EXER_FAILKEY1	Du trykket på tasten @1_key_.
+EXER_FAILKEY2	Du kan bruke følgende funksjonstaster: @1_keys_.
+EXER_FAILRADIO	Alle gyldige knapper er uthevet
+EXER_FAILINPUT	Alle gyldige tekstområder er uthevet
+EXER_FAILSELECT	Alle gyldige utvalgsbokser er uthevet
+EXER_FAILDRAG	Du utførte en ugyldig @1_keys_ dra-operasjon.
+EXER_FAILDRAG1	Utfør en @1_keys_ dra-operasjon innenfor det uthevede området.
+EXER_FAILDROP	Du utførte en ugyldig @1_keys_ slipp-operasjon.
+EXER_FAILDROP1	Utfør en @1_keys_ slipp-operasjon innenfor det uthevede området.
+EXER_FAILDBLCLICK	Du utførte et ugyldig @1_keys_ dobbeltklikk.
+EXER_FAILDBLCLICK1	Utfør et @1_keys_ dobbeltklikk innenfor det uthevede området.
+EXER_FAILCLICK	Du @1_keys_ klikket på et ugyldig område.
+EXER_FAILCLICK1	Alle gyldige områder er uthevet
+EXER_FAILCLICK2	Du utførte et ugyldig @1_keys_ klikk.
+EXER_FAILCLICK3	Utfør et @1_keys_ klikk innenfor det uthevede området.
+EXER_FAILENTER	Du utførte en ugyldig @1_keys_ mouseover.
+EXER_FAILENTER1	Utfør en @1_keys_ mouseover innenfor det uthevede området.
+EXER_FAILMCLICK	@1_keys_ klikk i midten er ikke gyldig.
+EXER_WOULDGOON	(Merknad: Fortsetter ellers automatisk)
+EXER_YOURINPUT	Du har oppgitt "@1_input_".
+EXER_TEXTINPUT	Oppgi "@1" i inntastingsfeltet "@2".
+EXER_SELECT	Velg oppføring "@1".
+EXER_GOON	Gå til neste trinn
+EXER_SHOWHELP	Ja, vis hjelp
+EXER_TRYAGAIN	Prøv på nytt
+EXER_ASK4HELP	Trenger du hjelp?
+EXER_ONLY_VALID	Gyldige aktiviteter er:
+EXER_FORM_PREFIX	Oppgi følgende verdier:
+EXER_OR	eller
+EXER_AND	og
+SCORE	Poengsum
+SCORE_REDUCED	Mulig poengsum for dette trinnet redusert til
+TOUR_START	Start av simulering
+TOUR_STOP	Avbryt simulering
+TOUR_END	Slutt på simulering
+TOUR_PLAY	Fortsett-knapp
+TOUR_JUMP	Hoppet til et annet trinn i simuleringen
+TOUR_PREV	Tilbake
+TOUR_NEXT	Neste
+USER_ACTION_CORRECT_ACTION	Deltakeren har uført dette trinnet
+USER_ACTION_WRONG_ACTION	Deltakeren gjorde en feil
+USER_ACTION_GOON	Deltakeren klikket på "Fortsett", ingen poeng for dette trinnet
+USER_ACTION_GOON_AUTO	Pga. antall feil fortsatte simuleringen automatisk
+USER_ACTION_HELP	Deltakeren ba om hjelp, ingen poeng for dettet trinnet
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Deltakeren åpnet et tekstfelt
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Deltakeren lukket et tekstfelt
+QUIZ_CORRECT_RESPONSE	Riktig svar
+QUIZ_STUDENT_RESPONSE	Deltakerens svar
+QUIZ_LATENCY	Tid
+QUIZ_SCORE	Oppnådd poengsum
+QUIZ_REQ_SCORE	Nødvendig poengsum
+QUIZ_MAX_SCORE	Maks. poengsum
+QUIZ_TIMEOUT_REACHED	Det oppstod et tidsavbrudd
+QUIZTYPE_MCHOICE	Quiz: Flervalg
+QUIZTYPE_SQMAQUIZ	Quiz: Fyll ut feltene
+QUIZTYPE_FIBQUIZ	Quiz: Utfyllingstekst
+QUIZTYPE_MATCHQUIZ	Quiz: Tilordning
+QUIZTYPE_CONNQUIZ	Quiz: Forbindelse
+QUIZTYPE_SCALEQUIZ	Quiz: Glidekontroll
+QUIZTYPE_GRIDQUIZ	Quiz: Rutenett
+QUIZTYPE_HOTSPOTQUIZ	Quiz: Bildeområde
+QUIZTYPE_PUZZLEQUIZ	Quiz: Puslespill
+QUIZTYPE_MIXQUIZ	Quiz: Sortering
+CONNECTING	Kobler til ...
+SYNCHRONIZE	Synkroniser
+SYNCHRONIZED	Synkronisert
+CONNECT	Koble til
+BUBBLESTYLE_NOT_FOUND	Finner ikke bobletype
+LOADING_MACROSET	Laster innhold og ressurser
+ZOOM_LEVEL_NOTIFICATION	Advarsel: Zoomfaktoren din er ikke 100%.
+ctx_html.header_title	Konteksthjelp
+ctx_html.introtext	Følgende hjelpeinnhold er tilgjengelig for aktuell kontekst. Klikk på elementet som du vil starte.
+ctx_html.introtext_noresult	Innhold er ikke tilgj. for aktuell kontekst. Åpne biblioteket fra tittellinjen eller bruk søkefunk. for å hente mer innhold.
+ctx_html.query_empty	Spørring er tom
+ctx_html.query_malformed	Spørring er ugyldig
+ctx_html.search	Søk
+ctx_html.library	Åpne bibliotek
+ctx_html.language	Språk
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Opptak
+qr_hint_dlg.dont_bother	Ikke vis flere ganger
+qr_hint_dlg.hint_end	Fullfør innspillingen.
+qr_hint_dlg.hint_pause	Sett innspillingen på pause.
+btnOk	Takk
+qr_hint_dlg.hint_title	Innspillingstips
+qr_hint_dlg.audio_help	Spill inn teksten før du velger en kontroll.
+quiz_error_no_template_file	Feil: Finner ikke malfilen. Standard vil bli brukt.
+qr_hint_dlg.hint_end_1	END-tasten
+qr_hint_dlg.hint_pause_1	PAUSE-tasten

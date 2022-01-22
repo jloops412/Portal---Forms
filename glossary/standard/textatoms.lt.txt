@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Dalytis turiniu
+SHARE_BY_MAIL	Dalytis el. paštu
+URL_OF_CURRENT_PAGE	Dabartinio puslapio URL
+TASK	Užduotis
+GLOSSARY	Terminų žodynas
+CONTEXT_INFO	Konteksto informacija
+CONTEXT_ROLES	Vaidmenys
+CONTEXT_ROLES_NOROLES	Rodyti kontekstą, kuris neturi vaidmenų
+CONTEXT_MY_ROLES	Mano vaidmenys
+CLOSEBUBBLE	Uždaras burbulas
+MAXBUBBLE	Atkurti burbulą
+MINBUBBLE	Minimizuoti burbulą
+VOLUME	Apimtis
+SETTINGS	Parametrai
+CLOSE_TASK	uždaryti @{TASK}
+CLOSE	Uždaryti
+EXIT	Išeiti
+SELECTION	Pasirinkimas
+KEYWORD_SEARCH	Raktinių žodžių ieška
+SEARCH	Ieškoti
+SEARCH_STRING	Ieškoti eilutėje
+KEYWORDS	Raktažodžiai
+SEARCH_CLEAR	Valdyti ieškos įvestį
+FILTER	Filtruoti
+RESOURCES	Ištekliai
+VIEW	Peržiūrėti
+CANCEL	Atšaukti
+CONTINUING	Tęsti
+OK	Gerai
+PLAY	Atkurti
+PAUSE	Pristabdyti
+BACK	Atgal
+PREVIOUS	Ankstesnis
+NEXT	Paskesnis
+PLAYING	Atkuriama
+PAUSED	Pristabdyti
+USERINPUT	Įvestis
+IDLE	„“
+START	Įkeliamas puslapis...
+RESTART	Paleisti iš naujo
+TEXT	Tekstas
+TITLE	Pavadinimas
+MINIMIZE	Minimizuoti
+RESTORE	Atkurti
+ACQUIRED_SCORE	Gautas įvertinimas
+TEST_RESULT	Rezultatas
+TESTDETAILS	Rodyti išsamią informaciją
+TESTDETAILS1	Slėpti išsamią informaciją
+PRINT	Spausdinti puslapį
+LESSON	Modeliavimas
+OF	iš
+DESCRIPTION	Aprašas
+FULLSCREEN	Per visą ekraną
+TOGGLE_TASKINFO	Rodyti / slėpti užduoties aprašą
+PANEL_VIEWMODE	Skydo rodymo režimas
+PANEL_TOGGLE	Rodyti / slėpti skydą
+PANEL	Šoninė juosta / Visas turinys
+BOOKMARK_FAVORITE	Parankinis
+CONTENT	Turinys / Atkūrimo sritis
+TOC	Turinys
+FAVORITES	Parankiniai
+RECENT	Puslapio istorija
+QRCODE	QR kodas
+QR_URL_TOO_BIG	URL per ilgas. Negalima sugenruoti QR kodo.
+CTRLKEY	ctrl
+ALTKEY	alternatyvus
+SHIFTKEY	shift
+AUDIO_MUTE	Nutildyti garsą
+AUDIO_PLAY	Paleisti garso failą
+AUDIO_PAUSE	Pristabdyti garso failą
+AUDIO_ON	Garsas įjungtas
+AUDIO_OFF	Garsas išjungtas
+CHANNEL_MASTER	Pagrindinis
+CHANNEL_BOOKSOUND	Knygos garsas
+CHANNEL_NARRATIVE	Pasakojimas
+CHANNEL_EFFECTS	Efektai
+LIB_NOMATCH	Rezultatų nėra
+LIB_NOFILTER	Filtro nėra
+LIBFLAG_NEWWIN	Atidaryti turinį naujame lange
+LIBFLAG_TITLE	Ieškoti pavadinimo
+LIBFLAG_SHORTDESC	Ieškoti trumpojo aprašo
+LIBFLAG_DESC	Ieškoti aprašo
+LIBFLAG_KEYW	Ieškoti raktinių žodžių
+LIBFLAG_SLIDES	Ieškoti knygos puslapio turinio
+GUI_TOP_BAR	Viršutinė juosta
+GUI_BOTTOM_BAR	Apatinė juosta
+ORIENTATION_TOGGLE_TOP	Viršutinė juosta
+ORIENTATION_TOGGLE_BOTTOM	Apatinė juosta
+FEEDBACK	Autoriui skirtas atsiliepimas
+FEEDBACK_TITLE	Jūsų atsiliepimas
+FEEDBACK_QUESTION	Ar norite parašyti komentarą apie šį modeiavimą?
+FEEDBACK_MISTAKE	Radau klaidą
+FEEDBACK_COMMENTS	Turiu komentarų ir pageidavimų
+FEEDBACK_SEND	Siųsti atsiliepimą
+SEND_CONTENT	Dalytis turiniu
+SEND_CONTENT_SUBJECT	Rekomenduojamas turinys
+SEND_CONTENT_TEMPLATE	Sveiki,\n\nŠis turinys gali jus sudominti. \n\nAntraštė: @{SEND_CAPTION}\nSaitas: @{SEND_LINK}\n\nPagarbiai\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Įvyko klaida. Kreipkitės į administratorių.
+ERROR_GENERAL	Vidinė klaida.
+ERROR_1	Iššokančiųjų langų blokavimo priemonė neleidžia paleisti modeliavimo.
+ERROR_1.h	Iššokančių langų blokavimo priemonė neleidžia atidaryti naršyklės lango. Uždarykite blokavimo priemonę arba išjunkite ją šiame domene.
+ERROR_2	Nepavyko įkelti reikiamo konfigūracijos failo.
+ERROR_2.h	@{LESSONPLAYER} nepavyko įkelti konfigūracijos failo, būtino tinkamam funkciniam pajėgumui.
+SCORM_LOCATION_ERROR	Nepavyko įrašyti jūsų progreso dėl trūkstamos LMS sistemos funkcijos.
+RESTART_COMPLETED_LMS_LESSON	Pradedate modeliavimą, kurį jau užbaigėte arba sėkmingai išlaikėte. Visi pasiekti įvertinimai taps lygūs nuliui ir bus atžymėta užbaigimo arba išlaikymo vėliavėlė. Ar tikrai norite paleisti iš naujo?
+RESTART_Av_LMS_LESSON	Pradedate modeliavimą, kurį jau užbaigėte arba sėkmingai išlaikėte. Visi pasiekti įvertinimai taps lygūs nuliui ir bus atžymėta užbaigimo arba išlaikymo vėliavėlė. Spustelėkite „Gerai“, jei norite paleisti iš naujo, arba „Atšaukti“, jei norite uždaryti.
+BOOK_NEXT_CHAPTER	Kitas skyrius
+BOOK_PREV_CHAPTER	Ankstesnis skyrius
+BOOK_NEXT_PAGE	Paskesnis puslapis
+BOOK_PREV_PAGE	Ankstesnis puslapis
+BOOK_INDEX_PAGE	Pradinis puslapis
+SLIDE_MOREINFO	Daugiau informacijos
+SLIDE_TIPS	Patarimai
+SLIDE_ATTACH	Priedai
+SLIDE_SHOWATTACH	Rodyti priedus
+SLIDE_OPEN	Atidaryti
+SLIDE_ADD	Pridėti
+SLIDE_EDIT	Redaguoti
+SLIDE_DELETE	Naikinti
+SLIDE_BUTTONAREA	Įrašo peržiūros juosta
+HELP	Žinynas
+HELP_REGION_BAR	Nuorodos: spauskite, norėdami sufokusuoti leistuvo juostą
+HELP_REGION_PANEL	Spauskite, norėdami sufokusuoti šoninę juostą
+HELP_REGION_CONTENT	Spauskite, norėdami sufokusuoti turinį
+HELP_LIBRARY	Rodyti @{LIBRARY} žinyną
+HELP_TRAINER	Rodyti @{LESSONPLAYER} žinyną
+HELP_BOOK	Rodyti @{BOOKPLAYER} žinyną
+DEMO_START	Parodomasis režimas
+DEMO_START1	Naudodami demonstracijos režimą, galite stebėti, kaip atliekama veikla taikomojoje programoje. Tiesioj stebėkite modeliavimą. Visi veiksmai atliekami automatiškai.
+DEMO_START2	Galite naudoti ekrano apačioje esančią naršymo juostą ir pristabdyti arba išjungti demonstraciją. Be to, galite pereiti prie paskesnio arba ankstesnio veiksmo.
+DEMO_STOP	Parodomasis režimas baigtas.
+CONCURRENT_START	Lygiagretusis režimas
+CONCURRENT_START1	Lygiagretusis režimas paveiksmiui rodo, kaip atlikti užduotį taikomojoje programoje.
+CONCURRENT_START2	Modeliavimas nutraukiamas po kiekvieno veiksmos, kada galėtumėte užbaigti veiksmą realioje taikomojoje programoje.
+CONCURRENT_STOP	Lygiagretusis režimas užbaigtas.
+PRACTICE_START	Praktikos režimas
+PRACTICE_START1	Naudodami praktikos režimą galite išbandyti tai, ko išmokote spręsdami užduotis taikomoje programoje.
+PRACTICE_START2	Tiesiog vykdykite išsamius nurodymus.
+PRACTICE_STOP	Praktikos režimas baigtas.
+TEST_START	Testo režimas
+TEST_START1	Naudodami testo režimą, galite pasitikrinti žinias spręsdami užduotis taikomojoje programoje. Išskyrus jūsų įvestą duomenų pavyzdį, negausite jokių išsamių nurodymų. Visa užduotis yra aprašyta užduoties lange, kurį galite padidinti arba sumažinti, kai prireiks naudoti antraštės juostos mygtukus.
+TEST_START2	Testo pabaigoje, būsite įvertinti pagal teisingai atliktų veiksmų skaičių. Šis įvertinimas skirtas savęs įvertinimui užduočių srityje.
+TEST_START3	Būkite atidūs, nes sistemas užregistruos visus klaidingus įvedimus ir spustelėjimus ir atitinkamai sumažins įvertinimą. Jei nuspręsite gauti sistemos pagalbos veiksmui užbaigti, jūsų įvertinimas už atitinkamą veiksmą bus lygus nuliui.
+TEST_START4	Bendras įvertinimas rodomas testo pabaigoje. Bandykite pasiekti tikslinį įvertinimą – @{res_mastery_percent} % .
+TEST_OK	Testas išlaikytas
+TEST_OK1	Sveikiname, sėkmingai baigėte šią užduotį.
+TEST_FAILED	Testas nepavyko
+TEST_FAILED1	Jūsų įvertinimas yra mažesnis nei @{res_mastery_percent} % galimo maksimalaus įvertinimo, todėl rekomenduojame dar kartą peržiūrėti šio kurso turinį ir pasitikrinus žinias išbandyti testo režimą dar kartą.
+TEST_FINISHED	Šis testas skirtas tik savo žinioms įvertinti. Rezultatai nebus įrašyti ar perduoti trečiosioms šalims.
+TEST_SCORE	Įvertinimas
+TEST_SCOREVALUE	@{res_collected_points} iš @{res_possible_points}
+FREEPRESENTATION_START	Laisvas atvaizdavimo režimas
+FREEPRESENTATION_START1	Laisvas atvaizdavimo režimas leidžia vykdyti procesą modeliuojant.
+FREEPRESENTATION_START2	Vykdyti veiksmus vieną paskui kitą. Naudokite F1 klavišą, norėdami gauti žinyną.
+FREEPRESENTATION_STOP	Laisvas atvaizdavimas užbaigtas.
+GUIDEDPRESENTATION_START	Valdomo atvaizdavimo režimas
+GUIDEDPRESENTATION_START1	Valdomo atvaizdavimo režimas vykdo modeliavimo procesą automatiškai. Pelės žymiklis ir paryškinimas rodo dabartinį veiksmą.
+GUIDEDPRESENTATION_START2	Vykdyti veiksmus vieną paskui kitą ir po to patvirtinti kiekvieną veiksmą.
+GUIDEDPRESENTATION_STOP	Valdomas atvaizdavimas užbaigtas.
+EXER_FAIL1	Jūsų atliktas veiksmas neteisingas.
+EXER_FAIL2	Jūsų atliktas veiksmas neteisingas. 1 taškas atimtas iš jūsų bendro įvertinimo. Už šį veiksmą liko taškų: @1_rest-points_.
+EXER_FAIL3	Jūsų atliktas veiksmas neteisingas. Už kiekvieną klaidą iš jūsų bendro įvertinimo atimamas 1 taškas. Už šį veiksmą liko taškų: @1_rest-points_.
+EXER_FAILKEY1	Paspaudėte @1_key_ klavišą.
+EXER_FAILKEY2	Galimi naudoti funkcijų klavišai: @1_keys_.
+EXER_FAILRADIO	Visi leistini mygtukai paryškinti.
+EXER_FAILINPUT	Visos leistinos teksto sritys paryškintos.
+EXER_FAILSELECT	Visi leistini pasirinkimo laukai paryškinti.
+EXER_FAILDRAG	Atlikote neleistiną @1_keys_ vilkimo operaciją.
+EXER_FAILDRAG1	Atlikite @1_keys_ vilkimo operaciją paryškintoje srityje.
+EXER_FAILDROP	Atlikote neleistiną @1_keys_ palikimo operaciją.
+EXER_FAILDROP1	Atlikite @1_keys_ palikimo operaciją paryškintoje srityje.
+EXER_FAILDBLCLICK	Atlikote neleistiną @1_keys_ spustelėjimą.
+EXER_FAILDBLCLICK1	Spustelėkite @1_keys_ paryškintoje srityje.
+EXER_FAILCLICK	@1_keys_ spustelėjote neleistinoje srityje..
+EXER_FAILCLICK1	Visos leistinos sritys paryškintos.
+EXER_FAILCLICK2	Atlikote neleistiną @1_keys_ spustelėjimą.
+EXER_FAILCLICK3	Spustelėkite @1_keys_ paryškintoje srityje.
+EXER_FAILENTER	Atlikote neleistiną @1_keys_ veiksmą pele.
+EXER_FAILENTER1	Atlikite @1_keys_ veiksmą pele paryškintoje srityje.
+EXER_FAILMCLICK	@1_keys_ vidurinis spustelėjimas neleidžiamas.
+EXER_WOULDGOON	(Pastaba: kitu atveju tęsiama automatiškai)
+EXER_YOURINPUT	Įvedėte „@1_input_“.
+EXER_TEXTINPUT	Įveskite „@1“ įvesties lauke „@2“!
+EXER_SELECT	Pasirinkite įrašą „@1“
+EXER_GOON	Eikite prie kito veiksmo:
+EXER_SHOWHELP	Taip, rodyti žinyną
+EXER_TRYAGAIN	Bandykite dar kartą
+EXER_ASK4HELP	Reikia pagalbos?
+EXER_ONLY_VALID	Leistini veiksmai:
+EXER_FORM_PREFIX	Įveskite šias reikšmes:
+EXER_OR	arba
+EXER_AND	ir
+SCORE	Taškai
+SCORE_REDUCED	Galimi taškai už šį veiksmą sumažinti iki
+TOUR_START	Modeliavimo pradžia
+TOUR_STOP	Modeliavimo nutraukimas
+TOUR_END	Modeliavimo pabaiga
+TOUR_PLAY	Mygtukas „Tęsti“
+TOUR_JUMP	Pereiti į kitą modeliavimo žingsnį.
+TOUR_PREV	Atgal
+TOUR_NEXT	Paskesnis
+USER_ACTION_CORRECT_ACTION	Mokinys sėkmingai atliko veiksmą.
+USER_ACTION_WRONG_ACTION	Mokinys suklydo.
+USER_ACTION_GOON	Mokinys spustelėjo „Tęsti“, taškų už šį veiksmą negavo.
+USER_ACTION_GOON_AUTO	Dėl klaidų skaičiaus modeliavimas tęsiamas automatiškai.
+USER_ACTION_HELP	Mokinys paprašė pagalbos, taškų už šį veiksmą negaunama.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Mokinys atidarė teksto lauką.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Mokinys uždarė teksto lauką.
+QUIZ_CORRECT_RESPONSE	Teisingas atsakymas
+QUIZ_STUDENT_RESPONSE	Mokinio atsakymas
+QUIZ_LATENCY	Laikas
+QUIZ_SCORE	Gautas įvertinimas
+QUIZ_REQ_SCORE	Būtinas įvertinimas
+QUIZ_MAX_SCORE	Maksimalus įvertinimas
+QUIZ_TIMEOUT_REACHED	Pasiekta skirtojo laiko pabaiga.
+QUIZTYPE_MCHOICE	Testas: keli pasirinkimai
+QUIZTYPE_SQMAQUIZ	Testas: užpildyti laukus
+QUIZTYPE_FIBQUIZ	Testas: užpildyti tuščius laukus
+QUIZTYPE_MATCHQUIZ	Testas: atitiktis
+QUIZTYPE_CONNQUIZ	Testas: prisijungimas
+QUIZTYPE_SCALEQUIZ	Testas: skaidrių valdiklis
+QUIZTYPE_GRIDQUIZ	Testas: tinklelis
+QUIZTYPE_HOTSPOTQUIZ	Testas: aktyvioji sritis
+QUIZTYPE_PUZZLEQUIZ	Testas: dėlionė
+QUIZTYPE_MIXQUIZ	Testas: rūšiavimas
+CONNECTING	Jungiamasi...
+SYNCHRONIZE	Sinchronizuoti
+SYNCHRONIZED	Sinchronizuota
+CONNECT	Prijungti
+BUBBLESTYLE_NOT_FOUND	Debesėlio stilius nerastas.
+LOADING_MACROSET	Įkeliamas turinys ir ištekliai.
+ZOOM_LEVEL_NOTIFICATION	Įspėjimas: jūsų mastelio keitmo lygis nelygus 100%.
+ctx_html.header_title	Kontekstinis žinynas
+ctx_html.introtext	Yra šis dabartinio konteksto žinyno turinys.  Spustelėkite elementą, kuri norite paleisti.
+ctx_html.introtext_noresult	Nėra dabartinio konteksto turinio. Norėdami rasti daugiau turinio, antraštėje atidarykite biblioteką arba naudokite iešką.
+ctx_html.query_empty	Užklausa tuščia.
+ctx_html.query_malformed	Užklausa neleistina.
+ctx_html.search	Ieškoti
+ctx_html.library	Atidaryti biblioteką
+ctx_html.language	Kalba
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Įrašoma
+qr_hint_dlg.dont_bother	Neberodyti
+qr_hint_dlg.hint_end	Baigti įrašymą
+qr_hint_dlg.hint_pause	Pristabdyti įrašymą
+btnOk	Ačiū
+qr_hint_dlg.hint_title	Įrašymo patarimai
+qr_hint_dlg.audio_help	Prieš pasirinkdami valdiklį, įrašykite savo tekstą.
+quiz_error_no_template_file	Klaida: šablono failas nerastas. Bus panaudotas numatytasis šablonas.
+qr_hint_dlg.hint_end_1	Mygtukas BAIGTI
+qr_hint_dlg.hint_pause_1	Mygtukas PRISTABDYTI

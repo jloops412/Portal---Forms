@@ -1,0 +1,9 @@
+﻿business_process	企業流程
+process_tutorials	程序教學課程
+guided_tours	導覽
+training_courses	訓練課程
+user_assistance	使用者協助
+compliance	法規遵循
+tips_tricks	秘訣和技巧
+faq	常見問題
+misc	雜項

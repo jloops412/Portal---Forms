@@ -1,0 +1,12 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Seli povezavo z drugimi
+SHARE_BY_MAIL	Pošlji e-poštno sporočilo
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+RESTART	Ponovni zagon
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Pošiljanje povezave vsebine
+ERROR_2.h	@{LESSONPLAYER} ni mogel naložiti konfiguracijske datoteke, potrebne za pravilno delovanje.
+	

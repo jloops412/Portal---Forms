@@ -1,0 +1,12 @@
+﻿BOOKPLAYER	book reader
+SHARE_CONTENT	แบ่งปันลิงก์
+SHARE_BY_MAIL	ส่งอีเมล
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	บทบาทของเนื้อหา
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	ส่งการเชื่อมโยงเนื้อหา
+ERROR_2.h	@{LESSONPLAYER} ไม่สามารถโหลดไฟล์การกำหนดรูปแบบที่จำเป็นต่อฟังก์ชันการทำงานที่เหมาะสมได้
+ctx_html.introtext_noresult	ไม่มีเนื้อหาอยู่สำหรับเนื้อหาปัจจุบัน เปิด @{LIBRARY} จากส่วนหัวหรือใช้การค้นหาเพื่อดึงเนื้อหาเพิ่มเติม
+ctx_html.library	เปิด @{LIBRARY}
+	

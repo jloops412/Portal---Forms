@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Content delen
+SHARE_BY_MAIL	Delen via e-mail
+URL_OF_CURRENT_PAGE	URL huidige pagina
+TASK	Taak
+GLOSSARY	Verklarende woordenlijst
+CONTEXT_INFO	Contextinformatie
+CONTEXT_ROLES	Rollen
+CONTEXT_ROLES_NOROLES	Context zonder rollen weergeven
+CONTEXT_MY_ROLES	Mijn rollen
+CLOSEBUBBLE	Bubble sluiten
+MAXBUBBLE	Bubble herstellen
+MINBUBBLE	Bubble minimaliseren
+VOLUME	Volume
+SETTINGS	Instellingen
+CLOSE_TASK	@{TASK} sluiten
+CLOSE	Sluiten
+EXIT	Afsluiten
+SELECTION	Selectie
+KEYWORD_SEARCH	Zoeken op trefwoorden
+SEARCH	Zoeken
+SEARCH_STRING	Zoekbegrip
+KEYWORDS	Trefwoorden
+SEARCH_CLEAR	Zoekinvoer wissen
+FILTER	Filter
+RESOURCES	Resources
+VIEW	Weergave
+CANCEL	Annuleren
+CONTINUING	Doorgaan
+OK	OK
+PLAY	Afspelen
+PAUSE	Pauze
+BACK	Terug
+PREVIOUS	Vorige
+NEXT	Volgende
+PLAYING	Wordt afgespeeld
+PAUSED	Pauze
+USERINPUT	Invoer
+IDLE	""
+START	Pagina wordt geladen...
+RESTART	Opnieuw starten
+TEXT	Tekst
+TITLE	Titel
+MINIMIZE	Minimaliseren
+RESTORE	Herstellen
+ACQUIRED_SCORE	Bereikte score
+TEST_RESULT	Resultaat
+TESTDETAILS	Details weergeven
+TESTDETAILS1	Details verbergen
+PRINT	Pagina afdrukken
+LESSON	Simulatie
+OF	van
+DESCRIPTION	Omschrijving
+FULLSCREEN	Volledig scherm
+TOGGLE_TASKINFO	Taakomschrijving weergeven/verbergen
+PANEL_VIEWMODE	Weergavemodus venster
+PANEL_TOGGLE	Venster weergeven/verbergen
+PANEL	Zijbalkcontent/alle content
+BOOKMARK_FAVORITE	Favoriet
+CONTENT	Content-/weergavegebied
+TOC	Inhoudsopgave
+FAVORITES	Favorieten
+RECENT	Paginahistorie
+QRCODE	QR-code
+QR_URL_TOO_BIG	URL te groot. Kan geen QR-code genereren.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	Audio dempen
+AUDIO_PLAY	Audio afspelen
+AUDIO_PAUSE	Audio pauzeren
+AUDIO_ON	Audio aan
+AUDIO_OFF	Audio uit
+CHANNEL_MASTER	Stam
+CHANNEL_BOOKSOUND	Boekgeluid
+CHANNEL_NARRATIVE	Gesproken tekst
+CHANNEL_EFFECTS	Effecten
+LIB_NOMATCH	Geen treffers
+LIB_NOFILTER	Geen filter
+LIBFLAG_NEWWIN	Content in nieuw venster openen
+LIBFLAG_TITLE	Titel zoeken
+LIBFLAG_SHORTDESC	Korte omschrijving zoeken
+LIBFLAG_DESC	Omschrijving zoeken
+LIBFLAG_KEYW	Trefwoorden zoeken
+LIBFLAG_SLIDES	Boekpaginacontent zoeken
+GUI_TOP_BAR	Bovenste balk
+GUI_BOTTOM_BAR	Onderste balk
+ORIENTATION_TOGGLE_TOP	Bovenste balk
+ORIENTATION_TOGGLE_BOTTOM	Onderste balk
+FEEDBACK	Feedback voor auteur
+FEEDBACK_TITLE	Uw feedback
+FEEDBACK_QUESTION	Hebt u opmerkingen over deze simulatie?
+FEEDBACK_MISTAKE	Ik heb een fout ontdekt
+FEEDBACK_COMMENTS	Ik heb opmerkingen of wensen
+FEEDBACK_SEND	Feedback verzenden
+SEND_CONTENT	Content delen
+SEND_CONTENT_SUBJECT	Aanbevolen content
+SEND_CONTENT_TEMPLATE	Hallo,\n\nDeze content vindt u misschien interessant. \n\nBijschrift: @{SEND_CAPTION}\nLink: @{SEND_LINK}\n\nMet vriendelijke groet,\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Er is een fout opgetreden. Neem contact op met uw beheerder.
+ERROR_GENERAL	Interne fout.
+ERROR_1	Een pop-upblokkeerder voorkomt dat de simulatie wordt afgespeeld
+ERROR_1.h	Een pop-upblokkering heeft het openen van een nieuw browservenster verhinderd. Sluit de pop-upblokkering of schakel deze uit voor dit domein.
+ERROR_2	Vereist configuratiebestand kan niet worden geladen
+ERROR_2.h	De @{LESSONPLAYER} kon geen configuratiebestand laden dat is vereist voor correct functioneren.
+SCORM_LOCATION_ERROR	Uw voortgang kan niet worden opgeslagen vanwege een ontbrekende functionliteit in uw LMS-systeem.
+RESTART_COMPLETED_LMS_LESSON	U begint met een simulatie die al is voltooid of waarvoor u al bent geslaagd. Dit stelt alle behaalde punten in op nul en verwijdert de voltooiings- of slagingsmarkering. Wilt u echt opnieuw beginnen?
+RESTART_Av_LMS_LESSON	U begint met een simulatie die al is voltooid of waarvoor u al bent geslaagd. Dit stelt alle behaalde punten in op nul en verwijdert de voltooiings- of slagingsmarkering. Klik op 'OK' om opnieuw te beginnen of op 'Annuleren' om te sluiten.
+BOOK_NEXT_CHAPTER	Volgend hoofdstuk
+BOOK_PREV_CHAPTER	Vorig hoofdstuk
+BOOK_NEXT_PAGE	Volgende pagina
+BOOK_PREV_PAGE	Vorige pagina
+BOOK_INDEX_PAGE	Startpagina
+SLIDE_MOREINFO	Meer informatie
+SLIDE_TIPS	Tips
+SLIDE_ATTACH	Bijlagen
+SLIDE_SHOWATTACH	Bijlagen weergeven
+SLIDE_OPEN	Openen
+SLIDE_ADD	Toevoegen
+SLIDE_EDIT	Bewerken
+SLIDE_DELETE	Verwijderen
+SLIDE_BUTTONAREA	Afspeelbalk
+HELP	Help
+HELP_REGION_BAR	Sneltoetsen: druk hierop om te focussen op afspeelbalk
+HELP_REGION_PANEL	Druk hierop om te focussen op zijbalk
+HELP_REGION_CONTENT	Druk hierop om te focussen op content
+HELP_LIBRARY	Help voor @{LIBRARY} weergeven
+HELP_TRAINER	Help voor @{LESSONPLAYER} weergeven
+HELP_BOOK	Help voor @{BOOKPLAYER} weergeven
+DEMO_START	Demomodus
+DEMO_START1	In de demomodus kunt u een activiteit bekijken die wordt uitgevoerd binnen de applicatie. Volg gewoon de simulatie; alle stappen worden automatisch uitgevoerd.
+DEMO_START2	Met de navigatiebalk onderin het scherm kunt u de demo onderbreken of stoppen. U kunt ook voorwaarts naar de volgende en terug naar de vorige stap springen.
+DEMO_STOP	Demomodus is voltooid
+CONCURRENT_START	Praktijkmodus
+CONCURRENT_START1	De praktijkmodus geeft stap voor stap weer hoe een taak binnen de applicatie kan worden uitgevoerd
+CONCURRENT_START2	De simulatie wordt na elke stap onderbroken om u de mogelijkheid te geven de stap in de werkelijke applicatie uit te voeren
+CONCURRENT_STOP	Praktijkmodus is voltooid
+PRACTICE_START	Oefenmodus
+PRACTICE_START1	In de oefenmodus kunt u hetgeen u hebt geleerd uitproberen door de taak zelf binnen de applicatie op te lossen
+PRACTICE_START2	Volg de stap-voor-stapinstructies.
+PRACTICE_STOP	Oefenmodus is voltooid
+TEST_START	Testmodus
+TEST_START1	In de testmodus kunt u uw kennis testen door zelf een taak in de applicatie uit te voeren. U krijgt naast de in te voeren voorbeeldgegevens geen stapsgewijze instructies. De gehele taak wordt in het taakvenster omschreven. Dit venster kan indien nodif worden vergroot of geminimaliseerd met de knoppen in de titelbalk.
+TEST_START2	Aan het eind van de test ontvangt u een beoordeling op basis van de juist uitgevoerde stappen. Deze score is bedoeld voor uw zelfevaluatie over het taakgebied.
+TEST_START3	Voer deze stappen uiterst zorgvuldig uit, omdat het systeem alle schrijffouten en foutieve klikken vastlegt en het beoordelingsresultaat daardoor minder wordt. Wanneer u besluit bij een stap hulp op te vragen, verliest u alle bij deze stap te behalen punten.
+TEST_START4	Uw totaalscore wordt aan het eind van de test weergegeven. Probeer te voldoen aan de doelscore van @{res_mastery_percent}% .
+TEST_OK	Test geslaagd
+TEST_OK1	Gefeliciteerd, u hebt deze taak met succes uitgevoerd.
+TEST_FAILED	Test mislukt
+TEST_FAILED1	Omdat u minder dan @{res_mastery_percent}% van het mogelijk aantal punten heeft gehaald, adviseren wij u de inhoud van deze cursus nogmaals door te lopen en vervolgens uw kennis opnieuw in de testmodus te controleren.
+TEST_FINISHED	Deze test dient uitsluitend als zelfevaluatie. De resultaten worden niet opgenomen of doorgegeven aan derden.
+TEST_SCORE	Score
+TEST_SCOREVALUE	@{res_collected_points} van @{res_possible_points}
+FREEPRESENTATION_START	Vrije presentatiemodus
+FREEPRESENTATION_START1	Met de vrije presentatiemodus kunt u een proces binnen de simulatie uitvoeren
+FREEPRESENTATION_START2	Voer acties stap voor stap uit. Gebruik F1-toets voor hulp
+FREEPRESENTATION_STOP	Vrije presentatie is beëindigd
+GUIDEDPRESENTATION_START	Gestuurde presentatiemodus
+GUIDEDPRESENTATION_START1	De gestuurde presentatiemodus voert een proces in de simulatie automatisch uit. Een muisaanwijzer en een markering geven de huidige stap weer.
+GUIDEDPRESENTATION_START2	Volg acties stap voor stap en bevestig elke actie na afloop
+GUIDEDPRESENTATION_STOP	Gestuurde presentatie is beëindigd
+EXER_FAIL1	De door u uitgevoerde actie is onjuist
+EXER_FAIL2	De actie die u hebt uitgevoerd was onjuist. Er wordt 1 punt afgetrokken van uw totaalscore. Overgebleven punten voor deze actie: @1_rest-points_.
+EXER_FAIL3	De actie die u hebt uitgevoerd was onjuist. Er wordt voor elke fout 1 punt afgetrokken van uw totaalscore. Overgebleven punten voor deze actie: @1_rest-points_.
+EXER_FAILKEY1	U hebt op de @1_key_-toets gedrukt.
+EXER_FAILKEY2	Bruikbare functietoetsen zijn: @1_keys_.
+EXER_FAILRADIO	Alle geldige knoppen zijn gemarkeerd
+EXER_FAILINPUT	Alle geldige tekstgebieden zijn gemarkeerd
+EXER_FAILSELECT	Alle geldige selectievakjes zijn gemarkeerd
+EXER_FAILDRAG	U hebt een ongeldige @1_keys_ sleepbewerking uitgevoerd.
+EXER_FAILDRAG1	Voer een @1_keys_ sleepbewerking binnen het gemarkeerde gebied uit.
+EXER_FAILDROP	U hebt een ongeldige@1_keys_ neerzetbewerking uitgevoerd.
+EXER_FAILDROP1	Voer een @1_keys_ neerzetbewerking binnen het gemarkeerde gebied uit.
+EXER_FAILDBLCLICK	U hebt een ongeldige @1_keys_ dubbelklik uitgevoerd.
+EXER_FAILDBLCLICK1	Voer een @1_keys_ dubbelklik binnen het gemarkeerde gebied uit.
+EXER_FAILCLICK	U @1_keys_ hebt op een ongeldig gebied geklikt.
+EXER_FAILCLICK1	Alle geldige gebieden zijn gemarkeerd
+EXER_FAILCLICK2	U hebt een ongeldige @1_keys_ klik uitgevoerd.
+EXER_FAILCLICK3	Voer een @1_keys_ klik binnen het gemarkeerde gebied uit.
+EXER_FAILENTER	U hebt de @1_keys_ muisaanwijzer boven een ongeldig gebied gehouden.
+EXER_FAILENTER1	Houd de @1_keys_ muisaanwijzer boven het gemarkeerde gebied.
+EXER_FAILMCLICK	Klikken met de @1_keys_ middelste muisknop is niet toegestaan.
+EXER_WOULDGOON	(Opmerking: gaat anders automatisch verder)
+EXER_YOURINPUT	U hebt "@1_input_" ingevoerd.
+EXER_TEXTINPUT	Voer "@1" in het invoerveld "@2" in !
+EXER_SELECT	Selecteer het gegeven  "@1" !
+EXER_GOON	Naar volgende stap gaan
+EXER_SHOWHELP	Ja, help weergeven
+EXER_TRYAGAIN	Nogmaals proberen
+EXER_ASK4HELP	Hebt u hulp nodig?
+EXER_ONLY_VALID	Toegestane acties zijn:
+EXER_FORM_PREFIX	Voer de volgende waarden in:
+EXER_OR	of
+EXER_AND	en
+SCORE	Punten
+SCORE_REDUCED	Mogelijke punten voor deze stap gereduceerd naar
+TOUR_START	Simulatiebegin
+TOUR_STOP	Simulatie-afbreking
+TOUR_END	Simulatie-einde
+TOUR_PLAY	Knop "Verder"
+TOUR_JUMP	Naar andere stap binnen simulatie gesprongen.
+TOUR_PREV	Terug
+TOUR_NEXT	Volgende
+USER_ACTION_CORRECT_ACTION	De student heeft de stap correct uitgevoerd.
+USER_ACTION_WRONG_ACTION	De student heeft een fout gemaakt.
+USER_ACTION_GOON	De student heeft op "Doorgaan" geklikt, zonder punten voor deze stap
+USER_ACTION_GOON_AUTO	Wegens het aantal fouten is de simulatie automatisch doorgegaan.
+USER_ACTION_HELP	De student heeft hulp gevraagd, geen punten voor deze stap.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Student heeft tekstveld geopend
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Student heeft tekstveld gesloten
+QUIZ_CORRECT_RESPONSE	Juist antwoord
+QUIZ_STUDENT_RESPONSE	Antwoord van student
+QUIZ_LATENCY	Tijd
+QUIZ_SCORE	Bereikte score
+QUIZ_REQ_SCORE	Benodigde score
+QUIZ_MAX_SCORE	Maximale score
+QUIZ_TIMEOUT_REACHED	Time-out bereikt
+QUIZTYPE_MCHOICE	Quiz: Meerkeuze
+QUIZTYPE_SQMAQUIZ	Quiz: Velden invullen
+QUIZTYPE_FIBQUIZ	Quiz: Spaties invullen
+QUIZTYPE_MATCHQUIZ	Quiz: Overeenkomend
+QUIZTYPE_CONNQUIZ	Quiz: Verbinding
+QUIZTYPE_SCALEQUIZ	Quiz: Schuifbalk
+QUIZTYPE_GRIDQUIZ	Quiz: Raster
+QUIZTYPE_HOTSPOTQUIZ	Quiz: Hotspot
+QUIZTYPE_PUZZLEQUIZ	Quiz: Puzzle
+QUIZTYPE_MIXQUIZ	Quiz: Sorteren
+CONNECTING	Verbinden...
+SYNCHRONIZE	Synchroniseren
+SYNCHRONIZED	Gesynchroniseerd
+CONNECT	Verbinden
+BUBBLESTYLE_NOT_FOUND	Bubblestijl niet gevonden.
+LOADING_MACROSET	Content en resources worden geladen.
+ZOOM_LEVEL_NOTIFICATION	Waarschuwing: Uw zoomniveau is niet 100%.
+ctx_html.header_title	Contexthelp
+ctx_html.introtext	De volgende helpcontent is beschikbaar voor de huidige context. Klik op het onderdeel waarmee u wilt beginnen.
+ctx_html.introtext_noresult	Geen content beschikbaar voor de huidige context. Open de library vanuit de kop of gebruik de zoekfunctie voor andere content.
+ctx_html.query_empty	Query leeg.
+ctx_html.query_malformed	Query ongeldig.
+ctx_html.search	Zoeken
+ctx_html.library	Library openen
+ctx_html.language	Taal
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Aanwijzingen opnemen
+qr_hint_dlg.dont_bother	Niet meer weergeven
+qr_hint_dlg.hint_end	Beëindig de opname.
+qr_hint_dlg.hint_pause	Pauzeer de opname.
+btnOk	OK
+qr_hint_dlg.hint_title	Aanwijzingen opnemen
+qr_hint_dlg.audio_help	Neem uw tekst op voordat u een besturing selecteert.
+quiz_error_no_template_file	Fout: sjabloonbestand niet gevonden. Standaard wordt gebruikt.
+qr_hint_dlg.hint_end_1	Toets EINDE
+qr_hint_dlg.hint_pause_1	Toets PAUZE

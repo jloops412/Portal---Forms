@@ -1,0 +1,10 @@
+﻿SHARE_CONTENT	Bagi tautan
+SHARE_BY_MAIL	Kirim surel
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Inviare collegamento contenuto
+ERROR_2.h	Il @{LESSONPLAYER} non ha potuto caricare un file di configurazione richiesto per la relativa funzione.
+ctx_html.introtext_noresult	Nessun contenuto disponibile per il contesto corrente. Aprire la @{LIBRARY} dalla testata o utilizzare la ricerca per ottenere altro contenuto
+ctx_html.library	Aprire @{LIBRARY}
+	

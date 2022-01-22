@@ -1,0 +1,8 @@
+﻿SHARE_CONTENT	Udostępnij łącze
+SHARE_BY_MAIL	Wyślij e-mail
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Wysyłanie odsyłacza zawartości
+ERROR_2.h	@{LESSONPLAYER} nie mógł wczytać pliku konfiguracji wymaganego dla prawidłowej funkcjonalności.
+	

@@ -1,0 +1,17 @@
+﻿SHARE_CONTENT	مشاركة ارتباط
+SHARE_BY_MAIL	إرسال بريد إلكتروني
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	أدوار السياق
+KEYWORDS	الكلمات الأساسية
+BACK	عودة
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+GUI_BOTTOM_BAR	الشريط السفلى
+SEND_CONTENT	إرسال ارتباط محتوى
+ERROR_2.h	تعذر على trainer تحميل ملف التكوين المطلوب للوظيفية المناسبة.
+DEMO_START	نمط عرض توضيحي
+TOUR_PREV	عودة
+QUIZ_REQ_SCORE	مجموعة النقاط المطلوب
+ctx_html.introtext_noresult	لا يتوفر أي محتوى للسياق الحالي. قم بفتح @{LIBRARY} من المقدمة أو استخدم البحث لاستدعاء محتوى آخر.
+ctx_html.library	فتح @{LIBRARY}
+	

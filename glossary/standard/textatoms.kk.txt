@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Мазмұнды ортақ пайдалану
+SHARE_BY_MAIL	Электрондық пошта арқылы ортақ пайдалану
+URL_OF_CURRENT_PAGE	Ағымдағы беттің URL мекенжайы
+TASK	Тапсырма
+GLOSSARY	Глоссарий
+CONTEXT_INFO	Мәнмәтін ақпараты
+CONTEXT_ROLES	Рөлдер
+CONTEXT_ROLES_NOROLES	Рөлдері жоқ мәнмәтінді көрсету
+CONTEXT_MY_ROLES	Менің рөлдерім
+CLOSEBUBBLE	Жолма-жол ескертуді жабу
+MAXBUBBLE	Жолма-жол ескертуді қалпына келтіру
+MINBUBBLE	Жолма-жол ескертуді кішірейту
+VOLUME	Көлемі
+SETTINGS	Параметрлер
+CLOSE_TASK	@{TASK} жабу
+CLOSE	Жабу
+EXIT	Шығу
+SELECTION	Таңдау
+KEYWORD_SEARCH	Кілтсөзді іздеу
+SEARCH	Іздеу
+SEARCH_STRING	Іздеу жолы
+KEYWORDS	Кілтсөздер
+SEARCH_CLEAR	Іздеу енгізілімін тазалау
+FILTER	Сүзгі
+RESOURCES	Ресурстар
+VIEW	Көрініс
+CANCEL	Болдырмау
+CONTINUING	Жалғастыру
+OK	OK
+PLAY	Ойнату
+PAUSE	Кідірту
+BACK	Артқа
+PREVIOUS	Алдыңғы
+NEXT	Келесі
+PLAYING	Ойнату
+PAUSED	Кідірту
+USERINPUT	Енгізілім
+IDLE	""
+START	Бет жүктелуде...
+RESTART	Қайта іске қосу
+TEXT	Мәтін
+TITLE	Тақырып
+MINIMIZE	Жию
+RESTORE	Қалпына келтіру
+ACQUIRED_SCORE	Алынған ұпай
+TEST_RESULT	Нәтиже
+TESTDETAILS	Мәліметтерді көрсету
+TESTDETAILS1	Мәліметтерді жасыру
+PRINT	Басып шығару беті
+LESSON	Үлгілеу
+OF	/
+DESCRIPTION	Сипаттама
+FULLSCREEN	Толық экран
+TOGGLE_TASKINFO	Тапсырма сипаттамасын көрсету/жасыру
+PANEL_VIEWMODE	Панельді көрсету режимі
+PANEL_TOGGLE	Панельді көрсету/жасыру
+PANEL	Бүйірлік панель/барлық мазмұн
+BOOKMARK_FAVORITE	Таңдаулы
+CONTENT	Мазмұн/ойнату аймағы
+TOC	Мазмұны
+FAVORITES	Таңдаулылар
+RECENT	Навигация тарихы
+QRCODE	QR коды
+QR_URL_TOO_BIG	URL тым үлкен. QR кодын құру мүмкін емес.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	Дыбысты өшіру
+AUDIO_PLAY	Дыбысты ойнату
+AUDIO_PAUSE	Дыбысты тоқтата тұру
+AUDIO_ON	Дыбысты қосу
+AUDIO_OFF	Дыбысты өшіру
+CHANNEL_MASTER	Негізгі
+CHANNEL_BOOKSOUND	Кітап даусы
+CHANNEL_NARRATIVE	Хабарлы
+CHANNEL_EFFECTS	Әсерлер
+LIB_NOMATCH	Сәйкестік жоқ
+LIB_NOFILTER	Сүзгісіз
+LIBFLAG_NEWWIN	Мазмұнды жаңа терезеде ашу
+LIBFLAG_TITLE	Тақырыпты іздеу
+LIBFLAG_SHORTDESC	Қысқаша сипаттаманы іздеу
+LIBFLAG_DESC	Сипаттаманы іздеу
+LIBFLAG_KEYW	Кілтсөздерді іздеу
+LIBFLAG_SLIDES	Кітап бетінің мазмұнын іздеу
+GUI_TOP_BAR	Жоғарғы жолақ
+GUI_BOTTOM_BAR	Төменгі жолақ
+ORIENTATION_TOGGLE_TOP	Жоғарғы жолақ
+ORIENTATION_TOGGLE_BOTTOM	Төменгі жолақ
+FEEDBACK	Авторға пікір
+FEEDBACK_TITLE	Сіздің пікіріңіз
+FEEDBACK_QUESTION	Осы үлгілеуге қатысты түсіндірмелеріңіз бар ма?
+FEEDBACK_MISTAKE	Мен қате таптым
+FEEDBACK_COMMENTS	Мен түсіндірмелер, тілектер қалдырғым келеді
+FEEDBACK_SEND	Пікір жіберу
+SEND_CONTENT	Мазмұнды ортақ пайдалану
+SEND_CONTENT_SUBJECT	Ұсынылатын мазмұн
+SEND_CONTENT_TEMPLATE	Сәлем,\n\nБұл мазмұн сіз үшін қызық болуы мүмкін. \n\nСурет жазуы: @{SEND_CAPTION}\nСілтеме: @{SEND_LINK}\n\nҚұрметпен\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Қате орын алды. Әкімшіге хабарласыңыз.
+ERROR_GENERAL	Ішкі қате.
+ERROR_1	Қалқымалы блоктаушы үлгілеудің ойнатылуын болдырмайды.
+ERROR_1.h	Қалқымалы блоктаушы жаңа браузер терезесінің ашылуының алдын алды. Қалқымалы блоктаушыны жабыңыз немесе оны бұл домен үшін өшіріңіз.
+ERROR_2	Қажетті конфигурация файлын жүктеу мүмкін болмады.
+ERROR_2.h	@{LESSONPLAYER} Тиісті жұмыс істеуге қажетті конфигурация файлын жүктей алмады.
+SCORM_LOCATION_ERROR	Орындалу барысын LMS жүйесінің функциясы болмауына байланысты сақтау мүмкін болмады.
+RESTART_COMPLETED_LMS_LESSON	Орындалып қойған немесе сәтті түрде өткізілген үлгілеуді бастамақшысыз. Бұл барлық алдыңғы алынған ұпайларды нөлге келтіріп, аяқталған немесе өткізілген жалаушаны бастапқы қалпына келтіреді. Шынымен қайта іске қосқыңыз келе ме?
+RESTART_Av_LMS_LESSON	Орындалып қойған немесе сәтті түрде өткізілген үлгілеуді бастамақшысыз. Бұл барлық алдыңғы алынған ұпайларды нөлге келтіріп, аяқталған немесе өткізілген жалаушаны бастапқы қалпына келтіреді. Қайта іске қосу үшін “OK” түймесін немесе жабу үшін “Болдырмау” түймесін басу қажет пе?
+BOOK_NEXT_CHAPTER	Келесі тарау
+BOOK_PREV_CHAPTER	Алдыңғы тарау
+BOOK_NEXT_PAGE	Келесі бет
+BOOK_PREV_PAGE	Алдыңғы бет
+BOOK_INDEX_PAGE	Бастапқы бет
+SLIDE_MOREINFO	Қосымша ақпарат
+SLIDE_TIPS	Кеңестер
+SLIDE_ATTACH	Тіркемелер
+SLIDE_SHOWATTACH	Тіркемелерді көрсету
+SLIDE_OPEN	Ашу
+SLIDE_ADD	Қосу
+SLIDE_EDIT	Өңдеу
+SLIDE_DELETE	Жою
+SLIDE_BUTTONAREA	Ойнату жолағы
+HELP	Анықтама
+HELP_REGION_BAR	Пернелер тіркесімдері: ойнатқыш жолағын фокустау үшін басу
+HELP_REGION_PANEL	Бүйірлік панельді фокустау үшін басу
+HELP_REGION_CONTENT	Мазмұнды фокустау үшін басу
+HELP_LIBRARY	@{LIBRARY} Анықтамасын көрсету
+HELP_TRAINER	@{LESSONPLAYER} Анықтамасын көрсету
+HELP_BOOK	@{BOOKPLAYER} Анықтамасын көрсету
+DEMO_START	Демо режим
+DEMO_START1	Демо режимде қолданбада орындалып жатқан әрекетті бақылай аласыз. Жай ғана үлгілеуді орындаңыз; барлық қадамдар автоматты түрде орындалатын болады.
+DEMO_START2	Демо көрсетілімді тоқтата тұру немесе тоқтату үшін, экранның төменгі жағындағы навигация жолағын пайдалануыңызға болады. Сонымен қатар, келесі қадамға өту үшін алға немесе алдыңғы қадамға өту үшін артқа өтуіңізге болады.
+DEMO_STOP	Демо режим аяқталды.
+CONCURRENT_START	Қатарлас режим
+CONCURRENT_START1	Қатарлас режим қолданба ішінде тапсырманы орындаудың қадамдық жолын көрсетеді.
+CONCURRENT_START2	Үлгілеу әрбір қадамнан кейін тоқтатылып отырады, бұл қадамды кәдімгі қолданбада аяқтауға мүмкіндік береді.
+CONCURRENT_STOP	Қатарлас режим аяқталды.
+PRACTICE_START	Жаттығу режимі
+PRACTICE_START1	Жаттығу режимінде қолданбадағы тапсырманы өзіңіз орындау арқылы үйренгендеріңізді жаттығып көре аласыз.
+PRACTICE_START2	Жай ғана қадамдық нұсқауларды орындаңыз.
+PRACTICE_STOP	Жаттығу режимі аяқталды.
+TEST_START	Сынақ режимі
+TEST_START1	Сынақ режимінде біліміңізді қолданбадағы тапсырманы өз бетіңізше шешу арқылы тексере аласыз: Енгізуіңіз қажет үлгі деректерден бөлек, ешқандай қадамдық нұсқаулар берілмейді. Бүкіл тапсырма тақырып жолағындағы түймелер арқылы қажетінше үлкейтіп не кішірейте алатын тапсырма терезесінде сипатталады.
+TEST_START2	Сынақ соңында ұпайларыңыз дұрыс орындалған қадамдар санына байланысты есептеледі. Бұл ұпай есептеуі тапсырма аймағы бойынша өзін-өзі бағалау ғана.
+TEST_START3	Орындайтын әрекеттеріңізді бақылауда ұстаңыз, жүйе кез келген қате жазылған енгізілімдер мен қате басылғандарды тіркеп, сәйкесінше ұпайыңызды азайтады. Егер қадамды орындау үшін жүйеден көмек сұрайтын болып шешсеңіз, осы қадамға арналған ұпайыңыз нөлге орнатылады.
+TEST_START4	Жалпы ұпайыңыз сынақ соңында көрсетіледі. Мақсатты @{res_mastery_percent}% ұпайына жетуге тырысыңыз.
+TEST_OK	Тапсырылған сынақтар
+TEST_OK1	Құттықтаймыз, осы тапсырманы сәтті түрде орындадыңыз.
+TEST_FAILED	Сынақтан өтпеді
+TEST_FAILED1	Ықтимал ең жоғары ұпайдың @{res_mastery_percent}% -нан төмен жинағандықтан, осы оқыту курсында қамтылған мазмұнды тағы бір рет қарап шығып, біліміңізді сынақ режимінде тағы бір тексеруді ұсынамыз.
+TEST_FINISHED	Бұл сынақ өзін-өзі бағалау мақсатында ғана болып табылады. Нәтижелер жазып алынбайды немесе үшінші тарапқа жіберілмейді.
+TEST_SCORE	Ұпай
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	Еркін көрсетілім режимі
+FREEPRESENTATION_START1	Еркін көрсетілім режимі процесті үлгілеу ішінде орындауға мүмкіндік береді.
+FREEPRESENTATION_START2	Әрекеттерді біртіндеп орындаңыз. Анықтама алу үшін, F1 пернесін пайдаланыңыз.
+FREEPRESENTATION_STOP	Еркін көрсетілім аяқталды.
+GUIDEDPRESENTATION_START	Қадамдық көрсетілім режимі
+GUIDEDPRESENTATION_START1	Қадамдық көрсетілім режимі үлгілеудегі процесті автоматты түрде орындайды. Тінтуір көрсеткісі және бөлектеу ағымдағы қадамды көрсетеді.
+GUIDEDPRESENTATION_START2	Әрекеттерді біртіндеп орындаңыз және содан соң әрбір әрекетті растаңыз.
+GUIDEDPRESENTATION_STOP	Қадамдық көрсетілім аяқталды.
+EXER_FAIL1	Орындалған әрекет қате болды.
+EXER_FAIL2	Орындалған әрекет қате болды. 1 балл жалпы ұпайыңыздан алынады. Осы әрекет үшін қалған ұпайлар: @1_rest-points_.
+EXER_FAIL3	Орындалған әрекет қате болды. Әрбір қате үшін 1 балл жалпы ұпайыңыздан алынады. Осы әрекет үшін қалған ұпайлар: @1_rest-points_.
+EXER_FAILKEY1	@1_key_ пернесін бастыңыз.
+EXER_FAILKEY2	Пайдалануға болатын функциялық пернелер: @1_keys_.
+EXER_FAILRADIO	Барлық жарамды түймелер бөлектеледі.
+EXER_FAILINPUT	Барлық жарамды мәтіндік аймақтар бөлектеледі.
+EXER_FAILSELECT	Барлық жарамды таңдау ұяшықтары бөлектеледі.
+EXER_FAILDRAG	Сіз орындаған @1_keys_ апару операциясы жарамсыз.
+EXER_FAILDRAG1	Бөлектелген аймақ ішінде @1_keys_ апару операциясын орындаңыз.
+EXER_FAILDROP	Сіз орындаған @1_keys_ апарып тастау операциясы жарамсыз.
+EXER_FAILDROP1	Бөлектелген аймақ ішінде @1_keys_ апарып тастау операциясын орындаңыз.
+EXER_FAILDBLCLICK	Жарамсыз @1_keys_ екі рет басу әрекетін орындадыңыз.
+EXER_FAILDBLCLICK1	Бөлектелген аймақ ішінде @1_keys_ екі рет басу әрекетін орындаңыз.
+EXER_FAILCLICK	Сіз @1_keys_ жарамсыз аймақты бастыңыз.
+EXER_FAILCLICK1	Барлық жарамды аймақтар бөлектеледі.
+EXER_FAILCLICK2	Жарамсыз @1_keys_ басу әрекетін орындадыңыз.
+EXER_FAILCLICK3	Бөлектелген аймақ ішінде @1_keys_ басу әрекетін орындаңыз.
+EXER_FAILENTER	Сіз орындаған @1_keys_ тінтуірмен көрсету әрекеті жарамсыз.
+EXER_FAILENTER1	Бөлектелген аймақ ішінде @1_keys_ тінтуірмен көрсету әрекетін орындаңыз.
+EXER_FAILMCLICK	@1_keys_ ортасына басуға рұқсат етілмеген.
+EXER_WOULDGOON	(Ескертпе: әйтпесе автоматты түрде жалғасады)
+EXER_YOURINPUT	"@1_input_” енгіздіңіз.
+EXER_TEXTINPUT	"@1" енгізілімін "@2” енгізу өрісіне енгізіңіз!
+EXER_SELECT	"@1” енгізілімін таңдаңыз!
+EXER_GOON	Келесі қадамға өту
+EXER_SHOWHELP	Иә, анықтаманы көрсету
+EXER_TRYAGAIN	Әрекетті қайталау
+EXER_ASK4HELP	Көмек қажет пе?
+EXER_ONLY_VALID	Рұқсат етілген әрекеттер:
+EXER_FORM_PREFIX	Келесі мәндерді енгізіңіз:
+EXER_OR	немесе
+EXER_AND	және
+SCORE	Ұпайлар
+SCORE_REDUCED	Бұл қадам үшін ықтимал ұпайлар азайтылды
+TOUR_START	Үлгілеуді бастау
+TOUR_STOP	Үлгілеуді тоқтату
+TOUR_END	Үлгілеу соңы
+TOUR_PLAY	Жалғастыру түймесі
+TOUR_JUMP	Үлгілеу ішінде басқа қадамға өтті.
+TOUR_PREV	Артқа
+TOUR_NEXT	Келесі
+USER_ACTION_CORRECT_ACTION	Оқушы қадамды сәтті түрде аяқтады.
+USER_ACTION_WRONG_ACTION	Оқушы қате жасады.
+USER_ACTION_GOON	Оқушы "жалғастыру” түймесін басты, бұл қадам үшін ешбір ұпай көрсетілмеген.
+USER_ACTION_GOON_AUTO	Қателер санына байланысты, үлгілеу автоматты түрде жалғасты.
+USER_ACTION_HELP	Оқушы көмек сұрады, бұл қадам үшін ешбір ұпай көрсетілмеген.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Оқушы мәтін өрісін ашты.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Оқушы мәтін өрісін жапты.
+QUIZ_CORRECT_RESPONSE	Дұрыс жауап
+QUIZ_STUDENT_RESPONSE	Оқушының жауабы
+QUIZ_LATENCY	Уақыт
+QUIZ_SCORE	Алынған ұпай
+QUIZ_REQ_SCORE	Қажетті ұпай
+QUIZ_MAX_SCORE	Ең жоғары ұпай
+QUIZ_TIMEOUT_REACHED	Берілген уақыт аяқталды
+QUIZTYPE_MCHOICE	Сынақ: Көптік таңдау
+QUIZTYPE_SQMAQUIZ	Сынақ: Өрістерді толтыру
+QUIZTYPE_FIBQUIZ	Сынақ: Бос терезелерді толтыру
+QUIZTYPE_MATCHQUIZ	Сынақ: Салыстыру
+QUIZTYPE_CONNQUIZ	Сынақ: Байланыс
+QUIZTYPE_SCALEQUIZ	Сынақ: Жылжыма
+QUIZTYPE_GRIDQUIZ	Сынақ: Тор
+QUIZTYPE_HOTSPOTQUIZ	Сынақ: Жедел нүкте
+QUIZTYPE_PUZZLEQUIZ	Сынақ: Пазл
+QUIZTYPE_MIXQUIZ	Сынақ: Сұрыптау
+CONNECTING	Байланысуда...
+SYNCHRONIZE	Синхрондау
+SYNCHRONIZED	Синхрондалған
+CONNECT	Байланысу
+BUBBLESTYLE_NOT_FOUND	Жолма-жол ескерту стилі табылмады.
+LOADING_MACROSET	Мазмұн мен ресурстарды жүктеу.
+ZOOM_LEVEL_NOTIFICATION	Ескерту: Масштабтау деңгейі 100% мәнінен өзгеше.
+ctx_html.header_title	Мәнмәтін анықтамасы
+ctx_html.introtext	Келесі анықтама мазмұны ағымдағы мәнмәтін үшін қолжетімді. Іске қосқыңыз келетін тармақты басыңыз.
+ctx_html.introtext_noresult	Ағымдағы мәнмәтін үшін ешқандай мазмұн қолжетімсіз. Кітапхананы тақырыптан ашыңыз немесе қосымша мазмұн алу үшін іздеу құралын пайдаланыңыз.
+ctx_html.query_empty	Сұрау бос.
+ctx_html.query_malformed	Сұрау жарамсыз.
+ctx_html.search	Іздеу
+ctx_html.library	Кітапхананы ашу
+ctx_html.language	Тіл
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Жазу
+qr_hint_dlg.dont_bother	Қайта көрсетпеу
+qr_hint_dlg.hint_end	Жазуды аяқтаңыз.
+qr_hint_dlg.hint_pause	Жазуды кідіртіңіз.
+btnOk	Рахмет
+qr_hint_dlg.hint_title	Жазуға қатысты сөзкөмектер
+qr_hint_dlg.audio_help	Басқару элементін таңдау алдында мәтінді жазыңыз.
+quiz_error_no_template_file	Қате: үлгі табылмады. Әдепкі нұсқа пайдаланылады.
+qr_hint_dlg.hint_end_1	АЯҚТАУ пернесі
+qr_hint_dlg.hint_pause_1	КІДІРТУ пернесі

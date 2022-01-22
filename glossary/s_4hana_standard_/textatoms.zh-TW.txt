@@ -1,0 +1,13 @@
+﻿SHARE_CONTENT	分享連結
+SHARE_BY_MAIL	傳送電子郵件
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	內容角色
+BACK	上一頁
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	傳送內容連結
+ERROR_2.h	@{LESSONPLAYER} 無法載入正常功能所需的組態檔案
+TOUR_PREV	上一頁
+ctx_html.introtext_noresult	目前內容沒有內容；請從表頭開啟 @{LIBRARY} 或使用搜尋取得進一步內容
+ctx_html.library	開啟 @{LIBRARY}
+	

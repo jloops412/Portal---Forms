@@ -1,0 +1,96 @@
+﻿@charset "utf-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    outline:hidden;
+}
+
+#bodyHead {
+    background: transparent url(../img/m_head_large_grad.jpg) repeat-x top left;
+}
+div.contentContainer,
+div.contentContainer a,
+#listFound a,
+#searchForm input.searchTxt {
+    font-size:15px !important;
+    line-height:1.3em;
+}
+.print div.contentContainer {
+    padding:0 33px;
+}
+.linksBar a,
+table .tHead p {
+    font-size:12px;
+}
+
+#bodyHead  h1 span {
+    height:50px;
+}
+#bodyHead  h1 {
+    padding:18px 0 0;
+}
+
+div.stopScale {
+    height:49px;
+}
+
+.wannaAction {
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    top: 10px;
+    right: 7px;
+}
+
+.wannaAction div {
+    height: 40px;
+    width: 36px;
+    background: transparent url(../img/m_tabHeader.png) no-repeat left top;
+}
+.wannaAction div:hover,
+.wannaAction div.recent {
+    background: transparent url(../img/m_tabHeader_hover.png) no-repeat left top;
+}
+.wannaAction div.activated {
+    background: transparent url(../img/m_tabHeader_act.png) no-repeat left top;
+}
+.wannaAction div a {
+    height:28px;
+}
+#containerul {
+    padding-left:0;
+}
+#containerul .symbols {
+    background-position: 0 40%;
+    background-repeat: no-repeat;
+    float: left;
+    height: 1.5em;
+    margin: 0;
+    padding: 0;
+    width: 27px;
+}
+#containerul a {
+    margin-left: 25px;
+}
+.favStat {
+    position:absolute;
+    right:10px;
+    bottom:18%;
+    height:35px;
+}
+.delFav {
+    height:30px;
+    width:30px;
+    background: transparent url(../img/m_delete.png) no-repeat top left;
+}
+#favList li {
+    line-height:30px;
+}
+.optionsLeft {
+    display:none;
+}
+#searchForm input.searchTxt {
+    height: 1.5em;
+    width: 80%;
+}

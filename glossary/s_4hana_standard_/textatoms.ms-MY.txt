@@ -1,0 +1,34 @@
+﻿SHARE_CONTENT	Kongsi pautan
+SHARE_BY_MAIL	Hantar e-mel
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_INFO	Maklumat konteks
+SETTINGS	Seting
+PLAYING	
+DESCRIPTION	Penerangan
+TOGGLE_TASKINFO	Paparkan / Sembunyikan penerangan sifat
+AUDIO_MUTE	Senyapkan Audio
+LIBFLAG_SHORTDESC	Carian penerangan ringkas
+LIBFLAG_DESC	Huraian carian
+LIBFLAG_KEYW	Carian kata kunci
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Hantar pautan kandungan
+ERROR_1	Satu penyekat pop timbul menghalang simulasi daripada dimainkan.
+ERROR_1.h	Satu penyekat pop timbul telah menghalang pelayar tetingkap baru daripada dibuka.OK: Tutup penyekat pop timbul atau mematikannya untuk domain ini.
+BOOK_INDEX_PAGE	Mula Halaman
+SLIDE_TIPS	Tip-tip
+PRACTICE_STOP	Mod Amalan selesai.
+TEST_START4	Jumlah markah anda akan dipaparkan pada akhir ujian. Sila cuba penuhi skor sasaran sebanyak @{res_mastery_percent}% .
+EXER_FAILDRAG	Anda menjalankan seret @1_keys_ yang tidak sah.
+EXER_FAILDRAG1	Sila melaksanakan operasi seret @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILDROP	Anda menjalankan operasi jatuh @1_keys_ yang tidak sah.
+EXER_FAILDROP1	Sila melaksanakan operasi jatuh @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILDBLCLICK1	Sila melaksanakan dwi-klik @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILCLICK3	Sila melaksanakan klik @1_keys_ dalam kawasan yang diserlahkan. 
+EXER_FAILENTER1	Sila melaksanakan legaran tetikus @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILMCLICK	@1_keys_ klik-tengah tidak dibenarkan.
+QUIZTYPE_MCHOICE	Kuiz: Pilihan berganda
+QUIZTYPE_SCALEQUIZ	Kuiz: Kawalan Slaid
+QUIZTYPE_HOTSPOTQUIZ	Kuiz: Hotspot
+ctx_html.introtext_noresult	Tiada kandungan tersedia untuk konteks semasa. Buka @{LIBRARY} dari pengepala atau gunakan carian untuk mendapatkan kandungan selanjutnya.
+ctx_html.library	Buka @{LIBRARY}
+	

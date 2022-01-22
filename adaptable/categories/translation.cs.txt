@@ -1,0 +1,9 @@
+﻿business_process	Podnikové procesy
+process_tutorials	Výukové programy
+guided_tours	Prohlídky s výkladem
+training_courses	Školicí kurzy
+user_assistance	Pomoc uživatelům
+compliance	Shoda
+tips_tricks	Tipy a triky
+faq	Časté dotazy
+misc	Různé

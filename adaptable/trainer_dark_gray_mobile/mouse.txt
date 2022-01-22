@@ -1,0 +1,58 @@
+{
+ "standard": {
+  "w": 32,
+  "h": 32,
+  "idle": {"id": "s.png", "x": -460, "y": 0},
+  "lclick1": {"id": "s.png", "x": -460, "y": -40},
+  "lclick2": {"id": "s.png", "x": -500, "y": -40},
+  "mclick1": {"id": "s.png", "x": -460, "y": -40},
+  "mclick2": {"id": "s.png", "x": -500, "y": -80},
+  "rclick1": {"id": "s.png", "x": -460, "y": -40},
+  "rclick2": {"id": "s.png", "x": -500, "y": -120},
+  "ldblclick1": {"id": "s.png", "x": -460, "y": -160},
+  "ldblclick2": {"id": "s.png", "x": -500, "y": -160},
+  "mdblclick1": {"id": "s.png", "x": -460, "y": -200},
+  "mdblclick2": {"id": "s.png", "x": -500, "y": -200},
+  "rdblclick1": {"id": "s.png", "x": -460, "y": -240},
+  "rdblclick2": {"id": "s.png", "x": -500, "y": -240},
+  "drag1": {"id": "s.png", "x": -460, "y": -40},
+  "drag2": {"id": "s.png", "x": -500, "y": -280},
+  "rdrag1": {"id": "s.png", "x": -460, "y": -40},
+  "rdrag2": {"id": "s.png", "x": -500, "y": -320},
+  "modifiers": {
+   "w": 18,
+   "h": 12,
+   "shift": {"id": "s.png", "x": -204, "y": -673},
+   "ctrl": {"id": "s.png", "x": -232, "y": -673},
+   "alt": {"id": "s.png", "x": -260, "y": -673}
+  }
+ },
+ "big": {
+  "w": 40,
+  "h": 40,
+  "idle": {"id": "s.png", "x": -380, "y": 0},
+  "lclick1": {"id": "s.png", "x": -380, "y": -40},
+  "lclick2": {"id": "s.png", "x": -420, "y": -40},
+  "mclick1": {"id": "s.png", "x": -380, "y": -40},
+  "mclick2": {"id": "s.png", "x": -420, "y": -80},
+  "rclick1": {"id": "s.png", "x": -380, "y": -40},
+  "rclick2": {"id": "s.png", "x": -420, "y": -120},
+  "ldblclick1": {"id": "s.png", "x": -380, "y": -160},
+  "ldblclick2": {"id": "s.png", "x": -420, "y": -160},
+  "mdblclick1": {"id": "s.png", "x": -380, "y": -200},
+  "mdblclick2": {"id": "s.png", "x": -420, "y": -200},
+  "rdblclick1": {"id": "s.png", "x": -380, "y": -240},
+  "rdblclick2": {"id": "s.png", "x": -420, "y": -240},
+  "drag1": {"id": "s.png", "x": -380, "y": -40},
+  "drag2": {"id": "s.png", "x": -420, "y": -280},
+  "rdrag1": {"id": "s.png", "x": -380, "y": -40},
+  "rdrag2": {"id": "s.png", "x": -420, "y": -320},
+  "modifiers": {
+   "w": 18,
+   "h": 12,
+   "shift": {"id": "s.png", "x": -532, "y": -200},
+   "ctrl": {"id": "s.png", "x": -532, "y": -51},
+   "alt": {"id": "s.png", "x": -532, "y": -102}
+  }
+ }
+}

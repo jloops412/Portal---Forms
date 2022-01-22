@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CTHeader webcompat="0" proc_error_correction="0" xRayProject="0" revision="$Id: header.xml,v 1.14 2011-03-10 16:50:56 stefanh Exp $" text_recognition_mode="3" text_recognition_methods="" profile_language="eng">
+    <Header threshold="0.800000">
+        <PageID>
+            <Attributes>
+                <MSAA value="act_tabs,act_treeitem,desc,page_id,state,text,type,value"/>
+                <WINDOWS value="class,text"/>
+            </Attributes>
+        </PageID>
+        <ContextID object_attribute="" context_attribute_name="" rule="0"/>
+        <Ident classname="" exename="" urls="" version="" caption=""/>
+    </Header>
+    <Global min_w="-1" min_h="-1" max_w="-1" max_h="-1">
+        <SAP recursion_level="3" has_context_info="0" find_embedded="0" access_check="0"/>
+        <JAVA use_jab_watcher="1" jab_tab_lookuplevel="3" jab_tree_lookuplevel="3" enable_jab_button_handler="1" jab_rerecognition_use_name="1" max_sl_edit_jab_height="0" init_with_setpage="0" jab_generate_path="1" java_rere_use_empty_name="1" java_use_fast_path="1" access_check="0"/>
+        <MSAA generate_path="1" max_name_objs="0" msaa_tab_lookuplevel="3" msaa_tree_lookuplevel="3" rerecognition_use_names="0"/>
+        <UIAutomation uia_tab_lookuplevel="3" uia_tree_lookuplevel="3" unique_ids="0" rerecognition_use_names="0" uia_generate_path="1" max_name_objs="0"/>
+        <UIACOM caching="0" generate_path="1" max_name_objs="200"/>
+        <HTML handle_zoom="1" has_context_info="0" batch_rerecognition="0" pgkey_fback="0" set_attrb="0" capture_multiple_dlg="0" ignore_dynamic_ids="1">
+            <GlobalScript/>
+        </HTML>
+        <HTML3 handle_zoom="1" has_context_info="0" has_product_info="0" batch_rerecognition="0" capture_multiple_dlg="0" rlevel="0" ignore_dynamic_ids="1" is_xray_profile="0">
+            <GlobalScript/>
+        </HTML3>
+        <DIG generate_path="0" generate_triangle="1">
+            <Settings>
+                <CParams min_object_height="8" min_object_width="8">
+                    <ClusterParams epsh="4" epsv="6" min_pts="2" max_cl_size="20"/>
+                    <ClusterParams epsh="15" epsv="1" min_pts="1" max_cl_size="20"/>
+                    <ClusterParams epsh="10" epsv="1" min_pts="10" max_cl_size="20"/>
+                    <ClusterParams epsh="10" epsv="1" min_pts="11" max_cl_size="16"/>
+                </CParams>
+                <RParams max_gap="1" min_line_length="10" threshold="30"/>
+                <CiParams circle_threshold="0.800000" inner_threshold="0.950000" outer_threshold="0.950000">
+                    <RadiusRange min="6.000000" max="6.000000"/>
+                </CiParams>
+            </Settings>
+            <PointAnalyzing all="0" analyze_width="50" analyze_height="250" merge_cross_objects="1"/>
+            <Contexts>
+                <Context type="menubar" max_hor_inter_obj_dist="30" max_vert_inter_obj_dist="10" top_min_dist="15" top_max_dist="70">
+                    <ObjectSize>
+                        <WidthRange min="9" max="300"/>
+                        <HeightRange min="8" max="25"/>
+                    </ObjectSize>
+                    <Alignment type="center" direction="horizontal" maxdiff="3"/>
+                    <Alignment type="left" direction="vertical" maxdiff="1"/>
+                </Context>
+            </Contexts>
+        </DIG>
+        <SAPB1 generate_path="1" analyze_point_timeout="3000" get_pagekey_timeout="7000"/>
+        <GRAPHIC>
+            <SupportedDesigns/>
+            <FontTemplateFiles>
+                <FontTemplateFile file="glyphs_latin_MS_Sans_Serif_size8_incl_underlines.xml"/>
+                <FontTemplateFile file="glyphs_latin_MS_Sans_Serif_size9_incl_underlines.xml"/>
+                <FontTemplateFile file="glyphs_latin_Tahoma_size8_incl_underlines.xml"/>
+                <FontTemplateFile file="glyphs_latin_Tahoma_size9_incl_underlines.xml"/>
+                <FontTemplateFile file="glyphs_latin_Arial_size9_incl_underlines.xml"/>
+                <FontTemplateFile file="glyphs_latin_Arial_size8_incl_underlines.xml"/>
+            </FontTemplateFiles>
+        </GRAPHIC>
+    </Global>
+</CTHeader>

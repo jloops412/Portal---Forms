@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Podijeli sadržaj
+SHARE_BY_MAIL	Podijeli preko e-pošte
+URL_OF_CURRENT_PAGE	URL trenutne stranice
+TASK	Zadatak
+GLOSSARY	Glosar
+CONTEXT_INFO	Informacije konteksta
+CONTEXT_ROLES	Uloge
+CONTEXT_ROLES_NOROLES	Pokaži kontekst bez uloga
+CONTEXT_MY_ROLES	Moje uloge
+CLOSEBUBBLE	Zatvori mjehurić
+MAXBUBBLE	Obnovi mjehurić
+MINBUBBLE	Minimiziraj mjehurić
+VOLUME	Glasnoća
+SETTINGS	Postave
+CLOSE_TASK	Zatvori @{TASK}
+CLOSE	Zatvori
+EXIT	Izlaz
+SELECTION	Odabir
+KEYWORD_SEARCH	Traženje ključne riječi
+SEARCH	Traženje
+SEARCH_STRING	Niz traženja
+KEYWORDS	Ključne riječi
+SEARCH_CLEAR	Poništi unos traženja
+FILTER	Filter
+RESOURCES	Resursi
+VIEW	Pogled
+CANCEL	Otkaži
+CONTINUING	Nastavi
+OK	OK
+PLAY	Izvedi
+PAUSE	Zaustavi
+BACK	Natrag
+PREVIOUS	Prethodni
+NEXT	Sljedeći
+PLAYING	Izvođenje
+PAUSED	Zaustavi
+USERINPUT	Unos
+IDLE	""
+START	Učitavanje stranice...
+RESTART	Ponovno pokreni
+TEXT	Tekst
+TITLE	Naslov
+MINIMIZE	Minimiziraj
+RESTORE	Obnovi
+ACQUIRED_SCORE	Ostvareni rezultat
+TEST_RESULT	Rezultat
+TESTDETAILS	Pokaži pojedinosti
+TESTDETAILS1	Sakrij pojedinosti
+PRINT	Ispiši stranicu
+LESSON	Simulacija
+OF	od
+DESCRIPTION	Opis
+FULLSCREEN	Cijeli ekran
+TOGGLE_TASKINFO	Pokaži/sakrij opis zadatka
+PANEL_VIEWMODE	Mod prikaza panela
+PANEL_TOGGLE	Pokaži/sakrij panel
+PANEL	Bočna traka/sav sadržaj
+BOOKMARK_FAVORITE	Favorit
+CONTENT	Sadržaj/područje reprodukcije
+TOC	Sadržaj
+FAVORITES	Favoriti
+RECENT	Povijest stranice
+QRCODE	QR šifra
+QR_URL_TOO_BIG	URL prevelik. Nije moguće generirati QR šifru.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	Isključi zvuk
+AUDIO_PLAY	Izvedi audio
+AUDIO_PAUSE	Zaustavi audio
+AUDIO_ON	Audio uključen
+AUDIO_OFF	Audio isključen
+CHANNEL_MASTER	Glavno
+CHANNEL_BOOKSOUND	Zvuk knjige
+CHANNEL_NARRATIVE	Naracija
+CHANNEL_EFFECTS	Učinci
+LIB_NOMATCH	Nema podudarnosti
+LIB_NOFILTER	Bez filtera
+LIBFLAG_NEWWIN	Otvori sadržaj u novom prozoru
+LIBFLAG_TITLE	Traži naslov
+LIBFLAG_SHORTDESC	Traži kratki opis
+LIBFLAG_DESC	Traži opis
+LIBFLAG_KEYW	Traži ključne riječi
+LIBFLAG_SLIDES	Traži sadržaj stranice knjige
+GUI_TOP_BAR	Traka na vrhu
+GUI_BOTTOM_BAR	Traka podnožja
+ORIENTATION_TOGGLE_TOP	Traka na vrhu
+ORIENTATION_TOGGLE_BOTTOM	Traka podnožja
+FEEDBACK	Povratna informacija autoru
+FEEDBACK_TITLE	Vaša povratna informacija
+FEEDBACK_QUESTION	Imate li komentare na ovu simulaciju?
+FEEDBACK_MISTAKE	Otkrio sam grešku
+FEEDBACK_COMMENTS	Imam komentare, želje
+FEEDBACK_SEND	Pošalji povratnu informaciju
+SEND_CONTENT	Podijeli sadržaj
+SEND_CONTENT_SUBJECT	Preporučeni sadržaj
+SEND_CONTENT_TEMPLATE	Pozdrav,\n\nmožda će te zanimati ovaj sadržaj. \n\nLegenda: @{SEND_CAPTION}\nVeza: @{SEND_LINK}\n\nPozdrav\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Došlo je do pogreške. Obratite se administratoru.
+ERROR_GENERAL	Interna greška.
+ERROR_1	Bloker popupa sprečava izvođenje simulacije.
+ERROR_1.h	Bloker popupa sprečava otvaranje novog prozora pretraživača. Zatvorite bloker popupa ili ga isključite za ovu domenu.
+ERROR_2	Potrebnu datoteku konfiguracije nije bilo moguće učitati.
+ERROR_2.h	@{LESSONPLAYER} nije mogao učitati obaveznu datoteku konfiguracije za ispravnu funkcionalnost.
+SCORM_LOCATION_ERROR	Vaš napredak nije bilo moguće snimiti jer nedostaje funkcionalnost u vašem LMS sustavu.
+RESTART_COMPLETED_LMS_LESSON	Pokrećete simulaciju koja je već dovršena ili uspješno položena. Time će se prethodno postignuti bodovi ponovno postaviti na nulu i poništiti oznaku dovršeno ili položeno. Želite li zaista ponovno pokrenuti?
+RESTART_Av_LMS_LESSON	Pokrećete simulaciju koja je već dovršena ili uspješno položena. Time će se prethodno postignuti bodovi ponovno postaviti na nulu i poništiti oznaku dovršeno ili položeno. Pritisnuti 'OK' za ponovno pokretanje ili 'Otkaži' za zatvaranje?
+BOOK_NEXT_CHAPTER	Sljedeće poglavlje
+BOOK_PREV_CHAPTER	Prethodno poglavlje
+BOOK_NEXT_PAGE	Sljedeća stranica
+BOOK_PREV_PAGE	Prethodna stranica
+BOOK_INDEX_PAGE	Početna stranica
+SLIDE_MOREINFO	Više informacija
+SLIDE_TIPS	Savjeti
+SLIDE_ATTACH	Prilozi
+SLIDE_SHOWATTACH	Pokaži priloge
+SLIDE_OPEN	Otvori
+SLIDE_ADD	Dodaj
+SLIDE_EDIT	Uredi
+SLIDE_DELETE	Izbriši
+SLIDE_BUTTONAREA	Traka reprodukcije
+HELP	Pomoć
+HELP_REGION_BAR	Prečice: pritisnite za fokus trake playera
+HELP_REGION_PANEL	Pritisnite za fokus bočne trake
+HELP_REGION_CONTENT	Pritisnite za fokus sadržaja
+HELP_LIBRARY	Pokaži @{LIBRARY} pomoć
+HELP_TRAINER	Pokaži @{LESSONPLAYER} pomoć
+HELP_BOOK	Pokaži @{BOOKPLAYER} pomoć
+DEMO_START	Demo mod
+DEMO_START1	U demo modu možete promatrati izvođenje aktivnosti u aplikaciji. Samo pratite simulaciju; svi koraci izvršit će se automatski.
+DEMO_START2	Možete koristiti traku usmjeravanja na dnu ekrana za zaustavljanje ili prekid dema. Također možete skočiti naprijed na sljedeći ili natrag na prethodni korak.
+DEMO_STOP	Demo mod je završen.
+CONCURRENT_START	Istovremeni mod
+CONCURRENT_START1	Istovremeni mod pokazuje vam upute korak po korak kako izvesti zadatak u aplikaciji.
+CONCURRENT_START2	Simulacija se prekida nakon svakog koraka kako biste dovršili korak u stvarnoj aplikaciji.
+CONCURRENT_STOP	Istovremeni mod je završen.
+PRACTICE_START	Mod vježbe
+PRACTICE_START1	U modu vježbe možete isprobati naučeno tako da sami riješite zadatak u aplikaciji.
+PRACTICE_START2	Samo pratite upute korak po korak.
+PRACTICE_STOP	Mod vježbe je završen.
+TEST_START	Mod testa
+TEST_START1	U probnom modu možete testirati svoje znanje tako da sami riješite zadatak u aplikaciji: Osim podataka uzorka koje morate unijeti, nećete primiti upute korak po korak. Cijeli zadatak opisan je u prozoru zadatka koji možete povećati ili minimizirati prema potrebi koristeći gumbe u traci naslova.
+TEST_START2	Na kraju testa vaš rezultat izračunat će se na osnovi broja ispravno dovršenih koraka. To bodovanje je za vašu samoprocjenu na području zadataka.
+TEST_START3	Molimo, budite vrlo oprezni jer će sustav registrirati sve pogrešno napisane unose i pogrešne pritiske te će sukladno tome smanjiti vaš rezultat. Odlučite li od sustava zatražiti pomoć za dovršenje koraka, vaš rezultat za taj određeni korak postavit će se na nulu.
+TEST_START4	Vaš ukupni rezultat prikazat će se na kraju testa. Molimo, pokušajte postići ciljni rezultat od @{res_mastery_percent}% .
+TEST_OK	Test položen
+TEST_OK1	Čestitamo, uspješno ste dovršili ovaj zadatak.
+TEST_FAILED	Test nije uspio
+TEST_FAILED1	Budući da ste postigli manje od @{res_mastery_percent}% od mogućeg maksimalnog rezultata, preporučamo vam da još jednom prijeđete sadržaj pokriven ovim tečajem obuke te zatim ponovno testirate svoje znanje u probnom modu.
+TEST_FINISHED	Ovaj test bio je samo za vašu samoprocjenu. Rezultati se neće zabilježiti ili proslijediti trećim stranama.
+TEST_SCORE	Rezultat
+TEST_SCOREVALUE	@{res_collected_points} od @{res_possible_points}
+FREEPRESENTATION_START	Slobodni mod prezentacije
+FREEPRESENTATION_START1	Slobodni mod prezentacije omogućuje vam izvršenje procesa u simulaciji.
+FREEPRESENTATION_START2	Izvršite radnje korak po korak. Upotrijebite F1 tipku za pomoć.
+FREEPRESENTATION_STOP	Slobodna prezentacija završena.
+GUIDEDPRESENTATION_START	Vođeni mod prezentacije
+GUIDEDPRESENTATION_START1	Vođeni mod prezentacije automatski izvršava proces u simulaciji. Pokazivač miša i isticanje prikazuju trenutni korak.
+GUIDEDPRESENTATION_START2	Pratite radnje korak po korak i zatim potvrdite svaku radnju.
+GUIDEDPRESENTATION_STOP	Vođena prezentacija završena.
+EXER_FAIL1	Radnja koju ste izveli bila je pogrešna.
+EXER_FAIL2	Radnja koju ste izveli bila je pogrešna. Od vašeg ukupnog rezultata odbija se 1 bod. Bodovi preostali za ovu radnju: @1_rest-points_.
+EXER_FAIL3	Radnja koju ste izveli bila je pogrešna. Od vašeg ukupnog rezultata odbija se 1 bod za svaku grešku. Bodovi preostali za ovu radnju: @1_rest-points_.
+EXER_FAILKEY1	Pritisnuli ste @1_key_ tipku.
+EXER_FAILKEY2	Funkcijske tipke koje se mogu koristiti su: @1_keys_.
+EXER_FAILRADIO	Svi važeći gumbi istaknuti su.
+EXER_FAILINPUT	Sva važeća područja teksta istaknuta su.
+EXER_FAILSELECT	Svi važeći okviri odabira istaknuti su.
+EXER_FAILDRAG	Izveli ste nevažeću @1_keys_ operaciju povlačenja.
+EXER_FAILDRAG1	Molimo, izvršite @1_keys_ operaciju povlačenja u istaknutom području.
+EXER_FAILDROP	Izveli ste nevažeću @1_keys_ operaciju ispuštanja.
+EXER_FAILDROP1	Molimo, izvršite @1_keys_ operaciju ispuštanja u istaknutom području.
+EXER_FAILDBLCLICK	Izveli ste nevažeći @1_keys_ dvostruki pritisak.
+EXER_FAILDBLCLICK1	Molimo, izvršite @1_keys_ dvostruki pritisak u istaknutom području.
+EXER_FAILCLICK	Pritisnuli @1_keys_ ste na nevažeće polje.
+EXER_FAILCLICK1	Sva važeća područja istaknuta su.
+EXER_FAILCLICK2	Izveli ste nevažeći @1_keys_ pritisak.
+EXER_FAILCLICK3	Molimo, izvršite @1_keys_ pritisak u istaknutom području.
+EXER_FAILENTER	Izvršili ste nevažeći @1_keys_ prijelaz mišem.
+EXER_FAILENTER1	Molimo, izvršite @1_keys_ prijelaz mišem u istaknutom području.
+EXER_FAILMCLICK	Pritisak @1_keys_ srednjeg gumba miša nije dopušten.
+EXER_WOULDGOON	(Bilješka: inače se nastavlja automatski)
+EXER_YOURINPUT	Unijeli ste "@1_input_".
+EXER_TEXTINPUT	Molimo, unesite "@1" u polje unosa "@2"!
+EXER_SELECT	Molimo, odaberite unos "@1"!
+EXER_GOON	Idi na sljedeći korak
+EXER_SHOWHELP	Da, pokaži pomoć
+EXER_TRYAGAIN	Pokušajte ponovno
+EXER_ASK4HELP	Trebate li pomoć?
+EXER_ONLY_VALID	Dopuštene radnje su:
+EXER_FORM_PREFIX	Unesite sljedeće vrijednosti:
+EXER_OR	ili
+EXER_AND	i
+SCORE	Bodovi
+SCORE_REDUCED	Mogući bodovi za ovaj korak smanjeni na
+TOUR_START	Početak simulacije
+TOUR_STOP	Prekid simulacije
+TOUR_END	Kraj simulacije
+TOUR_PLAY	Gumb Nastavi
+TOUR_JUMP	Preskočeno na drugi korak unutar simulacije.
+TOUR_PREV	Natrag
+TOUR_NEXT	Sljedeći
+USER_ACTION_CORRECT_ACTION	Učenik je uspješno izvršio korak.
+USER_ACTION_WRONG_ACTION	Učenik je napravio grešku.
+USER_ACTION_GOON	Učenik je pritisnuo na "Nastavi", nema bodova za ovaj korak.
+USER_ACTION_GOON_AUTO	Zbog broja grešaka simulacija se automatski nastavila.
+USER_ACTION_HELP	Učenik je zatraži pomoć, nema bodova za ovaj korak.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Učenik je otvorio polje teksta.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Učenik je zatvorio polje teksta.
+QUIZ_CORRECT_RESPONSE	Točan odgovor
+QUIZ_STUDENT_RESPONSE	Učenikov odgovor
+QUIZ_LATENCY	Vrijeme
+QUIZ_SCORE	Ostvareni rezultat
+QUIZ_REQ_SCORE	Obavezni rezultat
+QUIZ_MAX_SCORE	Maksimalni rezultat
+QUIZ_TIMEOUT_REACHED	Prekoračenje vremena dosegnuto
+QUIZTYPE_MCHOICE	Test: višestruki izbor
+QUIZTYPE_SQMAQUIZ	Test: popuni polja
+QUIZTYPE_FIBQUIZ	Test: popuni praznine
+QUIZTYPE_MATCHQUIZ	Test: usklađivanje
+QUIZTYPE_CONNQUIZ	Test: veza
+QUIZTYPE_SCALEQUIZ	Test: klizač
+QUIZTYPE_GRIDQUIZ	Test: mreža
+QUIZTYPE_HOTSPOTQUIZ	Test: hotspot
+QUIZTYPE_PUZZLEQUIZ	Test: puzzle
+QUIZTYPE_MIXQUIZ	Test: sortiranje
+CONNECTING	Povezivanje...
+SYNCHRONIZE	Sinkroniziraj
+SYNCHRONIZED	Sinkronizirano
+CONNECT	Poveži
+BUBBLESTYLE_NOT_FOUND	Stil mjehurića nije nađen.
+LOADING_MACROSET	Učitavanje sadržaja i resursa.
+ZOOM_LEVEL_NOTIFICATION	Upozorenje: Vaša razina zumiranja različita je od 100%.
+ctx_html.header_title	Pomoć konteksta
+ctx_html.introtext	Sljedeći sadržaji pomoći raspoloživi su za trenutni kontekst. Pritisnite stavku koji želite pokrenuti.
+ctx_html.introtext_noresult	Sadržaj nije raspoloživ za trenutni kontekst. Otvorite knjižnicu iz zaglavlja ili upotrijebite traženje za uzimanje daljnjeg sadržaja.
+ctx_html.query_empty	Upit prazan.
+ctx_html.query_malformed	Upit nevažeći.
+ctx_html.search	Traženje
+ctx_html.library	Otvori knjižnicu
+ctx_html.language	Jezik
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Bilježenje
+qr_hint_dlg.dont_bother	Više ne pokazivati
+qr_hint_dlg.hint_end	Završite bilježenje.
+qr_hint_dlg.hint_pause	Zaustavite bilježenje.
+btnOk	Hvala
+qr_hint_dlg.hint_title	Savjeti za bilježenje
+qr_hint_dlg.audio_help	Zabilježite svoj tekst prije nego što odaberete kontrolu.
+quiz_error_no_template_file	Greška: predložak datoteke nije nađen. Upotrijebit će se preddefinirana datoteka.
+qr_hint_dlg.hint_end_1	Tipka END
+qr_hint_dlg.hint_pause_1	Tipka PAUSE

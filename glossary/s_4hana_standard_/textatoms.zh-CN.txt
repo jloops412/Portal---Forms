@@ -1,0 +1,11 @@
+﻿SHARE_CONTENT	共享链接
+SHARE_BY_MAIL	发送电子邮件
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	上下文角色
+PLAYING	
+QRCODE	QR 码
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	发送内容链接
+ctx_html.introtext_noresult	当前上下文无可用内容。可通过标题打开 @{LIBRARY} 或使用搜索功能获取更多内容。
+ctx_html.library	打开 @{LIBRARY}
+	

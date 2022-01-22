@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Chia sẻ nội dung
+SHARE_BY_MAIL	Chia sẻ qua email
+URL_OF_CURRENT_PAGE	URL của trang hiện tại
+TASK	Tác vụ
+GLOSSARY	Thuật ngữ
+CONTEXT_INFO	Thông tin ngữ cảnh
+CONTEXT_ROLES	Vai trò
+CONTEXT_ROLES_NOROLES	Hiển thị ngữ cảnh không có vai trò
+CONTEXT_MY_ROLES	Vai trò của tôi
+CLOSEBUBBLE	Đóng bóng thoại
+MAXBUBBLE	Khôi phục bóng thoại
+MINBUBBLE	Thu nhỏ bóng thoại
+VOLUME	Âm lượng
+SETTINGS	Thiết lập
+CLOSE_TASK	Đóng @{TASK}
+CLOSE	Đóng
+EXIT	Thoát
+SELECTION	Lựa chọn
+KEYWORD_SEARCH	Tìm kiếm
+SEARCH	Tìm kiếm
+SEARCH_STRING	Chuỗi tìm kiếm
+KEYWORDS	Từ khóa
+SEARCH_CLEAR	Xóa Tìm kiếm nhập
+FILTER	Lọc
+RESOURCES	Nguồn
+VIEW	Màn hình
+CANCEL	Hủy
+CONTINUING	Tiếp tục
+OK	OK
+PLAY	Phát
+PAUSE	Tạm ngừng
+BACK	Quay lại
+PREVIOUS	Trước
+NEXT	Tiếp theo
+PLAYING	Đang phát
+PAUSED	Tạm ngừng
+USERINPUT	Nhập liệu
+IDLE	""
+START	Đang tải trang...
+RESTART	Khởi động lại
+TEXT	Văn bản
+TITLE	Tiêu đề
+MINIMIZE	Thu nhỏ
+RESTORE	Khôi phục
+ACQUIRED_SCORE	Điểm Yêu cầu
+TEST_RESULT	Kết quả
+TESTDETAILS	Hiển thị chi tiết
+TESTDETAILS1	Ẩn chi tiết
+PRINT	Trang in
+LESSON	Mô phỏng
+OF	của
+DESCRIPTION	Mô tả
+FULLSCREEN	Toàn màn hình
+TOGGLE_TASKINFO	Hiển thị/ẩn mô tả tác vụ
+PANEL_VIEWMODE	Chế độ hiển thị bảng
+PANEL_TOGGLE	Hiển thị/Ẩn Bảng
+PANEL	Thanh bên/Tất cả nội dung
+BOOKMARK_FAVORITE	Mục ưa thích
+CONTENT	Nội dung/Phạm vi phát lại
+TOC	Mục lục
+FAVORITES	Mục ưa thích
+RECENT	Lịch sử trang
+QRCODE	Mã QR
+QR_URL_TOO_BIG	URL quá lớn. Không thể tạo mã QR
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	Tắt âm
+AUDIO_PLAY	Phát âm thanh
+AUDIO_PAUSE	Tạm dừng âm thanh
+AUDIO_ON	Âm thanh bật
+AUDIO_OFF	Âm thanh tắt
+CHANNEL_MASTER	Chính
+CHANNEL_BOOKSOUND	Âm sách
+CHANNEL_NARRATIVE	Tường thuật
+CHANNEL_EFFECTS	Hiệu ứng
+LIB_NOMATCH	Không có kết quả phù hợp
+LIB_NOFILTER	Không có bộ lọc
+LIBFLAG_NEWWIN	Mở nội dung trong cửa sổ mới
+LIBFLAG_TITLE	Tiêu đề tìm kiếm
+LIBFLAG_SHORTDESC	Mô tả ngắn tìm kiếm
+LIBFLAG_DESC	Mô tả tìm kiếm
+LIBFLAG_KEYW	Từ khóa tìm kiếm
+LIBFLAG_SLIDES	Tìm kiếm nội dung trang sách
+GUI_TOP_BAR	Thanh phía trên
+GUI_BOTTOM_BAR	Thanh phía dưới
+ORIENTATION_TOGGLE_TOP	Thanh phía trên
+ORIENTATION_TOGGLE_BOTTOM	Thanh phía dưới
+FEEDBACK	Ý kiến phản hỏ̀i cho tác giả
+FEEDBACK_TITLE	Ý kiến phản hồi của bạn
+FEEDBACK_QUESTION	Bạn có nhận xét gì về mô phỏng này?
+FEEDBACK_MISTAKE	Tôi đã phát hiện ra một lỗi
+FEEDBACK_COMMENTS	Tôi có các nhận xét, các mong muốn
+FEEDBACK_SEND	Gửi ý kiến phản hồi
+SEND_CONTENT	Chia sẻ nội dung
+SEND_CONTENT_SUBJECT	Nội dung đề nghị
+SEND_CONTENT_TEMPLATE	Xin chào,\n\nĐây là nội dung có thể bạn sẽ thích. \n\nChú thích: @{SEND_CAPTION}\nLiên kết: @{SEND_LINK}\n\nTrân trọng\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Đã xảy ra lỗi. Vui lòng liên hệ quản trị viên của bạn.
+ERROR_GENERAL	Lỗi bên trong.
+ERROR_1	Trình chặn popup đang chặn không cho phát mô phỏng.
+ERROR_1.h	Trình chặn popup đã chặn không cho mở cửa sổ trình duyệt mới. Đóng trình chặn popup hoặc tắt nó đối với miền này.
+ERROR_2	Không thể tải tập tin cấu hình cần thiết.
+ERROR_2.h	@{LESSONPLAYER} không thể tải tập tin cấu hình theo yêu cầu cho chức năng phù hợp.
+SCORM_LOCATION_ERROR	Không thể lưu quy trình của bạn vì thiếu chức năng trong hệ thống LMS.
+RESTART_COMPLETED_LMS_LESSON	Bạn đang khởi động mô phỏng đã được hoàn tất hoặc đã đạt thành công. Điều này sẽ thiết lập lại tất cả điểm đã lưu trữ trước đây thành không và bỏ thiết lập đánh dấu đã vượt qua hoặc hoàn tất. Bạn có thật sự muốn khởi động lại?
+RESTART_Av_LMS_LESSON	Bạn đang khởi động mô phỏng đã được hoàn tất hoặc đã đạt thành công. Điều này sẽ thiết lập lại tất cả điểm đã lưu trữ trước đây thành không và bỏ thiết lập đánh dấu đã vượt qua hoặc hoàn tất. Nhấp 'OK' để khởi động lại hoặc 'Hủy' để đóng?
+BOOK_NEXT_CHAPTER	Chương kế tiếp
+BOOK_PREV_CHAPTER	Chương trước
+BOOK_NEXT_PAGE	Trang kế tiếp
+BOOK_PREV_PAGE	Trang trước
+BOOK_INDEX_PAGE	Trang đầu
+SLIDE_MOREINFO	Thông tin thêm
+SLIDE_TIPS	Mẹo
+SLIDE_ATTACH	Phần đính kèm
+SLIDE_SHOWATTACH	Hiển thị phần đính kèm
+SLIDE_OPEN	Mở
+SLIDE_ADD	Thêm
+SLIDE_EDIT	Hiệu chỉnh
+SLIDE_DELETE	Xóa
+SLIDE_BUTTONAREA	Thanh phát lại
+HELP	Trợ giúp
+HELP_REGION_BAR	Lối tắt: Nhấn để tập trung vào thanh trình phát
+HELP_REGION_PANEL	Nhấn để tập trung vào thanh bên
+HELP_REGION_CONTENT	Nhấn để tập trung vào nội dung
+HELP_LIBRARY	Hiển thị @{LIBRARY} trợ giúp
+HELP_TRAINER	Hiển thị @{LESSONPLAYER} trợ giúp
+HELP_BOOK	Hiển thị @{BOOKPLAYER} trợ giúp
+DEMO_START	Chế độ Demo
+DEMO_START1	Ở Chế độ Demo, bạn có thể theo dõi việc hoàn tất một thao tác bên trong ứng dụng. Bạn chỉ cần thực hiện theo chế độ demo, trong khi mọi thao tác được thực hiện tự động.
+DEMO_START2	Bằng cách dùng thanh chuyển hướng ở phía dưới màn hình, bạn có thể tạm dừng hoặc dừng chế độ demo. Bạn cũng có thể chuyển đến bước kế tiếp hoặc trở về bước trước đó.
+DEMO_STOP	Đã hoàn tất Chế độ Demo.
+CONCURRENT_START	Chế độ Đồng thời
+CONCURRENT_START1	Chế độ Đồng thời cho bạn thấy cách thực hiện một tác vụ trong ứng dụng theo từng bước.
+CONCURRENT_START2	Chế độ demo sẽ tạm dừng sau mỗi bước để cho bạn cơ hội hoàn tất bước đó trong ứng dụng thực.
+CONCURRENT_STOP	Đã hoàn tất Chế độ Đồng thời
+PRACTICE_START	Chế độ thực hành
+PRACTICE_START1	Trong chế độ thực hành bạn tự mình có thể thử điều bạn đã học bằng cách giải quyết tác vụ trong ứng dụng.
+PRACTICE_START2	Bạn sẽ nhận các hướng dẫn từng bước cần thực hiện theo.
+PRACTICE_STOP	Đã hoàn tất Chế độ Thực hành
+TEST_START	Chế độ kiểm tra
+TEST_START1	Ở Chế độ Kiểm tra, bạn có thể tự kiểm tra kiến thức của mình bằng cách hoàn tất một thao tác bên trong ứng dụng: Ngoài dữ liệu mẫu cần nhập, bạn sẽ không nhận được bất cứ hướng dẫn từng bước nào khác. Nhiệm vụ cần hoàn tất được mô tả trong cửa sổ tác vụ nơi bạn có thể phóng to hoặc thu nhỏ khi cần qua các nút ở phía trên cửa sổ tác vụ.
+TEST_START2	Ở cuối bài kiểm tra, bạn sẽ được chấm điểm dựa vào số lượng các bước đã hoàn tất chính xác. Việc chấm điểm này chỉ để cho bạn tự đánh giá trên vùng tác vụ.
+TEST_START3	Vui lòng cẩn thận với những gì bạn làm vì hệ thống sẽ đăng ký bất kỳ mục nhập sai chính tả và nhấop chuột sai nào và giảm số điểm tương ứng của bạn. Nếu bạn quyết định nhận trợ giúp từ hệ thống để hoàn tất bước, điểm của bạn cho bước cụ thể này sẽ được thiết lập thành không.
+TEST_START4	Tổng số điểm của bạn sẽ được hiển thị ở cuối bài kiểm tra. Vui lòng có gắng đáp ứng điểm số mục tiêu của @{res_mastery_percent}% .
+TEST_OK	Đã vượt qua bài kiểm tra
+TEST_OK1	Chúc mừng bạn đã hoàn tất thành công bài tập này.
+TEST_FAILED	Không vượt qua bài kiểm tra
+TEST_FAILED1	Do bạn đã đạt được nhỏ hơn @{res_mastery_percent}%, chúng tôi khuyên bạn nên kiểm tra nội dung của khóa học thêm lần nữa và sau đó thử kiểm tra lại kiến thức của mình ở chế độ Kiểm tra.
+TEST_FINISHED	Bài kiểm tra này dành cho bạn tự đánh giá. Kết quả sẽ không được ghi lại hoặc chuyển cho bất cứ ai.
+TEST_SCORE	Số điểm
+TEST_SCOREVALUE	@{res_collected_points} của @{res_possible_points}
+FREEPRESENTATION_START	Chế độ trình bày tự do
+FREEPRESENTATION_START1	Chế độ trình bày tự do cho phép bạn thực hiện quy trình trong mô phỏng.
+FREEPRESENTATION_START2	Thực hiện thao tác từng bước. Sử dụng phím F1 để nhận trợ giúp.
+FREEPRESENTATION_STOP	Trình bày tự do hoàn tất.
+GUIDEDPRESENTATION_START	Chế độ trình bay theo hướng dẫn
+GUIDEDPRESENTATION_START1	Chế độ trình bày theo hướng dẫn thực hiện quy trình trong mô phỏng tự động. Con trỏ chuột và phần nổi bật hiển thị bước hiện tại.
+GUIDEDPRESENTATION_START2	Theo thao tác từng bước và xác nhận mỗi thao tác sau đó.
+GUIDEDPRESENTATION_STOP	Trình bày theo hướng dẫn hoàn tất.
+EXER_FAIL1	Thao tác bạn thực hiện không đúng.
+EXER_FAIL2	Hành động bạn đã thực hiện không đúng. 1 điểm đang được trừ khỏi toàn bộ số điểm của bạn. Điểm còn lại cho hành động này: @1_rest-points_.
+EXER_FAIL3	Hành động bạn đã thực hiện không đúng. 1 điểm đang được trừ cho mỗi lỗi khỏi toàn bộ số điểm của bạn. Điểm còn lại cho hành động này: @1_rest-points_.
+EXER_FAILKEY1	Bạn đã nhấn @1_key_ phím.
+EXER_FAILKEY2	Các phím chức năng có thể được sử dụng là: @1_keys_.
+EXER_FAILRADIO	Tất cả các nút hợp lệ được tô đậm màu.
+EXER_FAILINPUT	Tất cả vùng văn bản hợp lệ được tô đậm màu.
+EXER_FAILSELECT	Tất cả hộp chọn hợp lệ được tô đậm màu.
+EXER_FAILDRAG	Bạn đã thực hiện hoạt động kéo không hợp lệ @1_keys_.
+EXER_FAILDRAG1	Vui lòng thực hiện @1_keys_ hoạt động kéo trong vùng được làm nổi bật.
+EXER_FAILDROP	Bạn đã thực hiện hoạt động thả không hợp lệ @1_keys_.
+EXER_FAILDROP1	Vui lòng thực hiện @1_keys_ hoạt động thả trong vùng được làm nổi bật.
+EXER_FAILDBLCLICK	Bạn đã thực hiện nhấp đôi chuột không hợp lệ @1_keys_.
+EXER_FAILDBLCLICK1	Vui lòng thực hiện @1_keys_ nhấp đôi chuột trong vùng được làm nổi bật.
+EXER_FAILCLICK	Bạn @1_keys_ đã nhấp chuột vào vùng không hợp lệ.
+EXER_FAILCLICK1	Tất cả các nút hợp lệ được tô đậm màu.
+EXER_FAILCLICK2	Bạn đã thực hiện nhấp chuột không hợp lệ @1_keys_.
+EXER_FAILCLICK3	Vui lòng thực hiện @1_keys_ nhấp chuột trong vùng được làm nổi bật.
+EXER_FAILENTER	Bạn đã thực hiện đưa chuột lên trên không hợp lệ @1_keys_.
+EXER_FAILENTER1	Vui lòng thực hiện @1_keys_ đưa chuột lên trên trong vùng được làm nổi bật.
+EXER_FAILMCLICK	Không @1_keys_ được phép nhấp chuột giữa.
+EXER_WOULDGOON	(Chú ý: Nếu không thì sẽ tự động tiếp tục)
+EXER_YOURINPUT	Bạn đã nhập "@1_input_".
+EXER_TEXTINPUT	Vui lòng nhập "@1" vào mục nhập "@2"!
+EXER_SELECT	Vui lòng chọn mục "@1"!
+EXER_GOON	Đến bước kế tiếp
+EXER_SHOWHELP	Có, hiển thị trợ giúp
+EXER_TRYAGAIN	Thử lại
+EXER_ASK4HELP	Bạn cần giúp đỡ không?
+EXER_ONLY_VALID	Các phím cho phép là:
+EXER_FORM_PREFIX	Nhập giá trị sau đây:
+EXER_OR	hoặc
+EXER_AND	và
+SCORE	Số điểm
+SCORE_REDUCED	Điểm cho bước này bị trừ thành
+TOUR_START	Bắt đầu mô phỏng
+TOUR_STOP	Hủy mô phỏng
+TOUR_END	Cuối mô phỏng
+TOUR_PLAY	Nút tiếp tục
+TOUR_JUMP	Nhảy sang bước khác trong cùng mô phỏng.
+TOUR_PREV	Quay lại
+TOUR_NEXT	Tiếp theo
+USER_ACTION_CORRECT_ACTION	Học viên thực hiện thành công bước này.
+USER_ACTION_WRONG_ACTION	Học viên mắc lỗi.
+USER_ACTION_GOON	Người học đã nhấp vào "tiếp tục", không có điểm nào cho bước này.
+USER_ACTION_GOON_AUTO	Do có số sai sót, mô phỏng được tiếp tục tự động.
+USER_ACTION_HELP	Người học đã yêu cầu trợ giúp, không có điểm nào cho bước này.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Học viên đã mở một ô văn bản.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Học viên đã đóng một ô văn bản.
+QUIZ_CORRECT_RESPONSE	Câu trả lời đúng
+QUIZ_STUDENT_RESPONSE	Câu trả lời của học viên
+QUIZ_LATENCY	Thời gian
+QUIZ_SCORE	Điểm Yêu cầu
+QUIZ_REQ_SCORE	Điểm yêu cầu
+QUIZ_MAX_SCORE	Điểm tối đa
+QUIZ_TIMEOUT_REACHED	Đã hết giờ
+QUIZTYPE_MCHOICE	Câu hỏi trắc nghiệm: Đa lựa chọn
+QUIZTYPE_SQMAQUIZ	Câu hỏi trắc nghiệm: Điền vào trường
+QUIZTYPE_FIBQUIZ	Câu hỏi trắc nghiệm: Điền vào chỗ trống
+QUIZTYPE_MATCHQUIZ	Câu hỏi trắc nghiệm: So khớp
+QUIZTYPE_CONNQUIZ	Câu hỏi trắc nghiệm: Kết nối
+QUIZTYPE_SCALEQUIZ	Câu hỏi trắc nghiệm: Điều khiển con trượt
+QUIZTYPE_GRIDQUIZ	Câu hỏi trắc nghiệm: Lưới
+QUIZTYPE_HOTSPOTQUIZ	Câu hỏi trắc nghiệm: Hotspot
+QUIZTYPE_PUZZLEQUIZ	Câu hỏi trắc nghiệm: Câu đố
+QUIZTYPE_MIXQUIZ	Câu hỏi trắc nghiệm: Sắp xếp
+CONNECTING	Đang kết nối...
+SYNCHRONIZE	Đồng bộ hóa
+SYNCHRONIZED	Đã đồng bộ hóa
+CONNECT	Kết nối
+BUBBLESTYLE_NOT_FOUND	Không tìm thấy kiểu bóng thoại.
+LOADING_MACROSET	Tải nội dung và nguồn.
+ZOOM_LEVEL_NOTIFICATION	Cảnh báo: Cỡ thu phóng khác với 100%.
+ctx_html.header_title	Trợ giúp ngữ cảnh
+ctx_html.introtext	Sẵn có nội dung trợ giúp sau đây cho ngữ cảnh hiện tại. Nhấp vào mục mà bạn thích bắt đầu.
+ctx_html.introtext_noresult	Không sẵn có nội dung cho ngữ cảnh hiện tại. Mở thư viện từ tiêu đề hoặc dùng tìm kiếm để lấy thêm nội dung.
+ctx_html.query_empty	Truy vấn trống.
+ctx_html.query_malformed	Truy vấn không hợp lệ.
+ctx_html.search	Tìm kiếm
+ctx_html.library	Mở thư viện
+ctx_html.language	Ngôn ngữ
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Ghi
+qr_hint_dlg.dont_bother	Không hiện lại
+qr_hint_dlg.hint_end	Kết thúc ghi.
+qr_hint_dlg.hint_pause	Tạm dừng ghi.
+btnOk	Xin cảm ơn
+qr_hint_dlg.hint_title	Gợi ý ghi
+qr_hint_dlg.audio_help	Ghi lại văn bản trước khi chọn điều khiển.
+quiz_error_no_template_file	Lỗi: Không tìm thấy tập tin mẫu. Mặc định sẽ được sử dụng.
+qr_hint_dlg.hint_end_1	Phím END
+qr_hint_dlg.hint_pause_1	Phím PAUSE

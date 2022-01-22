@@ -1,0 +1,255 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Del indhold
+SHARE_BY_MAIL	Del via e-mail
+URL_OF_CURRENT_PAGE	URL for aktuel side
+TASK	Opgave
+GLOSSARY	Glossar
+CONTEXT_INFO	Kontekstinformation
+CONTEXT_ROLES	Roller
+CONTEXT_ROLES_NOROLES	Vis kontekst uden roller
+CONTEXT_MY_ROLES	Mine roller
+CLOSEBUBBLE	Luk boble
+MAXBUBBLE	Gendan boble
+MINBUBBLE	Minimer boble
+VOLUME	Lydstyrke
+SETTINGS	Indstillinger
+CLOSE_TASK	Luk @{TASK}
+CLOSE	Luk
+EXIT	Afslut
+SELECTION	Selektion
+KEYWORD_SEARCH	Nøgleordssøgning
+SEARCH	Søg
+SEARCH_STRING	Søgestreng
+KEYWORDS	Nøgleord
+SEARCH_CLEAR	Ryd søgeinput
+FILTER	Filter
+RESOURCES	Ressourcer
+VIEW	View
+CANCEL	Annuller
+CONTINUING	Fortsæt
+OK	OK
+PLAY	Afspil
+PAUSE	Pause
+BACK	Tilbage
+PREVIOUS	Foregående
+NEXT	Fortsæt
+PLAYING	Afspiller
+PAUSED	Pause
+USERINPUT	Input
+IDLE	""
+START	Siden loader ...
+RESTART	Genstart
+TEXT	Tekst
+TITLE	Titel
+MINIMIZE	Minimer
+RESTORE	Gendan
+ACQUIRED_SCORE	Opnået score
+TEST_RESULT	Resultat
+TESTDETAILS	Vis detaljer
+TESTDETAILS1	Skjul detaljer
+PRINT	Print siden
+LESSON	Simulering
+OF	af
+DESCRIPTION	Beskrivelse
+FULLSCREEN	Fuldskærm
+TOGGLE_TASKINFO	Vis/skjul opgavebeskrivelse
+PANEL_VIEWMODE	Panelvisningsmode
+PANEL_TOGGLE	Vis/skjul panel
+PANEL	Sidepanel/alt indhold
+BOOKMARK_FAVORITE	Foretrukken
+CONTENT	Indhold/afspilningsområde
+TOC	Indholdsfortegnelse
+FAVORITES	Foretrukne
+RECENT	Sidehistorik
+QRCODE	QR-kode
+QR_URL_TOO_BIG	URL for stor. QR-kode kan ikke genereres.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Skift
+AUDIO_MUTE	Slå lyd fra
+AUDIO_PLAY	Afspil lyd
+AUDIO_PAUSE	Sæt lyd på pause
+AUDIO_ON	Lyd til
+AUDIO_OFF	Lyd fra
+CHANNEL_MASTER	Master
+CHANNEL_BOOKSOUND	Boglyd
+CHANNEL_NARRATIVE	Narrativ
+CHANNEL_EFFECTS	Effekter
+LIB_NOMATCH	Ingen matches
+LIB_NOFILTER	Intet filter
+LIBFLAG_NEWWIN	Åbn indhold i et nyt vindue
+LIBFLAG_TITLE	Søg titel
+LIBFLAG_SHORTDESC	Søg efter kort beskrivelse
+LIBFLAG_DESC	Søg beskrivelse
+LIBFLAG_KEYW	Søg nøgleord
+LIBFLAG_SLIDES	Søg bogsideindhold
+GUI_TOP_BAR	Øverste bjælke
+GUI_BOTTOM_BAR	Nederste bjælke
+ORIENTATION_TOGGLE_TOP	Øverste bjælke
+ORIENTATION_TOGGLE_BOTTOM	Nederste bjælke
+FEEDBACK	Feedback til forfatter
+FEEDBACK_TITLE	Din feedback
+FEEDBACK_QUESTION	Har du kommentarer til denne simulering?
+FEEDBACK_MISTAKE	Jeg har opdaget en fejl
+FEEDBACK_COMMENTS	Jeg har kommentarer, ønsker
+FEEDBACK_SEND	Send feedback
+SEND_CONTENT	Del indhold
+SEND_CONTENT_SUBJECT	Anbefalet indhold
+SEND_CONTENT_TEMPLATE	Hej,\n\nDette indhold kan være interessant for dig. \n\nBilledtekst: @{SEND_CAPTION}\nLink: @{SEND_LINK}\n\nHilsen\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	En fejl opstod. Kontakt din administrator.
+ERROR_GENERAL	Intern fejl
+ERROR_1	En popup-blocker forhindrer simuleringen i at blive afspillet
+ERROR_1.h	En popup-blocker har forhindret åbning af et nyt browservindue. Luk popup-blocker eller inaktiver den for dette domæne.
+ERROR_2	Nødvendig konfigurationsfil kunne ikke loades
+ERROR_2.h	@{LESSONPLAYER} kunne ikke indlæse en konfigurationsfil, der kræves for korrekt funktionalitet.
+SCORM_LOCATION_ERROR	Din status kunne ikke gemmes på grund af en manglende funktion i dit LMS-system
+RESTART_COMPLETED_LMS_LESSON	Du starter en simulering, der allerede er afsluttet eller bestået. Dette nulstiller alle tidligere opnåede point og nulstiller markeringen for afsluttet eller bestået. Bekræft genstart?
+RESTART_Av_LMS_LESSON	Du starter en simulering, der allerede er afsluttet eller bestået. Dette nulstiller alle tidligere opnåede point og nulstiller markeringen for afsluttet eller bestået. Klik på 'OK' for at genstarte eller 'Afbryd' for at lukke?
+BOOK_NEXT_CHAPTER	Kapitel +
+BOOK_PREV_CHAPTER	Kapitel -
+BOOK_NEXT_PAGE	Side +
+BOOK_PREV_PAGE	Side -
+BOOK_INDEX_PAGE	Startside
+SLIDE_MOREINFO	Yderligere information
+SLIDE_TIPS	Tips
+SLIDE_ATTACH	Bilag
+SLIDE_SHOWATTACH	Vis bilag
+SLIDE_OPEN	Åbn
+SLIDE_ADD	Tilføj
+SLIDE_EDIT	Rediger
+SLIDE_DELETE	Slet
+SLIDE_BUTTONAREA	Afspilningsbjælke
+HELP	Hjælp
+HELP_REGION_BAR	Genveje: Tryk for at fokusere afspilningsbjælke
+HELP_REGION_PANEL	Tryk for at fokusere sidepanel
+HELP_REGION_CONTENT	Tryk for at fokusere indhold
+HELP_LIBRARY	Vis @{LIBRARY} hjælp
+HELP_TRAINER	Vis @{LESSONPLAYER} hjælp
+HELP_BOOK	Vis @{BOOKPLAYER} hjælp
+DEMO_START	Demomode
+DEMO_START1	I demomode kan du se en opgave der udføres i applikationen. Følg blot simuleringen; alle trin udføres automatisk.
+DEMO_START2	Du kan anvende navigationslinien nederst på skærmen til at afbryde eller stoppe demoen. Du kan også gå fremad til næste trin eller tilbage til det foregående trin.
+DEMO_STOP	Demomode er afsluttet
+CONCURRENT_START	Parallel mode
+CONCURRENT_START1	Parallel mode viser trin-for-trin hvordan en opgave udføres i en applikation
+CONCURRENT_START2	Efter hvert trin afbrydes simuleringen, så du kan udføre trinet i den rigtige applikation
+CONCURRENT_STOP	Parallel mode er afsluttet
+PRACTICE_START	Øvelsesmode
+PRACTICE_START1	I øvelsesmode kan du afprøve det, du har lært, ved selv at løse opgaven i applikationen
+PRACTICE_START2	Følg trin-for-trin-instruktionerne
+PRACTICE_STOP	Øvelsesmode er afsluttet
+TEST_START	Testmode
+TEST_START1	I testmode kan du teste din viden ved selv at løse en opgave i applikationen: Ud over de eksempeldata du skal indtaste vil du ikke modtage nogen trin-for-trin-instruktioner. Hele opgaven beskrives i opgavevinduet, som du kan forstørre eller minimere efter behov ved hjælp af knapperne i titellinien.
+TEST_START2	Når testen er slut, beregnes point på basis af antallet af de korrekt udførte trin. Denne pointberegning er kun til dit eget brug i opgaveområdet.
+TEST_START3	Udfør disse aktioner meget omhyggeligt, da systemet registrerer alle slåfejl og forkerte klik, hvilket reducerer dit pointantal tilsvarende. Hvis du beslutter dig for at bede om hjælp fra systemet til at færdiggøre et trin, nulstilles alle dine point for dette trin.
+TEST_START4	Din samlede score vises ved slut på testen. Forsøg at nå målet på @{res_mastery_percent}% .
+TEST_OK	Du har bestået testen
+TEST_OK1	Tillykke, du har fuldført denne opgave
+TEST_FAILED	Du har ikke bestået testen
+TEST_FAILED1	Da du har opnået mindre end @{res_mastery_percent}% af de mulige point, anbefaler vi, at du gennemgår indholdet i dette kursus endnu en gang og derefter kontrollerer din viden i testmode igen.
+TEST_FINISHED	Denne test er kun til selvbedømmelse. Resultaterne registreres ikke og sendes heller ikke videre.
+TEST_SCORE	Score
+TEST_SCOREVALUE	@{res_collected_points} af @{res_possible_points}
+FREEPRESENTATION_START	Fri præsentationsmode
+FREEPRESENTATION_START1	Fri præsentationsmode gør det muligt for dig at udføre en proces inden for simulering
+FREEPRESENTATION_START2	Udfør aktioner trin-for-trin. Anvend F1-tasten for at få hjælp.
+FREEPRESENTATION_STOP	Fri præsentationsmode er afsluttet
+GUIDEDPRESENTATION_START	Guidet præsentationsmode
+GUIDEDPRESENTATION_START1	Guidet præsentationsmode udfører automatisk en proces inden for simuleringen. En musemarkør og en fremhævelse viser det aktuelle trin.
+GUIDEDPRESENTATION_START2	Udfør aktionerne trin-for-trin, og bekræft hver aktion efterfølgende
+GUIDEDPRESENTATION_STOP	Guidet præsentationsmode er afsluttet
+EXER_FAIL1	Den udførte aktion var ikke korrekt
+EXER_FAIL2	Den aktion du udførte var ikke korrekt. 1 point trækkes fra din samlede score. Resterende point for denne aktion: @1_rest-points_.
+EXER_FAIL3	Den aktion du udførte var ikke korrekt. 1 point trækkes fra din samlede score for hver fejl. Resterende point for denne aktion: @1_rest-points_.
+EXER_FAILKEY1	Du har trykket @1_key_-tasten.
+EXER_FAILKEY2	Funktionstaster, der kan anvendes er: @1_keys_.
+EXER_FAILRADIO	Alle gyldige knapper er fremhævet
+EXER_FAILINPUT	Alle gyldige tekstområder er fremhævet
+EXER_FAILSELECT	Alle gyldige selektionslister er fremhævet
+EXER_FAILDRAG	Du har foretaget en ugyldig @1_keys_ trækkeoperation.
+EXER_FAILDRAG1	Udfør en @1_keys_ trækkeoperation i det fremhævede område.
+EXER_FAILDROP	Du har foretaget en ugyldig @1_keys_ slippeoperation.
+EXER_FAILDROP1	Udfør en @1_keys_ slippeoperation i det fremhævede område.
+EXER_FAILDBLCLICK	Du har foretaget et ugyldigt @1_keys_ dobbeltklik.
+EXER_FAILDBLCLICK1	Dobbeltklik @1_keys_ i det fremhævede område.
+EXER_FAILCLICK	Du @1_keys_ har klikket på et ugyldigt område.
+EXER_FAILCLICK1	Alle gyldige områder er fremhævet
+EXER_FAILCLICK2	Du har foretaget et ugyldigt @1_keys_ klik.
+EXER_FAILCLICK3	Klik @1_keys_ i det fremhævede område.
+EXER_FAILENTER	Du har udført en ugyldig @1_keys_ mouseover.
+EXER_FAILENTER1	Udfør en @1_keys_ mouseover i det fremhævede område.
+EXER_FAILMCLICK	@1_keys_ midterklik er ikke tilladt.
+EXER_WOULDGOON	(Bemærk: Ellers automatisk fortsat)
+EXER_YOURINPUT	Du har indtastet "@1_input_".
+EXER_TEXTINPUT	Indtast "@1" i inputfeltet "@2".
+EXER_SELECT	Vælg entry "@1"!
+EXER_GOON	Fortsæt til næste trin
+EXER_SHOWHELP	Ja, vis hjælp
+EXER_TRYAGAIN	Forsøg igen
+EXER_ASK4HELP	Har du brug for hjælp?
+EXER_ONLY_VALID	Tilladte aktioner er:
+EXER_FORM_PREFIX	Indtast følgende værdier:
+EXER_OR	eller
+EXER_AND	og
+SCORE	Point
+SCORE_REDUCED	Mulige point til dette trin reduceret til
+TOUR_START	Simulering start
+TOUR_STOP	Simulering afbrydelse
+TOUR_END	Simulering slut
+TOUR_PLAY	Knappen Fortsæt
+TOUR_JUMP	Sprunget til et andet trin i simuleringen
+TOUR_PREV	Tilbage
+TOUR_NEXT	Næste
+USER_ACTION_CORRECT_ACTION	Eleven har udført trinet uden fejl
+USER_ACTION_WRONG_ACTION	Eleven har lavet en fejl
+USER_ACTION_GOON	Eleven klikkede på 'Fortsæt', ingen point for dette trin
+USER_ACTION_GOON_AUTO	Simuleringen fortsatte automatisk pga. antallet af fejl
+USER_ACTION_HELP	Eleven bad om hjælp, ingen point for dette trin
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Eleven har åbnet et tekstfelt
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Eleven har lukket et tekstfelt
+QUIZ_CORRECT_RESPONSE	Rigtigt svar
+QUIZ_STUDENT_RESPONSE	Svar fra eleven
+QUIZ_LATENCY	Tid
+QUIZ_SCORE	Opnået score
+QUIZ_REQ_SCORE	Nødvendig score
+QUIZ_MAX_SCORE	Maks. score
+QUIZ_TIMEOUT_REACHED	Timeout nået
+QUIZTYPE_MCHOICE	Quiz: Multiple choice
+QUIZTYPE_SQMAQUIZ	Quiz: Udfyld felter
+QUIZTYPE_FIBQUIZ	Quiz: Udfyld tomme felter
+QUIZTYPE_MATCHQUIZ	Quiz: Forbindelse
+QUIZTYPE_CONNQUIZ	Quiz: Forbindelse
+QUIZTYPE_SCALEQUIZ	Quiz: Skyder
+QUIZTYPE_GRIDQUIZ	Quiz: Gitter
+QUIZTYPE_HOTSPOTQUIZ	Quiz: Hotspot
+QUIZTYPE_PUZZLEQUIZ	Quiz: Puslespil
+QUIZTYPE_MIXQUIZ	Quiz: Sortering
+CONNECTING	Opretter forbindelse...
+SYNCHRONIZE	Synkroniser
+SYNCHRONIZED	Synkroniseret
+CONNECT	Forbind
+BUBBLESTYLE_NOT_FOUND	Boblestil ikke fundet
+LOADING_MACROSET	Indhold og ressourcer indlæses
+ZOOM_LEVEL_NOTIFICATION	Advarsel: Dit zoomniveau er ikke 100%.
+ctx_html.header_title	Konteksthjælp
+ctx_html.introtext	Følgende hjælpeindhold er tilgængelige for aktuel kontekst. Klik på det element, du vil starte.
+ctx_html.introtext_noresult	Intet indhold tilgængeligt for aktuel kontekst. Åbn library fra titellinien eller anvend søgningen for at få yderligere indhold.
+ctx_html.query_empty	Forespørgsel er tom
+ctx_html.query_malformed	Forespørgsel ugyldig
+ctx_html.search	Søg
+ctx_html.library	Åbn library
+ctx_html.language	Sprog
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Noter til optagelse
+qr_hint_dlg.dont_bother	Vis ikke igen
+qr_hint_dlg.hint_end	Afslut optagelsen.
+qr_hint_dlg.hint_pause	Afbryd optagelsen.
+btnOk	OK
+qr_hint_dlg.hint_title	Noter til optagelse
+qr_hint_dlg.audio_help	Registrer din tekst, før du vælger et styreelement.
+quiz_error_no_template_file	Fejl: Skabelonfil ikke fundet. Standard anvendes.
+BOOK_TT_PREV_CHAPTER	Foregående kapitel
+BOOK_TT_PREV_PAGE	Foregående side
+qr_hint_dlg.hint_end_1	END-tast
+qr_hint_dlg.hint_pause_1	PAUSE-tast

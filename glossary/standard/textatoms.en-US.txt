@@ -1,0 +1,276 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+
+SHARE_CONTENT	Share Content
+SHARE_BY_MAIL	Share via email
+URL_OF_CURRENT_PAGE	URL of current page
+TASK	Task
+GLOSSARY	Glossary
+CONTEXT_INFO	Context Information
+CONTEXT_ROLES	Roles
+CONTEXT_ROLES_NOROLES	Show context without roles
+CONTEXT_MY_ROLES	My Roles
+CLOSEBUBBLE	Close bubble
+MAXBUBBLE	Restore bubble
+MINBUBBLE	Minimize bubble
+VOLUME	Volume
+SETTINGS	Settings
+CLOSE_TASK	Close @{TASK}
+CLOSE	Close
+EXIT	Exit
+SELECTION	Selection
+KEYWORD_SEARCH	Keyword Search
+SEARCH	Search
+SEARCH_STRING	Search string
+KEYWORDS	Keywords
+SEARCH_CLEAR	Clear Search Input
+FILTER	Filter
+RESOURCES	Resources
+VIEW	View
+CANCEL	Cancel
+CONTINUING	Continue
+OK	OK
+PLAY	Play
+PAUSE	Pause
+BACK	Back
+PREVIOUS	Previous
+NEXT	Next
+PLAYING	Playing
+PAUSED	Pause
+USERINPUT	Input
+IDLE	""
+START	Page loading...
+RESTART	Restart
+TEXT	Text
+TITLE	Title
+MINIMIZE	Minimize
+RESTORE	Restore
+ACQUIRED_SCORE	Acquired Score
+TEST_RESULT	Result
+TESTDETAILS	Show Details
+TESTDETAILS1	Hide Details
+PRINT	Print Page
+LESSON	Simulation
+OF	of
+DESCRIPTION	Description
+FULLSCREEN	Fullscreen
+TOGGLE_TASKINFO	Show/Hide Task Description
+PANEL_VIEWMODE	Panel Display Mode
+PANEL_TOGGLE	Show/Hide Panel
+PANEL	Sidebar/All Content
+BOOKMARK_FAVORITE	Favorite
+CONTENT	Content/Playback Area
+TOC	Table of Contents
+FAVORITES	Favorites
+RECENT	Page History
+
+QRCODE	QR Code
+QR_URL_TOO_BIG	Url too big. Cannot generate a QR code.
+
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+
+AUDIO_MUTE	Mute Audio
+AUDIO_PLAY	Play Audio
+AUDIO_PAUSE	Pause Audio
+AUDIO_ON	Audio on
+AUDIO_OFF	Audio off
+
+CHANNEL_MASTER	Master
+CHANNEL_BOOKSOUND	Book sound
+CHANNEL_NARRATIVE	Narrative
+CHANNEL_EFFECTS	Effects
+
+LIB_NOMATCH	No matches
+LIB_NOFILTER	No filter
+
+LIBFLAG_NEWWIN	Open content in a new window
+LIBFLAG_TITLE	Search title
+LIBFLAG_SHORTDESC	Search short description
+LIBFLAG_DESC	Search description
+LIBFLAG_KEYW	Search keywords
+LIBFLAG_SLIDES	Search book page content
+GUI_TOP_BAR	Top bar
+GUI_BOTTOM_BAR	Bottom bar
+ORIENTATION_TOGGLE_TOP	Top bar
+ORIENTATION_TOGGLE_BOTTOM	Bottom bar
+FEEDBACK	Feedback to author
+FEEDBACK_TITLE	Your feedback
+FEEDBACK_QUESTION	Do you have comments to this simulation?
+FEEDBACK_MISTAKE	I have discovered a mistake
+FEEDBACK_COMMENTS	I have comments, wishes
+FEEDBACK_SEND	Send feedback
+SEND_CONTENT	Share Content
+SEND_CONTENT_SUBJECT	Recommended content
+SEND_CONTENT_TEMPLATE	Hi,\n\nThis content might be interesting for you. \n\nCaption: @{SEND_CAPTION}\nLink: @{SEND_LINK}\n\nRegards\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	An error occurred. Please contact your administrator.
+
+ERROR_GENERAL	Internal error.
+ERROR_1	A popup blocker is preventing the simulation from being played.
+ERROR_1.h	A popup blocker has prevented a new browser window from being opened. Close the popup blocker or switch it off for this domain.
+ERROR_2	Necessary configuration file could not be loaded.
+ERROR_2.h	The @{LESSONPLAYER} could not load a configuration file required for proper functionality.
+
+SCORM_LOCATION_ERROR	Your progress could not be saved due to missing functionality of your LMS system.
+RESTART_COMPLETED_LMS_LESSON	You are starting a simulation that has already been completed or successfully passed. This will reset all previous achieved points to zero and unset the completed or passed flag. Do you really want to restart?
+RESTART_Av_LMS_LESSON	You are starting a simulation that has already been completed or successfully passed. This will reset all previous achieved points to zero and unset the completed or passed flag. Click 'OK' to restart or 'Cancel' to close?
+
+BOOK_NEXT_CHAPTER	Next Chapter
+BOOK_PREV_CHAPTER	Previous Chapter
+BOOK_NEXT_PAGE	Next Page
+BOOK_PREV_PAGE	Previous Page
+BOOK_INDEX_PAGE	Start Page
+
+SLIDE_MOREINFO	More Information
+SLIDE_TIPS	Tips
+SLIDE_ATTACH	Attachments
+SLIDE_SHOWATTACH	Show Attachments
+SLIDE_OPEN	Open
+SLIDE_ADD	Add
+SLIDE_EDIT	Edit
+SLIDE_DELETE	Delete
+SLIDE_BUTTONAREA	Playback Bar
+
+HELP	Help
+HELP_REGION_BAR	Shortcuts: Press to focus player bar
+HELP_REGION_PANEL	Press to focus sidebar
+HELP_REGION_CONTENT	Press to focus content
+HELP_LIBRARY	Show @{LIBRARY} help
+HELP_TRAINER	Show @{LESSONPLAYER} help
+HELP_BOOK	Show @{BOOKPLAYER} help
+
+DEMO_START	Demo Mode
+DEMO_START1	In Demo Mode you can observe an activity being performed within the application. Simply follow the simulation; all the steps will be carried out automatically.
+DEMO_START2	You can use the navigation bar at the bottom of the screen to pause or stop the demo. You can also jump forward to the next or backward to the previous step.
+DEMO_STOP	Demo Mode is finished.
+
+CONCURRENT_START	Concurrent Mode
+CONCURRENT_START1	Concurrent Mode shows you step-by-step how to perform a task within the application.
+CONCURRENT_START2	The simulation is interrupted after each step to give you the chance to complete the step in the real application.
+CONCURRENT_STOP	Concurrent Mode is finished.
+
+PRACTICE_START	Practice Mode
+PRACTICE_START1	In Practice Mode you can try out what you have learned by solving the task within the application by yourself.
+PRACTICE_START2	Simply follow the step-by-step instructions.
+PRACTICE_STOP	Practice Mode is finished.
+
+TEST_START	Test Mode
+TEST_START1	In Test Mode you can test your knowledge by solving a task within the application by yourself: Apart from the sample data you have to enter you will not receive any step-by-step instructions. The entire task is described in the task window that you can enlarge or minimize as needed using the buttons in the title bar.
+TEST_START2	At the end of the test you will be scored based on the number of correctly completed steps. This scoring is for your self-assessment on the task area.
+TEST_START3	Please be very careful what you do as the system will register any misspelled entries and wrong clicks and reduce your score accordingly. If you decide to receive assistance from the system to complete the step, your score for this particular step will be set to zero.
+TEST_START4	Your total score will be displayed at the end of the test. Please try to meet the target score of @{res_mastery_percent}% .
+TEST_OK	Test passed
+TEST_OK1	Congratulations, you have successfully completed this task.
+TEST_FAILED	Test failed
+TEST_FAILED1	Since you achieved less than @{res_mastery_percent}% of the possible maximum score we recommend that you go over the content covered by this training course once more and then test your knowledge again in test mode.
+TEST_FINISHED	This test was for your self-assessment only. The results will not be recorded or passed to third parties.
+TEST_SCORE	Score
+TEST_SCOREVALUE	@{res_collected_points} of @{res_possible_points}
+
+FREEPRESENTATION_START	Free Presentation Mode
+FREEPRESENTATION_START1	The Free Presentation mode allows you to execute a process within the simulation.
+FREEPRESENTATION_START2	Execute the actions step-by-step. Use the F1 key to get help.
+FREEPRESENTATION_STOP	Free Presentation is finished.
+GUIDEDPRESENTATION_START	Guided Presentation Mode
+GUIDEDPRESENTATION_START1	The Guided Presentation mode executes a process within the simulation automatically. A mouse pointer and a highlight display the current step.
+GUIDEDPRESENTATION_START2	Follow the actions step-by-step and confirm each action afterwards.
+GUIDEDPRESENTATION_STOP	Guided Presentation is finished.
+
+EXER_FAIL1	The action you performed was incorrect.
+EXER_FAIL2	The action you performed was incorrect. 1 point is being deducted from your overall score. Points left for this action: @1_rest-points_.
+EXER_FAIL3	The action you performed was incorrect. 1 point is being deducted for each mistake from your overall score. Points left for this action: @1_rest-points_.
+EXER_FAILKEY1	You pressed the @1_key_ key.
+EXER_FAILKEY2	Function keys which can be used are: @1_keys_.
+EXER_FAILRADIO	All valid buttons are highlighted.
+EXER_FAILINPUT	All valid textareas are highlighted.
+EXER_FAILSELECT	All valid selectboxes are highlighted.
+EXER_FAILDRAG	You performed an invalid @1_keys_ drag operation.
+EXER_FAILDRAG1	Please execute a @1_keys_ drag operation within the highlighted area.
+EXER_FAILDROP	You performed an invalid @1_keys_ drop operation.
+EXER_FAILDROP1	Please execute a @1_keys_ drop operation within the highlighted area.
+EXER_FAILDBLCLICK	You performed an invalid @1_keys_ double click.
+EXER_FAILDBLCLICK1	Please execute a @1_keys_ double click within the highlighted area.
+EXER_FAILCLICK	You @1_keys_ clicked an invalid area.
+EXER_FAILCLICK1	All valid areas are highlighted.
+EXER_FAILCLICK2	You performed in invalid @1_keys_ click.
+EXER_FAILCLICK3	Please execute a @1_keys_ click within the highlighted area.
+EXER_FAILENTER	You executed an invalid @1_keys_ mouseover.
+EXER_FAILENTER1	Please execute a @1_keys_ mouseover within the highlighted area.
+EXER_FAILMCLICK	A @1_keys_ middle-click is not permitted.
+EXER_WOULDGOON	(Note: Otherwise continued automatically)
+EXER_YOURINPUT	You have entered "@1_input_".
+EXER_TEXTINPUT	Please enter "@1" in the input field "@2"!
+EXER_SELECT	Please select entry "@1"!
+EXER_GOON	Go on to next step
+EXER_SHOWHELP	Yes, show help
+EXER_TRYAGAIN	Try again
+EXER_ASK4HELP	Do you need help?
+EXER_ONLY_VALID	Actions permitted are:
+EXER_FORM_PREFIX	Enter the following values:
+EXER_OR	or
+EXER_AND	and
+
+SCORE	Points
+SCORE_REDUCED	Possible points for this step reduced to
+TOUR_START	Simulation start
+TOUR_STOP	Simulation abort
+TOUR_END	Simulation end
+TOUR_PLAY	Continue button
+TOUR_JUMP	Jumped to another step within the simulation.
+TOUR_PREV	Back
+TOUR_NEXT	Next
+
+USER_ACTION_CORRECT_ACTION	The learner successfully carried out the step.
+USER_ACTION_WRONG_ACTION	The learner made a mistake.
+USER_ACTION_GOON	The learner clicked on "continue", no points for this step.
+USER_ACTION_GOON_AUTO	Due to the amount of mistakes, the simulation continued automatically.
+USER_ACTION_HELP	The learner asked for help, no points for this step.
+
+SLIDE_USER_ACTION_TEXTBOX_OPEN	The learner opened a text box.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	The learner closed a text box.
+
+QUIZ_CORRECT_RESPONSE	Correct response
+QUIZ_STUDENT_RESPONSE	Learner's answer
+QUIZ_LATENCY	Time
+QUIZ_SCORE	Acquired Score
+QUIZ_REQ_SCORE	Required Score
+QUIZ_MAX_SCORE	Maximum Score
+QUIZ_TIMEOUT_REACHED	Timeout reached
+QUIZTYPE_MCHOICE	Quiz: Multiple choice
+QUIZTYPE_SQMAQUIZ	Quiz: Fill in the fields
+QUIZTYPE_FIBQUIZ	Quiz: Fill in the blanks
+QUIZTYPE_MATCHQUIZ	Quiz: Matching
+QUIZTYPE_CONNQUIZ	Quiz: Connection
+QUIZTYPE_SCALEQUIZ	Quiz: Slide control
+QUIZTYPE_GRIDQUIZ	Quiz: Grid
+QUIZTYPE_HOTSPOTQUIZ	Quiz: Hotspot
+QUIZTYPE_PUZZLEQUIZ	Quiz: Puzzle
+QUIZTYPE_MIXQUIZ	Quiz: Sorting
+CONNECTING	Connecting...
+SYNCHRONIZE	Synchronize
+SYNCHRONIZED	Synchronized
+CONNECT	Connect
+BUBBLESTYLE_NOT_FOUND	Bubble style not found.
+LOADING_MACROSET	Loading content and resources.
+ZOOM_LEVEL_NOTIFICATION	Warning: Your zoom level is different from 100%.
+
+ctx_html.header_title	Context Help
+ctx_html.introtext	The following help contents are available for the current context. Click the item you would like to start.
+ctx_html.introtext_noresult	No content available for the current context. Open the library from the header or use the search to get further content.
+ctx_html.query_empty	Query empty.
+ctx_html.query_malformed	Query invalid.
+ctx_html.search	Search
+ctx_html.library	Open library
+ctx_html.language	Language
+
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Recording
+qr_hint_dlg.dont_bother	Do not show again
+qr_hint_dlg.hint_end	Finish the recording.
+qr_hint_dlg.hint_pause	Pause the recording.
+btnOk	Thanks
+qr_hint_dlg.hint_title	Recording Hints
+qr_hint_dlg.audio_help	Record your text before selecting a control.
+
+quiz_error_no_template_file	Error: Template file not found. Default will be used.

@@ -1,0 +1,13 @@
+﻿LIBRARY	library
+LESSONPLAYER	trainer
+SHARE_CONTENT	Del link
+SHARE_BY_MAIL	Send mail
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Send indholdslink
+ERROR_2.h	@{LESSONPLAYER} kunne ikke loade den nødvendige konfigurationsfil, for at funktionen fungerer korrekt
+ctx_html.introtext_noresult	Intet indhold tilgængeligt for aktuel kontekst. Åbn @{LIBRARY} fra titellinien eller anvend søgningen for at få yderligere indhold.
+ctx_html.query_empty	Forespørgsel er tom.
+ctx_html.library	Åbn @{LIBRARY}
+	

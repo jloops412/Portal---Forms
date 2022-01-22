@@ -1,0 +1,9 @@
+﻿business_process	عمليات الأعمال
+process_tutorials	البرامج التعليمية للعمليات
+guided_tours	جولات إرشادية
+training_courses	البرامج التدريبية
+user_assistance	مساعدة المستخدم
+compliance	التوافق
+tips_tricks	تلميحات ونصائح
+faq	الأسئلة المتكررة
+misc	متنوع

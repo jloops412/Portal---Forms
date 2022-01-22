@@ -1,0 +1,9 @@
+﻿business_process	Bedrijfsprocessen
+process_tutorials	Procestutorials
+guided_tours	Rondleidingen
+training_courses	Cursussen
+user_assistance	Gebruikershulp
+compliance	Compliance
+tips_tricks	Tips & tricks
+faq	Veelgestelde vragen
+misc	Overige

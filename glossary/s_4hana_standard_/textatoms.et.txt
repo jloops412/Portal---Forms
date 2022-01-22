@@ -1,0 +1,12 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+SHARE_CONTENT	Jaga linki
+SHARE_BY_MAIL	Saada meil
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Saada sisulink
+ERROR_2.h	@{LESSONPLAYER} ei saanud funktsioonide õigeks toimimiseks vajalikku konfiguratsioonifaili laadida.
+ctx_html.introtext_noresult	Praeguse konteksti jaoks pole sisu saadaval. Avage päisest @{LIBRARY} või kasutage täiendava sisu saamiseks otsingut.
+ctx_html.library	Ava @{LIBRARY}
+	

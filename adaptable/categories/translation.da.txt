@@ -1,0 +1,9 @@
+﻿business_process	Forretningsprocesser
+process_tutorials	Procestutorials
+guided_tours	Guidede rundvisninger
+training_courses	Kurser
+user_assistance	Brugerhjælp
+compliance	Overholdelse af vilkår
+tips_tricks	Tip
+faq	FAQ
+misc	Diverse

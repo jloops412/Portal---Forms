@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<style type="text/css">
+@CHARSET "UTF-8";
+*{margin:0;padding:0}
+html,body{-ms-touch-action:none;-ms-user-select:none}
+img{border-width:0}
+input::-ms-clear{width:0;height:0}
+.wct-previewer-frame{position:absolute;top:50%;left:50%;min-height:140px;transform:translate(-50%,-50%);background-color:white;box-shadow:0 0 16px 0 #004990;z-index:11}
+*:not(.highlight-focus-layer):focus{outline:none}
+.accessibility-mode *:not(.highlight-focus-layer):focus{outline:1px dashed #999}
+.state_rect{background-color:transparent;border:1px solid red;font-size:1px;position:absolute;z-index:200}
+.info_el,.info_rect{min-width:24px;position:absolute;background-color:rgba(0,0,0,0.66);color:#fff;font-family:Arial,Helvetica,FreeSans,Liberation Sans,Nimbus Sans L,sans-serif;font-size:11px !important}
+.info_rect{min-height:12px;padding:2px 4px;z-index:100}
+.info_el{height:12px;padding:2px 2px;z-index:99999;text-align:center}
+.x_ruler .info_el,.y_ruler .info_el{display:none;width:24px}
+.x_ruler.dragging .info_el{display:block;margin-left:-40px;margin-top:-16px}
+.y_ruler.dragging .info_el{display:block;margin-left:-16px;margin-top:-28px}
+.se-notification{min-width:50%;min-height:40px;padding:0 16px;transform:translateX(-50%);position:fixed;left:50%;top:0;z-index:99998;overflow:hidden;background-color:#f8e684;font-family:Arial,Helvetica,FreeSans,Liberation Sans,Nimbus Sans L,sans-serif;font-size:14px;line-height:40px;text-align:center;box-shadow:0 0 16px rgba(0,0,0,0.5),inset 0 2px 4px rgba(0,0,0,0.25)}
+.hline_el{background-color:#ccc;border:1px solid #777;border-right-width:0;color:black;font-family:Arial,Helvetica,FreeSans,Liberation Sans,Nimbus Sans L,sans-serif;font-size:1px;padding:0;position:absolute;z-index:100000}
+.Bubble{position:absolute;overflow:hidden;border:0;margin:0;padding:0}
+.Bubble .dgoBU{border:0;margin:0;padding:0;position:absolute;z-index:0;display:block;cursor:default;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;background-color:transparent;word-break:nobreak;image-rendering:optimizeSpeed;image-rendering:-webkit-optimize-contrast;image-rendering:optimize-contrast;image-rendering:-moz-crisp-edges;image-rendering:pixelated;image-rendering:crisp-edges;-ms-interpolation-mode:nearest-neighbor;-ms-user-select:auto !important}
+.Bubble .dgoBU[id$="#spike_nw"],.Bubble .dgoBU[id$="#spike_wn"],.Bubble .dgoBU[id$="#spike_tl"],.Bubble .dgoBU[id$="#corner_tl"],.Bubble .dgoBU[id$="#connect_nw"]{transform-origin:-100% -100%}
+.Bubble .dgoBU[id$="#fill1n"],.Bubble .dgoBU[id$="#fill2n"],.Bubble .dgoBU[id$="#fill1_n"],.Bubble .dgoBU[id$="#fill2_n"],.Bubble .dgoBU[id$="#edge_n"],.Bubble .dgoBU[id$="#connect_n"]{transform-origin:50% -100%}
+.Bubble .dgoBU[id$="#spike_ne"],.Bubble .dgoBU[id$="#spike_en"],.Bubble .dgoBU[id$="#spike_tr"],.Bubble .dgoBU[id$="#corner_tr"],.Bubble .dgoBU[id$="#connect_ne"]{transform-origin:100% -100%}
+.Bubble .dgoBU[id$="#fill1e"],.Bubble .dgoBU[id$="#fill2e"],.Bubble .dgoBU[id$="#fill1_e"],.Bubble .dgoBU[id$="#fill2_e"],.Bubble .dgoBU[id$="#edge_e"],.Bubble .dgoBU[id$="#connect_e"]{transform-origin:100% 50%}
+.Bubble .dgoBU[id$="#spike_es"],.Bubble .dgoBU[id$="#spike_se"],.Bubble .dgoBU[id$="#spike_br"],.Bubble .dgoBU[id$="#corner_br"],.Bubble .dgoBU[id$="#connect_es"]{transform-origin:100% 100%}
+.Bubble .dgoBU[id$="#fill1s"],.Bubble .dgoBU[id$="#fill2s"],.Bubble .dgoBU[id$="#fill1_s"],.Bubble .dgoBU[id$="#fill2_s"],.Bubble .dgoBU[id$="#edge_s"],.Bubble .dgoBU[id$="#connect_s"]{transform-origin:50% 100%}
+.Bubble .dgoBU[id$="#spike_ws"],.Bubble .dgoBU[id$="#spike_sw"],.Bubble .dgoBU[id$="#spike_bl"],.Bubble .dgoBU[id$="#corner_bl"],.Bubble .dgoBU[id$="#connect_ws"]{transform-origin:-100% 100%}
+.Bubble .dgoBU[id$="#fill1w"],.Bubble .dgoBU[id$="#fill2w"],.Bubble .dgoBU[id$="#fill1_w"],.Bubble .dgoBU[id$="#fill2_w"],.Bubble .dgoBU[id$="#edge_w"],.Bubble .dgoBU[id$="#connect_w"]{transform-origin:-100% 50%}
+.Bubble .dgoBU[id$="#connect_n"],.Bubble .dgoBU[id$="#connect_ne"],.Bubble .dgoBU[id$="#connect_nw"],.Bubble .dgoBU[id$="#connect_w"],.Bubble .dgoBU[id$="#connect_wn"],.Bubble .dgoBU[id$="#connect_ws"],.Bubble .dgoBU[id$="#connect_e"],.Bubble .dgoBU[id$="#connect_en"],.Bubble .dgoBU[id$="#connect_es"],.Bubble .dgoBU[id$="#connect_s"],.Bubble .dgoBU[id$="#connect_se"],.Bubble .dgoBU[id$="#connect_sw"]{background-repeat:no-repeat}
+.Bubble .dgoBUmain{border:0;margin:0;padding:0;position:absolute;overflow:hidden;background-color:transparent}
+.Bubble .dgoBUbtn{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.drag_handle{background-color:#f00;outline:1px solid rgba(255,255,255,0.66)}
+.spike_drag_handle{background-color:#009DE0;outline:1px solid rgba(255,255,255,0.66)}
+.log{font-family:lucida console,monaco,liberation mono,courier,courier new;font-size:8pt;line-height:100%;margin-bottom:0;margin-top:0;padding-bottom:0;padding-left:8px;padding-top:0;text-height:12pt}
+.button{border:1px solid black;cursor:pointer;font-family:Arial,Helvetica,FreeSans,Liberation Sans,Nimbus Sans L,sans-serif;font-size:10px;margin:1px;padding:1px;z-index:1000}
+.Quiz.template .wrapper,.iFrameControl .wrapper,.MediaControl .wrapper{height:calc(100% - 40px);margin:20px;overflow:hidden}
+.Quiz.template .wrapper .se-frame-object,.iFrameControl .wrapper .se-frame-object,.MediaControl .wrapper .se-frame-object{width:100% !important;height:100%;margin:0 !important;padding:5% 5% 90% 5%;box-sizing:border-box;font-size:12px;font-family:Arial,Helvetica,FreeSans,Liberation Sans,Nimbus Sans L,sans-serif;color:#6c6c6c;background-color:#f2f2f2}
+.Quiz.template .wrapper .se-frame-object{padding:5% 10% 90% 10%}
+.Quiz.template .wrapper .se-frame-object tr,.iFrameControl .wrapper .se-frame-object tr,.MediaControl .wrapper .se-frame-object tr{background:transparent !important}
+.Quiz.template .wrapper .se-frame-object td,.iFrameControl .wrapper .se-frame-object td,.iFrameControl .wrapper .se-frame-object th,.MediaControl .wrapper .se-frame-object td,.MediaControl .wrapper .se-frame-object th{height:24px;line-height:24px;background:transparent !important;padding:0 !important;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}
+.Quiz.template .wrapper .se-frame-object td{vertical-align:top;width:50%}
+.iFrameControl .wrapper .se-frame-object th,.MediaControl .wrapper .se-frame-object th{width:33% !important;padding:0 8px !important;font-weight:normal}
+.se-stage::-webkit-scrollbar,#frame::-webkit-scrollbar,body::-webkit-scrollbar{width:12px;height:12px}
+.se-stage::-webkit-scrollbar-corner,#frame::-webkit-scrollbar-corner,body::-webkit-scrollbar-corner{background-color:#f2f2f2}
+.se-stage::-webkit-scrollbar-track,#frame::-webkit-scrollbar-track,body::-webkit-scrollbar-track{background-color:#f2f2f2}
+.se-stage::-webkit-scrollbar-button,#frame::-webkit-scrollbar-button,body::-webkit-scrollbar-button{display:none}
+.se-stage::-webkit-scrollbar-thumb,#frame::-webkit-scrollbar-thumb,body::-webkit-scrollbar-thumb{height:48px;background-color:#bfbfbf}
+.se-stage::-webkit-scrollbar-thumb:hover,#frame::-webkit-scrollbar-thumb:hover,body::-webkit-scrollbar-thumb:hover{background-color:#d9d9d9}
+.se-stage::-webkit-scrollbar-thumb:active,#frame::-webkit-scrollbar-thumb:active,body::-webkit-scrollbar-thumb:active{background-color:#009de0}
+#frame.web-lesson-editor{box-shadow:inset 0 0 16px rgba(0,0,0,0.5)}
+#frame.web-lesson-editor #base_obj{box-shadow:0 0 8px rgba(0,0,0,0.5)}
+.Bubble .dgo_text_container:empty:before,.TextBox .dgo_text_container:empty:before,.ImageButton .dgo_text_container:empty:before,.TextControl .dgo_text_container:empty:before,.ActivityControl .dgo_text_container:empty:before,.editmode .TextControl .bto_placeholder .dgo_text_container:empty:before{display:none}
+.editmode .Bubble .dgo_text_container:empty:before,.editmode .TextBox .dgo_text_container:empty:before,.editmode .ImageButton .dgo_text_container:empty:before,.editmode .TextControl .dgo_text_container:empty:before,.editmode .ActivityControl .dgo_text_container:empty:before{opacity:0.33;content:attr(data-placeholder);display:block}
+@media screen and (-ms-high-contrast:white-on-black){.TextControl[role=region] .dgo_text_container{color:WindowText}
+.Bubble .dgo_text_container{color:Window}
+*:not(.highlight-focus-layer):focus,.accessibility-mode *:not(.highlight-focus-layer):focus{outline:2px dashed WindowText}
+.BreadcrumbTrailControl div{color:WindowText !important}
+.start-stop-text *{color:Window}
+}
+@media screen and (-ms-high-contrast:black-on-white){*:not(.highlight-focus-layer):focus,.accessibility-mode *:not(.highlight-focus-layer):focus{outline:2px dashed #000}
+.BreadcrumbTrailControl div{color:#000 !important}
+}
+@media screen and (-ms-high-contrast:active){*{background-color:transparent}
+}
+</style>
+<link rel="stylesheet" type="text/css" name="textboxcss" id="textboxcss" />
+<link rel="stylesheet" type="text/css" name="customcss" id="customcss" />
+<style type="text/css">
+/* Styles for high contrast detection by JS */
+* { -ms-high-contrast-adjust: none; }
+@media screen and (-ms-high-contrast: white-on-black) {
+body { background-color: #010101 !important; }
+}
+@media screen and (-ms-high-contrast: black-on-white) {
+body { background-color: #fefefe !important; }
+}
+</style>
+<script type="text/javascript" src="slide.js"></script>
+</head>
+<body id="slidemaster" onload="window.init_page && init_page()" onunload="try{on_unload()}catch(e){}" onresize="window.hdl_onresize && hdl_onresize()" style="border:0;margin:0;padding:0;" role="application" aria-live="polite">
+<!-- <div id="cruler" style="background-color:#AAAAAA;position:absolute;left:0px;top:0px;width:1px;height:1px;z-index:1;"></div>
+<div id="hruler" style="background-color:#CCCCCC;position:absolute;left:0px;top:0px;width:1px;height:1px;z-index:1;border-bottom:1px solid black"></div>
+<div id="vruler" style="background-color:#CCCCCC;position:absolute;left:0px;top:0px;width:1px;height:1px;z-index:2;border-right:1px solid black"></div> -->
+<div id="frame" style="background-color:#FFFFFF;position:absolute;left:0px;top:0px;width:1px;height:1px;z-index:0;overflow:hidden;">
+<div id="status" style="position:absolute;left:0px;top:0px;z-index:0"></div>
+<div id="canvas" style="position:relative;left:0px;top:0px;z-index:0">
+<div id="base_obj" style="position:relative;width:800px;height:600px;z-index:1"></div>
+</div>
+</div>
+<div id="drag_sel" class="log" style="text-size:12px;color:blue;position:absolute;top:50px;left:10px;width:600px;height:20px;z-index:1;border: 1px solid black;overflow:hidden;display:none;"></div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>AICC</title>
+<script type="text/javascript">
+var fini_=0,debug_=!1;function get_flash_(){var e=document.getElementById("AiccRelay");return document.all?e:e?e.getElementsByTagName("embed")[0]:null}function ie_close_window_(){window.opener=window,window.open("","_parent"),window.close()}function close_(e){if(!e)try{opener.AiccError(arguments[1]||"internal")}catch(c){}debug_||(document.all?setTimeout(ie_close_window_,1):window.close())}function verbose_(e,c){if(debug_){var n=document.getElementById("debug");n&&(n.innerHTML+="<p>--------------------------<br>### "+e.toUpperCase()+" ###<br>"+c+"</p>")}}function send_(e,c){verbose_("Aicc-Request: "+e,c);var n=get_flash_();return!!n&&(n.AiccRequest(e,c),!0)}function Loaded(){var e=document.getElementById("debug");e&&(e.innerHTML="")}function AiccRequest(e,c){send_(e,c)||close_(!1)}function AiccFini(e){verbose_("Aicc-Fini",e),fini_=1,send_("putparam",e)||close_(!1)}function AiccAbort(){verbose_("Aicc-Abort",""),close_(!0)}function DgoAiccFlashReady(){verbose_("Aicc: ready","");var e=location.search;if(!e||"?"!=e.charAt(0))return close_(!1);for(var c={},n=0,i=(e=e.substr(1).split("&")).length;n<i;n++){var o=e[n].split("=");c[o[0]]=unescape(o[1])}if(1===parseInt(c.debug)&&(debug_=!0),!c.url||!c.sid)return close_(!1);var r=get_flash_();if(!r)return close_(!1);var t=c.url,s="",l=t.indexOf("://")+3,a=(new Date).getTime();3<=l&&(s=t.substr(0,l),t=t.substr(l));var u=t=t.replace(/\/.*?$/,"");t=s+t+"/crossdomain.xml?nocache="+a,verbose_("Aicc-Init","- URL: "+c.url+"<br>- SID: "+c.sid+"<br>- Base: "+t+"<br>- Domain: "+u);try{r.AiccInit(c.url,c.sid,t,u)}catch(_){return verbose_("Aicc-Init","Unable to init flash."),close_(!1)}try{opener.AiccReady()}catch(_){verbose_("Aicc-Init","Unable to call opener."),close_(!1)}}function DgoAiccFlashRequestComplete(e){if(verbose_("Request-Complete",e),1==fini_)fini_=2,send_("exitau","")||close_(!1);else if(2==fini_)verbose_("Aicc: done",""),close_(!0);else try{opener.AiccComplete(e)}catch(c){}}function DgoAiccFlashRequestError(e){verbose_("Request-Error",e),close_(!1,e)}
+</script>
+</head>
+<body onload="Loaded()">
+<div id="debug">Loading...</div>
+<object
+id="AiccRelay"
+allowscriptaccess="always"
+classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab"
+width="10"
+height="10"
+>
+<param name="src" value="AiccRelay.swf" />
+<param name="allowscriptaccess" value="always" />
+<embed
+name="AiccRelay.swf"
+pluginspage="http://www.adobe.com/go/getflashplayer"
+src="AiccRelay.swf"
+allowscriptaccess="always"
+width="1"
+height="1"
+flashvars=""
+/>
+</object>
+</body>
+</html>

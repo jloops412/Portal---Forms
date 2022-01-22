@@ -1,0 +1,9 @@
+﻿business_process	Επιχειρηματικές Διαδικασίες
+process_tutorials	Εκπαίδευση Διαδικασίας
+guided_tours	Βοηθοί Διαδικασίας
+training_courses	Εκπαιδευτικά Προγράμματα
+user_assistance	Βοήθεια Χρήστη
+compliance	Συμμόρφωση
+tips_tricks	Συμβουλές & Κόλπα
+faq	FAQ
+misc	Διάφορα

@@ -1,0 +1,14 @@
+﻿TASK	Try it yourself
+PLAYING	
+FEEDBACK_QUESTION	Please select what you want to comment on:
+FEEDBACK_MISTAKE	I have a comment on the current content
+FEEDBACK_COMMENTS	I have a general comment to this Getting Started
+SEND_CONTENT	Send content link
+TEST_OK1	You have completed this task.
+EXER_FAIL1	There is a better way.
+EXER_FAIL2	There is a better way.
+EXER_FAIL3	There is a better way.
+EXER_SHOWHELP	show guidance
+ctx_html.introtext_noresult	No content available for the current context. Open the @{LIBRARY} from the header or use the search to get further content.
+ctx_html.library	Open @{LIBRARY}
+	

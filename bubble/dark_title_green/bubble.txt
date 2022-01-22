@@ -1,0 +1,200 @@
+﻿{
+version: 3,
+
+sprite_w: 816,
+sprite_h: 706,
+allowed_orientations: "N, S, E, W, C, NE, NW, SE, SW, EN, ES, WN, WS, TL, TR, BL, BR",
+
+edge_w: 30,
+edge_n_with_caption_h: 30,
+edge_per_orientation: true,
+
+content_padding_top: 40,
+content_padding_left: 30,
+content_padding_bottom: 30,
+content_padding_right: 30,
+
+content_padding_movable_top: 40,
+content_padding_with_caption_top: 40,
+content_padding_movable_with_caption_top: 40,
+
+content_font_color: '#FFFFFF',
+
+title_font_family: "Arial, sans-serif",
+title_font_color: '#FFFFFF',
+title_font_size: '12px',
+title_bold: true,
+title_italic: false,
+title_underline: false,
+title_off_top: 8,
+title_off_left: 15,
+title_off_right: 15,
+
+body_w: 200,
+body_h: 200,
+body_x: 253,
+body_y: 253,
+
+corner_tl_x: 203,
+corner_tl_y: 203,
+corner_tl_movable_x: 203,
+corner_tl_movable_y: 203,
+corner_tl_with_caption_y: 203,
+corner_tl_movable_with_caption_y: 203,
+
+corner_tr_movable_x: 473,
+
+corner_br_x: 473,
+corner_br_y: 473,
+
+corner_tl_n_x: 203,
+corner_tl_n_y: 147,
+
+corner_tr_e_x: 529,
+corner_tr_e_y: 203,
+corner_br_e_x: 529,
+corner_br_e_y: 473,
+
+corner_tl_w_x: 147,
+corner_tl_w_y: 203,
+corner_bl_w_x: 147,
+corner_bl_w_y: 473,
+
+corner_br_s_x: 473,
+corner_br_s_y: 529,
+
+spike_w: 47,
+spike_h: 42,
+
+spike_corner_w: 30,
+spike_corner_h: 42,
+spike_tl_with_caption_h: 42,
+
+spike_n_w: 36,
+spike_n_h: 42, 
+spike_n_with_caption_h: 42,
+
+spike_ne_w: 47,
+spike_ne_h: 42,
+spike_ne_with_caption_h: 42,
+
+spike_e_w: 42,
+spike_e_h: 36,
+
+spike_en_w: 42,
+spike_en_h: 57,
+spike_en_with_caption_h: 57,
+
+spike_wn_w: 42,
+spike_wn_h: 57,
+
+spike_dock_w: 17,
+spike_dock_n_w: 36,
+spike_dock_e_h: 36,
+spike_dock_en_h: 27,
+spike_dock_wn_h: 27,
+spike_dock_es_h: 17,
+spike_dock_ws_h: 17,
+
+spike_tl_x: 35,
+spike_tl_y: 23,
+spike_tl_movable_y: 23,
+spike_tl_with_caption_y: 23,
+spike_tl_movable_with_caption_y: 23,
+
+spike_br_x: 641,
+spike_br_y: 641,
+
+spike_nw_x: 203,
+spike_nw_y: 23,
+
+spike_n_x: 335,
+spike_n_y: 23,
+spike_n_movable_x: 335,
+spike_n_movable_y: 23,
+spike_n_with_caption_x: 335,
+spike_n_with_caption_y: 23,
+spike_n_movable_with_caption_x: 335,
+spike_n_movable_with_caption_y: 23,
+
+spike_ne_x: 456,
+spike_ne_y: 23,
+spike_ne_movable_y: 23,
+spike_ne_with_caption_y: 23,
+spike_ne_movable_with_caption_y: 23,
+
+spike_w_x: 23,
+spike_wn_x: 23,
+spike_ws_x: 23,
+
+spike_e_x: 641,
+spike_e_y: 335,
+spike_en_y: 203,
+spike_en_movable_y: 203,
+spike_en_with_caption_y: 203,
+spike_en_movable_with_caption_y: 203,
+
+spike_es_y: 456,
+
+spike_s_y: 641,
+
+edge_n_gradient_y: 91,
+edge_n_gradient_movable_y: 91,
+edge_n_gradient_with_caption_y: 91,
+edge_n_gradient_movable_with_caption_y: 91,
+
+edge_s_gradient_y: 585,
+edge_e_gradient_x: 585,
+edge_w_gradient_x: 91,
+
+edge_e_e_x:529,
+edge_w_w_x:147,
+
+min_w: 14,
+min_h: 12,
+
+min_x: 741,
+min_y: 329,
+min_active_y: 357,
+min_pressed_y: 385,
+min_off_y: 9,
+
+max_x: 741,
+max_y: 441,
+max_active_y: 469,
+max_pressed_y: 497,
+max_off_x: -5,
+
+close_x: 741,
+close_y: 217,
+close_active_y: 245,
+close_pressed_y: 273,
+close_off_x: -8,
+
+min_bubble_w: 24,
+min_bubble_h: 24,
+min_bubble_x: 741,
+min_bubble_y: 25,
+min_bubble_active_y: 71,
+min_bubble_pressed_y: 117,
+
+spike_tip_offset_x: 28,
+spike_tip_offset_y: -5,
+
+spike_n_tip_offset_x: 0,
+spike_s_tip_offset_x: 0,
+spike_e_tip_offset_x: 5,
+spike_e_tip_offset_y: 0,
+spike_w_tip_offset_x: 5,
+spike_w_tip_offset_y: 0,
+
+spike_tl_tip_offset_x: 5,
+spike_tl_tip_offset_y: -5,
+
+spike_en_tip_offset_x: -5,
+spike_en_tip_offset_y: 8,
+
+spike_es_tip_offset_x: -5,
+spike_es_tip_offset_y: -11,
+spike_ws_tip_offset_y: -11
+}

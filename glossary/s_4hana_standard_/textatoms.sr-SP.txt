@@ -1,0 +1,10 @@
+﻿SHARE_CONTENT	Deli vezu
+SHARE_BY_MAIL	Pošalji e-poruku
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Pošalji vezu sadržaja
+ERROR_2.h	@{LESSONPLAYER} ne može da učita fajl konfiguracije koji je potreban za pravilno funkcionisanje.
+ctx_html.introtext_noresult	Sadržaj nije dostupan za tren.kontekst. Otvorite @{LIBRARY} iz zaglavlja ili koristite traženje za pozivanje dodat.sadržaja.
+ctx_html.library	Otvori @{LIBRARY}
+	

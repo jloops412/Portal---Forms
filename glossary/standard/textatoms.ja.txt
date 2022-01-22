@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	コンテンツ共有
+SHARE_BY_MAIL	電子メールで共有
+URL_OF_CURRENT_PAGE	現在のページの URL
+TASK	タスク
+GLOSSARY	用語集
+CONTEXT_INFO	コンテキスト情報
+CONTEXT_ROLES	ロール
+CONTEXT_ROLES_NOROLES	ロールなしのコンテキスト表示
+CONTEXT_MY_ROLES	My ロール
+CLOSEBUBBLE	吹き出しを閉じる
+MAXBUBBLE	吹き出しを元のサイズに戻す
+MINBUBBLE	吹き出しの最小化
+VOLUME	音量
+SETTINGS	設定
+CLOSE_TASK	@{TASK} 終了
+CLOSE	閉じる
+EXIT	終了
+SELECTION	選択
+KEYWORD_SEARCH	キーワード検索
+SEARCH	検索
+SEARCH_STRING	検索文字列
+KEYWORDS	キーワード
+SEARCH_CLEAR	検索入力のクリア
+FILTER	フィルタ
+RESOURCES	リソース
+VIEW	ビュー
+CANCEL	キャンセル
+CONTINUING	続行
+OK	OK
+PLAY	再生
+PAUSE	一時停止
+BACK	前画面
+PREVIOUS	前
+NEXT	進む
+PLAYING	再生中
+PAUSED	一時停止
+USERINPUT	入力
+IDLE	""
+START	ページをロード中 ...
+RESTART	再起動
+TEXT	テキスト
+TITLE	タイトル
+MINIMIZE	最小化
+RESTORE	復元
+ACQUIRED_SCORE	獲得点数
+TEST_RESULT	結果
+TESTDETAILS	詳細表示
+TESTDETAILS1	詳細非表示
+PRINT	ページを印刷
+LESSON	シミュレーション
+OF	/
+DESCRIPTION	テキスト
+FULLSCREEN	フルスクリーン
+TOGGLE_TASKINFO	タスクテキストの表示/非表示
+PANEL_VIEWMODE	パネル表示モード
+PANEL_TOGGLE	パネル表示/非表示
+PANEL	サイドバー/全コンテンツ
+BOOKMARK_FAVORITE	お気に入り
+CONTENT	コンテンツ/再生領域
+TOC	目次
+FAVORITES	お気に入り
+RECENT	ページ履歴
+QRCODE	QR コード
+QR_URL_TOO_BIG	URL が長すぎます。QR コードを生成できません。
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	オーディオをミュート
+AUDIO_PLAY	オーディオの再生
+AUDIO_PAUSE	オーディオの一時停止
+AUDIO_ON	オーディオをオンにする
+AUDIO_OFF	オーディオをオフにする
+CHANNEL_MASTER	マスタ
+CHANNEL_BOOKSOUND	ブックサウンド
+CHANNEL_NARRATIVE	物語
+CHANNEL_EFFECTS	エフェクト
+LIB_NOMATCH	一致なし
+LIB_NOFILTER	フィルタなし
+LIBFLAG_NEWWIN	コンテンツを新規ウィンドウで開く
+LIBFLAG_TITLE	タイトル検索
+LIBFLAG_SHORTDESC	説明 (短) 検索
+LIBFLAG_DESC	テキスト検索
+LIBFLAG_KEYW	キーワードを検索
+LIBFLAG_SLIDES	ブックページコンテンツ検索
+GUI_TOP_BAR	トップバー
+GUI_BOTTOM_BAR	下バー
+ORIENTATION_TOGGLE_TOP	トップバー
+ORIENTATION_TOGGLE_BOTTOM	下バー
+FEEDBACK	作成者へのフィードバック
+FEEDBACK_TITLE	フィードバック
+FEEDBACK_QUESTION	このシミュレーションに関するコメントがありますか。
+FEEDBACK_MISTAKE	間違いを発見した
+FEEDBACK_COMMENTS	意見や要望を伝えたい
+FEEDBACK_SEND	フィードバックを送信する
+SEND_CONTENT	コンテンツ共有
+SEND_CONTENT_SUBJECT	推奨コンテンツ
+SEND_CONTENT_TEMPLATE	こんにちは。\n\nこちらのコンテンツをお奨めします。 \n\nキャプション:  @{SEND_CAPTION}\nリンク:  @{SEND_LINK}\n\nよろしくお願いいたします\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	エラーが発生しました。管理者に連絡してください。
+ERROR_GENERAL	内部エラー
+ERROR_1	ポップアップブロッカにより、シミュレーションを再生できません。
+ERROR_1.h	ポップアップブロッカにより、新規ブラウザウィンドウが開かれませんでした。 ポップアップブロッカを閉じるか、またはこのドメインに対して無効化してください。
+ERROR_2	必要な設定ファイルをロードできませんでした。
+ERROR_2.h	@{LESSONPLAYER} で、適切な動作に必要な設定ファイルをロードできませんでした。
+SCORM_LOCATION_ERROR	LMS システムで機能が欠如しているため進捗を保存できませんでした。
+RESTART_COMPLETED_LMS_LESSON	すでに完了したか、または合格しているシミュレーションを開始しようとしています。 過去に獲得したポイントはゼロにリセットされ、完了または合格フラグの設定が解除されます。 再実行しますか。
+RESTART_Av_LMS_LESSON	すでに完了したか、または合格しているシミュレーションを開始しようとしています。 過去に獲得したポイントはゼロにリセットされ、完了または合格フラグの設定が解除されます。 'OK' をクリックして再実行しますか。それとも '取消' をクリックして閉じますか。
+BOOK_NEXT_CHAPTER	次の章
+BOOK_PREV_CHAPTER	前の章
+BOOK_NEXT_PAGE	次ページ
+BOOK_PREV_PAGE	前ページ
+BOOK_INDEX_PAGE	スタートページ
+SLIDE_MOREINFO	詳細情報
+SLIDE_TIPS	ヒント
+SLIDE_ATTACH	添付文書
+SLIDE_SHOWATTACH	添付文書表示
+SLIDE_OPEN	開く
+SLIDE_ADD	追加
+SLIDE_EDIT	編集
+SLIDE_DELETE	削除
+SLIDE_BUTTONAREA	再生バー
+HELP	ヘルプ
+HELP_REGION_BAR	ショートカット: クリックしてプレイヤバーをフォーカス
+HELP_REGION_PANEL	クリックしてサイドバーをフォーカス
+HELP_REGION_CONTENT	クリックしてコンテンツをフォーカス
+HELP_LIBRARY	@{LIBRARY} ヘルプ表示
+HELP_TRAINER	@{LESSONPLAYER} ヘルプ表示
+HELP_BOOK	@{BOOKPLAYER} ヘルプ表示
+DEMO_START	デモモード
+DEMO_START1	デモモードでは、アプリケーション内で実行されているアクティビティを監視できます。 シミュレーションに従います。すべてのステップが自動的に実行されます。
+DEMO_START2	画面下部のナビゲーションバーを使用して、デモを一時停止または停止できます。 また、次または前のステップにジャンプすることもできます。
+DEMO_STOP	デモモードが終了しました。
+CONCURRENT_START	実践モード
+CONCURRENT_START1	実践モードでは、アプリケーション上での操作手順がステップごとに表示されます。
+CONCURRENT_START2	アプリケーション上でステップを実践できるように、シミュレーションがステップごとに停止します。
+CONCURRENT_STOP	実践モードが終了しました。
+PRACTICE_START	練習モード
+PRACTICE_START1	練習モードでは、本アプリケーションで問題を実際に解いて、習得したことを試すことができます。
+PRACTICE_START2	段階的な説明に従ってください。
+PRACTICE_STOP	練習モードが終了されました。
+TEST_START	テストモード
+TEST_START1	テストモードでは、アプリケーション内のタスクを自分で解決することで、自分の知識をテストできます。 入力する必要があるサンプルデータは提供されますが、ステップバイステップの指示は与えられません。 タスク全体については、必要に応じてタイトルバーのボタンを使用して拡大または最小化できるタスクウィンドウで説明されています。
+TEST_START2	テストの最後には、正しく完了したステップの数に基づいてスコアが与えられます。 このスコアリングは、タスク領域の自己評価に使用できます。
+TEST_START3	スペルが異なるエントリや誤ったクリックが記録され、それに応じてスコアが減少するため、操作は非常に慎重に行ってください。 ステップを完了するためにシステムのサポートを受けた場合、該当するステップのスコアはゼロに設定されます。
+TEST_START4	合計スコアは、テストの終了時に表示されます。 目標スコア @{res_mastery_percent}% を目標にしてください。
+TEST_OK	テスト合格です
+TEST_OK1	おめでとうございます。このタスクを見事に達成しました。
+TEST_FAILED	テスト不合格です
+TEST_FAILED1	結果が最高スコアの @{res_mastery_percent}% 未満であったため、このトレーニングコースの内容を再履修し、知識を再度テストモードでご確認することをお奨めします。
+TEST_FINISHED	このテストは自己評価のみを目的としており、結果が記録または第三者に譲渡されることはありません。
+TEST_SCORE	得点
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	フリープレゼンテーションモード
+FREEPRESENTATION_START1	フリープレゼンテーションモードでは、プロセスをシミュレーションで実行することができます。
+FREEPRESENTATION_START2	段階的にアクションを実行します。F1 キーでヘルプが表示されます。
+FREEPRESENTATION_STOP	フリープレゼンテーションが終了しました。
+GUIDEDPRESENTATION_START	ガイド付プレゼンテーションモード
+GUIDEDPRESENTATION_START1	ガイド付プレゼンテーションモードでは、プロセスが自動的にシミュレーションで実行されます。 マウスポインタおよびハイライトにより、現在のステップが表示されます。
+GUIDEDPRESENTATION_START2	段階的にアクションに従い、各アクションを後で確認します。
+GUIDEDPRESENTATION_STOP	ガイド付プレゼンテーションが終了しました。
+EXER_FAIL1	実行した操作に誤りがあります。
+EXER_FAIL2	実行したアクションが正しくありませんでした。 合計スコアから 1 ポイントが差し引かれます。 このアクションに対する残りのポイントは @1_rest-points_ です。
+EXER_FAIL3	実行したアクションが正しくありませんでした。 それぞれの誤りにつき、合計スコアから 1 ポイントが差し引かれます。 このアクションに対する残りのポイントは @1_rest-points_ です。
+EXER_FAILKEY1	@1_key_ キーを押しました。
+EXER_FAILKEY2	使用できる機能キーは @1_keys_ です。.
+EXER_FAILRADIO	有効なすべてのボタンがハイライトされます。
+EXER_FAILINPUT	有効なすべてのテキスト領域がハイライトされます。
+EXER_FAILSELECT	有効なすべての選択ボックスがハイライトされます。
+EXER_FAILDRAG	無効な @1_keys_ ドラッグ操作を実行しました。
+EXER_FAILDRAG1	@1_keys_ ドラッグ操作はハイライト領域内で実行してください。
+EXER_FAILDROP	無効な @1_keys_ ドロップ操作を実行しました。
+EXER_FAILDROP1	@1_keys_ ドロップ操作はハイライト領域内で実行してください。
+EXER_FAILDBLCLICK	無効な @1_keys_ ダブルクリックを実行しました。
+EXER_FAILDBLCLICK1	@1_keys_ ダブルクリックはハイライト領域内で実行してください。
+EXER_FAILCLICK	無効な領域で @1_keys_ クリックを実行しました。
+EXER_FAILCLICK1	有効なすべての領域がハイライトされます。
+EXER_FAILCLICK2	無効な @1_keys_ クリックを実行しました。
+EXER_FAILCLICK3	@1_keys_ クリックはハイライト領域内で実行してください。
+EXER_FAILENTER	無効な @1_keys_ マウスオーバを実行しました。
+EXER_FAILENTER1	@1_keys_ マウスオーバはハイライト領域内で実行してください。
+EXER_FAILMCLICK	@1_keys_ ミドルクリックは許可されていません。
+EXER_WOULDGOON	(注記: それ以外の場合は自動的に続行されます)
+EXER_YOURINPUT	"@1_input_" を入力しました。
+EXER_TEXTINPUT	入力項目 "@2" に "@1" を入力してください。
+EXER_SELECT	エントリ "@1" を選択してください。
+EXER_GOON	次のステップへ進む
+EXER_SHOWHELP	はい、ヘルプを表示してください
+EXER_TRYAGAIN	再試行してください
+EXER_ASK4HELP	ヘルプが必要ですか。
+EXER_ONLY_VALID	許可されるアクション:
+EXER_FORM_PREFIX	以下の値を入力してください。
+EXER_OR	または
+EXER_AND	および
+SCORE	点
+SCORE_REDUCED	このステップのポイントは以下のように減点されます
+TOUR_START	シミュレーション開始
+TOUR_STOP	シミュレーション中止
+TOUR_END	シミュレーション終了
+TOUR_PLAY	続行ボタン
+TOUR_JUMP	シミュレーション内の別のステップにジャンプしました。
+TOUR_PREV	前画面
+TOUR_NEXT	次
+USER_ACTION_CORRECT_ACTION	学習者はステップを正しく実行しました。
+USER_ACTION_WRONG_ACTION	学習者は間違った操作をしました。
+USER_ACTION_GOON	学習者が "続行" をクリックしたため、このステップのポイントは与えられません。
+USER_ACTION_GOON_AUTO	間違いが多いため、シミュレーションは自動的に続行されました。
+USER_ACTION_HELP	学習者がヘルプを依頼したため、このステップのポイントは与えられません。
+SLIDE_USER_ACTION_TEXTBOX_OPEN	学習者はテキストボックスを開きました。
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	学習者はテキストボックスを閉じました。
+QUIZ_CORRECT_RESPONSE	正解
+QUIZ_STUDENT_RESPONSE	学習者からの回答
+QUIZ_LATENCY	時間
+QUIZ_SCORE	獲得点数
+QUIZ_REQ_SCORE	必要な得点
+QUIZ_MAX_SCORE	最高得点
+QUIZ_TIMEOUT_REACHED	タイムアウト発生
+QUIZTYPE_MCHOICE	クイズ: 複数選択
+QUIZTYPE_SQMAQUIZ	クイズ: 項目に入力
+QUIZTYPE_FIBQUIZ	クイズ: 空欄に入力
+QUIZTYPE_MATCHQUIZ	クイズ: 一致
+QUIZTYPE_CONNQUIZ	クイズ: 接続
+QUIZTYPE_SCALEQUIZ	クイズ: スライドコントロール
+QUIZTYPE_GRIDQUIZ	クイズ: グリッド
+QUIZTYPE_HOTSPOTQUIZ	クイズ: ホットスポット
+QUIZTYPE_PUZZLEQUIZ	クイズ: パズル
+QUIZTYPE_MIXQUIZ	クイズ: ソート
+CONNECTING	接続しています...
+SYNCHRONIZE	同期
+SYNCHRONIZED	同期済
+CONNECT	接続
+BUBBLESTYLE_NOT_FOUND	吹き出しのスタイルが見つかりません。
+LOADING_MACROSET	コンテンツおよびリソースをロードしています。
+ZOOM_LEVEL_NOTIFICATION	警告:  ズームレベルが 100% ではありません。
+ctx_html.header_title	コンテキストヘルプ
+ctx_html.introtext	以下のヘルプコンテンツを現在のコンテキストに利用できます。開始するアイテムをクリックしてください。
+ctx_html.introtext_noresult	現在のコンテキストに利用できるコンテンツはありません。ヘッダから library を開くか検索を使用して、追加コンテンツを取得してください。
+ctx_html.query_empty	クエリが空です。
+ctx_html.query_malformed	クエリが無効です。
+ctx_html.search	検索
+ctx_html.library	library を開く
+ctx_html.language	言語
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	レコーディング
+qr_hint_dlg.dont_bother	再び表示しない
+qr_hint_dlg.hint_end	レコーディングを終了します。
+qr_hint_dlg.hint_pause	レコーディングを一時停止します。
+btnOk	ありがとうございます
+qr_hint_dlg.hint_title	レコーディングのヒント
+qr_hint_dlg.audio_help	コントロールを選択する前にテキストをレコードします。
+quiz_error_no_template_file	エラー: テンプレートファイルが見つかりませんでした。デフォルトが使用されます。
+qr_hint_dlg.hint_end_1	終了キー
+qr_hint_dlg.hint_pause_1	一時停止キー

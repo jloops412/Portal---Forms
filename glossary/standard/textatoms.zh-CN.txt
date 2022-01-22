@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	共享内容
+SHARE_BY_MAIL	通过电子邮件共享
+URL_OF_CURRENT_PAGE	当前页面的 URL
+TASK	任务
+GLOSSARY	词汇表
+CONTEXT_INFO	上下文信息
+CONTEXT_ROLES	角色
+CONTEXT_ROLES_NOROLES	显示不含角色的上下文
+CONTEXT_MY_ROLES	我的角色
+CLOSEBUBBLE	关闭浮动框
+MAXBUBBLE	还原浮动框
+MINBUBBLE	最小化浮动框
+VOLUME	音量
+SETTINGS	设置
+CLOSE_TASK	关闭 @{TASK}
+CLOSE	关闭
+EXIT	退出
+SELECTION	选择
+KEYWORD_SEARCH	关键字搜索
+SEARCH	搜索
+SEARCH_STRING	搜索字符串
+KEYWORDS	关键字
+SEARCH_CLEAR	清除搜索输入
+FILTER	过滤器
+RESOURCES	资源
+VIEW	视图
+CANCEL	取消
+CONTINUING	继续
+OK	确定
+PLAY	播放
+PAUSE	暂停
+BACK	返回
+PREVIOUS	上一个
+NEXT	下一步
+PLAYING	正在播放
+PAUSED	暂停
+USERINPUT	输入
+IDLE	""
+START	正在加载页面...
+RESTART	重新开始
+TEXT	文本
+TITLE	标题
+MINIMIZE	最小化
+RESTORE	还原
+ACQUIRED_SCORE	已获取的分数
+TEST_RESULT	成绩
+TESTDETAILS	显示详细信息
+TESTDETAILS1	隐藏详细信息
+PRINT	打印页面
+LESSON	模拟
+OF	/
+DESCRIPTION	描述
+FULLSCREEN	全屏
+TOGGLE_TASKINFO	显示/隐藏任务描述
+PANEL_VIEWMODE	面板显示模式
+PANEL_TOGGLE	显示/隐藏面板
+PANEL	侧边栏/所有内容
+BOOKMARK_FAVORITE	收藏夹
+CONTENT	内容/回放区域
+TOC	目录
+FAVORITES	收藏夹
+RECENT	页面历史记录
+QRCODE	二维码
+QR_URL_TOO_BIG	URL 过大。无法生成 QR 代码。
+CTRLKEY	Ctrl 键
+ALTKEY	Alt 键
+SHIFTKEY	Shift 键
+AUDIO_MUTE	静音音频
+AUDIO_PLAY	播放音频
+AUDIO_PAUSE	暂停音频
+AUDIO_ON	音频开
+AUDIO_OFF	音频关
+CHANNEL_MASTER	主控
+CHANNEL_BOOKSOUND	书声音
+CHANNEL_NARRATIVE	叙述
+CHANNEL_EFFECTS	效果
+LIB_NOMATCH	无匹配项
+LIB_NOFILTER	无过滤器
+LIBFLAG_NEWWIN	在新窗口中打开内容
+LIBFLAG_TITLE	搜索标题
+LIBFLAG_SHORTDESC	搜索简短描述
+LIBFLAG_DESC	搜索描述
+LIBFLAG_KEYW	搜索关键字
+LIBFLAG_SLIDES	搜索书页内容
+GUI_TOP_BAR	上边栏
+GUI_BOTTOM_BAR	下边栏
+ORIENTATION_TOGGLE_TOP	上边栏
+ORIENTATION_TOGGLE_BOTTOM	下边栏
+FEEDBACK	反馈给作者
+FEEDBACK_TITLE	您的反馈
+FEEDBACK_QUESTION	您对本模拟有什么反馈吗？
+FEEDBACK_MISTAKE	我发现了一个错误
+FEEDBACK_COMMENTS	我有建议，希望
+FEEDBACK_SEND	发送反馈
+SEND_CONTENT	共享内容
+SEND_CONTENT_SUBJECT	建议的内容
+SEND_CONTENT_TEMPLATE	您好，\n\n您可能对此内容感兴趣。\n\n标题：@{SEND_CAPTION}\n链接：@{SEND_LINK}\n\n祝好\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	出现错误。请联系管理员。
+ERROR_GENERAL	内部错误。
+ERROR_1	弹出窗口阻止程序阻止了模拟播放。
+ERROR_1.h	弹出窗口阻止程序已阻止打开新浏览器窗口。 请关闭弹出窗口阻止程序或针对此域关闭该程序。
+ERROR_2	未能下载必需的配置文件。
+ERROR_2.h	@{LESSONPLAYER} 未能加载适当功能所需的配置文件。
+SCORM_LOCATION_ERROR	由于您的学习管理系统中缺少功能，因此无法保存进度。
+RESTART_COMPLETED_LMS_LESSON	您正在开始的模拟已完成或已成功通过。 这样会将先前已取得的总分重置为零，并且取消已完成或已通过标志。 是否确实要重新开始？
+RESTART_Av_LMS_LESSON	您正在开始的模拟已完成或已成功通过。 这样会将先前已取得的总分重置为零，并且取消已完成或已通过标志。 是单击“确定”重新启动还是单击“取消”关闭？
+BOOK_NEXT_CHAPTER	下一章
+BOOK_PREV_CHAPTER	上一章
+BOOK_NEXT_PAGE	下一页
+BOOK_PREV_PAGE	上一页
+BOOK_INDEX_PAGE	起始页
+SLIDE_MOREINFO	更多信息
+SLIDE_TIPS	提示
+SLIDE_ATTACH	附件
+SLIDE_SHOWATTACH	显示附件
+SLIDE_OPEN	打开
+SLIDE_ADD	添加
+SLIDE_EDIT	编辑
+SLIDE_DELETE	删除
+SLIDE_BUTTONAREA	回放栏
+HELP	帮助
+HELP_REGION_BAR	快捷方式：按此按钮聚焦播放器栏
+HELP_REGION_PANEL	按此按钮聚焦侧边栏
+HELP_REGION_CONTENT	按此按钮聚焦内容
+HELP_LIBRARY	显示 @{LIBRARY} 帮助
+HELP_TRAINER	显示 @{LESSONPLAYER} 帮助
+HELP_BOOK	显示 @{BOOKPLAYER} 帮助
+DEMO_START	演示模式
+DEMO_START1	在演示模式中，您可以观察应用程序中正在执行的活动。 只需遵循模拟；将自动执行所有步骤。
+DEMO_START2	您可以使用位于屏幕底部的导航栏暂停或停止演示。 也可以向前跳转到下一步骤或向后跳转到上一步骤。
+DEMO_STOP	演示模式完成。
+CONCURRENT_START	并发模式
+CONCURRENT_START1	在并发模式中，会为您显示如何逐步在应用程序中执行任务。
+CONCURRENT_START2	在完成每一步后都会中断模拟，让您在真实的应用程序中完成该步骤。
+CONCURRENT_STOP	并发模式已结束。
+PRACTICE_START	练习模式
+PRACTICE_START1	在练习模式中您可以尝试使用所学到的知识，独立解决应用程序内的任务。
+PRACTICE_START2	请按逐步指导进行。
+PRACTICE_STOP	练习模式结束
+TEST_START	测试模式
+TEST_START1	在测试模式中，您可以通过完成应用程序中的任务自行测试所掌握的知识。 除了必须输入的示例数据之外，您不会接收到任何步骤说明。 整个任务已在任务窗口中进行描述，您可以根据需要使用标题栏中的按钮对该窗口进行放大或缩小。
+TEST_START2	测试结束时会根据当前完成的步骤数为您进行评分。 此评分适用于您对任务范围内的自我评估。
+TEST_START3	请在系统中认真仔细操作，因为系统会记录所有拼写错误的条目以及错误点击，并据此扣除您的分数。 如果您决定接受系统帮助完成该步骤，则此特定步骤的分数将会设置为零。
+TEST_START4	测试结束时将显示您的总分数。 请努力达到目标分数 @{res_mastery_percent}%。
+TEST_OK	您已通过测验
+TEST_OK1	祝贺您，已成功完成本任务。
+TEST_FAILED	您未通过测验
+TEST_FAILED1	因为您所取得的分数低于所要求最高分的 @{res_mastery_percent}%，所以我们建议您重新复习本训练课程所涉及的内容，然后在测试模式中重新测试您所掌握的知识。
+TEST_FINISHED	本测验仅用于您对自己的评估。测验结果既不记录亦不公布。
+TEST_SCORE	分数
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	自由演示模式
+FREEPRESENTATION_START1	自由演示模式用于执行模拟中的某个流程。
+FREEPRESENTATION_START2	逐步执行操作。使用 F1 键获取帮助。
+FREEPRESENTATION_STOP	自由演示已完成。
+GUIDEDPRESENTATION_START	引导式演示模式
+GUIDEDPRESENTATION_START1	引导式演示模式自动执行模拟中的某个流程。 鼠标指针指示并突出显示当前步骤。
+GUIDEDPRESENTATION_START2	逐步完成各项操作，然后确认每一项操作。
+GUIDEDPRESENTATION_STOP	引导式演示已完成。
+EXER_FAIL1	您执行的操作不正确。
+EXER_FAIL2	您执行的操作不正确。 从您的总分中扣除 1 分。 此操作的剩余分数为：@1_rest-points_。
+EXER_FAIL3	您执行的操作不正确。 每个错误将从您的总分中扣除 1 分。 此操作的剩余分数为：@1_rest-points_。
+EXER_FAILKEY1	您已按 @1_key_ 键。
+EXER_FAILKEY2	可以使用功能键的有：@1_keys_。
+EXER_FAILRADIO	所有有效按钮均突出显示。
+EXER_FAILINPUT	所有有效文本区域均突出显示。
+EXER_FAILSELECT	所有有效选择框均突出显示。
+EXER_FAILDRAG	您已执行无效 @1_keys_ 拖动操作。
+EXER_FAILDRAG1	请在突出显示区域内执行 @1_keys_ 拖动操作。
+EXER_FAILDROP	您已执行无效 @1_keys_ 放下操作。
+EXER_FAILDROP1	请在突出显示区域内执行 @1_keys_ 放下操作。
+EXER_FAILDBLCLICK	您已执行无效 @1_keys_ 双击。
+EXER_FAILDBLCLICK1	请在突出显示区域内执行 @1_keys_ 双击。
+EXER_FAILCLICK	您在无效区域内执行 @1_keys_ 单击。
+EXER_FAILCLICK1	所有有效区域均突出显示。
+EXER_FAILCLICK2	您已执行无效 @1_keys_ 单击。
+EXER_FAILCLICK3	请在突出显示区域内执行 @1_keys_ 单击。
+EXER_FAILENTER	您已执行无效 @1_keys_ 鼠标悬停。
+EXER_FAILENTER1	请在突出显示区域内执行 @1_keys_ 鼠标悬停。
+EXER_FAILMCLICK	不允许使用 @1_keys_ 中键单击。
+EXER_WOULDGOON	（注：否则会自动继续）
+EXER_YOURINPUT	您已输入 "@1_input_"。
+EXER_TEXTINPUT	请在输入字段 "@2" 中输入 "@1"！
+EXER_SELECT	请选择条目 "@1"！
+EXER_GOON	下一步
+EXER_SHOWHELP	是，接受帮助
+EXER_TRYAGAIN	重试
+EXER_ASK4HELP	您需要帮助吗？
+EXER_ONLY_VALID	允许的操作是：
+EXER_FORM_PREFIX	输入下列值：
+EXER_OR	或
+EXER_AND	与
+SCORE	分数
+SCORE_REDUCED	此步可能获得的分数减至
+TOUR_START	模拟开始
+TOUR_STOP	模拟中止
+TOUR_END	模拟停止
+TOUR_PLAY	“继续”按钮
+TOUR_JUMP	已跳转到本模拟中的另一步骤。
+TOUR_PREV	返回
+TOUR_NEXT	下一步
+USER_ACTION_CORRECT_ACTION	学员已成功执行该步骤。
+USER_ACTION_WRONG_ACTION	学员执行了错误操作。
+USER_ACTION_GOON	学员已单击“继续”，此步骤不得分。
+USER_ACTION_GOON_AUTO	由于出现大量错误，已自动继续进行该模拟。
+USER_ACTION_HELP	学员已请求帮助，此步骤不得分。
+SLIDE_USER_ACTION_TEXTBOX_OPEN	学员已打开文本框。
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	学员已关闭文本框。
+QUIZ_CORRECT_RESPONSE	正确答案
+QUIZ_STUDENT_RESPONSE	学员的回答
+QUIZ_LATENCY	时间
+QUIZ_SCORE	已获取的分数
+QUIZ_REQ_SCORE	要求的分数
+QUIZ_MAX_SCORE	最高分数
+QUIZ_TIMEOUT_REACHED	已达到超时时间
+QUIZTYPE_MCHOICE	测验：多选
+QUIZTYPE_SQMAQUIZ	测验：填空
+QUIZTYPE_FIBQUIZ	测验：完形填空
+QUIZTYPE_MATCHQUIZ	测验：匹配
+QUIZTYPE_CONNQUIZ	测验：连线
+QUIZTYPE_SCALEQUIZ	测验：滑块控件
+QUIZTYPE_GRIDQUIZ	测验：网格
+QUIZTYPE_HOTSPOTQUIZ	测验：热区
+QUIZTYPE_PUZZLEQUIZ	测验：拼图
+QUIZTYPE_MIXQUIZ	测验：排序
+CONNECTING	正在连接...
+SYNCHRONIZE	同步
+SYNCHRONIZED	已同步
+CONNECT	连接
+BUBBLESTYLE_NOT_FOUND	未找到浮动框样式。
+LOADING_MACROSET	加载内容和资源。
+ZOOM_LEVEL_NOTIFICATION	警告：您的缩放级别不是 100%。
+ctx_html.header_title	上下文帮助
+ctx_html.introtext	以下帮助内容对当前上下文可用。可单击要启动的项目。
+ctx_html.introtext_noresult	当前上下文无可用内容。可通过标题打开 library 或使用搜索功能获取更多内容。
+ctx_html.query_empty	查询为空。
+ctx_html.query_malformed	查询无效。
+ctx_html.search	搜索
+ctx_html.library	打开 library
+ctx_html.language	语言
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	录制
+qr_hint_dlg.dont_bother	不再显示
+qr_hint_dlg.hint_end	完成录制。
+qr_hint_dlg.hint_pause	暂停录制。
+btnOk	谢谢
+qr_hint_dlg.hint_title	录制提示
+qr_hint_dlg.audio_help	在选择控件之前录制文本。
+quiz_error_no_template_file	错误：未找到模板文件。将使用缺省文件。
+qr_hint_dlg.hint_end_1	END 键
+qr_hint_dlg.hint_pause_1	PAUSE 键

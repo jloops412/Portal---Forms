@@ -1,0 +1,15 @@
+﻿LIBRARY	library
+SHARE_CONTENT	링크 공유
+SHARE_BY_MAIL	이메일 보내기
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	컨텍스트 역할
+PLAYING	
+IDLE	
+DESCRIPTION	내역
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	컨텐츠 링크 보내기
+ERROR_2.h	@{LESSONPLAYER}에서 적합한 기능에 필요한 구성 파일을 로드할 수 없습니다.
+EXER_YOURINPUT	@1_input_'을(를) 입력했습니다.
+ctx_html.introtext_noresult	현재 컨텍스트에 사용 가능한 컨텐츠가 없습니다. 헤더에서 @{LIBRARY}를 열거나 검색을 통해 추가 컨텐츠를 가져오십시오.
+ctx_html.library	@{LIBRARY} 열기
+	

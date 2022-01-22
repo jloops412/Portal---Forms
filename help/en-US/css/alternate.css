@@ -1,0 +1,32 @@
+﻿@charset "utf-8";
+
+.favStat {
+    position: relative;
+    top:-35px;
+    float:right;
+}
+.wannaAction div {
+    cursor:pointer;
+}
+.stopScale h1 {
+    display:block;
+}
+.showHistory, .showHistoryActive, .showHistory:hover, .showHistoryActive, .optionsLeft {
+    display:none !important;
+}
+.stopScale div, .stopScale H1 {
+    display:inline;
+}
+.linksBar,
+.topBox {
+    display:block !important;
+    background: #F6F6F6 url("../img/bg_head_left.jpg") top left repeat-x;
+}
+
+.listRecent {
+    left:0;
+}
+.stopScale h1 {
+    margin-left:0;
+    padding-top:0;
+}

@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/headerfooter.css" />
+ <!--[if IE 6]>
+    <link type="text/css" href='css/alternate.css' rel='stylesheet'>
+  <![endif]-->
+<script src='script/varchars.js' type='text/javascript'></script>
+<script src='script/master.js' type='text/javascript'></script>
+<title>Header</title>
+</head>
+<body id="bodyHead" onload="loadFrm();">
+<div class="stopScale">
+	<div class="logo"></div>
+    <h1><span></span></h1>
+    <div class="linksBar" id="linksBar">&nbsp;</div>
+    <div class="wannaAction" id="wannaAction">
+        <div id="wannaExit"><a href="javascript:void(0);" onclick="JavaScript:closeWindow();" title="hlp_close"></a></div>
+        <div id="wannaFav"><a href="contents/favorites.htm" target="helpContent" title="hlp_Fav" onclick="menAct(this.parentNode.id, 0);"></a></div>
+        <div id="wannaMail"><a onmouseover="this.href='mailto:?subject=' + parent.hlp_MailtoSub + '&body=' + parent.hlp_MailtoCtnt + '%0D%0A%0D%0A' + parent.helpContent.location;" target="_blank" title="hlp_Mail" href="mailto:?"></a></div>
+        <div id="wannaPrint"><a href="javascript:void(0);" onclick="window.parent.helpContent.printPage();" title="hlp_Print"></a></div>
+        <div id="wannaSearch"><a href="search.htm" target="helpNavigation" title="hlp_Search" onclick="changeBC('lastPage');menAct(this.parentNode.id, 0);"></a></div>
+        <div id="wannaIndex"><a href="indexlist.htm" target="helpNavigation" title="hlp_Index" onclick="changeBC('lastPage');menAct(this.parentNode.id, 0);"></a></div>
+        <div id="wannaBack"><a href="contents.htm" target="helpNavigation" onclick="changeBC('lastPage');menAct(this.parentNode.id, 0);" title="hlp_Home"></a></div>
+    </div>
+</div>
+<!--[if IE 6]>
+    <script type="text/javascript">
+        allowPNGie6();
+        fixMenue('wannaAction');
+    </script>
+<![endif]-->
+<script type="text/javascript">
+if(mobile.detect()) {
+    for(i=0;i<document.getElementsByTagName('IMG').length;i++) {
+        document.getElementsByTagName('IMG')[i].src = document.getElementsByTagName('IMG')[i].src.replace(/img\//,'img/m_');
+    }
+}
+
+var objToSet = document.getElementsByTagName('a');
+for(var i=0;i<objToSet.length;i++) {
+   if(objToSet[i].title) {
+       objToSet[i].title = eval(objToSet[i].title);
+   }
+}
+document.getElementsByTagName('h1')[0].innerHTML = document.getElementsByTagName('h1')[0].innerHTML + hlp_Heading;
+var lastBC = "";
+menAct("wannaBack", 0);
+setExit();
+showHideMail();
+</script>
+
+</body>
+</html> 

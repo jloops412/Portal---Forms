@@ -1,0 +1,9 @@
+﻿business_process	Procese de afaceri
+process_tutorials	Tutoriale de proces
+guided_tours	Tururi ghidate
+training_courses	Cursuri de perfecţionare
+user_assistance	Asistenţă utilizator
+compliance	Conformitate
+tips_tricks	Sugestii şi recomandări
+faq	Întrebări frecvente
+misc	Diverse

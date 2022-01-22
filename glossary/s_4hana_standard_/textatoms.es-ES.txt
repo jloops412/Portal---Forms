@@ -1,0 +1,13 @@
+﻿SHARE_CONTENT	Compartir vínculo
+SHARE_BY_MAIL	Enviar correo electrónico
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Enviar enlace de contenido
+ERROR_2.h	El @{LESSONPLAYER} no ha podido cargar el fichero de configuración necesario para la función adecuada
+TEST_OK1	Ha completado esta tarea
+ZOOM_LEVEL_NOTIFICATION	Mensaje de advertencia: Su nivel de zoom es distino de 100%.
+ctx_html.introtext	Los siguientes contenidos de ayuda están disponibles para el contexto actual. Haga clic en la posición que desearía iniciar
+ctx_html.introtext_noresult	No hay contenido disponible para el contexto actual. Abra @{LIBRARY} desde el encabezado o utilice la búsqueda para acceder a contenido adicional
+ctx_html.library	Abrir @{LIBRARY}
+	

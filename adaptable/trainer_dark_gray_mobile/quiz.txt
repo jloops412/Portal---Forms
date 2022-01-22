@@ -1,0 +1,270 @@
+﻿{
+ "background_color": "#666666",
+ "w": 760,
+ "h": 600,
+ "frame": {
+  "w_w": 20,
+  "e_w": 20,
+  "n_h": 44,
+  "s_h": 44,
+  "nw": {
+   "image": {"id": "s.png", "x": -204, "y": -279}
+  },
+  "n": {
+   "image": {"id": "sh.png", "x": 0, "y": 0, "repeat": "x"}
+  },
+  "ne": {
+   "image": {"id": "s.png", "x": -344, "y": -279}
+  },
+  "w": {
+   "image": {"id": "sv.png", "x": 0, "y": 0, "repeat": "y"}
+  },
+  "e": {
+   "image": {"id": "sv.png", "x": -30, "y": 0, "repeat": "y"}
+  },
+  "sw": {
+   "image": {"id": "s.png", "x": -204, "y": -333}
+  },
+  "s": {
+   "image": {"id": "sh.png", "x": 0, "y": -120, "repeat": "x"}
+  },
+  "se": {
+   "image": {"id": "s.png", "x": -344, "y": -333}
+  }
+ },
+ "top": {
+  "groups": [{
+   "inner_spacing": 10,
+   "alignment": "hor",
+   "elements": [{
+    "type": "logo",
+    "image": {"id": "s.png", "x": -204, "y": -279},
+    "w": 130,
+    "h": 44
+   },
+   {
+    "type": "title",
+    "text_color": "#FFFFFF",
+    "font_weight": "bold",
+    "font_size": 15,
+    "padding": 13,
+    "autosize": true,
+    "h": 44
+   }]
+  }]
+ },
+ "content": {
+  "alignment": "vert",
+  "background_color": "#FFFFFF", 
+  "groups": [{
+   "outer_spacing_l": 20,
+   "outer_spacing_r": 20,
+   "outer_spacing_t": 10,
+   "outer_spacing_b": 10,
+   "inner_spacing": 10,
+   "elements": [{
+    "type": "question",
+    "font_size": 12,
+    "w": 490,
+    "h": 150
+   },{
+    "type": "mediaobject",
+    "w": 220,
+    "h": 150,
+    "align": "right",
+    "logo_play": {
+     "image": {"id": "s.png", "x": -204, "y": -746},
+     "w": 100,
+     "h": 64
+    },
+    "logo_stop": {
+     "image": {"id": "s.png", "x": -314, "y": -746},
+     "w": 100,
+     "h": 64
+    }
+   }]
+  }, {
+   "outer_spacing_l": 20,
+   "outer_spacing_r": 20,
+   "elements": [{
+    "type": "quiz_impl",
+    "autosize": true,
+    "w": 720,
+    "form_styles": {
+      "checkbox": {
+        "w": 30, 
+        "h": 30,
+        "margin": 3
+      },
+      "radio": {
+        "w": 30,
+        "h": 30,
+        "margin": 3
+      },
+      "input": {
+        "h": 16,
+        "padding": 5,
+        "margin": 3
+      },
+      "option": {
+        "h": 28,
+        "margin": 3
+      }
+    }
+   }]
+  }, {
+   "outer_spacing_l": 1,
+   "outer_spacing_r": 1,
+   "outer_spacing_t": 10,
+   "inner_spacing": 0,
+    "elements": [{
+     "type": "feedback",
+     "background_color": "#E5E5E5",
+     "border_top_width": 1,
+     "border_top_color": "#BFBFBF",
+     "text_color" : "#000000",
+     "font_size": 14,
+     "w": 758,
+     "h": 70,
+     "passed_icon": {
+      "image": {"id": "s.png", "x": -204, "y": -710},
+      "w": 38,
+      "h": 18
+     },
+     "failed_icon": {
+      "image": {"id": "s.png", "x": -244, "y": -710},
+      "w": 38,
+      "h": 18
+     },
+     "correct_icon": {
+      "image": {"id": "td.png", "x": -64, "y": -32},
+      "w": 16,
+      "h": 16
+     },
+     "wrong_icon": {
+      "image": {"id": "td.png", "x": -80, "y": -32},
+      "w": 16,
+      "h": 16
+     }
+    }]
+  }]
+ },
+ "bottom": {
+  "background_color": "#4D4D4D",
+  "groups": [{
+   "outer_spacing_l": 10,
+   "outer_spacing_r": 10,
+   "outer_spacing_t": 7,
+   "outer_spacing_b": 7,
+   "inner_spacing": 10,
+   "alignment": "hor",
+   "elements": [{
+    "type": "points",
+    "text_color": "#FFFFFF",
+    "font_family": "Arial,Helvetica,sans-serif",
+    "font_size": 12,
+    "padding": 7,
+    "w": 230,
+    "h": 30
+   },
+   {
+    "type": "quiznumber",
+    "text_color": "#FFFFFF",
+    "font_family": "Arial,Helvetica,sans-serif",
+    "font_size": 12,
+    "padding": 7,
+    "align": "center",
+    "autosize": true,
+    "h": 30
+   },
+   {
+    "type": "timeout",
+    "image": {"id": "hg.gif", "x": 0, "y": 0},
+    "y": 7,
+    "w": 10,
+    "h": 16
+   },
+   {
+    "type": "countdown",
+    "text_color": "#FFFFFF",
+    "font_family": "Arial,Helvetica,sans-serif",
+    "font_size": 12,
+    "padding": 7,
+    "w": 70,
+    "h": 30
+   },
+   {
+    "type": "g_timeout",
+    "image": {"id": "hg.gif", "x": 0, "y": 0},
+    "y": 7,
+    "w": 10,
+    "h": 16
+   },
+   {
+    "type": "g_countdown",
+    "text_color": "#FFFFFF",
+    "font_family": "Arial,Helvetica,sans-serif",
+    "font_size": 12,
+    "padding": 7,
+    "w": 70,
+    "h": 30
+   },
+   {
+    "type": "print",
+    "image": {"id": "s.png", "x": 0, "y": -810},
+    "image_h": {"id": "s.png", "x": -30, "y": -810},
+    "image_a": {"id": "s.png", "x": -60, "y": -810},
+    "image_d": {"id": "s.png", "x": -90, "y": -810},
+    "tooltip": "PRINT",
+    "x": -40,
+    "y": -6,
+    "w": 30,
+    "h": 30
+   },
+   {
+    "type": "next",
+    "image": {"id": "s.png", "x": 0, "y": -60},
+    "image_h": {"id": "s.png", "x": -30, "y": -60},
+    "image_a": {"id": "s.png", "x": -60, "y": -60},
+    "image_d": {"id": "s.png", "x": -90, "y": -60},
+    "w": 30,
+    "h": 30
+   }]
+  }]
+ },
+ "free": {
+  "groups": [{
+   "elements": [{
+    "type": "feedback_popup",
+    "background_color": "#FFFFFF",
+    "border_top_width": 1,
+    "border_top_color": "#BFBFBF",
+    "text_color": "#000000",
+    "font_size": 13,
+    "padding": 5,
+    "w": 400,
+    "h": 200,
+    "passed_icon": {
+     "image": {"id": "s.png", "x": -204, "y": -710},
+     "w": 38,
+     "h": 18
+    },
+    "failed_icon": {
+     "image": {"id": "s.png", "x": -244, "y": -710},
+     "w": 38,
+     "h": 18
+    },
+    "correct_icon": {
+     "image": {"id": "td.png", "x": -64, "y": -32},
+     "w": 16,
+     "h": 16
+    },
+    "wrong_icon": {
+     "image": {"id": "td.png", "x": -80, "y": -32},
+     "w": 16,
+     "h": 16
+    }
+   }]
+  }]
+ }
+}

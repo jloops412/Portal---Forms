@@ -1,0 +1,9 @@
+﻿business_process	Proses Bisnis
+process_tutorials	Tutorial Proses
+guided_tours	Tur Terpandu
+training_courses	Kursus Pelatihan
+user_assistance	Bantuan Pengguna
+compliance	Kepatuhan
+tips_tricks	Tips & Trik
+faq	Pertanyaan Umum
+misc	Lain-lain

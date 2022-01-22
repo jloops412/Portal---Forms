@@ -1,0 +1,14 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Bendrinti saitą
+SHARE_BY_MAIL	Siųsti el. laišką
+URL_OF_CURRENT_PAGE	URL
+KEYWORDS	Raktiniai žodžiai
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Siųsti turinio saitą
+ERROR_2.h	Mokymo programai nepavyko įkelti konfigūracijos failo, būtino geram veikimui.
+ctx_html.introtext_noresult	Nėra dabartinio konteksto turinio. Norėdami rasti daugiau turinio, antraštėje atidarykite @{LIBRARY} arba naudokite iešką.
+ctx_html.library	Atidaryti @{LIBRARY}
+	

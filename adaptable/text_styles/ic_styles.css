@@ -1,0 +1,100 @@
+@CHARSET "UTF-8";
+/* to activate this file add the following line to textstyles.css (without css comments) */
+/* @import url('ic_styles.css'); */
+
+#slidemaster .dgo_text_container p,
+#slidemaster .dgo_text_container span {
+    font-color: #666666;
+}
+
+.dgo_text_container P.para_90_degrees_ccw,
+.dgo_text_container P.num_90_degrees_ccw {
+    -moz-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    -o-transform:rotate(-90deg);
+    -ms-transform:rotate(-90deg); 
+    transform:rotate(-90deg);
+    white-space:nowrap;
+    width:inherit;
+    position:relative;
+}
+
+.dgo_text_container P.para_90_degrees_ccw {
+	top:-50px;
+}
+.dgo_text_container P.num_90_degrees_ccw {
+
+}
+
+.rotated-text {
+    display: inline-block;
+    /*overflow: hidden;*/
+    width: 1.5em;
+}
+.rotated-text__inner_cw {
+    display: inline-block;
+    white-space: nowrap;
+    /* this is for shity "non IE" browsers
+       that dosn't support writing-mode */
+    -webkit-transform: translate(1.1em,0) rotate(90deg);
+       -moz-transform: translate(1.1em,0) rotate(90deg);
+         -o-transform: translate(1.1em,0) rotate(90deg);
+            transform: translate(1.1em,0) rotate(90deg);
+    -webkit-transform-origin: 0 0;
+       -moz-transform-origin: 0 0;
+         -o-transform-origin: 0 0;
+            transform-origin: 0 0;
+   /* IE9+ */
+   -ms-transform: none;
+   -ms-transform-origin: none;
+   /* IE8+ */
+   -ms-writing-mode: tb-rl;
+   /* IE7 and below */
+   *writing-mode: tb-rl;
+}
+.rotated-text__inner_ccw {
+    display: inline-block;
+    white-space: nowrap;
+    /* this is for shity "non IE" browsers
+       that dosn't support writing-mode */
+    -webkit-transform: translate(1.1em,0) rotate(-90deg);
+       -moz-transform: translate(1.1em,0) rotate(-90deg);
+         -o-transform: translate(1.1em,0) rotate(-90deg);
+            transform: translate(1.1em,0) rotate(-90deg);
+    -webkit-transform-origin: 0 0;
+       -moz-transform-origin: 0 0;
+         -o-transform-origin: 0 0;
+            transform-origin: 0 0;
+   /* IE9+ */
+   -ms-transform: none;
+   -ms-transform-origin: none;
+   /* IE8+ */
+   -ms-writing-mode: bt-rl;
+   /* IE7 and below */
+   *writing-mode: bt-rl;
+}
+.rotated-text__inner:before {
+    content: "";
+    float: left;
+    margin-top: 100%;
+}
+
+p.icTableHead {
+    font-weight:bold;
+    white-space:nowrap;
+}
+.dgo_text_container SPAN.keystroke {
+	border: solid 1px black;
+	font-size:75%;
+	padding:1px 2px;
+}
+
+/* white text on all bubbles */ 
+div.Bubble P{ 
+color:#FFFFFF;
+}
+
+/* white text on feedback CONTINUE / OK Bubble */ 
+div.Bubble CENTER{ 
+color:#FFFFFF;
+}

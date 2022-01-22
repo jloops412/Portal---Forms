@@ -1,0 +1,11 @@
+﻿LIBRARY	library
+SHARE_CONTENT	Partilhar ligação
+SHARE_BY_MAIL	Enviar e-mail
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Enviar link de conteúdo
+ERROR_2.h	O @{LESSONPLAYER} não conseguiu carregar um ficheiro de configuração necessário para a funcionalidade.
+ctx_html.introtext_noresult	Nenhum conteúdo disponível para o contexto actual. Abrir @{LIBRARY} a partir do cabeçalho ou utilizar a pesquisa para obter mais conteúdo.
+ctx_html.library	Abrir @{LIBRARY}
+	

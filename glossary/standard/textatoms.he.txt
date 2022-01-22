@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	שתף תוכן
+SHARE_BY_MAIL	שתף באמצעות דוא"ל
+URL_OF_CURRENT_PAGE	כתובת URL של דף נוכחי
+TASK	משימה
+GLOSSARY	מילון מונחים
+CONTEXT_INFO	מידע הקשר
+CONTEXT_ROLES	תפקידים
+CONTEXT_ROLES_NOROLES	הצג הקשר בלי תפקידים
+CONTEXT_MY_ROLES	התפקידים שלי
+CLOSEBUBBLE	סגור בועה
+MAXBUBBLE	שחזר בועה
+MINBUBBLE	מזער בועה
+VOLUME	נפח
+SETTINGS	הגדרות
+CLOSE_TASK	סגור @{TASK}
+CLOSE	סגור
+EXIT	צא
+SELECTION	בחירה
+KEYWORD_SEARCH	חיפוש מילת מפתח
+SEARCH	חפש
+SEARCH_STRING	חפש מחרוזת
+KEYWORDS	מילות מפתח
+SEARCH_CLEAR	נקה קלט חיפוש
+FILTER	מסנן
+RESOURCES	משאבים
+VIEW	תצוגה
+CANCEL	בטל
+CONTINUING	המשך
+OK	OK
+PLAY	ניגון
+PAUSE	הפסק
+BACK	הקודם
+PREVIOUS	הקודם
+NEXT	הבא
+PLAYING	מנגן
+PAUSED	הפסק
+USERINPUT	קלט
+IDLE	'' ''
+START	דף נטען...
+RESTART	אתחל
+TEXT	טקסט
+TITLE	כותרת
+MINIMIZE	מזער
+RESTORE	שחזר
+ACQUIRED_SCORE	ציון שהושג
+TEST_RESULT	תוצאה
+TESTDETAILS	הצג פרטים
+TESTDETAILS1	הסתר פרטים
+PRINT	הדפס דף
+LESSON	הדמיה
+OF	מתוך
+DESCRIPTION	תיאור
+FULLSCREEN	מסך מלא
+TOGGLE_TASKINFO	הצג/הסתר תיאור משימה
+PANEL_VIEWMODE	מצב תצוגה של לוח
+PANEL_TOGGLE	הצג/הסתר לוח
+PANEL	סרגל צידי/כל התוכן
+BOOKMARK_FAVORITE	מועדף
+CONTENT	תוכן/תחום Playback
+TOC	טבלת תכנים
+FAVORITES	מועדפים
+RECENT	היסטוריית דפים
+QRCODE	קוד QR
+QR_URL_TOO_BIG	URL גדול מדי. לא ניתן ליצור קוד QR.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	השתק אודיו
+AUDIO_PLAY	השמע אודיו
+AUDIO_PAUSE	הפסק אודיו
+AUDIO_ON	אודיו פועל
+AUDIO_OFF	אודיו כבוי
+CHANNEL_MASTER	אב
+CHANNEL_BOOKSOUND	צליל ספר
+CHANNEL_NARRATIVE	נרטיב
+CHANNEL_EFFECTS	אפקטים
+LIB_NOMATCH	אין התאמות
+LIB_NOFILTER	ללא מסנן
+LIBFLAG_NEWWIN	פתח תוכן בחלון חדש
+LIBFLAG_TITLE	חפש כותרת
+LIBFLAG_SHORTDESC	חפש תיאור קצר
+LIBFLAG_DESC	חפש תיאור
+LIBFLAG_KEYW	חפש מילות מפתח
+LIBFLAG_SLIDES	חפש תוכן של דף ספר
+GUI_TOP_BAR	סרגל עליון
+GUI_BOTTOM_BAR	סרגל תחתון
+ORIENTATION_TOGGLE_TOP	סרגל עליון
+ORIENTATION_TOGGLE_BOTTOM	סרגל תחתון
+FEEDBACK	משוב למחבר
+FEEDBACK_TITLE	המשוב שלך
+FEEDBACK_QUESTION	האם יש לך הערות עבור הדמיה זו?
+FEEDBACK_MISTAKE	מצאתי טעות
+FEEDBACK_COMMENTS	יש לי הערות, בקשות
+FEEDBACK_SEND	שלח משוב
+SEND_CONTENT	שתף תוכן
+SEND_CONTENT_SUBJECT	תוכן מומלץ
+SEND_CONTENT_TEMPLATE	שלום,\n\nתוכן זה עשוי לעניין אותך. \n\nכיתוב: @{SEND_CAPTION}\nקישור: @{SEND_LINK}\n\nבברכה\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	אירעה שגיאה. צור קשר עם מנהל המערכת שלך.
+ERROR_GENERAL	שגיאה פנימית.
+ERROR_1	חוסם חלונות Pop-up מונע את הפעלת הדמיה.
+ERROR_1.h	חוסם חלונות Popup מנע פתיחה של חלון דפדפן חדש. סגור את חוסם חלונות ה-Popup או כבה אותו עבור תחום זה.
+ERROR_2	לא ניתן היה לטעון קובץ תצורה הכרחי.
+ERROR_2.h	לא ניתן היה לטעון את קובץ התצורה הדרוש לתפקוד תקין באמצעות @{LESSONPLAYER}.
+SCORM_LOCATION_ERROR	לא ניתן היה לשמור את ההתקדמות שלך עקב פונקציונליות חסרה של מערכת LMS שלך.
+RESTART_COMPLETED_LMS_LESSON	אתה מתחיל הדמיה שכבר השלמת או עברת בהצלחה. פעולה זו תאפס את כל הנקודות שהושגו בעבר לאפס ותבטל את הגדרת הסימון 'עבר' או 'הושלם'. האם אתה בטוח שברצונך להתחיל שוב?
+RESTART_Av_LMS_LESSON	אתה מתחיל הדמיה שכבר השלמת או עברת בהצלחה. פעולה זו תאפס את כל הנקודות שהושגו בעבר לאפס ותבטל את הגדרת הסימון 'עבר' או 'הושלם'. לחץ על 'OK' כדי להתחיל מחדש או 'בטל' כדי לסגור.
+BOOK_NEXT_CHAPTER	הפרק הבא
+BOOK_PREV_CHAPTER	הפרק הקודם
+BOOK_NEXT_PAGE	הדף הבא
+BOOK_PREV_PAGE	הדף הקודם
+BOOK_INDEX_PAGE	דף התחלה
+SLIDE_MOREINFO	מידע נוסף
+SLIDE_TIPS	טיפים
+SLIDE_ATTACH	קבצים מצורפים
+SLIDE_SHOWATTACH	הצג קבצים מצורפים
+SLIDE_OPEN	פתח
+SLIDE_ADD	הוסף
+SLIDE_EDIT	ערוך
+SLIDE_DELETE	מחק
+SLIDE_BUTTONAREA	סרגל ניגון הקלטה
+HELP	עזרה
+HELP_REGION_BAR	קיצורי דרך: לחץ כדי למקד סרגל נגן
+HELP_REGION_PANEL	לחץ כדי למקד סרגל צידי
+HELP_REGION_CONTENT	לחץ כדי למקד תוכן
+HELP_LIBRARY	הצג עזרת @{LIBRARY} 
+HELP_TRAINER	הצג עזרת @{LESSONPLAYER} 
+HELP_BOOK	הצג עזרת @{BOOKPLAYER} 
+DEMO_START	מצב הדגמה
+DEMO_START1	במצב הדגמה באפשרותך לצפות בביצוע פעילות בתוך היישום. פעל לפי ההדמיה; כל השלבים יבוצעו אוטומטית.
+DEMO_START2	באפשרותך להשתמש בסרגל הניווט בתחית המסך כדי לעצור או להפסיק את ההדגמה. באפשרותך גם לדלג קדימה לשלב הבא או לחזור לשלב הקודם.
+DEMO_STOP	מצב הדגמה הסתיים.
+CONCURRENT_START	מצב ריבוי חלונות
+CONCURRENT_START1	מצב בו-זמני מציג לך שלב אחר שלב כיצד לבצע משימה בתוך היישום.
+CONCURRENT_START2	ההדמיה מופסקת אחרי כל שלב כדי לאפשר לך להשלים את השלב ביישום האמיתי.
+CONCURRENT_STOP	מצב בו-זמני הסתיים.
+PRACTICE_START	מצב תרגול
+PRACTICE_START1	במצב תרגול תוכל לנסות מה שלמדת על-ידי פתרון המשימה בתוך היישום בכוחות עצמך.
+PRACTICE_START2	עקוב אחר ההוראות שלב אחר שלב.
+PRACTICE_STOP	מצב תרגול הסתיים.
+TEST_START	מצב בדיקה
+TEST_START1	במצב בדיקה באפשרותך לבחון את הידע שלך על-ידי פתרון משימה בתוך היישום בכוחות עצמך: חוץ מנתוני הדוגמה שתצטרך להזין, לא תקבל הוראות שלב אחרי שלב. המשימה כולה מתוארת בחלון המשימה שתוכל להגדיל או למזער לפי הצורך באמצעות הכפתורים בסרגל הכותרת.
+TEST_START2	בסוף המבחן תקבל ציון לפני מספר השלבים שהושלמו בצורה נכונה. הציון הזה מיועד להערכה העצמית שלך באזור המשימה.
+TEST_START3	שים לב למה שאתה עושה כי המערכת תרשום כל הזנה עם איות שגוי ולחיצות שגויות ותפחית את הציון שלך בהתאם. אם תחליט לקבל סיוע מהמערכת כדי להשלים את השלב, הציון שלך עבור שלב זה יוגדר כאפס.
+TEST_START4	הציון הכולל שלך יוצג בסוף המבחן. נסה להגיע לציון היעד של @{res_mastery_percent}% .
+TEST_OK	המבחן עבר
+TEST_OK1	איחולים, השלמת את המשימה בהצלחה.
+TEST_FAILED	מבחן נכשל
+TEST_FAILED1	היות והשגת פחות מ-@{res_mastery_percent}% מהציון המקסימלי האפשרי, אנו ממליצים שתעבור על התוכן שמכוסה על-ידי קורס הכשרה זה פעם נוספת ואז תבחן שוב את הידע שלך במצב הבדיקה. 
+TEST_FINISHED	מבחן זה היה עבור ההערכה העצמית שלך בלבד. התוצאות לא יירשמו או יועברו לגורם שלישי.
+TEST_SCORE	ציון
+TEST_SCOREVALUE	@{res_collected_points} מתוך @{res_possible_points}
+FREEPRESENTATION_START	מצב מצגת חינם
+FREEPRESENTATION_START1	מצב מצגת חינם מאפשר לך לבצע תהליך בתוך ההדמיה.
+FREEPRESENTATION_START2	בצע את הפעולות שלב אחר שלב. השתמש במקש F1 לקבלת עזרה.
+FREEPRESENTATION_STOP	מצגת חינם הסתיימה.
+GUIDEDPRESENTATION_START	מצב מצגת מונחית
+GUIDEDPRESENTATION_START1	מצב ההצגה המונחית מבצע באופן אוטומטי תהליך מסוים בהדמיה. סמן עכבר והדגשה מציגים את השלב הנוכחי.
+GUIDEDPRESENTATION_START2	עקוב אחר הפעולות שלב אחר שלב ואשר לאחר מכן כל פעולה.
+GUIDEDPRESENTATION_STOP	מצגת מונחית הסתיימה.
+EXER_FAIL1	הפעולה שביצעת הייתה שגויה.
+EXER_FAIL2	הפעולה שביצעת הייתה שגויה. נקודה אחת תרד מהציון הכולל שלך. נקודות שנותרו עבור פעולה זו: @1_rest-points_.
+EXER_FAIL3	הפעולה שביצעת הייתה שגויה. נקודה אחת מופחתת מהציון הכולל שלך על כל טעות. נקודות שנותרו עבור פעולה זו: @1_rest-points_.
+EXER_FAILKEY1	לחצת על מקש @1_key_.
+EXER_FAILKEY2	מקשי פונקציה ניתנים לשימוש הם: @1_keys_.
+EXER_FAILRADIO	כל הכפתורים החוקיים מודגשים.
+EXER_FAILINPUT	כל אזורי הטקסט החוקיים מודגשים.
+EXER_FAILSELECT	כל תיבות הבחירה החוקיות מודגשות.
+EXER_FAILDRAG	ביצעת פעולת גרירה @1_keys_ לא חוקית.
+EXER_FAILDRAG1	בצע פעולת גרירה @1_keys_ בתוך האזור המודגש.
+EXER_FAILDROP	ביצעת פעולת שחרור @1_keys_ לא חוקית.
+EXER_FAILDROP1	בצע פעולת שחרור @1_keys_ בתוך האזור המודגש.
+EXER_FAILDBLCLICK	ביצעת לחיצה כפולה @1_keys_ לא חוקית.
+EXER_FAILDBLCLICK1	בצע לחיצה כפולה @1_keys_ בתוך האזור המודגש.
+EXER_FAILCLICK	@1_keys_ לחצת על אזור לא חוקי.
+EXER_FAILCLICK1	כל האזורים החוקיים מודגשים.
+EXER_FAILCLICK2	ביצעת לחיצת @1_keys_ לא חוקית.
+EXER_FAILCLICK3	בצע לחיצה @1_keys_ בתוך האזור המודגש.
+EXER_FAILENTER	ביצעת העברת עכבר @1_keys_ לא חוקית.
+EXER_FAILENTER1	בצע העברת עכבר @1_keys_ בתוך האזור המודגש.
+EXER_FAILMCLICK	לחיצה אמצעית @1_keys_ אסורה.
+EXER_WOULDGOON	(שים לב: אחרת ממשיך אוטומטית)
+EXER_YOURINPUT	הזנת "@1_input_".
+EXER_TEXTINPUT	הזן "@1" בשדה הקלט "@2"!
+EXER_SELECT	בחר הזנה "@1"!
+EXER_GOON	עבור הלאה לשלב הבא
+EXER_SHOWHELP	כן, הצג עזרה
+EXER_TRYAGAIN	נסה שוב
+EXER_ASK4HELP	האם אתה זקוק לעזרה?
+EXER_ONLY_VALID	הפעולות המותרות הן:
+EXER_FORM_PREFIX	הזן את הערכים הבאים:
+EXER_OR	או
+EXER_AND	ו-
+SCORE	נקודות
+SCORE_REDUCED	נקודות אפשריות עבור שלב זה הופחתו ל-
+TOUR_START	התחלת הדמיה
+TOUR_STOP	ביטול הדמיה
+TOUR_END	סיום הדמיה
+TOUR_PLAY	כפתור המשך
+TOUR_JUMP	דילג לשלב אחר בתוך ההדמיה.
+TOUR_PREV	חזור
+TOUR_NEXT	הבא
+USER_ACTION_CORRECT_ACTION	הלומד ביצע את השלב בהצלחה.
+USER_ACTION_WRONG_ACTION	הלומד עשה טעות.
+USER_ACTION_GOON	הלומד לחץ על 'המשך', אין נקודות עבור שלב זה.
+USER_ACTION_GOON_AUTO	עקב כמות השגיאות, ההדמיה המשיכה אוטומטית.
+USER_ACTION_HELP	הלומד ביקש עזרה, אין מקודות עבור שלב זה.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	הלומד פתח תיבת טקסט.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	הלומד סגר תיבת טקסט.
+QUIZ_CORRECT_RESPONSE	תשובה נכונה
+QUIZ_STUDENT_RESPONSE	תשובת הלומד
+QUIZ_LATENCY	שעה
+QUIZ_SCORE	ציון שהושג
+QUIZ_REQ_SCORE	ציון נדרש
+QUIZ_MAX_SCORE	ציון מקסימלי
+QUIZ_TIMEOUT_REACHED	המערכת הגיעה לזמן הקצוב
+QUIZTYPE_MCHOICE	בוחן: בחירות מרובות
+QUIZTYPE_SQMAQUIZ	בוחן: מלא את השדות
+QUIZTYPE_FIBQUIZ	בוחן: מלא את המקומות הריקים
+QUIZTYPE_MATCHQUIZ	בוחן: התאמה
+QUIZTYPE_CONNQUIZ	בוחן: חיבור
+QUIZTYPE_SCALEQUIZ	בוחן: בקרת שקופיות
+QUIZTYPE_GRIDQUIZ	בוחן: רשת
+QUIZTYPE_HOTSPOTQUIZ	בוחן: Hotspot
+QUIZTYPE_PUZZLEQUIZ	בוחן: פאזל
+QUIZTYPE_MIXQUIZ	בוחן: מיון
+CONNECTING	מתחבר...
+SYNCHRONIZE	סנכרן
+SYNCHRONIZED	מסונכרן
+CONNECT	התחבר
+BUBBLESTYLE_NOT_FOUND	סגנון בועה לא נמצא.
+LOADING_MACROSET	טוען תוכן ומשאבים.
+ZOOM_LEVEL_NOTIFICATION	אזהרה: רמת גודל התצוגה שונה מ-100%.
+ctx_html.header_title	עזרת הקשר
+ctx_html.introtext	תוכני העזרה הבאים זמינים עבור ההקשר הנוכחי. לחץ על הפריט שברצונך להפעיל.
+ctx_html.introtext_noresult	אין תוכן זמין עבור ההקשר הנוכחי. פתח את ה-library מהכותרת העליונה או השתמש בחיפוש כדי לקבל תוכן נוסף.
+ctx_html.query_empty	שאילתה ריקה.
+ctx_html.query_malformed	שאילתה לא חוקית.
+ctx_html.search	חפש
+ctx_html.library	פתח library
+ctx_html.language	שפה
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	הקלטה
+qr_hint_dlg.dont_bother	אל תציג שוב
+qr_hint_dlg.hint_end	סיים את ההקלטה.
+qr_hint_dlg.hint_pause	השהה את ההקלטה.
+btnOk	תודה
+qr_hint_dlg.hint_title	רמזים עבור הקלטה
+qr_hint_dlg.audio_help	הקלט את הטקסט שלך לפני בחירת בקרה.
+quiz_error_no_template_file	שגיאה: קובץ תבנית לא נמצא. ייעשה שימוש בברירת מחדל.
+qr_hint_dlg.hint_end_1	לחצן 'סיים'
+qr_hint_dlg.hint_pause_1	לחצן 'השהה'

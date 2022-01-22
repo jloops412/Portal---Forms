@@ -1,0 +1,12 @@
+﻿SHARE_CONTENT	שתף קישור
+SHARE_BY_MAIL	שלח הודעת דואר
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	תפקידי הקשר
+PLAYING	
+IDLE	""
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	שלח קישור תוכן
+ERROR_2.h	לא ניתן היה לטעון קובץ תצורה שנדרש עבור פונקציונליות נכונה באמצעות ה-@{LESSONPLAYER}.
+ctx_html.introtext_noresult	אין תוכן זמין עבור ההקשר הנוכחי. פתח את ה-@{LIBRARY} מהכותרת העליונה או השתמש בחיפוש כדי לקבל תוכן נוסף.
+ctx_html.library	פתח @{LIBRARY}
+	

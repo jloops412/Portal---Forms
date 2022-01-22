@@ -1,0 +1,17 @@
+﻿LESSONPLAYER	trainer
+SHARE_CONTENT	Partager le lien
+SHARE_BY_MAIL	Envoyer un e-mail
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Envoyer lien vers le contenu
+ERROR_2.h	Le @{LESSONPLAYER} n'a pas pu charger un fichier de configuration requis pour une fonctionnalité correcte.
+RESTART_COMPLETED_LMS_LESSON	Vous commencez une simulation qui a déjà été terminée ou réussie. Ceci va réinitialiser tous les points acquis précédemment sur zéro et désactivera le code Terminé ou Réussi. Voulez-vous vraiment recommencer ?
+RESTART_Av_LMS_LESSON	Vous commencez une simulation qui a déjà été terminée ou réussie. Ceci va réinitialiser tous les points acquis précédemment sur zéro et désactivera le code Terminé ou Réussi. Cliquez sur 'OK' pour redémarrer ou sur 'Annuler' pour fermer ?
+TEST_OK1	Vous avez effectué cette tâche.
+EXER_FAIL2	L'action que vous avez effectuée était incorrecte. 
+EXER_FAIL3	L'action que vous avez effectuée était incorrecte. 
+EXER_FAILKEY1	Vous avez appuyez sur la touche @1_key_.
+ctx_html.introtext_noresult	Aucun contenu disponible pour le contexte actuel. Ouvrez la @{LIBRARY} à partir de l'en-tête ou utilisez la recherche pour obtenir plus de contenu.
+ctx_html.library	Ouvrir @{LIBRARY}
+	

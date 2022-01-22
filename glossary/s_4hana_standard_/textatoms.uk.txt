@@ -1,0 +1,13 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	поділитися посиланням
+SHARE_BY_MAIL	електронна пошта
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Відправити посилання на вміст
+ERROR_2.h	Викладачу не вдалося завантажити необхідний файл конфігурації для відповідної функціональності.
+ctx_html.introtext_noresult	Вміст недоступний для поточного контексту. Відкрийте @{LIBRARY} із заголовка або скористайтесь пошуком для виклику подальшого вмісту.
+ctx_html.library	Відкрити @{LIBRARY}
+	

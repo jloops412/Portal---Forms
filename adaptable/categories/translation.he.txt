@@ -1,0 +1,9 @@
+﻿business_process	תהליכים עסקיים
+process_tutorials	ערכות לימוד של תהליך
+guided_tours	סיורים מודרכים
+training_courses	קורסי הכשרה
+user_assistance	סיוע משתמש
+compliance	תאימות
+tips_tricks	עצות וטריקים
+faq	שאלות נפוצות
+misc	שונות

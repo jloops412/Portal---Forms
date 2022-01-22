@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	सामग्री का साझा करें
+SHARE_BY_MAIL	इ-मेल के माध्यम से साझा करें
+URL_OF_CURRENT_PAGE	वर्तमान पृष्ठ का URL
+TASK	कार्य
+GLOSSARY	शब्दावली
+CONTEXT_INFO	प्रसंग की जानकारी
+CONTEXT_ROLES	भूमिकाएं
+CONTEXT_ROLES_NOROLES	भूमिकाओं के बिना प्रसंग दिखाएं
+CONTEXT_MY_ROLES	मेरी भूमिकाएं
+CLOSEBUBBLE	बबल बंद करें
+MAXBUBBLE	बबल पुनर्स्थापित करें
+MINBUBBLE	बबल न्यूनतम करें
+VOLUME	वॉल्यूम
+SETTINGS	सेटिंग
+CLOSE_TASK	@{TASK} बंद करें
+CLOSE	बंद करें
+EXIT	निकास
+SELECTION	चयन
+KEYWORD_SEARCH	कीवर्ड खोज
+SEARCH	खोजें
+SEARCH_STRING	खोज स्ट्रिंग
+KEYWORDS	कीवर्ड
+SEARCH_CLEAR	क्लियर खोज इनपुट
+FILTER	फ़िल्टर करें
+RESOURCES	संसाधन
+VIEW	देखें
+CANCEL	रद्द करें
+CONTINUING	जारी रखें
+OK	ठीक
+PLAY	चलाएं
+PAUSE	विराम दें
+BACK	पिछला
+PREVIOUS	पिछला
+NEXT	अगला
+PLAYING	चल रहा है
+PAUSED	विराम दें
+USERINPUT	इनपुट
+IDLE	""
+START	पृष्ठ लोड हो रहा है...
+RESTART	पुनर्प्रारंभ करें
+TEXT	टेक्स्ट
+TITLE	शीर्षक
+MINIMIZE	न्यूनतम करें
+RESTORE	पुनर्स्थापित करें
+ACQUIRED_SCORE	प्राप्त स्कोर
+TEST_RESULT	परिणाम
+TESTDETAILS	विवरणों को दिखाएं
+TESTDETAILS1	विवरणों को छिपाएं
+PRINT	पृष्ठ प्रिंट करें
+LESSON	अनुरूपण
+OF	इसका
+DESCRIPTION	वर्णन
+FULLSCREEN	पूर्ण-स्क्रीन
+TOGGLE_TASKINFO	कार्य वर्णन दिखाएं/छिपाएं
+PANEL_VIEWMODE	पैनल प्रदर्शन मोड
+PANEL_TOGGLE	पैनल दिखाएं/छिपाएं
+PANEL	साइडबार/सभी सामग्री
+BOOKMARK_FAVORITE	पसंदीदा
+CONTENT	सामग्री/प्लेबैंक क्षेत्र
+TOC	सामग्रियों की तालिका
+FAVORITES	पसंदीदा
+RECENT	पृष्ठ इतिहास
+QRCODE	QR कोड
+QR_URL_TOO_BIG	Url बहुत बड़ा. QR कोड जनरेट नहीं कर सकते.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	ऑडियो म्यूट करें
+AUDIO_PLAY	ऑडियो चलाएं
+AUDIO_PAUSE	ऑडियो रोकें
+AUDIO_ON	ऑडियो चालू
+AUDIO_OFF	ऑडियो बंद
+CHANNEL_MASTER	मास्टर
+CHANNEL_BOOKSOUND	पुस्तिका ध्वनि
+CHANNEL_NARRATIVE	वर्णनात्मक
+CHANNEL_EFFECTS	प्रभाव
+LIB_NOMATCH	कोई मिलान नहीं
+LIB_NOFILTER	कोई फ़िल्टर नहीं
+LIBFLAG_NEWWIN	एक नई विंडो में सामग्री खोलें
+LIBFLAG_TITLE	शीर्षक खोजें
+LIBFLAG_SHORTDESC	लघु वर्णन खोजें
+LIBFLAG_DESC	वर्णन खोजें
+LIBFLAG_KEYW	खोज कीवर्ड
+LIBFLAG_SLIDES	बुक पृष्ठ सामग्री की खोज करें
+GUI_TOP_BAR	शीर्ष बार
+GUI_BOTTOM_BAR	निचला बार
+ORIENTATION_TOGGLE_TOP	शीर्ष बार
+ORIENTATION_TOGGLE_BOTTOM	निचला बार
+FEEDBACK	लेखक हेतु फ़ीडबैक
+FEEDBACK_TITLE	आपका फ़ीडबैक
+FEEDBACK_QUESTION	क्या इस अनुरूपण के लिए आपकी कोई टिप्पणी है?
+FEEDBACK_MISTAKE	मुझे एक गलती मिली है
+FEEDBACK_COMMENTS	मेरी टिप्पणियां और शुभकामनाएं
+FEEDBACK_SEND	फ़ीडबैक भेजें
+SEND_CONTENT	सामग्री का साझा करें
+SEND_CONTENT_SUBJECT	अनुशंसित सामग्री
+SEND_CONTENT_TEMPLATE	नमस्कार,\n\nयह आपके लिए रुचिकर हो सकता है. \n\nकैप्शन: @{SEND_CAPTION}\nलिंक: @{SEND_LINK}\n\nभवदीय\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	त्रुटि उत्पन्न हुई. कृपया अपने व्यवस्थापक से संपर्क करें.
+ERROR_GENERAL	आंतरिक त्रुटि.
+ERROR_1	एक पॉपअप अवरोधक अनुरूपण को चलाए जाने से रोक रहा है.
+ERROR_1.h	पॉपअप ब्लॉकर, एक नई ब्राउज़र विंडो खोले जाने से रोकता है. पॉपअप ब्लॉकर बंद करें या इस डोमेन के लिए इसे ऑफ़ पर स्विच करें. 
+ERROR_2	आवश्यक कॉन्फ़िगरेशन फ़ाइल लोड नहीं की जा सकी.
+ERROR_2.h	@{LESSONPLAYER} उचित कार्यक्षमता के लिए कॉन्फ़िगरेशन फ़ाइल लोड नहीं किया जा सकता.
+SCORM_LOCATION_ERROR	आपके LMS सिस्टम में अनुपलब्ध कार्यात्मकता के कारण आपकी प्रगति को सहेजा नहीं जा सका.
+RESTART_COMPLETED_LMS_LESSON	आपने वह अनुरूपण प्रारंभ किया है, जो पहले ही पूर्ण हो चुका है या सफलतापूर्वक पास कर दिया गया है.  यह पहले के सभी प्राप्त बिंदु को शून्य पर रीसेट कर देगा और पूर्ण किया गया या पास किया गया ध्वज अनसेट कर देगा. क्या आप वाकई पुनः प्रारंभ करना चाहते हैं?
+RESTART_Av_LMS_LESSON	आपने वह अनुरूपण प्रारंभ किया है, जो पहले ही पूर्ण हो चुका है या सफलतापूर्वक पास कर दिया गया है.  यह पहले के सभी प्राप्त बिंदु को शून्य पर रीसेट कर देगा और पूर्ण किया गया या पास किया गया ध्वज अनसेट कर देगा. पुनः प्रारंभ करने के लिए  'ठीक' या बंद करने के लिए 'रद्द करें' क्लिक करें?
+BOOK_NEXT_CHAPTER	अगला अध्याय
+BOOK_PREV_CHAPTER	पिछला अध्याय
+BOOK_NEXT_PAGE	अगला पृष्ठ
+BOOK_PREV_PAGE	पिछला पृष्ठ
+BOOK_INDEX_PAGE	प्रारंभ पृष्ठ
+SLIDE_MOREINFO	अधिक जानकारी
+SLIDE_TIPS	युक्तियां
+SLIDE_ATTACH	अनुलग्नक
+SLIDE_SHOWATTACH	अनुलग्नक दिखाएं
+SLIDE_OPEN	खोलें
+SLIDE_ADD	जोड़ें
+SLIDE_EDIT	संपादित करें
+SLIDE_DELETE	हटाएं
+SLIDE_BUTTONAREA	प्लेबैंक बार
+HELP	सहायता
+HELP_REGION_BAR	शॉर्टकटः प्लेयर बार फोकस करने के लिए दबाएं
+HELP_REGION_PANEL	साइडबार फोकस करने के लिए दबाएं
+HELP_REGION_CONTENT	सामग्री फोकस करने के लिए दबाएं
+HELP_LIBRARY	@{LIBRARY} सहायता दिखाएं
+HELP_TRAINER	@{LESSONPLAYER} सहायता दिखाएं
+HELP_BOOK	@{BOOKPLAYER} सहायता दिखाएं
+DEMO_START	डेमो मोड
+DEMO_START1	डेमो मोड में, आप एप्लिकेशन के अंतर्गत निष्पादित की जा रही किसी गतिविधि पर ध्यान दे सकते हैं. केवल अनुरूपण का पालन करें; सभी चरण स्वचालित रूप से किए जाएंगे.
+DEMO_START2	आप डेमो को विराम देने या रोकने के लिए स्क्रीन के नीचे नेविगेशन बार का उपयोग कर सकते हैं. आप पिछले चरण से अगले या पिछले चरण पर भी जा सकते हैं.
+DEMO_STOP	डेमो मोड समाप्त हो गया है.
+CONCURRENT_START	समवर्ती मोड
+CONCURRENT_START1	समवर्ती मोड आपको चरण-दर-चरण यह दिखाता है कि एप्लिकेशन के अंदर कोई कार्य कैसे निष्पादित करें.
+CONCURRENT_START2	आपको वास्तविक एप्लिकेशन में चरण पूरा करने का अवसर देने के लिए, अनुरूपण प्रत्येक चरण के बाद बाधित हो जाता है.
+CONCURRENT_STOP	समवर्ती मोड समाप्त हो गया है.
+PRACTICE_START	अभ्यास मोड
+PRACTICE_START1	अभ्यास मोड में, आप एप्लिकेशन के अंदर स्वयं किसी कार्य का समाधान करके देख सकते हैं कि आपने क्या सीखा है.
+PRACTICE_START2	बस चरण-दर-चरण निर्देशों का पालन करें.
+PRACTICE_STOP	अभ्यास मोड समाप्त हो गया है.
+TEST_START	परीक्षा मोड
+TEST_START1	परीक्षण मोड में, आप स्वयं एप्लिकेशन के अंतर्गत कार्य का समाधान करके अपने ज्ञान की जांच कर सकते हैं. उस नमूना डेटा को छोड़ कर, जो आपको दर्ज करना है, आप कोई भी चरण-दर चरण निर्देश प्राप्त नहीं करेंगे. उस कार्य विंडो में संपूर्ण कार्य वर्णित है, जिसे आप संज्ञा बार में बटन का उपयोग करके अपनी आवश्यकता अनुसार बड़ा या छोटा कर सकते हैं. 
+TEST_START2	परीक्षा के अंत में, सही तरह से पूरे किए गए चरण की संख्या के आधार पर आपको स्कोर दिया जाएगा.  यह स्कोरिंग, कार्य क्षेत्र पर आपके स्वयं-आंकलन के लिए है.
+TEST_START3	कृपया आप जो भी करते हैं, उसके बारे में बहुत सावधान रहें, क्योंकि सिस्टम सभी गलत वर्तनी वाली प्रविष्टि और गलत क्लिक पंजीकृत करेगा और उसके अनुसार आपका स्कोर कम हो जाएगा. अगर आप चरण पूर्ण करने के लिए सिस्टम से सहायता प्राप्त करने का निर्णय लिया है, तो इस विषेश चरण के लिए आपके स्कोर को शून्य पर सेट कर दिया जाएगा.
+TEST_START4	परीक्षा के अंत में आपका कुल स्कोर प्रदर्शित किया जाएगा. कृपया @{res_mastery_percent}% का लक्षित स्कोर प्राप्त करने का प्रयास करें.
+TEST_OK	परीक्षा उत्तीर्ण
+TEST_OK1	बधाई हो, आपने यह कार्य सफलतापूर्वक पूरा कर लिया है.
+TEST_FAILED	परीक्षा अनुउत्तीर्ण
+TEST_FAILED1	चूंकि आपने हमारे द्वारा अनुशंसित संभावित अधिकतम स्कोर का @{res_mastery_percent}% प्राप्त किया है, जो एक बार फिर से आपको इस परिक्षण पाठ्यक्रम द्वारा कवर की गई सामग्री पर ले जाता है और परीक्षण मोड में फिर से आपके ज्ञान का परीक्षा लेता है.
+TEST_FINISHED	यह परीक्षा केवल आपके स्व-मूल्यांकन के लिए थी. परिणाम रिकॉर्ड या तृतीय पक्षों को प्रेषित नहीं किए जाएंगे.
+TEST_SCORE	स्कोर
+TEST_SCOREVALUE	@{res_collected_points} इसका @{res_possible_points}
+FREEPRESENTATION_START	मुक्त प्रस्तुतिकरण मोड
+FREEPRESENTATION_START1	मुक्त प्रस्तुतीकरण मोड अपने अनुकूलन के भीतर प्रक्रिया निष्पदन को अनुमति देता है.
+FREEPRESENTATION_START2	कार्रवाई चरण-दर-चरण निष्पादित करें. सहायता प्राप्त करने के लिए F1 कुंजी का उपयोग करें.
+FREEPRESENTATION_STOP	मुक्त प्रस्तुतीकरण समाप्त किया गया है.
+GUIDEDPRESENTATION_START	निर्देशित प्रस्तुतिकरण मोड
+GUIDEDPRESENTATION_START1	निर्देशित प्रतिनिधित्तव मोड स्वाचालित रूप से अनुरूपण के भीतर प्रक्रिया निष्पादित करता है. एक माउस सूचक और हाइलाइट प्रदर्शन वर्तमान चरण.
+GUIDEDPRESENTATION_START2	कार्रवाई चरण-दर-चरण का पालन करें और प्रत्येक कार्रवाई के बाद में पुष्टि करें.
+GUIDEDPRESENTATION_STOP	निर्देशित प्रस्तुतिकरण समाप्त किया गया.
+EXER_FAIL1	आपके द्वारा की गई कार्रवाई गलत थी.
+EXER_FAIL2	आपके द्वारा किया गया कार्य गलत है. आपके संपूर्ण स्कोर से 1 बिंदु का पता लगाया जा रहा है. इस कार्य के लिए बाएं इंगित करता है: @1_rest-points_.
+EXER_FAIL3	आपके द्वारा किया गया कार्य गलत है. आपके संपूर्ण स्कोर से प्रत्येक गलती के लिए 1 बिंदु का पता लगाया जा रहा है. इस कार्य के लिए बाएं इंगित करता है: @1_rest-points_.
+EXER_FAILKEY1	आपने @1_key_ कुंजी दबाई है.
+EXER_FAILKEY2	उपयोग किए जाने योग्य फ़ंक्शन कुंजियां यह हैं: @1_keys_.
+EXER_FAILRADIO	सभी मान्य बटन हाइलाइट किए गए हैं.
+EXER_FAILINPUT	सभी मान्य टेक्सट क्षेत्र हाइलाइट किए गए हैं.
+EXER_FAILSELECT	सभी मान्य चयन बॉक्स हाइलाइट किए गए हैं.
+EXER_FAILDRAG	आपने अमान्य @1_keys_ डबल क्लिक किया है.
+EXER_FAILDRAG1	कृपया हाइलाइट किए गए क्षेत्र के अंतर्गत @1_keys_ खींचे संचालन निष्पादित करें.
+EXER_FAILDROP	आपने अमान्य @1_keys_ छोड़ें संचालन निष्पादित किया है.
+EXER_FAILDROP1	कृपया हाइलाइट किए गए क्षेत्र के अंतर्गत @1_keys_ छोड़ें संचालन निष्पादित करें.
+EXER_FAILDBLCLICK	आपने अमान्य @1_keys_ डबल क्लिक किया है.
+EXER_FAILDBLCLICK1	कृपया हाइलाइट किए गए क्षेत्र के अंतर्गत @1_keys_ पर क्लिक करें.
+EXER_FAILCLICK	आपने @1_keys_ एक अमान्य क्षेत्र पर क्लिक किया है.
+EXER_FAILCLICK1	सभी मान्य क्षेत्र हाइलाइट किए गए हैं.
+EXER_FAILCLICK2	आपने अमान्य @1_keys_ क्लिक किया है.
+EXER_FAILCLICK3	कृपया हाइलाइट किए गए क्षेत्र के अंतर्गत @1_keys_ पर क्लिक करें.
+EXER_FAILENTER	आपने अमान्य @1_keys_ माउस ओवर निष्पादित किया है.
+EXER_FAILENTER1	कृपया हाइलाइट किए गए क्षेत्र के अंतर्गत @1_keys_ माउस ओवर निष्पादित करें.
+EXER_FAILMCLICK	@1_keys_ मिडल-क्लिक अनुमत नहीं है.
+EXER_WOULDGOON	(नोट: अन्यथा स्वचालित रूप से जारी हो जाता है)
+EXER_YOURINPUT	आपने "@1_input_" दर्ज किया है.
+EXER_TEXTINPUT	कृपया इनपुट फ़ील्ड "@2" में "@1" दर्ज करें!
+EXER_SELECT	कृपया प्रविष्टि "@1" का चयन करें!
+EXER_GOON	अगले चरण पर जाएं
+EXER_SHOWHELP	हां, सहायता दिखाएं
+EXER_TRYAGAIN	पुनः प्रयास करें
+EXER_ASK4HELP	क्या आपको सहायता चाहिए?
+EXER_ONLY_VALID	अनुमत कार्रवाइयां निम्न हैं:
+EXER_FORM_PREFIX	निम्न मान दर्ज करें:
+EXER_OR	या
+EXER_AND	और
+SCORE	पॉइंट
+SCORE_REDUCED	इस चरण के लिए संभावित पॉइंट इस तक कम किए गए
+TOUR_START	अनुरूपण प्रारंभ करें
+TOUR_STOP	अनुरूपण निरस्त करें
+TOUR_END	अनुरूपण समाप्ति
+TOUR_PLAY	जारी बटन
+TOUR_JUMP	अनुरूपण के अंतर्गत सीधे किसी अन्य चरण पर जाएं.
+TOUR_PREV	पिछला
+TOUR_NEXT	अगला
+USER_ACTION_CORRECT_ACTION	शिक्षार्थी ने सफलतापूर्वक चरण पूरा किया.
+USER_ACTION_WRONG_ACTION	शिक्षार्थी ने एक गलती की.
+USER_ACTION_GOON	शिक्षार्थी ने "जारी रखें", पर क्लिक किया, इस चरण के लिए पॉइंट नहीं.
+USER_ACTION_GOON_AUTO	गलतियों की मात्रा के कारण, अनुरूपण स्वचालित रूप से जारी रहा.
+USER_ACTION_HELP	शिक्षार्थी ने सहायता के लिए कहा, इस चरण के लिए कोई पॉइंट नहीं.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	शिक्षार्थी ने कोई टेक्स्ट बॉक्स बंद किया:
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	शिक्षार्थी ने कोई टेक्स्ट बॉक्स बंद किया:
+QUIZ_CORRECT_RESPONSE	सही प्रतिसाद
+QUIZ_STUDENT_RESPONSE	शिक्षार्थी का उत्तर
+QUIZ_LATENCY	समय
+QUIZ_SCORE	प्राप्त स्कोर
+QUIZ_REQ_SCORE	आवश्यक स्कोर
+QUIZ_MAX_SCORE	अधिकतम स्कोर
+QUIZ_TIMEOUT_REACHED	टाइमआउट हो गया
+QUIZTYPE_MCHOICE	क्विज़: एकाधिक विकल्प
+QUIZTYPE_SQMAQUIZ	क्विज़: फ़ील्ड भरें
+QUIZTYPE_FIBQUIZ	क्विज़: रिक्तियां भरें
+QUIZTYPE_MATCHQUIZ	क्विज़: मिलान
+QUIZTYPE_CONNQUIZ	क्विज़: कनेक्शन
+QUIZTYPE_SCALEQUIZ	क्विज़: स्लाइड नियंत्रण
+QUIZTYPE_GRIDQUIZ	क्विज़: ग्रिड
+QUIZTYPE_HOTSPOTQUIZ	क्विज़: हॉटस्पॉट
+QUIZTYPE_PUZZLEQUIZ	क्विज़: पहेली
+QUIZTYPE_MIXQUIZ	क्विज़: अनुक्रमन
+CONNECTING	कनेक्ट कर रहा है...
+SYNCHRONIZE	सिंक्रनाइज़ करें
+SYNCHRONIZED	सिंक्रनाइज़ करें
+CONNECT	कनेक्ट करें
+BUBBLESTYLE_NOT_FOUND	बबल शैली नहीं मिली.
+LOADING_MACROSET	सामग्री और संसाधन लोड हो रहे हैं.
+ZOOM_LEVEL_NOTIFICATION	चेतावनी: आपका ज़ूम स्तर 100 से भिन्न है%.
+ctx_html.header_title	प्रसंग सहायता
+ctx_html.introtext	निम्न सहायता सामग्रियां वर्तमान प्रसंग के लिए उपलब्ध हैं. वह आइटम क्लिक करें, जिसे आप प्रारंभ करना चाहते हैं.
+ctx_html.introtext_noresult	वर्तमान प्रसंग के लिए कोई सामग्री उपलब्ध नहीं. शीर्षलेख से लाइब्रेरी खोलें या अतिरिक्त सामग्री प्राप्त करने के लिए खोज का उपयोग करें.
+ctx_html.query_empty	क्वेरी रिक्त.
+ctx_html.query_malformed	क्वेरी अमान्य.
+ctx_html.search	खोजें
+ctx_html.library	लाइब्रेरी खोलें
+ctx_html.language	भाषा
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	रिकॉर्डिंग
+qr_hint_dlg.dont_bother	पुनः न दिखाएं
+qr_hint_dlg.hint_end	रिकॉर्डिंग समाप्त करें.
+qr_hint_dlg.hint_pause	रिकॉर्डिंग रोकें.
+btnOk	धन्यवाद
+qr_hint_dlg.hint_title	रिकॉर्डिंग संकेत
+qr_hint_dlg.audio_help	नियंत्रण चयन से पहले अपना टेक्स्ट रिकॉर्ड करें.
+quiz_error_no_template_file	त्रुटि: टेम्पलेट फ़ाइल नहीं मिली. डिफ़ॉल्ट का उपयोग किया जाएगा.
+qr_hint_dlg.hint_end_1	END कुंजी
+qr_hint_dlg.hint_pause_1	PAUSE कुंजी

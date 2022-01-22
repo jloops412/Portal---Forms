@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Jaga sisu
+SHARE_BY_MAIL	Jaga meilitsi
+URL_OF_CURRENT_PAGE	Praeguse lehe URL
+TASK	Ülesanne
+GLOSSARY	Sõnastik
+CONTEXT_INFO	Konteksti teave
+CONTEXT_ROLES	Rollid
+CONTEXT_ROLES_NOROLES	Kuva kontekst ilma rollideta
+CONTEXT_MY_ROLES	Minu rollid
+CLOSEBUBBLE	Sule mull
+MAXBUBBLE	Taasta mull
+MINBUBBLE	Minimeeri mull
+VOLUME	Maht
+SETTINGS	Sätted
+CLOSE_TASK	Sule @{TASK}
+CLOSE	Sule
+EXIT	Välju
+SELECTION	Valik
+KEYWORD_SEARCH	Märksõnaotsing
+SEARCH	Otsi
+SEARCH_STRING	Otsi stringi
+KEYWORDS	Märksõnad
+SEARCH_CLEAR	Kustuta otsingu sisend
+FILTER	Filter
+RESOURCES	Allikad
+VIEW	Vaade
+CANCEL	Tühista
+CONTINUING	Jätka
+OK	OK
+PLAY	Esita
+PAUSE	Paus
+BACK	Tagasi
+PREVIOUS	Eelmine
+NEXT	Edasi
+PLAYING	Esitamine
+PAUSED	Paus
+USERINPUT	Sisend
+IDLE	""
+START	Lehe laadimine...
+RESTART	Käivita uuesti
+TEXT	Tekst
+TITLE	Tiitel
+MINIMIZE	Minimeeri
+RESTORE	Taasta
+ACQUIRED_SCORE	Kogutud punktisumma
+TEST_RESULT	Tulemus
+TESTDETAILS	Kuva üksikasjad
+TESTDETAILS1	Peida üksikasjad
+PRINT	Prindi leht
+LESSON	Simulatsioon
+OF	/
+DESCRIPTION	Kirjeldus
+FULLSCREEN	Täisekraan
+TOGGLE_TASKINFO	Kuva/peida ülesande kirjeldus
+PANEL_VIEWMODE	Paani kuvarežiim
+PANEL_TOGGLE	Kuva/peida paan
+PANEL	Külgriba / kogu sisu
+BOOKMARK_FAVORITE	Lemmik
+CONTENT	Sisu-/taasesitusala
+TOC	Sisukord
+FAVORITES	Lemmikud
+RECENT	Lehe ajalugu
+QRCODE	KV-kood
+QR_URL_TOO_BIG	URL on liiga suur. Ei saa kiirvastusekoodi genereerida.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	tõstuklahv
+AUDIO_MUTE	Vaigista heli
+AUDIO_PLAY	Esita heli
+AUDIO_PAUSE	Peata heli
+AUDIO_ON	Heli sees
+AUDIO_OFF	Heli väljas
+CHANNEL_MASTER	Juhtüksus
+CHANNEL_BOOKSOUND	Raamatu heli
+CHANNEL_NARRATIVE	Jutustus
+CHANNEL_EFFECTS	Efektid
+LIB_NOMATCH	Vasteid pole
+LIB_NOFILTER	Filtrita
+LIBFLAG_NEWWIN	Ava sisu uues aknas
+LIBFLAG_TITLE	Otsi pealkirja
+LIBFLAG_SHORTDESC	Otsi lühikirjeldust
+LIBFLAG_DESC	Otsi kirjeldust
+LIBFLAG_KEYW	Otsi märksõnu
+LIBFLAG_SLIDES	Otsi raamatulehekülje sisu
+GUI_TOP_BAR	Ülemine riba
+GUI_BOTTOM_BAR	Alumine riba
+ORIENTATION_TOGGLE_TOP	Ülemine riba
+ORIENTATION_TOGGLE_BOTTOM	Alumine riba
+FEEDBACK	Tagasiside autorile
+FEEDBACK_TITLE	Teie tagasiside
+FEEDBACK_QUESTION	Kas teil on selle simulatsiooni kohta kommentaare?
+FEEDBACK_MISTAKE	Avastasin vea
+FEEDBACK_COMMENTS	Mul on kommentaare/soovitusi
+FEEDBACK_SEND	Saada tagasiside
+SEND_CONTENT	Jaga sisu
+SEND_CONTENT_SUBJECT	Soovituslik sisu
+SEND_CONTENT_TEMPLATE	Tere,\n\nSee sisu võib teile huvi pakkuda. \n\nPealdis: @{SEND_CAPTION}\nLink: @{SEND_LINK}\n\nTervitades\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Ilmnes tõrge. Pöörduge oma administraatori poole.
+ERROR_GENERAL	Sisemine tõrge
+ERROR_1	Hüpikakende blokeerija takistab simulatsiooni esitamist
+ERROR_1.h	Hüpikakende blokeerija takistas uue brauseriakna avamist. Sulgege hüpikakende blokeerija või lülitage see selle domeeni jaoks välja.
+ERROR_2	Vajalikku konfiguratsioonifaili ei saanud laadida
+ERROR_2.h	@{LESSONPLAYER} ei saanud õigete funktsioonide jaoks nõutavat konfiguratsioonifaili laadida.
+SCORM_LOCATION_ERROR	Teie tulemust ei saanud LMS-süsteemi puuduvate funktsioonide tõttu salvestada.
+RESTART_COMPLETED_LMS_LESSON	Soovite käivitada simulatsiooni, mis on juba lõpule jõudnud või läbitud. Uuesti alustamise korral tühistatakse teie varasemad punktid ja punktisummaks määratakse 0 ning tähis Lõpetatud või Läbitud eemaldatakse. Kas soovite kindlasti uuesti käivitada?
+RESTART_Av_LMS_LESSON	Soovite käivitada simulatsiooni, mis on juba lõpule jõudnud või läbitud. Uuesti alustamise korral tühistatakse teie varasemad punktid ja punktisummaks määratakse 0 ning tähis Lõpetatud või Läbitud eemaldatakse. Taaskäivitamiseks klõpsake nuppu OK, sulgemiseks Loobu.
+BOOK_NEXT_CHAPTER	Järgmine peatükk
+BOOK_PREV_CHAPTER	Eelmine peatükk
+BOOK_NEXT_PAGE	Järgmine leht
+BOOK_PREV_PAGE	Eelmine leht
+BOOK_INDEX_PAGE	Avaleht
+SLIDE_MOREINFO	Lisateave
+SLIDE_TIPS	Näpunäited
+SLIDE_ATTACH	Manused
+SLIDE_SHOWATTACH	Kuva manused
+SLIDE_OPEN	Ava
+SLIDE_ADD	Lisa
+SLIDE_EDIT	Redigeeri
+SLIDE_DELETE	Kustuta
+SLIDE_BUTTONAREA	Taasesitusriba
+HELP	Spikker
+HELP_REGION_BAR	Kiirklahvid: vajutage pleieririba fokusseerimiseks
+HELP_REGION_PANEL	Vajutage külgriba fokusseerimiseks
+HELP_REGION_CONTENT	Vajutage sisu fokusseerimiseks
+HELP_LIBRARY	Kuva rakenduse @{LIBRARY} spikker
+HELP_TRAINER	Kuva rakenduse @{LESSONPLAYER} spikker
+HELP_BOOK	Kuva rakenduse @{BOOKPLAYER} spikker
+DEMO_START	Demorežiim
+DEMO_START1	Demorežiimis saate vaadata ülesande täitmist rakenduses. Jälgige lihtsalt simulatsiooni; kõik sammud teostatakse automaatselt.
+DEMO_START2	Demo peatamiseks või katkestamiseks saate kasutada kuva allosas olevat navigeerimisriba. Samuti saate soovi korral liikuda edasi järgmisele ja tagasi eelmisele sammule.
+DEMO_STOP	Demorežiim on suletud.
+CONCURRENT_START	Rööpkuvarežiim
+CONCURRENT_START1	Rööpkuvarežiimis kuvatakse üksikasjalikud juhised rakenduses toimingu tegemiseks.
+CONCURRENT_START2	Pärast iga juhist simulatsioon katkestatakse, et saaksite toimingu tegelikus rakenduses lõpule viia.
+CONCURRENT_STOP	Rööpkuvarežiim on suletud.
+PRACTICE_START	Harjutusrežiim
+PRACTICE_START1	Harjutusrežiimis saate õpitut rakendada ja lahendada iseseisvalt rakenduses ülesandeid.
+PRACTICE_START2	Selleks järgige üksikasjalikke juhiseid.
+PRACTICE_STOP	Harjutusrežiim on suletud.
+TEST_START	Testirežiim
+TEST_START1	Testrežiimis saate oma teadmiste kontrollimiseks lahendada iseseisvalt rakenduses ülesandeid. Peale sisestatavate näidisandmete ei kuvata muid üksikasjalikke juhiseid. Ülesande kirjeldus kuvatakse ülesandeaknas, mida saate tiitliribal olevate nuppude abil vastavalt vajadusele suurendada või vähendada.
+TEST_START2	Testi lõpul kuvatakse edukalt läbitud sammude arvu põhjal teie punktisumma. See punktisumma on mõeldud enesehindamiseks vastavas valdkonnas.
+TEST_START3	Olge toimingute tegemisel hoolikas, sest süsteem registreerib kõik kirjavead ja valed klõpsamised ning vähendab vastavalt sellele teie punktisummat. Kui otsustate mõne sammu puhul abi küsida, antakse teile selle sammu eest 0 punkti.
+TEST_START4	Lõplik punktisumma kuvatakse pärast testi lõpetamist. Proovige saavutada punktisumma @{res_mastery_percent}% .
+TEST_OK	Test on läbitud
+TEST_OK1	Palju õnne! Olete ülesande edukalt sooritanud.
+TEST_FAILED	Test nurjus
+TEST_FAILED1	Kuna saavutasite alla @{res_mastery_percent}% võimalikust punktisummast, soovitame selle kursuse sisu uuesti läbida ning seejärel oma teadmisi uuesti testrežiimis kontrollida.
+TEST_FINISHED	See test oli ainult enesehindamiseks. Testi tulemusi ei salvestata ega edastata kolmandatele isikutele.
+TEST_SCORE	Punktisumma
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	Vaba esitusrežiim
+FREEPRESENTATION_START1	Vaba esitusrežiim võimaldab teil käivitada simulatsiooni protsessi.
+FREEPRESENTATION_START2	Käivitage toimingud etapiti. Abi saamiseks kasutage klahvi F1.
+FREEPRESENTATION_STOP	Vaba esitamine on lõpule viidud.
+GUIDEDPRESENTATION_START	Juhendatud esitusrežiim
+GUIDEDPRESENTATION_START1	Juhendatud esitusrežiim käivitab automaatselt simulatsiooni protsessi. Hiirekursor ja esiletõst osutavad praegusele etapile.
+GUIDEDPRESENTATION_START2	Järgige toiminguid etapiti ja kinnitage hiljem iga toiming.
+GUIDEDPRESENTATION_STOP	Juhendatud esitus on lõpule viidud.
+EXER_FAIL1	Sooritatud toiming oli vale.
+EXER_FAIL2	Teie tehtud toiming oli vale. Teie punktisummast lahutatakse 1 punkt. Järelejäänud punktide arv: @1_rest-points_.
+EXER_FAIL3	Teie tehtud toiming oli vale. Iga tehtud vea eest lahutatakse punktisummast 1 punkt. Järelejäänud punktide arv: @1_rest-points_.
+EXER_FAILKEY1	Vajutasite klahvi @1_key_.
+EXER_FAILKEY2	Kasutatavad funktsiooniklahvid on järgmised: @1_keys_.
+EXER_FAILRADIO	Sobivad nupud on esile tõstetud.
+EXER_FAILINPUT	Kõik sobivad tekstialad on esile tõstetud.
+EXER_FAILSELECT	Kõik sobivad valikuväljad on esile tõstetud.
+EXER_FAILDRAG	Tegite vale @1_keys_ lohistamistoimingu.
+EXER_FAILDRAG1	Sooritage @1_keys_ lohistamistoiming esiletõstetud alal.
+EXER_FAILDROP	Tegite vale @1_keys_ kukutustoimingu.
+EXER_FAILDROP1	Sooritage @1_keys_ kukutustoiming esiletõstetud alal.
+EXER_FAILDBLCLICK	Tegite vale @1_keys_ topelltklõpsu.
+EXER_FAILDBLCLICK1	Topeltklõpsake @1_keys_ esiletõstetud alal.
+EXER_FAILCLICK	Klõpsasite @1_keys_ vale ala.
+EXER_FAILCLICK1	Kõik kehtivad alad on esile tõstetud
+EXER_FAILCLICK2	Tegite vale @1_keys_ klõpsu.
+EXER_FAILCLICK3	Klõpsake @1_keys_ esiletõstetud alal.
+EXER_FAILENTER	Sooritasite vale @1_keys_ ülelibistamistoimingu.
+EXER_FAILENTER1	Sooritage @1_keys_ ülelibistamistoiming esiletõstetud alal.
+EXER_FAILMCLICK	@1_keys_ keskmise hiireklahviga klõpsamine pole lubatud.
+EXER_WOULDGOON	(Märkus. Muul juhul jätkatakse automaatselt.)
+EXER_YOURINPUT	Olete sisestanud kirje "@1_input_".
+EXER_TEXTINPUT	Sisestage sisestusväljale "@2" kirje "@1"!
+EXER_SELECT	Valige kirje "@1"!
+EXER_GOON	Jätka järgmise etapiga
+EXER_SHOWHELP	Jah, kuva spikker
+EXER_TRYAGAIN	Proovi uuesti
+EXER_ASK4HELP	Kas vajate abi?
+EXER_ONLY_VALID	Lubatud toimingud on:
+EXER_FORM_PREFIX	Lisage järgmised väärtused:
+EXER_OR	või
+EXER_AND	ja
+SCORE	Punktid
+SCORE_REDUCED	Selle sammu võimalikke punkte vähendati
+TOUR_START	Simulatsiooni algus
+TOUR_STOP	Simulatsiooni katkestamine
+TOUR_END	Simulatsiooni lõpp
+TOUR_PLAY	Jätkamisnupp
+TOUR_JUMP	Avati simulatsiooni järgmine osa
+TOUR_PREV	Tagasi
+TOUR_NEXT	Edasi
+USER_ACTION_CORRECT_ACTION	Õppur lõpetas edukalt selle sammu.
+USER_ACTION_WRONG_ACTION	Õppur tegi vea.
+USER_ACTION_GOON	Õppur klõpsas nuppu Jätka, selle sammu eest punkte ei anta.
+USER_ACTION_GOON_AUTO	Vigade hulga tõttu jätkati simulatsiooni automaatselt.
+USER_ACTION_HELP	Õppur küsis abi, selle sammu eest punkte ei anta.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Õppur avas tekstivälja.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Õppur sulges tekstivälja.
+QUIZ_CORRECT_RESPONSE	Õige vastus
+QUIZ_STUDENT_RESPONSE	Õppuri vastus
+QUIZ_LATENCY	Aeg
+QUIZ_SCORE	Kogutud punktisumma
+QUIZ_REQ_SCORE	Nõutav punktisumma
+QUIZ_MAX_SCORE	Maksimaalne punktisumma
+QUIZ_TIMEOUT_REACHED	Ajalõpp on käes
+QUIZTYPE_MCHOICE	Test: mitmikvalik
+QUIZTYPE_SQMAQUIZ	Test: täida väljad
+QUIZTYPE_FIBQUIZ	Test: täida lüngad
+QUIZTYPE_MATCHQUIZ	Test: vastendamine
+QUIZTYPE_CONNQUIZ	Test: ühendus
+QUIZTYPE_SCALEQUIZ	Test: slaidi juhtelement
+QUIZTYPE_GRIDQUIZ	Test: ruudustik
+QUIZTYPE_HOTSPOTQUIZ	Test: aktiivpunkt
+QUIZTYPE_PUZZLEQUIZ	Test: mõistatus
+QUIZTYPE_MIXQUIZ	Test: sortimine
+CONNECTING	Ühenduse loomine...
+SYNCHRONIZE	Sünkrooni
+SYNCHRONIZED	Sünkroonitud
+CONNECT	Ühenda
+BUBBLESTYLE_NOT_FOUND	Mullilaadi ei leitud
+LOADING_MACROSET	Sisu ja ressursside laadimine.
+ZOOM_LEVEL_NOTIFICATION	Hoiatus. Teie suumitase erineb tasemest 100%.
+ctx_html.header_title	Kontekstispikker
+ctx_html.introtext	Praeguse konteksti jaoks on saadaval järgmine spikrisisu. Klõpsake rida, millest soovite alustada.
+ctx_html.introtext_noresult	Praeguse konteksti jaoks pole sisu saadaval. Avage päisest teek või kasutage täiendava sisu saamiseks otsingut.
+ctx_html.query_empty	Päring on tühi
+ctx_html.query_malformed	Päring on kehtetu
+ctx_html.search	Otsi
+ctx_html.library	Ava teek
+ctx_html.language	Keel
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Salvestamine
+qr_hint_dlg.dont_bother	Ära enam kuva
+qr_hint_dlg.hint_end	Viige salvestamine lõpule.
+qr_hint_dlg.hint_pause	Pange salvestamine pausile.
+btnOk	Täname
+qr_hint_dlg.hint_title	Salvestamisvihjeid
+qr_hint_dlg.audio_help	Salvestage enne juhtelemendi valimist oma tekst.
+quiz_error_no_template_file	Tõrge: mallifaili ei leitud. Kasutatakse vaikefaili.
+qr_hint_dlg.hint_end_1	Klahv END
+qr_hint_dlg.hint_pause_1	Klahv PAUSE

@@ -1,0 +1,11 @@
+﻿LIBRARY	library
+SHARE_CONTENT	Partajați linkul
+SHARE_BY_MAIL	Trimiteți e-mail
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Expediere legătură conţinut
+ERROR_2.h	@{LESSONPLAYER} nu a putut încărca un fişier de configurare necesar pt.funcţionalitate corespunzătoare.
+ctx_html.introtext_noresult	Niciun conţinut disponibil pt.contextul curent. Deschideţi @{LIBRARY} din antet sau utilizaţi căutarea pt.a obţine mai mult conţinut.
+ctx_html.library	Deschidere @{LIBRARY}
+	

@@ -1,0 +1,9 @@
+﻿business_process	Üzleti folyamatok
+process_tutorials	Folyamatkalauzok
+guided_tours	Lépésenkénti útmutatók
+training_courses	Képzések
+user_assistance	Felhasználótámogatás
+compliance	Szabályozási megfelelőség
+tips_tricks	Tippek és trükkök
+faq	Gyakori kérdések
+misc	Egyebek

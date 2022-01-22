@@ -1,0 +1,10 @@
+﻿SHARE_CONTENT	Jaa linkki
+SHARE_BY_MAIL	Lähetä sähköposti
+URL_OF_CURRENT_PAGE	URL
+SEARCH	Asiasanahaku
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Lähetä sisältölinkki
+ctx_html.introtext_noresult	Nykyistä kontekstia varten ei ole käytettävissä sisältöä. Avaa @{LIBRARY} otsikosta, tai nouda lisää sisältöä käyttämällä hakua.
+ctx_html.library	Avaa @{LIBRARY}
+	

@@ -1,0 +1,9 @@
+﻿business_process	Verksamhetsflöden
+process_tutorials	Självstudieprogram för processer
+guided_tours	Guidade turer
+training_courses	Utbildningar
+user_assistance	Användarhjälp
+compliance	Regelefterlevnad
+tips_tricks	Tips och tricks
+faq	Vanliga frågor
+misc	Diverse

@@ -1,0 +1,256 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	مشاركة المحتوى
+SHARE_BY_MAIL	المشاركة عبر البريد الإلكتروني
+URL_OF_CURRENT_PAGE	رابط الصفحة الحالية
+TASK	المهمة
+GLOSSARY	قاموس المفردات
+CONTEXT_INFO	معلومات السياق
+CONTEXT_ROLES	الأدوار
+CONTEXT_ROLES_NOROLES	إظهار السياق بدون أدوار
+CONTEXT_MY_ROLES	الأدوار الخاصة بي
+CLOSEBUBBLE	إغلاق الفقاعة
+MAXBUBBLE	استعادة الفقاعة
+MINBUBBLE	تصغير الفقاعة
+VOLUME	مستوى الصوت
+SETTINGS	إعدادات
+CLOSE_TASK	إغلاق @{TASK}
+CLOSE	إغلاق
+EXIT	خروج
+SELECTION	تحديد
+KEYWORD_SEARCH	بحث بالكلمة الأساسية
+SEARCH	بحث
+SEARCH_STRING	سلسلة البحث
+KEYWORDS	كلمات أساسية
+SEARCH_CLEAR	مسح إدخال البحث
+FILTER	تصفية
+RESOURCES	الموارد
+VIEW	عرض
+CANCEL	إلغاء
+CONTINUING	متابعة
+OK	موافق
+PLAY	تشغيل
+PAUSE	إيقاف مؤقت
+BACK	الخلف
+PREVIOUS	السابق
+NEXT	التالي
+PLAYING	قيد التشغيل
+PAUSED	إيقاف مؤقت
+USERINPUT	مدخلات
+IDLE	""
+START	تحميل الصفحة ...
+RESTART	إعادة تشغيل
+TEXT	النص
+TITLE	العنوان
+MINIMIZE	تصغير
+RESTORE	استعادة
+ACQUIRED_SCORE	مجموع النقاط المكتسب
+TEST_RESULT	النتيجة
+TESTDETAILS	إظهار التفاصيل
+TESTDETAILS1	إخفاء التفاصيل
+PRINT	صفحة الطباعة
+LESSON	محاكاة
+OF	من
+DESCRIPTION	الوصف
+FULLSCREEN	ملء الشاشة
+TOGGLE_TASKINFO	إظهار/إخفاء وصف المهمة
+PANEL_VIEWMODE	نمط عرض اللوحة
+PANEL_TOGGLE	إظهار/إخفاء اللوحة
+PANEL	الشريط الجانبي/كل المحتوى
+BOOKMARK_FAVORITE	مفضلة
+CONTENT	منطقة التشغيل/المحتوى
+TOC	جدول المحتويات
+FAVORITES	المفضلة
+RECENT	سجل الصفحة
+QRCODE	رمز QR
+QR_URL_TOO_BIG	محدد مواقع المعلومات كبير جدًا. لا يمكن إنشاء رمز QReport.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	كتم الصوت
+AUDIO_PLAY	تشغيل الصوت
+AUDIO_PAUSE	إيقاف مؤقت للصوت
+AUDIO_ON	الصوت مشغَل
+AUDIO_OFF	الصوت موقوف
+CHANNEL_MASTER	رئيسي
+CHANNEL_BOOKSOUND	صوت الكتاب
+CHANNEL_NARRATIVE	السرد
+CHANNEL_EFFECTS	التأثيرات
+LIB_NOMATCH	بدون تطابقات
+LIB_NOFILTER	بدون عامل تصفية
+LIBFLAG_NEWWIN	افتح المحتوى في نافذة جديدة
+LIBFLAG_TITLE	عنوان البحث
+LIBFLAG_SHORTDESC	الوصف القصير للبحث
+LIBFLAG_DESC	وصف البحث
+LIBFLAG_KEYW	الكلمات الأساسية للبحث
+LIBFLAG_SLIDES	بحث محتوى صفحة الكتاب
+GUI_TOP_BAR	الشريط العلوي
+GUI_BOTTOM_BAR	الشريط السفلي
+ORIENTATION_TOGGLE_TOP	الشريط العلوي
+ORIENTATION_TOGGLE_BOTTOM	الشريط السفلي
+FEEDBACK	التعليقات للمؤلِف
+FEEDBACK_TITLE	تعليقاتك
+FEEDBACK_QUESTION	هل لديك تعليقات على هذه المحاكاة؟
+FEEDBACK_MISTAKE	لقد اكتشفت خطأً
+FEEDBACK_COMMENTS	لدي اقتراحات وأمنيات
+FEEDBACK_SEND	إرسال تعليقات
+SEND_CONTENT	مشاركة المحتوى
+SEND_CONTENT_SUBJECT	محتوى موصى به
+SEND_CONTENT_TEMPLATE	مرحبًا،\n\nقد يكون هذا المحتوى ممتعًا لك. \n\nالتسمية التوضيحية: @{SEND_CAPTION}\nالارتباط: @{SEND_LINK}\n\nتحياتي\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	حدث خطأ. يُرجى التواصل مع المسؤول لديك.
+ERROR_GENERAL	خطأ داخلي.
+ERROR_1	حال مانع العناصر المنبثقة دون تشغيل المحاكاة.
+ERROR_1.h	حال مانع العناصر المنبثقة دون فتح نافذة مستعرض جديدة. أغلق مانع العناصر المنبثقة أو قم بإيقاف تشغيله لهذا المجال.
+ERROR_2	تعذر تحميل ملف التكوين الضروري.
+ERROR_2.h	تعذر @{LESSONPLAYER} في تحميل ملف تكوين المطلوب للوظيفة الصحيحة.
+SCORM_LOCATION_ERROR	تعذر حفظ تقدمك بسبب وظيفة مفقودة في نظام إدارة التعلم الخاص بك.
+RESTART_COMPLETED_LMS_LESSON	أنت تقوم ببدء محاكاة تم استكمالها بالفعل أو بنجاح. وسوف يؤدي هذا إلى إعادة تعيين كل النقاط المحققة السابقة إلى صفر وعدم تعيين الإشارة المكتملة أو المعتمدة. هل تريد إعادة التشغيل بالفعل؟
+RESTART_Av_LMS_LESSON	أنت تقوم ببدء محاكاة تم استكمالها بالفعل أو بنجاح. وسوف يؤدي هذا إلى إعادة تعيين كل النقاط المحققة السابقة إلى صفر وعدم تعيين الإشارة المكتملة أو المعتمدة. هل تريد النقر فوق 'موافق' لإعادة التشغيل أم 'إلغاء' للإغلاق؟
+BOOK_NEXT_CHAPTER	الفصل التالي
+BOOK_PREV_CHAPTER	الفصل السابق
+BOOK_NEXT_PAGE	الصفحة التالية
+BOOK_PREV_PAGE	الصفحة السابقة
+BOOK_INDEX_PAGE	صفحة البداية
+SLIDE_MOREINFO	مزيد من المعلومات
+SLIDE_TIPS	تلميحات
+SLIDE_ATTACH	المرفقات
+SLIDE_SHOWATTACH	إظهار المرفقات
+SLIDE_OPEN	مفتوح
+SLIDE_ADD	إضافة
+SLIDE_EDIT	تحرير
+SLIDE_DELETE	حذف
+SLIDE_BUTTONAREA	شريط التشغيل
+HELP	مساعدة
+HELP_REGION_BAR	اختصارات: اضغط لتركيز شريط المشغل
+HELP_REGION_PANEL	اضغط لتركيز الشريط الجانبي
+HELP_REGION_CONTENT	اضغط لتركيز المحتوى
+HELP_LIBRARY	إظهار @{LIBRARY} المساعدة
+HELP_TRAINER	إظهار @{LESSONPLAYER} المساعدة
+HELP_BOOK	إظهار @{BOOKPLAYER} المساعدة
+DEMO_START	نمط العرض التوضيحي
+DEMO_START1	في نمط العرض التوضيحي، يمكنك ملاحظة نشاط يتكون داخل التطبيق. اتبع المحاكاة ببساطة، سوف يتم تنفيذ كل الخطوات تلقائيًا.
+DEMO_START2	يمكنك أيضًا استخدام شريط التنقل أسفل الشاشة لأيقاف العرض التقديمي بشكل مؤقت أو نهائي. كما يمكنك الانتقال الآجل إلى التالي أو إلى الخلف للخطوة السابقة.
+DEMO_STOP	انتهى نمط العرض التوضيحي.
+CONCURRENT_START	نمط متزامن
+CONCURRENT_START1	يعرض لك وضع المزامنة إرشادات خطوة بخطوة لتنفيذ المهام في التطبيق.
+CONCURRENT_START2	يتم إيقاف المحاكاة بعد كل خطوة لمنحك فرصة إكمالها في التطبيق الحقيقي.
+CONCURRENT_STOP	انتهى وضع التزامن.
+PRACTICE_START	نمط الممارسة
+PRACTICE_START1	يمكنك في وضع الممارسة تجربة ما تعلمته من خلال حل المهمة في التطبيق بنفسك.
+PRACTICE_START2	فقط اتبع الإرشادات الموضحة خطوة بخطوة.
+PRACTICE_STOP	انتهى نمط الممارسة.
+TEST_START	نمط الاختبار
+TEST_START1	في نمط الاختبار، يمكنك اختبار معرفتك بواسطة تحليل مهمة بداخل التطبيق بنفسك. وبعيدًا عن نموذج البيانات الذي يتعين عليك إدخاله، فلن تتلقي أية تعليمات تفصيلية. يتم وصف المهمة بالكامل في نافذة المهام التي يمكنك تكبيرها أو تصغيرها حسب الحاجة باستخدام الأزرار في شريط العنوان.
+TEST_START2	في نهاية الاختبار، سوف يتم تقييمك على أساس عدد الخطوات المكتملة بنجاح. هذا التقييم هو تقييم ذاتي لك على منطقة المهمة.
+TEST_START3	الرجاء توخي الحذر فيما تقوم به حيث أن النظام يقوم بتسجيل أي إدخال يحتوي على أخطاء إملائية أو عمليات نقر خاطئة ويقلل مجموع نقاطك وفقًا لذلك. إذا قررت الحصول على مساعدة من النظام لإكمال الخطوة، فسوف يتم تعيين مجموع النقاط الخاص بك لهذه الخطوة بالتحديد إلى صفر.
+TEST_START4	وسوف يتم عرض مجموع النقاط الخاص بك في نهاية الاختبار. الرجاء محاولة الوصول إلى مجموع النقاط المستهدف من @{res_mastery_percent}% .
+TEST_OK	تم اجتياز الاختبار
+TEST_OK1	تهانينا، لقد أكملت هذه المهمة بنجاح.
+TEST_FAILED	لم يتم اجتياز الاختبار
+TEST_FAILED1	بما أنك أحرزت أقل من ‎@{res_mastery_percent}%‎ من الحد الأقصى الممكن لمجموع النقاط، فإننا ننصحك بمراجعة المحتوى الذي يقدمه البرنامج التدريبي مرةً أخرى ثم اختبار معرفتك مرة ثانية في وضع الاختبار.
+TEST_FINISHED	هذا الاختبار لغرض تقييمك الذاتي فقط، ولن يتم تسجيل هذه النتائج ولا تمريرها لجهات خارجية.
+TEST_SCORE	مجموع النقاط
+TEST_SCOREVALUE	@{res_collected_points}  من @{res_possible_points}
+FREEPRESENTATION_START	نمط العرض المجاني
+FREEPRESENTATION_START1	نمط العرض المجاني يتيح لك تنفيذ عملية داخل المحاكاة.
+FREEPRESENTATION_START2	قم بتنفيذ الإجراءات خطوة بخطوة. استخدم زر F1 للحصول على مساعدة.
+FREEPRESENTATION_STOP	تم إنهاء العرض المجاني.
+GUIDEDPRESENTATION_START	نمط العرض الإرشادي
+GUIDEDPRESENTATION_START1	يقوم نمط "العرض التقديمي الإرشادي" بتنفيذ عملية ضمن المحاكاة تلقائيًا. مؤشر الماوس والمنطقة المميزة يعرضان الخطوة الحالية.
+GUIDEDPRESENTATION_START2	اتبع الإجراءات خطوة بخطوة وتأكد من كل إجراء فيما بعد.
+GUIDEDPRESENTATION_STOP	تم إنهاء العرض الإرشادي.
+EXER_FAIL1	الإجراء الذي نفذته غير صحيح.
+EXER_FAIL2	الإجراء الذي نفذته غير صحيح. تم حذف نقطة واحدة من مجموع النقاط الإجمالية الخاصة بك. النقاط المتبقية لهذا الإجراء: @1_rest-points_.
+EXER_FAIL3	الإجراء الذي نفذته غير صحيح. تم حذف نقطة واحدة من كل خطأ من مجموع النقاط الإجمالية الخاصة بك. النقاط المتبقية لهذا الإجراء: @1_rest-points_.
+EXER_FAILKEY1	لقد ضغطت على المفتاح ‎@1_key_‎.
+EXER_FAILKEY2	‎‎المفاتيح الوظيفية التي يمكن استخدامها:‎‎ @1_keys_.
+EXER_FAILRADIO	جميع الأزرار الصالحة مميزة بألوان.
+EXER_FAILINPUT	تم تمييز مناطق النصوص الصالحة.
+EXER_FAILSELECT	تم تمييز كل خانات الخيار الصالحة.
+EXER_FAILDRAG	لقد قمت بإجراء @1_keys_ عملية سحب غير صالحة.
+EXER_FAILDRAG1	الرجاء تنفيذ @1_keys_ عملية سحب واحدة بداخل المنطقة المعلَمة.
+EXER_FAILDROP	لقد قمت بإجراء @1_keys_ عملية إسقاط غير صالحة.
+EXER_FAILDROP1	الرجاء تنفيذ @1_keys_ عملية إسقاط واحدة بداخل المنطقة المعلَمة.
+EXER_FAILDBLCLICK	لقد قمت بإجراء @1_keys_ نقرة مزدوجة غير صالحة.
+EXER_FAILDBLCLICK1	الرجاء تنفيذ @1_keys_ نقرة مزدوجة واحدة بداخل المنطقة المعلَمة.
+EXER_FAILCLICK	لقد نقرت مع استخدام المفتاح ‎@1_keys_‎ فوق منطقة غير صالحة.
+EXER_FAILCLICK1	جميع المناطق الصالحة مميزة بألوان.
+EXER_FAILCLICK2	لقد قمت بإجراء @1_keys_ نقرة غير صالحة.
+EXER_FAILCLICK3	الرجاء تنفيذ @1_keys_ نقرة واحدة بداخل المنطقة المعلَمة.
+EXER_FAILENTER	لقد قمت بإجراء @1_keys_ مرور بالماوس غير صالح.
+EXER_FAILENTER1	الرجاء تنفيذ @1_keys_ مرور بالماوس بداخل المنطقة المعلَمة.
+EXER_FAILMCLICK	غير مسموح بالنقر بزر الماوس الأوسط مع استخدام المفتاح ‎@1_keys_‎.
+EXER_WOULDGOON	(ملاحظة: وإلا تكتمل بشكل تلقائي)
+EXER_YOURINPUT	لقد أدخلت "‎"@1_input_‎
+EXER_TEXTINPUT	رجاءً إدخال "@1" في حقل الإدخال "@2"!
+EXER_SELECT	رجاءً تحديد الإدخال "@1"!
+EXER_GOON	الانتقال إلى الخطوة التالية
+EXER_SHOWHELP	نعم، أظهر المساعدة
+EXER_TRYAGAIN	المحاولة مرة أخرى
+EXER_ASK4HELP	هل تريد المساعدة؟
+EXER_ONLY_VALID	الإجراءات المسموح بها هي:
+EXER_FORM_PREFIX	أدخل القيم التالية:
+EXER_OR	أو
+EXER_AND	و
+SCORE	النقاط
+SCORE_REDUCED	تم تقليل النقاط الممكنة لهذه الخطوة لتصبح
+TOUR_START	بداية المحاكاة
+TOUR_STOP	إيقاف المحاكاة
+TOUR_END	نهاية المحاكاة
+TOUR_PLAY	زر المتابعة
+TOUR_JUMP	تم الانتقال إلى خطوة أخرى في المحاكاة.
+TOUR_PREV	الخلف
+TOUR_NEXT	التالي
+USER_ACTION_CORRECT_ACTION	نفذ المتعلِم الخطوة بنجاح.
+USER_ACTION_WRONG_ACTION	ارتكب المتعلم خطأً.
+USER_ACTION_GOON	قام المتعلم بالنقر فوق "استمرار"، لا توجد نقاط لهذه الخطوة.
+USER_ACTION_GOON_AUTO	بسبب حجم الأخطاء، استمرت المحاكاة تلقائيًا.
+USER_ACTION_HELP	طلب المتعلم المساعدة، لا توجد نقاط لهذه الخطوة.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	لقد فتح المتعلم مربع نص.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	لقد أغلق المتعلم مربع نص.
+QUIZ_CORRECT_RESPONSE	الجواب الصحيح
+QUIZ_STUDENT_RESPONSE	إجابة المتعلم
+QUIZ_LATENCY	الوقت
+QUIZ_SCORE	مجموع النقاط المكتسب
+QUIZ_REQ_SCORE	مجموع النقاط المطلوب
+QUIZ_MAX_SCORE	أقصى مجموع نقاط
+QUIZ_TIMEOUT_REACHED	تم الوصول لمهلة انتهاء الوقت
+QUIZTYPE_MCHOICE	امتحان موجز: الاختيار من متعدد
+QUIZTYPE_SQMAQUIZ	امتحان موجز: ملء الحقول
+QUIZTYPE_FIBQUIZ	امتحان موجز: ملء الفراغات
+QUIZTYPE_MATCHQUIZ	امتحان موجز: تطابق
+QUIZTYPE_CONNQUIZ	امتحان موجز: اتصال
+QUIZTYPE_SCALEQUIZ	امتحان موجز: تحكم بالتمرير
+QUIZTYPE_GRIDQUIZ	امتحان موجز: شبكة
+QUIZTYPE_HOTSPOTQUIZ	امتحان موجز: منطقة الصور
+QUIZTYPE_PUZZLEQUIZ	امتحان موجز: لغز
+QUIZTYPE_MIXQUIZ	امتحان موجز: ترتيب
+CONNECTING	جارٍ الاتصال...
+SYNCHRONIZE	مزامنة
+SYNCHRONIZED	متزامن
+CONNECT	اتصال
+BUBBLESTYLE_NOT_FOUND	لم يتم العثور على نمط الفقاعة.
+LOADING_MACROSET	تحميل المحتوى والموارد.
+ZOOM_LEVEL_NOTIFICATION	تحذير: يختلف مستوى التكبير/التصغير لديك عن 100%.
+ctx_html.header_title	مساعدة السياق
+ctx_html.introtext	تتوفر محتويات المساعدة التالية للسياق الحالي. انقر فوق العنصر الذي تود بدء تشغيله.
+ctx_html.introtext_noresult	لا يتوفر أي محتوى للسياق الحالي. قم بفتح library من المقدمة أو استخدم البحث لاستدعاء محتوى آخر.
+ctx_html.query_empty	الاستعلام فارغ.
+ctx_html.query_malformed	الاستعلام غير صالح.
+ctx_html.search	بحث
+ctx_html.library	فتح library
+ctx_html.language	اللغة
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	تسجيل
+qr_hint_dlg.dont_bother	عدم الإظهار مرة أخرى
+qr_hint_dlg.hint_end	إنهاء التسجيل.
+qr_hint_dlg.hint_pause	إيقاف التسجيل مؤقتًا.
+btnOk	شكرًا
+qr_hint_dlg.hint_title	تلميحات التسجيل
+qr_hint_dlg.audio_help	تسجيل النص الخاص بك قبل تحديد عنصر تحكم.
+quiz_error_no_template_file	خطأ: لم يتم العثور على ملف القالب. سيتم استخدام الافتراضي.
+BOOK_PREVIOUS_CHAPTER	الفصل السابق
+BOOK_PREVIOUS_PAGE	الصفحة السابقة
+WAITING	تحميل الصفحة ...
+qr_hint_dlg.hint_end_1	المفتاح 'إنهاء'
+qr_hint_dlg.hint_pause_1	المفتاح 'إيقاف مؤقت'

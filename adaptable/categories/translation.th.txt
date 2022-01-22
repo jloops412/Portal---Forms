@@ -1,0 +1,9 @@
+﻿business_process	กระบวนการทางธุรกิจ
+process_tutorials	โปรแกรมสอนการใช้งานสำหรับกระบวนการ
+guided_tours	แนะนำการใช้งาน
+training_courses	หลักสูตรการฝึกอบรม
+user_assistance	ความช่วยเหลือสำหรับผู้ใช้
+compliance	การปฏิบัติตามข้อกำหนด
+tips_tricks	เคล็ดลับและเทคนิคพิเศษ
+faq	FAQ
+misc	เบ็ดเตล็ด

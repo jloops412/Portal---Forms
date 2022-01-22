@@ -1,0 +1,76 @@
+﻿@charset "utf-8";
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 11px;
+    display:block;
+    overflow:hidden;
+    border:none;
+}
+
+h1 {
+    font-size: 11px;
+    font-weight: bold;
+}
+
+div {
+    margin: 0;
+}
+
+a {
+    display:block;
+    outline: none;
+    text-decoration: none;
+}
+
+div.boxHead {
+    background: transparent url(../img/box_top.png) no-repeat left 3px;
+    height:30px;
+    overflow:hidden;
+    padding: 2px 10px;
+    margin:0;
+    position:relative;
+    top:0;
+    display:block;
+}
+p.boxToGloss {
+    width:90%;
+    margin-top: 10px;
+    color: #666;
+    font-weight: bold;
+    display:block;
+}
+div.boxContent {
+    background: transparent url(../img/box_content.png) repeat-y left top;
+    padding: 5px 20px 5px 12px;
+}
+div.boxContent a {
+    color:#008FD3;
+}
+div.boxBottom {
+    background: transparent url(../img/box_bottom.png) no-repeat left -1px;
+    height:18px;
+}
+
+.boxClose {
+    position:absolute;
+    right:15px;
+    top:5px;
+}
+
+.glosListEntry {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+/* glossary link in text  */
+span.gloss_ref {
+    border-bottom: dotted 1px #000;
+    display:inline;
+}
+
+span.gloss_ref:hover {
+    cursor:url(../img/cur_gloss.cur), help;
+    background-color: #FFE19C;
+}

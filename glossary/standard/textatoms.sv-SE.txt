@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Dela innehåll
+SHARE_BY_MAIL	Dela via e-post
+URL_OF_CURRENT_PAGE	URL för aktuell sida
+TASK	Uppgift
+GLOSSARY	Ordlista
+CONTEXT_INFO	Kontextinformation
+CONTEXT_ROLES	Roller
+CONTEXT_ROLES_NOROLES	Visa kontext utan roller
+CONTEXT_MY_ROLES	Mina roller
+CLOSEBUBBLE	Stäng bubbla
+MAXBUBBLE	Återställ bubbla
+MINBUBBLE	Minimera bubbla
+VOLUME	Volym
+SETTINGS	Inställningar
+CLOSE_TASK	Stäng @{TASK}
+CLOSE	Stäng
+EXIT	Avsluta
+SELECTION	Urval
+KEYWORD_SEARCH	Nyckelordssökning
+SEARCH	Sök
+SEARCH_STRING	Söksträng
+KEYWORDS	Nyckelord
+SEARCH_CLEAR	Rensa sökning
+FILTER	Filter
+RESOURCES	Resurser
+VIEW	Visa
+CANCEL	Avbryt
+CONTINUING	Fortsätt
+OK	OK
+PLAY	Spela
+PAUSE	Paus
+BACK	Tillbaka
+PREVIOUS	Föregående
+NEXT	Nästa
+PLAYING	Spelar upp
+PAUSED	Paus
+USERINPUT	Indata
+IDLE	""
+START	Sidan läses in...
+RESTART	Starta om
+TEXT	Text
+TITLE	Rubrik
+MINIMIZE	Minimera
+RESTORE	Återställ
+ACQUIRED_SCORE	Uppnått poängtal
+TEST_RESULT	Resultat
+TESTDETAILS	Visa detaljer
+TESTDETAILS1	Dölj detaljer
+PRINT	Skriv ut sida
+LESSON	Simulering
+OF	av
+DESCRIPTION	Beskrivning
+FULLSCREEN	Helskärm
+TOGGLE_TASKINFO	Visa/dölj uppgiftsbeskrivning
+PANEL_VIEWMODE	Panelvisningsläge
+PANEL_TOGGLE	Visa/dölj panel
+PANEL	Sidopanel/allt innehåll
+BOOKMARK_FAVORITE	Favorit
+CONTENT	Innehåll/uppspelningsområde
+TOC	Innehållsförteckning
+FAVORITES	Favoriter
+RECENT	Sidhistorik
+QRCODE	QR-kod
+QR_URL_TOO_BIG	För stor URL - QR-kod kan inte genereras
+CTRLKEY	ctrl
+ALTKEY	ALT
+SHIFTKEY	skift
+AUDIO_MUTE	Utan ljud
+AUDIO_PLAY	Spela upp ljud
+AUDIO_PAUSE	Pausa ljud
+AUDIO_ON	Ljud på
+AUDIO_OFF	Ljud av
+CHANNEL_MASTER	Master
+CHANNEL_BOOKSOUND	Bokljud
+CHANNEL_NARRATIVE	Berättelse
+CHANNEL_EFFECTS	Verkningar
+LIB_NOMATCH	Inga matchningar
+LIB_NOFILTER	Inget filter
+LIBFLAG_NEWWIN	Öppna innehåll i nytt fönster
+LIBFLAG_TITLE	Sök titel
+LIBFLAG_SHORTDESC	Sök kort beskrivning
+LIBFLAG_DESC	Sökbeskrivning
+LIBFLAG_KEYW	Sök nyckelord
+LIBFLAG_SLIDES	Sök innehåll på boksida
+GUI_TOP_BAR	Övre fält
+GUI_BOTTOM_BAR	Nedre fält
+ORIENTATION_TOGGLE_TOP	Övre fält
+ORIENTATION_TOGGLE_BOTTOM	Nedre fält
+FEEDBACK	Feedback till författaren
+FEEDBACK_TITLE	Din feedback
+FEEDBACK_QUESTION	Har Ni kommentarer till simuleringen?
+FEEDBACK_MISTAKE	Jag har upptäckt ett misstag
+FEEDBACK_COMMENTS	Jag har kommentarer, önskemål
+FEEDBACK_SEND	Skicka feedback
+SEND_CONTENT	Dela innehåll
+SEND_CONTENT_SUBJECT	Rekommenderat innehåll
+SEND_CONTENT_TEMPLATE	Hej!\n\nInnehållet kan vara intressant för dig. \n\nText: @{SEND_CAPTION}\nLänk: @{SEND_LINK}\n\nMed vänliga hälsningar\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Ett fel uppstod. Kontakta din administratör.
+ERROR_GENERAL	Internt fel.
+ERROR_1	Popup-blockerare förhindrar att simuleringen spelas upp.
+ERROR_1.h	På grund av en popup-blockerare kunde ett nytt webbläsarfönster inte öppnas. Stäng popup-blockeraren eller stäng av den för den här domänen.
+ERROR_2	En nödvändig konfigureringsfil kan inte läsas in.
+ERROR_2.h	@{LESSONPLAYER} kunde inte läsa in en konfigurationsfil som krävs för korrekt utförande.
+SCORM_LOCATION_ERROR	Dina framsteg kunde inte sparas på grund av saknade funktioner i LMS-systemet.
+RESTART_COMPLETED_LMS_LESSON	Du startar en simulering som redan är klar. Det återställer status till ej klar/ej godkänd. Vill du starta om?
+RESTART_Av_LMS_LESSON	Du startar en simulering som redan är klar. Det återställer status till ej klar/ej godkänd. Klicka på "OK" för att starta om eller "Avbryt" för att stänga?
+BOOK_NEXT_CHAPTER	Nästa kapitel
+BOOK_PREV_CHAPTER	Föregående kapitel
+BOOK_NEXT_PAGE	Nästa sida
+BOOK_PREV_PAGE	Föregående sida
+BOOK_INDEX_PAGE	Startsida
+SLIDE_MOREINFO	Ytterligare information
+SLIDE_TIPS	Tips
+SLIDE_ATTACH	Bilagor
+SLIDE_SHOWATTACH	Visa bilagor
+SLIDE_OPEN	Öppna
+SLIDE_ADD	Lägg till
+SLIDE_EDIT	Redigera
+SLIDE_DELETE	Radera
+SLIDE_BUTTONAREA	Playback-panel
+HELP	Hjälp
+HELP_REGION_BAR	Genvägar: Tryck för att fokusera på spelarpanel
+HELP_REGION_PANEL	Tryck för att fokusera på sidopanel
+HELP_REGION_CONTENT	Tryck för att fokusera på innehåll
+HELP_LIBRARY	Visa hjälp för @{LIBRARY}
+HELP_TRAINER	Visa hjälp för @{LESSONPLAYER}
+HELP_BOOK	Visa hjälp för @{BOOKPLAYER}
+DEMO_START	Demoläge
+DEMO_START1	I demoläge kan du se hur en uppgift utförs i applikationen. Du kan enkelt följa med och se hur alla steg utförs automatiskt.
+DEMO_START2	Med navigeringslisten längst ned kan du avbryta eller pausa demonstrationen. Du kan dessutom hoppa fram till nästa steg eller tillbaka till föregående steg.
+DEMO_STOP	Demoläge avslutas.
+CONCURRENT_START	Parallellt läge
+CONCURRENT_START1	I parallellt läge visas stegvis anvisningar för hur du utför uppgifter i applikationen.
+CONCURRENT_START2	Simuleringen stoppas efter varje steg, så att du har möjlighet att slutföra steget i den riktiga applikationen.
+CONCURRENT_STOP	Parallellt läge avslutas.
+PRACTICE_START	Övningsläge
+PRACTICE_START1	I övningsläge kan du prova det som du har lärt dig genom att lösa uppgiften inne i applikationen.
+PRACTICE_START2	Följ bara steg-för-steg-anvisningarna.
+PRACTICE_STOP	Övningsläge avslutas.
+TEST_START	Testläge
+TEST_START1	I testläget kan du testa dina kunskaper. Du ställs inför en uppgift som du måste lösa med applikationen: Utöver de exempeldata som ska anges får du inga anvisningar om arbetsmomentet- Hela uppgiften beskrivs i uppgiftsfönstret. Fönstret kan vid behov förstoras eller förminskas med hjälp av knapparna på rubriklisten.
+TEST_START2	I slutet av testet får du en utvärdering som baseras på stegen som utfördes framgångsrikt. Denna utvärdering är endast till för att du ska kunna bedöma din egen förmåga..
+TEST_START3	Var så noggrann som möjligt när du genomför de olika momenten. Alla stavfel och felaktiga klickningar registreras av systemet och påverkar utvärderingen negativt. Om du bestämmer dig för att begära hjälp vid ett moment så förlorar du alla poäng för det momentet.
+TEST_START4	Utvärderingen visas i slutet av testet. Försök att nå ett resultat på @{res_mastery_percent}
+TEST_OK	Testet godkändes
+TEST_OK1	Grattis, du har klarat uppgiften.
+TEST_FAILED	Testet misslyckades
+TEST_FAILED1	Eftersom du har fått mindre än @{res_mastery_percent} % av de möjliga poängen rekommenderar vi att du går igenom kursens innehåll en gång till och sedan provar dina kunskaper på nytt i testläget.
+TEST_FINISHED	Det här testet var endast för din egen bedömning. Resultatet registreras inte och skickas inte till tredje part.
+TEST_SCORE	Poängvärde
+TEST_SCOREVALUE	@{res_collected_points} av  @{res_possible_points}
+FREEPRESENTATION_START	Fritt presentationsläge
+FREEPRESENTATION_START1	I det fria presentationsläget kan du utföra en process i simuleringen.
+FREEPRESENTATION_START2	Utför åtgärderna steg för steg. Använd F1-tangenten för att få hjälp.
+FREEPRESENTATION_STOP	Den fria presentationen har slutförts.
+GUIDEDPRESENTATION_START	Guidat presentationsläge
+GUIDEDPRESENTATION_START1	I det guidade presentationsläget utförs en process i simuleringen automatiskt. En muspekare och en markering visar aktuellt steg.
+GUIDEDPRESENTATION_START2	Följ åtgärderna steg för steg och bekräfta varje åtgärd efteråt.
+GUIDEDPRESENTATION_STOP	Den guidade presentationen har slutförts.
+EXER_FAIL1	Den åtgärd du utförde var felaktig.
+EXER_FAIL2	Den åtgärd du utförde var felaktig. 1 poäng dras av från poängsumman. Poäng kvar för åtgärden: @1_rest-points_.
+EXER_FAIL3	Den åtgärd du utförde var felaktig. 1 poäng dras av från poängsumman för varje misstag. Poäng kvar för åtgärden: @1_rest-points_.
+EXER_FAILKEY1	Du tryckte på @1_key_.
+EXER_FAILKEY2	De funktionsknappar som kan användas är: @1_keys_.
+EXER_FAILRADIO	Alla giltiga knappar markeras.
+EXER_FAILINPUT	Alla giltiga textområden markeras.
+EXER_FAILSELECT	Alla giltiga urvalsrutor markeras.
+EXER_FAILDRAG	Du har gjort en ogiltig dragåtgärd med @1_keys_ musknapp.
+EXER_FAILDRAG1	Dra med @1_keys_ musknapp i det markerade området.
+EXER_FAILDROP	Du har gjort en ogiltig släppåtgärd med @1_keys_ musknapp.
+EXER_FAILDROP1	Släpp med @1_keys_ musknapp i det markerade området.
+EXER_FAILDBLCLICK	Du har gjort en ogiltig dubbelklickning med @1_keys_ musknapp.
+EXER_FAILDBLCLICK1	Klicka med @1_keys_ musknapp i det markerade området.
+EXER_FAILCLICK	Du har klickat med @1_keys_ musknapp i ett ogiltigt område.
+EXER_FAILCLICK1	Alla giltiga områden markeras.
+EXER_FAILCLICK2	Du har gjort en ogiltig klickning med @1_keys_ musknapp.
+EXER_FAILCLICK3	Klicka med @1_keys_ musknapp i det markerade området.
+EXER_FAILENTER	Du har utfört en ogiltig mouseover med @1_keys_ musknapp.
+EXER_FAILENTER1	Utför en mouseover med @1_keys_ musknapp i det markerade området.
+EXER_FAILMCLICK	A @1_keys_ middle-click is not permitted.
+EXER_WOULDGOON	(Obs: Fortsätter annars automatiskt)
+EXER_YOURINPUT	Du har angivit "@1_input_".
+EXER_TEXTINPUT	Ange "@1" i inmatningsrutan "@2"!
+EXER_SELECT	Välj posten "@1"!
+EXER_GOON	Gå vidare till nästa steg
+EXER_SHOWHELP	Ja, visa hjälp
+EXER_TRYAGAIN	Försök igen
+EXER_ASK4HELP	Behöver du hjälp?
+EXER_ONLY_VALID	Tillåtna åtgärder är:
+EXER_FORM_PREFIX	Ange följande värden:
+EXER_OR	eller
+EXER_AND	och
+SCORE	Poängtal
+SCORE_REDUCED	Möjligt poängtal för detta steg reducerat till
+TOUR_START	Starta simulering
+TOUR_STOP	Avbryt simulering
+TOUR_END	Slut på simulering
+TOUR_PLAY	Fortsätt-knapp
+TOUR_JUMP	Hoppade till ett annat steg i simuleringen.
+TOUR_PREV	Tillbaka
+TOUR_NEXT	Nästa
+USER_ACTION_CORRECT_ACTION	Eleven lyckades utföra steget.
+USER_ACTION_WRONG_ACTION	Eleven gjorde ett fel.
+USER_ACTION_GOON	Eleven klickade på "fortsätt", inga poäng för steget.
+USER_ACTION_GOON_AUTO	Simuleringen fortsattes automatiskt på grund av mängden fel.
+USER_ACTION_HELP	Eleven bad om hjälp, inga poäng för steget.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Eleven öppnade en textruta.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Eleven stängde en textruta.
+QUIZ_CORRECT_RESPONSE	Rätt svar
+QUIZ_STUDENT_RESPONSE	Elevens svar
+QUIZ_LATENCY	Tid
+QUIZ_SCORE	Uppnått poängtal
+QUIZ_REQ_SCORE	Nödvändigt poängtal
+QUIZ_MAX_SCORE	Maximalt poängtal
+QUIZ_TIMEOUT_REACHED	Timeout uppnådd
+QUIZTYPE_MCHOICE	Test: Flerval
+QUIZTYPE_SQMAQUIZ	Test: Fyll i fälten
+QUIZTYPE_FIBQUIZ	Test: Fyll i tomrummen
+QUIZTYPE_MATCHQUIZ	Test: Matchning
+QUIZTYPE_CONNQUIZ	Test: Anslutning
+QUIZTYPE_SCALEQUIZ	Test: Skjutreglage
+QUIZTYPE_GRIDQUIZ	Test: Matris
+QUIZTYPE_HOTSPOTQUIZ	Test: Hotspot
+QUIZTYPE_PUZZLEQUIZ	Test: Pussel
+QUIZTYPE_MIXQUIZ	Test: Sortering
+CONNECTING	Ansluter...
+SYNCHRONIZE	Synkronisera
+SYNCHRONIZED	Synkroniserad
+CONNECT	Anslut
+BUBBLESTYLE_NOT_FOUND	Bubbeltyp har ej hittats.
+LOADING_MACROSET	Läser in innehåll och resurser.
+ZOOM_LEVEL_NOTIFICATION	Varning: Er zoomnivå är inte samma som 100%.
+ctx_html.header_title	Kontexthjälp
+ctx_html.introtext	Följande hjälpinnehåll är tillgängligt för aktuell kontext. Klicka på den position Ni vill ska startas.
+ctx_html.introtext_noresult	Innehåll är inte tillgängligt för aktuell kontext. öppna biblioteket från huvudet eller använd sökning för att hämta mer innehåll.
+ctx_html.query_empty	Frågan är tom.
+ctx_html.query_malformed	Frågan är ogiltig.
+ctx_html.search	Sök
+ctx_html.library	Öppna bibliotek
+ctx_html.language	Språk
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Registrerar
+qr_hint_dlg.dont_bother	Visa inte igen
+qr_hint_dlg.hint_end	Avsluta inspelningen.
+qr_hint_dlg.hint_pause	Pausa inspelningen.
+btnOk	Tack!
+qr_hint_dlg.hint_title	Inspelningstips
+qr_hint_dlg.audio_help	Spela in texten innan du väljer en kontroll.
+quiz_error_no_template_file	Fel: Mallfil hittades ej. Standard används.
+qr_hint_dlg.hint_end_1	SLUT-knapp
+qr_hint_dlg.hint_pause_1	PAUS-knapp

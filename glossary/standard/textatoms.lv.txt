@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Kopīgot saturu
+SHARE_BY_MAIL	Kopīgot, izmantojot e-pastu
+URL_OF_CURRENT_PAGE	Pašreizējās lapas URL
+TASK	Uzdevums
+GLOSSARY	Glosārijs
+CONTEXT_INFO	Konteksta informācija
+CONTEXT_ROLES	Lomas
+CONTEXT_ROLES_NOROLES	Rādīt kontekstu bez lomām
+CONTEXT_MY_ROLES	Manas lomas
+CLOSEBUBBLE	Aizvērt burbuli
+MAXBUBBLE	Atjaunot burbuli
+MINBUBBLE	Minimizēt burbuli
+VOLUME	Apjoms
+SETTINGS	Iestatījumi
+CLOSE_TASK	Aizvērt @{TASK}
+CLOSE	Aizvērt
+EXIT	Iziet
+SELECTION	Atlase
+KEYWORD_SEARCH	Atslēgvārda meklēšana
+SEARCH	Meklēt
+SEARCH_STRING	Meklēt virkni
+KEYWORDS	Atslēgvārdi
+SEARCH_CLEAR	Klīrēt meklēšanas ievadi
+FILTER	Filtrs
+RESOURCES	Resursi
+VIEW	Skats
+CANCEL	Atcelt
+CONTINUING	Turpināt
+OK	Labi
+PLAY	Atskaņot
+PAUSE	Apturēt
+BACK	Atpakaļ
+PREVIOUS	Iepriekšējais
+NEXT	Nākamais
+PLAYING	Notiek atskaņošana
+PAUSED	Apturēt
+USERINPUT	Ievade
+IDLE	""
+START	Notiek lapas ielāde...
+RESTART	Restartēt
+TEXT	Teksts
+TITLE	Virsraksts
+MINIMIZE	Minimizēt
+RESTORE	Atjaunot
+ACQUIRED_SCORE	Iegūtais punktu skaits
+TEST_RESULT	Rezultāts
+TESTDETAILS	Rādīt detalizētu informāciju
+TESTDETAILS1	Paslēpt detalizētu informāciju
+PRINT	Izdrukāt lapu
+LESSON	Simulācija
+OF	no
+DESCRIPTION	Apraksts
+FULLSCREEN	Pilnekrāna
+TOGGLE_TASKINFO	Rādīt/paslēpt uzdevuma aprakstu
+PANEL_VIEWMODE	Paneļa attēlošanas režīms
+PANEL_TOGGLE	Rādīt/slēpt paneli
+PANEL	Sānu panelis/viss saturs
+BOOKMARK_FAVORITE	Izlases elements
+CONTENT	Saturs/atskaņošanas apgabals
+TOC	Saturs
+FAVORITES	Izlase
+RECENT	Lapas vēsture
+QRCODE	QR kods
+QR_URL_TOO_BIG	URL ir pārāk garš. Nevar ģenerēt QR kodu.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	Izslēgt skaņu
+AUDIO_PLAY	Atskaņot skaņu
+AUDIO_PAUSE	Apturēt skaņu
+AUDIO_ON	Skaņa ieslēgta
+AUDIO_OFF	Skaņa izslēgta
+CHANNEL_MASTER	Pamatieraksts
+CHANNEL_BOOKSOUND	Grāmatas skaņa
+CHANNEL_NARRATIVE	Stāstījums
+CHANNEL_EFFECTS	Efekti
+LIB_NOMATCH	Bez atbilstībām
+LIB_NOFILTER	Bez filtra
+LIBFLAG_NEWWIN	Atvērt saturu jaunā logā
+LIBFLAG_TITLE	Meklēt virsrakstu
+LIBFLAG_SHORTDESC	Meklēt īso aprakstu
+LIBFLAG_DESC	Meklēt aprakstu
+LIBFLAG_KEYW	Meklēt atslēgvārdus
+LIBFLAG_SLIDES	Meklēt grāmatas lapas saturu
+GUI_TOP_BAR	Augšējā josla
+GUI_BOTTOM_BAR	Apakšējā josla
+ORIENTATION_TOGGLE_TOP	Augšējā josla
+ORIENTATION_TOGGLE_BOTTOM	Apakšējā josla
+FEEDBACK	Atsauksme autoram
+FEEDBACK_TITLE	Jūus atsauksme
+FEEDBACK_QUESTION	Vai jums ir komentāri par šo simulāciju?
+FEEDBACK_MISTAKE	Esmu atklājis kļūdu
+FEEDBACK_COMMENTS	Man ir komentāri, ieteikumi
+FEEDBACK_SEND	Sūtīt atsauksmi
+SEND_CONTENT	Kopīgot saturu
+SEND_CONTENT_SUBJECT	Ieteiktais saturs
+SEND_CONTENT_TEMPLATE	Sveiki!\n\nIespējams, jūs varētu interesēt šis saturs. \n\nParaksts: @{SEND_CAPTION}\nSaite: @{SEND_LINK}\n\nAr cieņu\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Radās kļūda. Lūdzu, sazinieties ar administratoru.
+ERROR_GENERAL	Iekšēja kļūda.
+ERROR_1	Uznirstošā loga bloķētājs aizkavē simulācijas atskaņošanu.
+ERROR_1.h	Uzinrstošā loga bloķētājs aizkavēja jauna pārlūka loga atvēršanu. Aizveriet uznirstošā loga bloķētāju vai izslēdziet to šajā domēnā.
+ERROR_2	Nevarēja ielādēt nepieciešamo konfigurācijas failu.
+ERROR_2.h	@{LESSONPLAYER} nevarēja ielādēt konfigurācijas failu, kas nepieciešams pareizai funkcionalitātei.
+SCORM_LOCATION_ERROR	Jūsu progresu nevarēja saglabāt, jo LMS sistēmā trūkst funkcionalitātes
+RESTART_COMPLETED_LMS_LESSON	Jūs sāksit simulāciju, kas jau ir pabeigta vai sekmīgi nokārtota. Tas atiestatīs visus iegūtos punktus uz nulli un noņems pabaigšanas vai nokārtošanas atzīmi. Vai tiešām vēlaties restartēt?
+RESTART_Av_LMS_LESSON	Jūs sāksit simulāciju, kas jau ir pabeigta vai sekmīgi nokārtota. Tas atiestatīs visus iegūtos punktus uz nulli un noņems pabaigšanas vai nokārtošanas atzīmi. Vai vēlaties noklikšķināt uz “Labi”, lai restartētu, vai uz “Atcelt”, lai aizvērtu?
+BOOK_NEXT_CHAPTER	Nākamā nodaļa
+BOOK_PREV_CHAPTER	Iepriekšējā nodaļa
+BOOK_NEXT_PAGE	Nākamā lapa
+BOOK_PREV_PAGE	Iepriekšējā lapa
+BOOK_INDEX_PAGE	Sākumlapa
+SLIDE_MOREINFO	Papildinformācija
+SLIDE_TIPS	Padomi
+SLIDE_ATTACH	Pielikumi
+SLIDE_SHOWATTACH	Rādīt pielikumus
+SLIDE_OPEN	Atvērt
+SLIDE_ADD	Pievienot
+SLIDE_EDIT	Rediģēt
+SLIDE_DELETE	Dzēst
+SLIDE_BUTTONAREA	Atskaņošanas josla
+HELP	Palīdzība
+HELP_REGION_BAR	Īsinājumi: nospiediet uz fokusa atskaņošanas joslas
+HELP_REGION_PANEL	Nospiediet uz fokusa puses joslas
+HELP_REGION_CONTENT	Nospiediet uz fokusa satura
+HELP_LIBRARY	Rādīt @{LIBRARY} palīdzību
+HELP_TRAINER	Rādīt @{LESSONPLAYER} palīdzību
+HELP_BOOK	Rādīt @{BOOKPLAYER} palīdzību
+DEMO_START	Demonstrācijas režīms
+DEMO_START1	Demonstrācijas režīmā varat novērot to, kā lietojumprogrammā tiek veikta darbība. Vienkārši novērojiet simulāciju; visi soļi tiks izpildīti automātiski.
+DEMO_START2	Varat izmantot ekrāna apakšdaļā esošo navigācijas joslu, lai apturētu vai pārtrauktu demonstrāciju. Varat arī pāriet uz priekšu pie nākamā soļa vai atpakaļ pie iepriekšējā soļa.
+DEMO_STOP	Demonstrācijas režīms ir pabeigts
+CONCURRENT_START	Mācību režīms.
+CONCURRENT_START1	Mācību režīmā detalizēti tiek parādīts, kā izpildīt uzdevumu lietojumprogrammā.
+CONCURRENT_START2	Simulācija tiek pārtraukta pēc katra soļa, lai sniegtu jums iespēju pabeigt soli īstajā lietojumprogrammā.
+CONCURRENT_STOP	Mācību režīms ir pabeigts.
+PRACTICE_START	Mācību režīms
+PRACTICE_START1	Mācību režīmā varat izmēģināt, ko esat apguvis, pats atrisinot uzdevumu lietojumprogrammā.
+PRACTICE_START2	Vienkārši izpildiet detalizētos norādījumus.
+PRACTICE_STOP	Mācību režīms ir pabeigts.
+TEST_START	Testa režīms
+TEST_START1	Testa režīmā varat pārbaudīt savas zināšanas, pats atrisinot uzdevumu lietojumprogrammā: jūs saņemsit tikai ievadāmos datu paraugus; nekādas detalizētas instrukcijas netiks izsniegtas. Viss uzdevums ir aprakstīts uzdevuma logā, ko pēc nepieciešamības varat palielināt vai samazināt, izmantojot virsrakstjoslas pogas.
+TEST_START2	Pēc testa pabeigšanas Jūs saņemsit vērtējumu, ņemot vērā veiksmīgi izpildītos soļus. Šis vērtējums ir paredzēts pašnovērtēšanai uzdevuma apgabalā.
+TEST_START3	Lūdzu, pildiet darbības ļoti rūpīgi, jo sistēmā tiek reģistrētas visas pareizrakstības kļūdas un nepareizo taustiņu nospiešana, kas negatīvi ietekmē Jūsu vērtējumu. Ja Jūs kāda soļa izpildīšanai pieprasāt palīdzību, Jūs zaudējat par šī soļa izpildīšanu paredzētos punktus.
+TEST_START4	Jūsu kopējais punktu skaits tiks parādīts testa beigās. Pamēģiniet, lūdzu, sasniegt @{res_mastery_percent}% mērķi.
+TEST_OK	Tests ir nokārtots
+TEST_OK1	Apsveicam, jūs esat veiksmīgi pabeidzis šo uzdevumu.
+TEST_FAILED	Tests nav nokārtots
+TEST_FAILED1	Mēs iesakām Jums pārskatīt šī kursa saturu vēlreiz un pēc tam atkārtoti pārbaudīt savas zināšanas testa režīmā, jo Jūs esat sasniedzis/sasniegusi mazāk par @{res_mastery_percent}% no iespējamajiem punktiem.
+TEST_FINISHED	Šis tests bija tikai jūsu pašnovērtējums. Rezultāti netiks ierakstīti vai nodoti trešajām personām.
+TEST_SCORE	Punktu skaits
+TEST_SCOREVALUE	@{res_collected_points} no  @{res_possible_points}
+FREEPRESENTATION_START	Brīvais attēlošanas režīms
+FREEPRESENTATION_START1	Brīvais attēlošanas režīms sniedz iespēju izpildīt procesu simulācijā.
+FREEPRESENTATION_START2	Izpildiet darbības pēc kārtas. Lai saņemtu palīdzību, izmantojiet taustiņu F1.
+FREEPRESENTATION_STOP	Brīvā attēlošana ir pabeigta.
+GUIDEDPRESENTATION_START	Vadītais attēlošanas režīms
+GUIDEDPRESENTATION_START1	Vadītais attēlošanas režīms izpilda procesu simulācijā automātiski. Pašreizējais solis tiek rādīts ar peles kursoru un izcēlumu.
+GUIDEDPRESENTATION_START2	Izpildiet darbības pēc kārtas un pēc tam apstipriniet katru darbību.
+GUIDEDPRESENTATION_STOP	Vadītā attēlošana ir pabeigta.
+EXER_FAIL1	Darbība, kuru veicāt, nebija pareiza.
+EXER_FAIL2	Darbība, ko veicāt, nebija pareiza. No jūsu kopējā punktu skaita tiek atvilkts 1 punkts. Šai darbībai atlikušo punktu skaits: @1_rest-points_.
+EXER_FAIL3	Darbība, ko veicāt, nebija pareiza. Par katru kļūdu no jūsu kopējā punktu skaita tiek atvilkts 1 punkts. Šai darbībai atlikušo punktu skaits: @1_rest-points_.
+EXER_FAILKEY1	Jūs nospiedāt @1_key_ taustiņu.
+EXER_FAILKEY2	Var izmantot šādus funkciju taustiņus: @1_keys_.
+EXER_FAILRADIO	Visas derīgās pogas ir iezīmētas
+EXER_FAILINPUT	Visi derīgie teksta apgabali ir iezīmēti.
+EXER_FAILSELECT	Visi derīgie atlases lodziņi ir iezīmēti.
+EXER_FAILDRAG	Jūs veicāt nederīgu @1_keys_ vilkšanas darbību.
+EXER_FAILDRAG1	Lūdzu, veiciet @1_keys_ vilkšanas darbību iezīmētajā apgabalā.
+EXER_FAILDROP	Jūs veicāt nederīgu @1_keys_ nomešanas darbību.
+EXER_FAILDROP1	Lūdzu, veiciet @1_keys_ nomešanas darbību iezīmētajā apgabalā.
+EXER_FAILDBLCLICK	Jūs veicāt nederīgu @1_keys_ dubultklikšķi.
+EXER_FAILDBLCLICK1	Lūdzu, veiciet @1_keys_ dubultklikšķi iezīmētajā apgabalā.
+EXER_FAILCLICK	Jūs @1_keys_ noklikšķinājāt nederīgā apgabalā.
+EXER_FAILCLICK1	Visi derīgie apgabali ir iezīmēti.
+EXER_FAILCLICK2	Jūs veicāt nederīgu @1_keys_ klikšķi.
+EXER_FAILCLICK3	Lūdzu, veiciet @1_keys_ klikšķi iezīmētajā apgabalā.
+EXER_FAILENTER	Jūs veicāt nederīgu @1_keys_ peles novietošanu.
+EXER_FAILENTER1	Lūdzu, veiciet @1_keys_ peles novietošanu iezīmētajā apgabalā.
+EXER_FAILMCLICK	@1_keys_ klikšķis ar peles vidējo pogu nav atļauts.
+EXER_WOULDGOON	(Piezīme. Pretējā gadījumā tiks turpināts automātiski)
+EXER_YOURINPUT	Jūs ievadījāt "@1_input_".
+EXER_TEXTINPUT	Lūdzu, ievadiet "@1" ievades laukā "@2"!
+EXER_SELECT	Lūdzu, izvēlieties ierakstu "@1"!
+EXER_GOON	Pārejiet uz nākamo soli
+EXER_SHOWHELP	Jā, rādīt palīdzību
+EXER_TRYAGAIN	Mēģināt vēlreiz
+EXER_ASK4HELP	Vai vajadzīga palīdzība?
+EXER_ONLY_VALID	Atļautās darbības ir:
+EXER_FORM_PREFIX	Ievadiet šādas vērtības:
+EXER_OR	vai
+EXER_AND	un
+SCORE	Punkti
+SCORE_REDUCED	Šī soļa iespējamie punkti ir samazināti līdz
+TOUR_START	Simulācija sākta
+TOUR_STOP	Simulācija pārtraukta
+TOUR_END	Simulācijas beigas
+TOUR_PLAY	Poga Turpināt
+TOUR_JUMP	Pārgāja uz citu soli simulācijā.
+TOUR_PREV	Atpakaļ
+TOUR_NEXT	Nākamais
+USER_ACTION_CORRECT_ACTION	Students veiksmīgi izpildīja soli.
+USER_ACTION_WRONG_ACTION	Students pieļāva kļūdu.
+USER_ACTION_GOON	Students noklikšķināja uz "turpināt", bez punktiem šajā solī.
+USER_ACTION_GOON_AUTO	Kļūdu skaita dēļ simulācija tika turpināta automātiski.
+USER_ACTION_HELP	Students lūdza palīdzību, bez punktiem šajā solī.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Students atvēra tekstlodziņu.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Students aizvēra tekstlodziņu.
+QUIZ_CORRECT_RESPONSE	Pareiza atbilde
+QUIZ_STUDENT_RESPONSE	Studenta atbilde
+QUIZ_LATENCY	Laiks
+QUIZ_SCORE	Iegūtais punktu skaits
+QUIZ_REQ_SCORE	Nepieciešamais punktu skaits
+QUIZ_MAX_SCORE	Maksimālais punktu skaits
+QUIZ_TIMEOUT_REACHED	Sasniegts taimauts
+QUIZTYPE_MCHOICE	Kontrolpārbaude: vairākizvēle
+QUIZTYPE_SQMAQUIZ	Kontrolpārbaude: aizpildiet laukus
+QUIZTYPE_FIBQUIZ	Kontrolpārbaude:  aizpildiet tukšās vietas
+QUIZTYPE_MATCHQUIZ	Kontrolpārbaude: saskaņošana
+QUIZTYPE_CONNQUIZ	Kontrolpārbaude:  savienojums
+QUIZTYPE_SCALEQUIZ	Kontrolpārbaude: slīdņa vadība
+QUIZTYPE_GRIDQUIZ	Kontrolpārbaude:  režģis
+QUIZTYPE_HOTSPOTQUIZ	Kontrolpārbaude: karstvieta
+QUIZTYPE_PUZZLEQUIZ	Kontrolpārbaude: sarežģīta problēma
+QUIZTYPE_MIXQUIZ	Kontrolpārbaude: kārtošana
+CONNECTING	Veido savienojumu...
+SYNCHRONIZE	Sinhronizēt
+SYNCHRONIZED	Sinhronizēts
+CONNECT	Savienot
+BUBBLESTYLE_NOT_FOUND	Burbuļa tips nav atrasts
+LOADING_MACROSET	Notiek satura un resursu ielāde.
+ZOOM_LEVEL_NOTIFICATION	Brīdinājums: Jūsu tālummaiņas līmenis atšķiras no 100%.
+ctx_html.header_title	Konteksta palīdzība
+ctx_html.introtext	Pašreizējam kontekstam ir pieejams šāds palīdzības saturs. Noklikšķiniet uz pozīcijas, ko vēlaties startēt.
+ctx_html.introtext_noresult	Pašreizējam kontekstam saturs nav pieejams. Atveriet bibliotēku, izm. galveni, vai izm, meklēšanu, lai iegūtu vairāk satura.
+ctx_html.query_empty	Vaicājums ir tukšs.
+ctx_html.query_malformed	Vaicājums nav derīgs.
+ctx_html.search	Meklēt
+ctx_html.library	Atvērt bibliotēku
+ctx_html.language	Valoda
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Ieraksts
+qr_hint_dlg.dont_bother	Turpmāk nerādīt
+qr_hint_dlg.hint_end	Pabeidziet ierakstīšanu.
+qr_hint_dlg.hint_pause	Pauzējiet ierakstīšanu.
+btnOk	Paldies!
+qr_hint_dlg.hint_title	Norādes par ierakstīšanu
+qr_hint_dlg.audio_help	Ierakstiet tekstu, pirms atlasāt vadīklu.
+quiz_error_no_template_file	Kļūda: veidnes fails nav atrasts. Tiks izmantots noklusējums.
+qr_hint_dlg.hint_end_1	Taustiņš END
+qr_hint_dlg.hint_pause_1	Taustiņš PAUSE

@@ -1,0 +1,9 @@
+﻿business_process	业务流程
+process_tutorials	流程教程
+guided_tours	向导浏览
+training_courses	培训课程
+user_assistance	用户帮助
+compliance	合规性
+tips_tricks	提示和技巧
+faq	常见问题
+misc	杂项

@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	แชร์เนื้อหา
+SHARE_BY_MAIL	แชร์ผ่านอีเมล์
+URL_OF_CURRENT_PAGE	URL ของหน้าปัจจุบัน
+TASK	งาน
+GLOSSARY	อภิธานศัพท์
+CONTEXT_INFO	ข้อมูลเนื้อหา
+CONTEXT_ROLES	บทบาท
+CONTEXT_ROLES_NOROLES	แสดงเนื้อหาที่ไม่มีบทบาท
+CONTEXT_MY_ROLES	บทบาทของผู้ใช้
+CLOSEBUBBLE	ปิดกรอบคำพูด
+MAXBUBBLE	คืนค่ากรอบคำพูด
+MINBUBBLE	ย่อกรอบคำพูดให้เล็กสุด
+VOLUME	ระดับเสียง
+SETTINGS	การกำหนดค่า
+CLOSE_TASK	ปิด @{TASK}
+CLOSE	ปิด
+EXIT	ออก
+SELECTION	การเลือก
+KEYWORD_SEARCH	ค้นหาโดยใช้คำสำคัญ
+SEARCH	ค้นหา
+SEARCH_STRING	สตริงการค้นหา
+KEYWORDS	คำสำคัญ
+SEARCH_CLEAR	ล้างอินพุทการค้นหา
+FILTER	ฟิลเตอร์
+RESOURCES	ทรัพยากร
+VIEW	มุมมอง
+CANCEL	ยกเลิก
+CONTINUING	ดำเนินการต่อ
+OK	ตกลง
+PLAY	เล่น
+PAUSE	หยุดชั่วขณะ
+BACK	ย้อนกลับ
+PREVIOUS	ก่อนหน้า
+NEXT	ถัดไป
+PLAYING	กำลังเล่น
+PAUSED	หยุดชั่วขณะ
+USERINPUT	การป้อนข้อมูล
+IDLE	""
+START	กำลังโหลดหน้า...
+RESTART	เริ่มต้นใหม่
+TEXT	ข้อความ
+TITLE	ชื่อ
+MINIMIZE	ย่อเล็กสุด
+RESTORE	คืนค่า
+ACQUIRED_SCORE	คะแนนที่ได้
+TEST_RESULT	ผลลัพธ์
+TESTDETAILS	แสดงรายละเอียด
+TESTDETAILS1	ซ่อนรายละเอียด
+PRINT	พิมพ์หน้า
+LESSON	การจำลอง
+OF	ของ
+DESCRIPTION	คำอธิบาย
+FULLSCREEN	เต็มจอภาพ
+TOGGLE_TASKINFO	แสดง/ซ่อนคำอธิบายงาน
+PANEL_VIEWMODE	โหมดการแสดงแผง
+PANEL_TOGGLE	แสดง/ซ่อนแผง
+PANEL	แถบด้านข้าง/เนื้อหาทั้งหมด
+BOOKMARK_FAVORITE	รายการโปรด
+CONTENT	เนื้อหา/พื้นที่การเล่น
+TOC	สารบัญ
+FAVORITES	รายการโปรด
+RECENT	ประวัติเพจ
+QRCODE	รหัส QR
+QR_URL_TOO_BIG	URL ใหญ่เกินไป ไม่สามารถสร้างรหัส QR
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	ปิดเสียง
+AUDIO_PLAY	เล่นเสียง
+AUDIO_PAUSE	หยุดเล่นเสียงชั่วคราว
+AUDIO_ON	เปิดเสียง
+AUDIO_OFF	ปิดเสียง
+CHANNEL_MASTER	ข้อมูลหลัก
+CHANNEL_BOOKSOUND	Book Sound
+CHANNEL_NARRATIVE	คำบรรยาย
+CHANNEL_EFFECTS	เอฟเฟกต์
+LIB_NOMATCH	ไม่พบรายการที่ตรงกัน
+LIB_NOFILTER	ไม่มีฟิลเตอร์
+LIBFLAG_NEWWIN	เปิดเนื้อหาในวินโดว์ใหม่
+LIBFLAG_TITLE	ค้นหาชื่อเรื่อง
+LIBFLAG_SHORTDESC	ค้นหาคำอธิบายแบบสั้น
+LIBFLAG_DESC	ค้นหาคำอธิบาย
+LIBFLAG_KEYW	ค้นหาคำสำคัญ
+LIBFLAG_SLIDES	ค้นหาเนื้อหาในหน้าหนังสือ
+GUI_TOP_BAR	แถบด้านบน
+GUI_BOTTOM_BAR	แถบด้านล่าง
+ORIENTATION_TOGGLE_TOP	แถบด้านบน
+ORIENTATION_TOGGLE_BOTTOM	แถบด้านล่าง
+FEEDBACK	ผลตอบรับถึงผู้เขียน
+FEEDBACK_TITLE	ผลตอบรับของคุณ
+FEEDBACK_QUESTION	คุณมีข้อคิดเห็นเกี่ยวกับการจำลองนี้หรือไม่?
+FEEDBACK_MISTAKE	ฉันพบความผิดพลาด
+FEEDBACK_COMMENTS	ฉันมีข้อคิดเห็นและสิ่งที่ต้องการ
+FEEDBACK_SEND	ส่งผลตอบรับ
+SEND_CONTENT	แชร์เนื้อหา
+SEND_CONTENT_SUBJECT	เนื้อหาที่แนะนำ
+SEND_CONTENT_TEMPLATE	สวัสดี,\n\nเนื้อหานี้อาจน่าสนใจสำหรับคุณ \n\nคำอธิบายภาพ: @{SEND_CAPTION}\nลิงก์: @{SEND_LINK}\n\nขอแสดงความนับถือ\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	มีข้อผิดพลาดเกิดขึ้น กรุณาติดต่อผู้ดูแลระบบของคุณ
+ERROR_GENERAL	เกิดข้อผิดพลาดภายใน
+ERROR_1	ตัวบล็อกป็อปอัพขัดขวางไม่ให้เปิดเล่นการจำลอง
+ERROR_1.h	ตัวบล็อกป็อปอัพป้องกันไม่ให้วินโดว์บราวเซอร์ใหม่เปิดขึ้นมา ปิดตัวบล็อกป็อปอัพหรือปิดใช้งานสำหรับโดเมนนี้
+ERROR_2	ไม่สามารถโหลดไฟล์การกำหนดรูปแบบที่จำเป็นได้
+ERROR_2.h	 @{LESSONPLAYER} ไม่สามารถโหลดไฟล์การกำหนดรูปแบบที่ต้องใช้สำหรับฟังก์ชันที่เหมาะสม
+SCORM_LOCATION_ERROR	ไม่สามารถเก็บบันทึกความคืบหน้าของคุณได้เนื่องจากมีฟังก์ชันในระบบ LMS ของคุณที่ขาดหายไป
+RESTART_COMPLETED_LMS_LESSON	คุณกำลังเริ่มการจำลองที่เสร็จสมบูรณ์หรือผ่านเรียบร้อยแล้ว การดำเนินการนี้จะทำให้คะแนนที่คุณได้ก่อนหน้านี้ทั้งหมดเหลือศูนย์ และยกเลิกการกำหนดแฟลกว่าเสร็จสมบูรณ์หรือผ่านแล้ว คุณแน่ใจหรือไม่ว่าต้องการเริ่มใหม่?
+RESTART_Av_LMS_LESSON	คุณกำลังเริ่มการจำลองที่เสร็จสมบูรณ์หรือผ่านเรียบร้อยแล้ว การดำเนินการนี้จะทำให้คะแนนที่คุณได้ก่อนหน้านี้ทั้งหมดเหลือศูนย์ และยกเลิกการกำหนดแฟลกว่าเสร็จสมบูรณ์หรือผ่านแล้ว คลิก 'ตกลง' เพื่อเริ่มต้นใหม่หรือ 'ยกเลิก' เพื่อปิด?
+BOOK_NEXT_CHAPTER	บทถัดไป
+BOOK_PREV_CHAPTER	บทก่อนหน้า
+BOOK_NEXT_PAGE	หน้าถัดไป
+BOOK_PREV_PAGE	หน้าก่อน
+BOOK_INDEX_PAGE	หน้าเริ่มต้น
+SLIDE_MOREINFO	ข้อมูลเพิ่มเติม
+SLIDE_TIPS	เคล็ดลับ
+SLIDE_ATTACH	สิ่งที่แนบ
+SLIDE_SHOWATTACH	แสดงสิ่งที่แนบ
+SLIDE_OPEN	เปิด
+SLIDE_ADD	เพิ่ม
+SLIDE_EDIT	แก้ไข
+SLIDE_DELETE	ลบ
+SLIDE_BUTTONAREA	แถบการเล่น
+HELP	วิธีใช้
+HELP_REGION_BAR	ทางลัด: กดเพื่อโฟกัสแถบ Player
+HELP_REGION_PANEL	กดเพื่อโฟกัสแถบด้านข้าง
+HELP_REGION_CONTENT	กดเพื่อโฟกัสเนื้อหา
+HELP_LIBRARY	แสดงวิธีใช้ @{LIBRARY} 
+HELP_TRAINER	แสดงวิธีใช้ @{LESSONPLAYER} 
+HELP_BOOK	แสดงวิธีใช้ @{BOOKPLAYER} 
+DEMO_START	โหมดสาธิต
+DEMO_START1	ในโหมดสาธิต คุณสามารถดูกิจกรรมที่ดำเนินอยู่ภายในแอพพลิเคชัน ให้ทำตามตัวอย่างจำลองดังกล่าว ขั้นตอนต่างๆ ทั้งหมดจะดำเนินไปโดยอัตโนมัติ
+DEMO_START2	คุณสามารถใช้แถบการเนวิเกตที่ด้านล่างของจอภาพเพื่อหยุดชั่วขณะหรือหยุดการสาธิต นอกจากนี้ คุณยังสามารถข้ามไปยังขั้นตอนถัดไปหรือย้อนกลับไปที่ขั้นตอนก่อนหน้าได้อีกด้วย
+DEMO_STOP	เสร็จสิ้นโหมดสาธิต
+CONCURRENT_START	โหมดทำงานเวลาเดียวกัน
+CONCURRENT_START1	โหมดทำงานเวลาเดียวกันแสดงวิธีดำเนินการงานแต่ละงานภายในแอพพลิเคชันให้คุณเห็นทีละขั้นตอน
+CONCURRENT_START2	การจำลองจะหยุดชั่วคราวหลังจากผ่านพ้นแต่ละขั้นตอนเพื่อให้คุณมีโอกาสทำตามขั้นตอนนั้นๆ ให้เสร็จสมบูรณ์ในแอพพลิเคชันจริง
+CONCURRENT_STOP	เสร็จสิ้นโหมดทำงานเวลาเดียวกัน
+PRACTICE_START	โหมดฝึกปฏิบัติ
+PRACTICE_START1	ในโหมดฝึกปฏิบัติคุณสามารถลองทำสิ่งที่คุณได้เรียนรู้มาด้วยการจัดการงานภายในแอพพลิเคชันให้สำเร็จด้วยตัวคุณเอง
+PRACTICE_START2	ทำตามคำแนะนำแบบทีละขั้นตอน
+PRACTICE_STOP	เสร็จสิ้นโหมดฝึกปฏิบัติ
+TEST_START	โหมดทดสอบ
+TEST_START1	ในโหมดทดสอบ คุณสามารถทดสอบความรู้ของคุณได้ด้วยการจัดการงานที่มีอยู่ภายในแอพพลิเคชันให้สำเร็จด้วยตัวคุณเอง: นอกจากข้อมูลตัวอย่างที่คุณต้องป้อนแล้ว คุณจะไม่ได้รับคำแนะนำแบบทีละขั้นตอนใดๆ อีก งานทั้งหมดที่คุณต้องทำจะอธิบายอยู่ในวินโดว์งาน ซึ่งคุณสามารถขยายหรือย่อเล็กสุดได้ตามต้องการโดยใช้ปุ่มต่างๆ ในแถบชื่อ
+TEST_START2	เมื่อสิ้นสุดการทดสอบ ระบบจะคิดคะแนนให้กับคุณตามจำนวนขั้นตอนที่คุณทำเสร็จและทำได้ถูกต้อง การคิดคะแนนนี้มีจุดประสงค์เพื่อประเมินผลตัวคุณเองในส่วนของงานดังกล่าว
+TEST_START3	กรุณาทำสิ่งต่างๆ ด้วยความระมัดระวัง เนื่องจากระบบจะบันทึกข้อมูลที่มีคำสะกดผิดและการคลิกผิด พร้อมทั้งหักคะแนนของคุณ ถ้าคุณเลือกรับความช่วยเหลือจากระบบเพื่อทำขั้นตอนใดขั้นตอนหนึ่งให้สำเร็จ คะแนนสำหรับขั้นตอนนั้นของคุณจะถูกกำหนดเป็นศูนย์
+TEST_START4	คะแนนรวมของคุณจะแสดงขึ้นเมื่อสิ้นสุดการทดสอบ กรุณาพยายามทำคะแนนให้ได้ตามเป้าหมายที่ @{res_mastery_percent}% 
+TEST_OK	ผ่านการทดสอบ
+TEST_OK1	ขอแสดงความยินดี คุณได้ทำการทดสอบนี้เสร็จสมบูรณ์แล้ว
+TEST_FAILED	ไม่ผ่านการทดสอบ
+TEST_FAILED1	เนื่องจากคุณทำคะแนนได้น้อยกว่า @{res_mastery_percent}% ของคะแนนสูงสุดที่สามารถทำได้ เราขอแนะนำให้คุณกลับไปทบทวนเนื้อหาในหลักสูตรการฝึกอบรมนี้อีกครั้ง แล้วทำการทดสอบความรู้ของคุณใหม่ในโหมดทดสอบ
+TEST_FINISHED	การทดสอบนี้มีจุดประสงค์เพื่อประเมินผลตัวคุณเองเท่านั้น ผลคะแนนที่ได้จะไม่ถูกบันทึกหรือรายงานให้ผู้อื่นทราบ
+TEST_SCORE	คะแนน
+TEST_SCOREVALUE	@{res_collected_points} จาก @{res_possible_points}
+FREEPRESENTATION_START	โหมดงานนำเสนอแบบอิสระ
+FREEPRESENTATION_START1	คุณสามารถใช้โหมดงานนำเสนอแบบอิสระเพื่อดำเนินกระบวนการภายในการจำลอง
+FREEPRESENTATION_START2	ดำเนินการทีละขั้นตอน โดยใช้คีย์ F1 เพื่อดูวิธีใช้
+FREEPRESENTATION_STOP	งานนำเสนอแบบอิสระเสร็จสิ้นแล้ว
+GUIDEDPRESENTATION_START	โหมดงานนำเสนอที่มีคำแนะนำ
+GUIDEDPRESENTATION_START1	โหมดงานนำเสนอที่มีคำแนะนำจะดำเนินกระบวนการภายในการจำลองโดยอัตโนมัติ ตัวชี้เมาส์และไฮไลต์จะแสดงถึงขั้นตอนปัจจุบัน
+GUIDEDPRESENTATION_START2	ทำตามการดำเนินการทีละขั้นตอน และยืนยันแต่ละการดำเนินการหลังจากนั้น
+GUIDEDPRESENTATION_STOP	งานนำเสนอที่มีคำแนะนำเสร็จสิ้นแล้ว
+EXER_FAIL1	การปฏิบัติที่คุณดำเนินการไม่ถูกต้อง
+EXER_FAIL2	การปฏิบัติที่คุณดำเนินการไม่ถูกต้อง 1 คะแนนจะถูกหักออกจากคะแนนรวมของคุณ คะแนนที่เหลือสำหรับการปฏิบัตินี้: @1_rest-points_
+EXER_FAIL3	การปฏิบัติที่คุณดำเนินการไม่ถูกต้อง 1 คะแนนสำหรับแต่ละความผิดพลาดจะถูกหักออกจากคะแนนรวมของคุณ คะแนนที่เหลือสำหรับการปฏิบัตินี้: @1_rest-points_
+EXER_FAILKEY1	คุณได้กดคีย์ @1_key_ 
+EXER_FAILKEY2	คีย์ฟังก์ชันที่สามารถใช้ได้คือ: @1_keys_
+EXER_FAILRADIO	ปุ่มที่ใช้ได้ทั้งหมดจะถูกเน้นไว้
+EXER_FAILINPUT	พื้นที่ข้อความที่ใช้ได้ทั้งหมดจะถูกเน้นไว้
+EXER_FAILSELECT	กล่องการเลือกที่ใช้ได้ทั้งหมดจะถูกเน้นไว้
+EXER_FAILDRAG	คุณได้ดำเนินการลาก @1_keys_ ที่ไม่ถูกต้อง
+EXER_FAILDRAG1	กรุณาดำเนินการลาก @1_keys_ ภายในพื้นที่ที่เน้นไว้
+EXER_FAILDROP	คุณได้ดำเนินการวาง @1_keys_ ที่ไม่ถูกต้อง
+EXER_FAILDROP1	กรุณาดำเนินการวาง @1_keys_ ภายในพื้นที่ที่เน้นไว้
+EXER_FAILDBLCLICK	คุณได้ดับเบิลคลิก @1_keys_ ที่ไม่ถูกต้อง
+EXER_FAILDBLCLICK1	กรุณาดับเบิลคลิก @1_keys_ ภายในพื้นที่ที่เน้นไว้
+EXER_FAILCLICK	คุณ @1_keys_ ได้คลิกในพื้นที่ที่ไม่ถูกต้อง
+EXER_FAILCLICK1	พื้นที่ที่ใช้ได้ทั้งหมดจะถูกเน้นไว้
+EXER_FAILCLICK2	คุณได้คลิก @1_keys_ ที่ไม่ถูกต้อง
+EXER_FAILCLICK3	กรุณาคลิก @1_keys_ ภายในพื้นที่ที่เน้นไว้
+EXER_FAILENTER	คุณใช้เมาส์ชี้ @1_keys_ ในพื้นที่ที่ไม่ถูกต้อง
+EXER_FAILENTER1	กรุณาใช้เมาส์ชี้ @1_keys_ ภายในพื้นที่ที่เน้นไว้
+EXER_FAILMCLICK	ไม่อนุญาตให้คลิกกลาง @1_keys_ 
+EXER_WOULDGOON	(หมายเหตุ: มิฉะนั้นจะดำเนินการต่อโดยอัตโนมัติ)
+EXER_YOURINPUT	คุณได้ป้อน "@1_input_"
+EXER_TEXTINPUT	กรุณาป้อน "@1" ในฟิลด์อินพุท "@2"!
+EXER_SELECT	กรุณาเลือกรายการ "@1"!
+EXER_GOON	ไปที่ขั้นตอนถัดไป
+EXER_SHOWHELP	ใช่ แสดงวิธีใช้
+EXER_TRYAGAIN	ลองอีกครั้ง
+EXER_ASK4HELP	คุณต้องการความช่วยเหลือหรือไม่?
+EXER_ONLY_VALID	การดำเนินการที่อนุญาต:
+EXER_FORM_PREFIX	ป้อนค่าต่อไปนี้:
+EXER_OR	หรือ
+EXER_AND	และ
+SCORE	คะแนน
+SCORE_REDUCED	คะแนนสูงสุดที่สามารถทำได้ในขั้นตอนนี้ลดลงเหลือ
+TOUR_START	เริ่มต้นการจำลอง
+TOUR_STOP	ยกเลิกการจำลอง
+TOUR_END	สิ้นสุดการจำลอง
+TOUR_PLAY	ปุ่มเล่นต่อ
+TOUR_JUMP	ข้ามไปยังขั้นตอนอื่นภายในการจำลอง
+TOUR_PREV	ย้อนกลับ
+TOUR_NEXT	ถัดไป
+USER_ACTION_CORRECT_ACTION	ผู้เรียนดำเนินการขั้นตอนนี้ได้สำเร็จ
+USER_ACTION_WRONG_ACTION	ผู้เรียนดำเนินการผิดพลาด
+USER_ACTION_GOON	ผู้เรียนคลิก “ดำเนินการต่อ” ฉะนั้นจึงไม่ได้คะแนนในขั้นตอนนี้
+USER_ACTION_GOON_AUTO	การจำลองดำเนินการต่อโดยอัตโนมัติ เนื่องจากมีข้อผิดพลาดจำนวนมาก
+USER_ACTION_HELP	ผู้เรียนได้ขอความช่วยเหลือ ฉะนั้นจึงไม่ได้คะแนนในขั้นตอนนี้
+SLIDE_USER_ACTION_TEXTBOX_OPEN	ผู้เรียนได้เปิดกล่องข้อความ
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	ผู้เรียนปิดกล่องข้อความ
+QUIZ_CORRECT_RESPONSE	คำตอบที่ถูกต้อง
+QUIZ_STUDENT_RESPONSE	คำตอบของผู้เรียน
+QUIZ_LATENCY	เวลา
+QUIZ_SCORE	คะแนนที่ได้
+QUIZ_REQ_SCORE	คะแนนที่ต้องการ
+QUIZ_MAX_SCORE	คะแนนสูงสุด
+QUIZ_TIMEOUT_REACHED	หมดเวลาแล้ว
+QUIZTYPE_MCHOICE	แบบทดสอบ: แบบเลือกตอบ
+QUIZTYPE_SQMAQUIZ	แบบทดสอบ: แบบเติมคำตอบในฟิลด์
+QUIZTYPE_FIBQUIZ	แบบทดสอบ: แบบเติมคำตอบในช่องว่าง
+QUIZTYPE_MATCHQUIZ	แบบทดสอบ: แบบจับคู่
+QUIZTYPE_CONNQUIZ	แบบทดสอบ: แบบเชื่อมต่อ
+QUIZTYPE_SCALEQUIZ	แบบทดสอบ: แบบใช้ตัวควบคุมแถบเลื่อน
+QUIZTYPE_GRIDQUIZ	แบบทดสอบ: แบบทำเครื่องหมายในช่องตาราง
+QUIZTYPE_HOTSPOTQUIZ	แบบทดสอบ: แบบเลือกตำแหน่งบนรูปภาพ
+QUIZTYPE_PUZZLEQUIZ	แบบทดสอบ: แบบปริศนา
+QUIZTYPE_MIXQUIZ	แบบทดสอบ: แบบเรียงลำดับ
+CONNECTING	กำลังเชื่อมต่อ...
+SYNCHRONIZE	ซิงโครไนซ์
+SYNCHRONIZED	ซิงโครไนซ์แล้ว
+CONNECT	เชื่อมต่อ
+BUBBLESTYLE_NOT_FOUND	ไม่พบรูปแบบกรอบคำพูด
+LOADING_MACROSET	กำลังโหลดเนื้อหาและทรัพยากร
+ZOOM_LEVEL_NOTIFICATION	คำเตือน: ระดับการย่อ/ขยายของคุณไม่ใช่ 100%
+ctx_html.header_title	วิธีใช้เนื้อหา
+ctx_html.introtext	มีเนื้อหาวิธีใช้ต่อไปนี้อยู่สำหรับเนื้อหาปัจจุบัน คลิกรายการที่คุณต้องการเริ่มต้น
+ctx_html.introtext_noresult	ไม่มีเนื้อหาสำหรับบริบทปัจจุบัน ให้เปิด library จากส่วนหัวหรือใช้การค้นหาเพื่อดึงเนื้อหาเพิ่มเติม
+ctx_html.query_empty	คิวรีว่างเปล่า
+ctx_html.query_malformed	คิวรีไม่ถูกต้อง
+ctx_html.search	การค้นหา
+ctx_html.library	เปิด library
+ctx_html.language	ภาษา
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	การบันทึก
+qr_hint_dlg.dont_bother	ไม่ต้องแสดงอีก
+qr_hint_dlg.hint_end	เสร็จสิ้นการบันทึก
+qr_hint_dlg.hint_pause	หยุดการบันทึกชั่วคราว
+btnOk	ขอบคุณ
+qr_hint_dlg.hint_title	คำแนะนำการบันทึก
+qr_hint_dlg.audio_help	บันทึกข้อความของคุณก่อนเลือกตัวควบคุม
+quiz_error_no_template_file	ข้อผิดพลาด: ไม่พบไฟล์แบบร่าง ระบบจะใช้ค่าตั้งต้น
+qr_hint_dlg.hint_end_1	คีย์ END
+qr_hint_dlg.hint_pause_1	คีย์ PAUSE

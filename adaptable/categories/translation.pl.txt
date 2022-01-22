@@ -1,0 +1,9 @@
+﻿business_process	Procesy biznesowe
+process_tutorials	Szkolenia dot. procesów
+guided_tours	Przewodniki
+training_courses	Szkolenia
+user_assistance	Pomoc użytkownika
+compliance	Zgodność
+tips_tricks	Porady i wskazówki
+faq	Najczęściej zadawane pytania
+misc	Różne

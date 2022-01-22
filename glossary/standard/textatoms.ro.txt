@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Partajare conţinut
+SHARE_BY_MAIL	Partajare via e-mail
+URL_OF_CURRENT_PAGE	URL pagină curentă
+TASK	Sarcină
+GLOSSARY	Glosar
+CONTEXT_INFO	Informaţii context
+CONTEXT_ROLES	Roluri
+CONTEXT_ROLES_NOROLES	Afişare context fără roluri
+CONTEXT_MY_ROLES	Rolurile mele
+CLOSEBUBBLE	Închidere bulă
+MAXBUBBLE	Restaurare bulă
+MINBUBBLE	Minimizare bulă
+VOLUME	Volum
+SETTINGS	Setări
+CLOSE_TASK	Închideţi @{TASK}
+CLOSE	Închidere
+EXIT	Terminare
+SELECTION	Selecţie
+KEYWORD_SEARCH	Căutare cuvânt cheie
+SEARCH	Căutare
+SEARCH_STRING	Şir de căutare
+KEYWORDS	Cuvinte cheie
+SEARCH_CLEAR	Ștergere intrare de căutare
+FILTER	Filtru
+RESOURCES	Resurse
+VIEW	Imagine
+CANCEL	Anulare
+CONTINUING	Continuare
+OK	OK
+PLAY	Redare
+PAUSE	Pauză
+BACK	Înapoi
+PREVIOUS	Anterior
+NEXT	Următor
+PLAYING	Redare
+PAUSED	Pauză
+USERINPUT	Intrare
+IDLE	""
+START	Încărcare pagină...
+RESTART	Relansare
+TEXT	Text
+TITLE	Titlu
+MINIMIZE	Minimizare
+RESTORE	Restaurare
+ACQUIRED_SCORE	Punctaj obţinut
+TEST_RESULT	Rezultat
+TESTDETAILS	Prezentare detalii
+TESTDETAILS1	Mascare detalii
+PRINT	Tipărire pagină
+LESSON	Simulare
+OF	pt.
+DESCRIPTION	Descriere
+FULLSCREEN	Ecran întreg
+TOGGLE_TASKINFO	Afișare/mascare descriere sarcină
+PANEL_VIEWMODE	Mod de afișare panou
+PANEL_TOGGLE	Afișare/mascare panou
+PANEL	Bară laterală/tot conținutul
+BOOKMARK_FAVORITE	Favorit
+CONTENT	Conținut/zonă de reproducere
+TOC	Cuprins
+FAVORITES	Favorite
+RECENT	Istoric pagină
+QRCODE	Cod QR
+QR_URL_TOO_BIG	URL prea mare. Imposibil de generat cod QR.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	Suspendare audio
+AUDIO_PLAY	Redare audio
+AUDIO_PAUSE	Întrerupere audio
+AUDIO_ON	Audio activat
+AUDIO_OFF	Audio dezactivat
+CHANNEL_MASTER	Master
+CHANNEL_BOOKSOUND	Sunet carte
+CHANNEL_NARRATIVE	Narativ
+CHANNEL_EFFECTS	Efecte
+LIB_NOMATCH	Fără concordanţe
+LIB_NOFILTER	Niciun filtru
+LIBFLAG_NEWWIN	Deschidere conţinut într-o fereastră nouă
+LIBFLAG_TITLE	Căutare titlu
+LIBFLAG_SHORTDESC	Căutare descriere scurtă
+LIBFLAG_DESC	Căutare descriere
+LIBFLAG_KEYW	Căutare cuvinte cheie
+LIBFLAG_SLIDES	Căutare conţinut pagină registru
+GUI_TOP_BAR	Bara de sus
+GUI_BOTTOM_BAR	Bara de jos
+ORIENTATION_TOGGLE_TOP	Bara de sus
+ORIENTATION_TOGGLE_BOTTOM	Bara de jos
+FEEDBACK	Feedback la autor
+FEEDBACK_TITLE	Feedback-ul dvs.
+FEEDBACK_QUESTION	Aveţi comentarii la această simulare?
+FEEDBACK_MISTAKE	Am descoperit o greşeală
+FEEDBACK_COMMENTS	Am comentarii, dorinţe
+FEEDBACK_SEND	Expediere feedback
+SEND_CONTENT	Partajare conţinut
+SEND_CONTENT_SUBJECT	Conţinut recomandat
+SEND_CONTENT_TEMPLATE	Buna ziua,\n\nAcest context s-ar putea să vă intereseze. \n\nLegendă imagine: @{SEND_CAPTION}\nLegătură: @{SEND_LINK}\n\nToate cele bune\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	A apărut o eroare. Contactați administratorul dvs.
+ERROR_GENERAL	Eroare internă.
+ERROR_1	Un element de blocare popup previne redarea simulării.
+ERROR_1.h	Un Popup Blocker a împiedicat deschiderea unei noi ferestre browser. Închideţi Popup Blocker-ul sau dezactivaţi-l pentru acest domeniu.
+ERROR_2	Fişierul de configurare necesar nu a putut fi încărcat.
+ERROR_2.h	@{LESSONPLAYER} nu a putut să încarce un fişier de configurare necesar pt. funcţionalitate corespunzătoare.
+SCORM_LOCATION_ERROR	Evoluţia dvs.nu a putut fi salvată din cauza funcţionalităţii lipsă a sistemului dvs.LMS.
+RESTART_COMPLETED_LMS_LESSON	Începeţi o simulare care a fost deja terminată sau a fost promovată cu succes. Aceasta va reseta toate punctele obţinute anterior la zero şi va anula setarea marcatorului de terminare sau promovare. Sigur doriţi să relansaţi?
+RESTART_Av_LMS_LESSON	Începeţi o simulare care a fost deja terminată sau a fost promovată cu succes. Aceasta va reseta toate punctele obţinute anterior la zero şi va anula setarea marcatorului de terminare sau promovare. Click pe 'OK' pt. relansare sau pe 'Anulare' pt. închidere?
+BOOK_NEXT_CHAPTER	Capitol următor
+BOOK_PREV_CHAPTER	Capitol anterior
+BOOK_NEXT_PAGE	Pagină următoare
+BOOK_PREV_PAGE	Pagină anterioară
+BOOK_INDEX_PAGE	Pagină iniţială
+SLIDE_MOREINFO	Mai multe informaţii
+SLIDE_TIPS	Sugestii
+SLIDE_ATTACH	Anexe
+SLIDE_SHOWATTACH	Afișare anexe
+SLIDE_OPEN	Deschidere
+SLIDE_ADD	Adăugare
+SLIDE_EDIT	Editare
+SLIDE_DELETE	Ștergere
+SLIDE_BUTTONAREA	Bara de reproducere
+HELP	Ajutor
+HELP_REGION_BAR	Shortcut-uri: apăsați pentru a focaliza bara de player
+HELP_REGION_PANEL	Apăsați pentru a focaliza bara laterală
+HELP_REGION_CONTENT	Apăsați pentru a focaliza conținutul
+HELP_LIBRARY	Afişare ajutor @{LIBRARY}
+HELP_TRAINER	Afişare ajutor @{LESSONPLAYER}
+HELP_BOOK	Afişare ajutor @{BOOKPLAYER}
+DEMO_START	Date exemplificative
+DEMO_START1	În modul demo puteţi observa rezolvarea unui exerciţiu în cursul utilizării. Urmăriţi demonstraţia, toţi paşii se execută automat.
+DEMO_START2	Cu ajutorul barei de navigaţie din marginea inferioară puteţi întrerupe sau opri demonstraţia. În plus, puteţi sări înainte la pasul următor sau înapoi la cel precedent.
+DEMO_STOP	Modul demo este terminat.
+CONCURRENT_START	Mod concurent
+CONCURRENT_START1	Modul concurent vă arată pas cu pas cum să efectuaţi o sarcină în cadrul aplicaţiei.
+CONCURRENT_START2	Simularea este întreruptă după fiecare etapă pt.a vă da ocazia să terminaţi etapa în aplicaţia reală.
+CONCURRENT_STOP	Modul concurent este terminat.
+PRACTICE_START	Mod exersare
+PRACTICE_START1	În modul de exersare puteţi încerca ceea ce aţi învăţat rezolvând pe cont propriu sarcina din cadrul aplicaţie.
+PRACTICE_START2	Pur şi simplu urmaţi instrucţiunile pas cu pas.
+PRACTICE_STOP	Modul de exersare este terminat.
+TEST_START	Mod test
+TEST_START1	În Modul de test vă puteţi testa cunoştinţele rezolvând pe cont propriu o sarcină în cadrul aplicaţiei: Pe lângă datele exemplificative pe care trebuie să le introduceţi, nu veţi primi instrucţiuni etapă-cu-etapă. Întreaga sarcină este descrisă în fereastra de sarcini pe care o puteţi mări sau minimiza, după caz, cu ajutorul butoanelor din bara de titlu.
+TEST_START2	La terminarea testului veţi primi o evaluare bazată pe paşii executaţi în mod corect. Evaluarea serveşte numai pentru autoapreciere în ce priveşte domeniul exerciţiilor.
+TEST_START3	Vă rugăm să executaţi toate acţiunile cu mare atenţie, deoarece sistemul înregistrează toate greşelile de ortografie şi clicurile executate greşit şi influenţează în mod negativ evaluarea. Dacă decideţi să solicitaţi ajutor la un pas, pierdeţi toate punctele prevăzute pentru pasul respectiv.
+TEST_START4	Punctajul dvs. total va fi afişat la sfârşitul testului. Încercaţi să îndepliniţi punctajul ţintă de @{res_mastery_percent}% .
+TEST_OK	Test promovat
+TEST_OK1	Felicitări, aţi terminat cu succes această sarcină.
+TEST_FAILED	Test nepromovat
+TEST_FAILED1	Deoarece aţi obţinut mai puţine puncte decât cele posibile în @{res_mastery_percent}%, vă recomandăm să parcurgeţi din nou conţinutul acestui curs şi să vă verificaţi din nou cunoştinţele dobândite prin modul test.
+TEST_FINISHED	Acest test a fost doar pt.autoevaluarea dvs. Rezultatele nu vor fi înregistrate sau transmise la terţi.
+TEST_SCORE	Punctaj
+TEST_SCOREVALUE	@{res_collected_points} din  @{res_possible_points}
+FREEPRESENTATION_START	Mod de prezentare liber
+FREEPRESENTATION_START1	Modul de prezentare liber vă permite să executaţi în proces în cadrul unei simulări.
+FREEPRESENTATION_START2	Executaţi acţiunile etapă-cu-etapă. Utilizaţi tasta F1 pt.a obţine ajutor.
+FREEPRESENTATION_STOP	Prezentarea liberă este terminată.
+GUIDEDPRESENTATION_START	Mod de prezentare ghidat
+GUIDEDPRESENTATION_START1	Modul de prezentare ghidat execută automat un proces în cadrul simulării. Un cursor de mouse şi o evidenţiere afişează etapa curentă.
+GUIDEDPRESENTATION_START2	Urmaţi acţiunile etapă-cu-etapă şi confirmaţi ulterior fiecare acţiune.
+GUIDEDPRESENTATION_STOP	Prezentarea ghidată este terminată.
+EXER_FAIL1	Acţiunea pe care aţi efectuat-o a fost incorectă.
+EXER_FAIL2	Acţiunea pe care aţi efectuat-o a fost incorectă. 1 punct este dedus din punctajul dvs. global. Puncte rămase pentru această acţiune: @1_rest-points_.
+EXER_FAIL3	Acţiunea pe care aţi efectuat-o a fost incorectă. 1 punct este dedus pentru fiecare greşeală din punctajul dvs. global. Puncte rămase pentru această acţiune: @1_rest-points_.
+EXER_FAILKEY1	Aţi apăsat pe tasta @1_key_.
+EXER_FAILKEY2	Tastele funcţionale care pot fi utilizate sunt: @1_keys_.
+EXER_FAILRADIO	Toate butoanele valabile sunt evidenţiate.
+EXER_FAILINPUT	Toate zonele de text valabile sunt evidenţiate.
+EXER_FAILSELECT	Toate casetele de selecţie valabile sunt evidenţiate.
+EXER_FAILDRAG	Aţi efectuat o operaţie de tragere @1_keys_ nevalabilă.
+EXER_FAILDRAG1	Executaţi o operaţie de tragere @1_keys_ în cadrul zonei evidenţiate.
+EXER_FAILDROP	Aţi efectuat o operaţie de plasare @1_keys_ nevalabilă.
+EXER_FAILDROP1	Executaţi o operaţie de plasare @1_keys_ în cadrul zonei evidenţiate.
+EXER_FAILDBLCLICK	Aţi efectuat un dublu click @1_keys_ nevalabil.
+EXER_FAILDBLCLICK1	Executaţi un dublu click @1_keys_ în cadrul zonei evidenţiate.
+EXER_FAILCLICK	Aţi @1_keys_ executat click pe o zonă nevalabilă.
+EXER_FAILCLICK1	Toate zonele valabile sunt evidenţiate.
+EXER_FAILCLICK2	Aţi efectuat un click @1_keys_ nevalabil.
+EXER_FAILCLICK3	Executaţi un click @1_keys_ în cadrul zonei evidenţiate.
+EXER_FAILENTER	Aţi executat un mouseover @1_keys_ nevalabil.
+EXER_FAILENTER1	Executaţi un mouseover @1_keys_ în cadrul zonei evidenţiate.
+EXER_FAILMCLICK	Un middle-click @1_keys_ nu este permis.
+EXER_WOULDGOON	(Notă: în caz contrar, continuat automat)
+EXER_YOURINPUT	Aţi introdus "@1_input_".
+EXER_TEXTINPUT	Vă rugăm să introduceţi "@1" în câmpul de introducere "@2" !
+EXER_SELECT	Selectaţi intrarea "@1" !
+EXER_GOON	Salt la etapă următoare
+EXER_SHOWHELP	Da, afişare ajutor
+EXER_TRYAGAIN	Încercaţi din nou
+EXER_ASK4HELP	Aveţi nevoie de ajutor?
+EXER_ONLY_VALID	Acţiuni permise sunt:
+EXER_FORM_PREFIX	Introduceţi următoarele valori:
+EXER_OR	sau
+EXER_AND	şi
+SCORE	Puncte
+SCORE_REDUCED	Puncte posibile pt.această etapă reduse la
+TOUR_START	Început simulare
+TOUR_STOP	Întrerupere simulare
+TOUR_END	Sfârşit simulare
+TOUR_PLAY	Buton continuare
+TOUR_JUMP	A sărit la altă etapă din cadrul simulării.
+TOUR_PREV	Înapoi
+TOUR_NEXT	Următor
+USER_ACTION_CORRECT_ACTION	Cursantul a efectuat cu succes etapa.
+USER_ACTION_WRONG_ACTION	Cursantul a făcut o greşeală.
+USER_ACTION_GOON	Cursantul a făcut click pe "continuare", fără puncte pt.această etapă.
+USER_ACTION_GOON_AUTO	Din cauza numărului de greşeli, simularea a continuat automat.
+USER_ACTION_HELP	Cursantul a solicitat ajutor, fără puncte pt.această etapă.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Cursantul a deschis o casetă de text.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Cursantul a închis o casetă de text.
+QUIZ_CORRECT_RESPONSE	Răspuns corect
+QUIZ_STUDENT_RESPONSE	Răspunsul cursantului
+QUIZ_LATENCY	Timp
+QUIZ_SCORE	Punctaj obţinut
+QUIZ_REQ_SCORE	Punctaj necesar
+QUIZ_MAX_SCORE	Punctaj maxim
+QUIZ_TIMEOUT_REACHED	Depăşire timp atinsă
+QUIZTYPE_MCHOICE	Quiz: selecţie multiplă
+QUIZTYPE_SQMAQUIZ	Quiz: completaţi câmpurile
+QUIZTYPE_FIBQUIZ	Quiz: completaţi spaţiile goale
+QUIZTYPE_MATCHQUIZ	Quiz: comparaţie
+QUIZTYPE_CONNQUIZ	Quiz: conexiune
+QUIZTYPE_SCALEQUIZ	Quiz: control glisare
+QUIZTYPE_GRIDQUIZ	Quiz: grilă
+QUIZTYPE_HOTSPOTQUIZ	Quiz: hotspot
+QUIZTYPE_PUZZLEQUIZ	Quiz: puzzle
+QUIZTYPE_MIXQUIZ	Quiz: sortare
+CONNECTING	Conectare...
+SYNCHRONIZE	Sincronizare
+SYNCHRONIZED	Sincronizat
+CONNECT	Conectare
+BUBBLESTYLE_NOT_FOUND	Stil de bulă negăsit.
+LOADING_MACROSET	Încărcare conţinut şi resurse.
+ZOOM_LEVEL_NOTIFICATION	Avertizare: Nivelul dvs. de zoom este diferit de 100%.
+ctx_html.header_title	Ajutor context
+ctx_html.introtext	Următoarele conţinuturi de ajutor sunt disponibile pt.contextul curent. Click pe poziţia pe care doriţi să o lansaţi.
+ctx_html.introtext_noresult	Niciun conţinut disponibil pt.contextul curent. Deschideţi biblioteca din antet sau utilizaţi căutarea pt.a obţine mai mult conţinut.
+ctx_html.query_empty	Query gol.
+ctx_html.query_malformed	Query nevalabil.
+ctx_html.search	Căutare
+ctx_html.library	Deschidere bibliotecă
+ctx_html.language	Limbă
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Înregistrare
+qr_hint_dlg.dont_bother	Nu se mai afişează
+qr_hint_dlg.hint_end	Terminați înregistrarea.
+qr_hint_dlg.hint_pause	Întrerupeți înregistrarea.
+btnOk	Vă mulțumim
+qr_hint_dlg.hint_title	Sugestii de înregistrare
+qr_hint_dlg.audio_help	Înregistrați textul înainte de a selecta un control.
+quiz_error_no_template_file	Eroare: fișierul șablon nu a putut fi găsit. Va fi utilizat cel implicit.
+qr_hint_dlg.hint_end_1	Tasta END
+qr_hint_dlg.hint_pause_1	Tasta PAUSE

@@ -1,0 +1,36 @@
+﻿SHARE_CONTENT	Bağlantıyı paylaş
+SHARE_BY_MAIL	E-posta gönder
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	Rolleri
+CLOSEBUBBLE	Kabarcığı kapat
+MAXBUBBLE	Kabarcığı geri yükle
+MINBUBBLE	Kabarcığı simge durumuna küçült
+SEARCH	Ara
+PLAYING	
+QR_URL_TOO_BIG	Url çok büyük. QR kodu üretilemiyor.
+CHANNEL_NARRATIVE	Öykü
+CHANNEL_EFFECTS	Etkiler
+LIBFLAG_SLIDES	Search book page content
+FEEDBACK_QUESTION	Bu derse ilişkin yorumlarınız var mı?
+FEEDBACK_COMMENTS	Yorumlarım, isteklerim var
+SEND_CONTENT	İçerik bağlantısını gönder
+ERROR_2.h	@{LESSONPLAYER}, düzgün çalışma için gerekli olan konfigürasyon dosyasını yükleyemedi.
+CONCURRENT_START	Eş zamanlı modu
+CONCURRENT_START1	Eş zamanlı modu size uygulamada bir görevi adım adım nasıl yürüteceğinizi gösterir.
+CONCURRENT_STOP	Eş zamanlı modu sonlandırıldı.
+EXER_FAIL1	Yürüttüğünüz işlem yanlıştı.
+EXER_ONLY_VALID	İzin verilen işlemler:
+USER_ACTION_CORRECT_ACTION	Öğrenci, adımı başarıyla uyguladı.
+USER_ACTION_WRONG_ACTION	Öğrenci bir hata yaptı.
+USER_ACTION_GOON	Öğrenci devamı tıkladı, bu adım için puan yok.
+USER_ACTION_HELP	Öğrenci yardım istedi, bu adım için puan yok.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Öğrenci metin kutusunu açtı.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Öğrenci metin kutusunu kapattı.
+QUIZ_STUDENT_RESPONSE	Öğrencinin cevabı
+QUIZ_MAX_SCORE	Azami puan
+QUIZTYPE_SCALEQUIZ	Sınav: Kaydırma kontrolü
+BUBBLESTYLE_NOT_FOUND	Kabarcık türü bulunamadı.
+ctx_html.introtext_noresult	Geçerli bağlam için içerik mevcut değil. Başlıktan @{LIBRARY} açın veya daha geniş içerik için aramayı kullanın.
+ctx_html.search	Arama
+ctx_html.library	@{LIBRARY} aç
+	

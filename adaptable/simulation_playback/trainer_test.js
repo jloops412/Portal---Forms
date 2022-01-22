@@ -1,0 +1,17 @@
+﻿{
+"hide_panel":false,
+"panel_nav_disabled":true,
+"panel_show_topic_title":false,
+"show_stoppage":false,
+"view_mode":"fit",
+"mobile_view_mode":"fit",
+"keys_play":"",
+"keys_pause":"",
+"keys_stop":"",
+"keys_back":"left",
+"keys_next":"",
+"keys_feedback":"",
+"feedback_enabled":false,
+"feedback_force_end":false,
+"aicc_tracking":"score",
+"ok":true}

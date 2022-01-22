@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Kongsi Kandungan
+SHARE_BY_MAIL	Kongsi melalui e-mel
+URL_OF_CURRENT_PAGE	URL halaman semasa
+TASK	Tugasan
+GLOSSARY	Glosari
+CONTEXT_INFO	Maklumat Konteks
+CONTEXT_ROLES	Peranan
+CONTEXT_ROLES_NOROLES	Tunjuk konteks tanpa peranan
+CONTEXT_MY_ROLES	Peranan Saya
+CLOSEBUBBLE	Tutup gelembung
+MAXBUBBLE	Kembalikan gelembung
+MINBUBBLE	Kecilkan gelembung
+VOLUME	Kelantangan
+SETTINGS	Tetapan
+CLOSE_TASK	Tutup @{TASK}
+CLOSE	Tutup
+EXIT	Keluar
+SELECTION	Pilihan
+KEYWORD_SEARCH	Carian Kata kunci
+SEARCH	Cari
+SEARCH_STRING	Rentetan carian
+KEYWORDS	Kata kunci
+SEARCH_CLEAR	Kosongkan Input Carian
+FILTER	Penapis
+RESOURCES	Sumber
+VIEW	Pandangan
+CANCEL	Batal
+CONTINUING	Teruskan
+OK	OK
+PLAY	Main
+PAUSE	Jeda
+BACK	Kembali
+PREVIOUS	Sebelumnya
+NEXT	Seterusnya
+PLAYING	Memainkan
+PAUSED	Jeda
+USERINPUT	Input
+IDLE	""
+START	Memuatkan halaman...
+RESTART	Mula semula
+TEXT	Teks
+TITLE	Tajuk
+MINIMIZE	Minimumkan
+RESTORE	Pulihkan
+ACQUIRED_SCORE	Skor yang Diperoleh
+TEST_RESULT	Hasil
+TESTDETAILS	Tunjukkan Butiran
+TESTDETAILS1	Sembunyikan Butiran
+PRINT	Cetak Halaman
+LESSON	Simulasi
+OF	daripada
+DESCRIPTION	Perihalan
+FULLSCREEN	Skrin penuh
+TOGGLE_TASKINFO	Tunjukkan/Sembunyikan Perihalan Tugas
+PANEL_VIEWMODE	Mod Paparan Panel
+PANEL_TOGGLE	Tunjukkan/Sembunyikan Panel
+PANEL	Bar Sisi/Semua Kandungan
+BOOKMARK_FAVORITE	Kegemaran
+CONTENT	Kandungan/Bahagian Main Semula
+TOC	Kandungan
+FAVORITES	Kegemaran
+RECENT	Sejarah Halaman
+QRCODE	Kod QR
+QR_URL_TOO_BIG	Url terlalu besar. Tidak dapat menjana kod QR.
+CTRLKEY	ctrl
+ALTKEY	alt
+SHIFTKEY	shift
+AUDIO_MUTE	Redamkan Audio
+AUDIO_PLAY	Main Audio
+AUDIO_PAUSE	Jeda Audio
+AUDIO_ON	Buka audio
+AUDIO_OFF	Tutup Audio
+CHANNEL_MASTER	Induk
+CHANNEL_BOOKSOUND	Bunyi buku
+CHANNEL_NARRATIVE	Naratif
+CHANNEL_EFFECTS	Kesan
+LIB_NOMATCH	Tiada padanan
+LIB_NOFILTER	Tiada penapis
+LIBFLAG_NEWWIN	Buka kandungan dalam tetingkap baru
+LIBFLAG_TITLE	Cari tajuk
+LIBFLAG_SHORTDESC	Cari perihalan pendek
+LIBFLAG_DESC	Cari perihalan
+LIBFLAG_KEYW	Cari kata kunci
+LIBFLAG_SLIDES	Cari kandungan halaman buku
+GUI_TOP_BAR	Bar atas
+GUI_BOTTOM_BAR	Bar bawah
+ORIENTATION_TOGGLE_TOP	Bar atas
+ORIENTATION_TOGGLE_BOTTOM	Bar bawah
+FEEDBACK	Maklum balas kepada penulis
+FEEDBACK_TITLE	Maklum balas anda
+FEEDBACK_QUESTION	Adakah anda mempunyai komen kepada simulasi ini?
+FEEDBACK_MISTAKE	Saya telah menemui kesilapan
+FEEDBACK_COMMENTS	Saya mempunyai komen, ingin
+FEEDBACK_SEND	Hantar maklum balas
+SEND_CONTENT	Kongsi Kandungan
+SEND_CONTENT_SUBJECT	Kandungan dicadangkan
+SEND_CONTENT_TEMPLATE	Hai,\n\nKandungan ini mungkin menarik untuk anda. \n\nKapsyen: @{SEND_CAPTION}\nPautan: @{SEND_LINK}\n\nSekian\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Ralat berlaku. Sila hubungi pentadbir anda.
+ERROR_GENERAL	Ralat dalaman.
+ERROR_1	Satu penyekat timbul menghalang simulasi daripada dimainkan.
+ERROR_1.h	Satu penyekat timbul telah menghalang pelayar tetingkap baru daripada dibuka.OK: Tutup penyekat timbul atau mematikannya untuk domain ini.
+ERROR_2	Fail konfigurasi yang diperlukan tidak dapat dimuat.
+ERROR_2.h	@{LESSONPLAYER} tidak dapat memuat fail konfigurasi yang diperlukan untuk kefungsian yang betul.
+SCORM_LOCATION_ERROR	Perkembangan anda tidak dapat diselamatkan disebabkan hilang fungsi sistem LMS anda.
+RESTART_COMPLETED_LMS_LESSON	Anda memulakan simulasi yang telah disiapkan atau berjaya lulus. Ini akan mengesetkan semula semua mata yang dicapai kepada sebelumnya kepada sifar dan nyahset bendera siap atau lulus. Adakah anda benar-benar ingin memulakan semula?
+RESTART_Av_LMS_LESSON	Anda memulakan simulasi yang telah disiapkan atau berjaya lulus. Ini akan mengesetkan semula semua mata yang dicapai kepada sebelumnya kepada sifar dan nyahset bendera siap atau lulus. Klik 'OK' untuk memulakan semula atau 'Batal' untuk menutup?
+BOOK_NEXT_CHAPTER	Bab Seterusnya
+BOOK_PREV_CHAPTER	Bab Sebelumnya
+BOOK_NEXT_PAGE	Halaman Seterusnya
+BOOK_PREV_PAGE	Halaman Sebelumnya
+BOOK_INDEX_PAGE	Halaman Mula
+SLIDE_MOREINFO	Maklumat Lanjut
+SLIDE_TIPS	Petua
+SLIDE_ATTACH	Lampiran
+SLIDE_SHOWATTACH	Tunjukkan Lampiran
+SLIDE_OPEN	Buka
+SLIDE_ADD	Tambah
+SLIDE_EDIT	Edit
+SLIDE_DELETE	Padam
+SLIDE_BUTTONAREA	Bar Main Semula
+HELP	Bantu
+HELP_REGION_BAR	Pintasan: Tekan untuk fokuskan bar pemain
+HELP_REGION_PANEL	Tekan untuk fokuskan bar sisi
+HELP_REGION_CONTENT	Tekan untuk fokuskan kandungan
+HELP_LIBRARY	Tunjukkan bantuan @{LIBRARY}
+HELP_TRAINER	Tunjukkan bantuan @{LESSONPLAYER}
+HELP_BOOK	Tunjukkan bantuan @{BOOKPLAYER}
+DEMO_START	Mod Demo
+DEMO_START1	Dalam Mod Demo anda boleh melihat aktiviti yang dilakukan dalam aplikasi. Hanya mengikut simulasi, semua langkah-langkah yang akan dijalankan secara automatik.
+DEMO_START2	Anda boleh menggunakan bar navigasi di bahagian bawah skrin untuk menjedakan atau menghentikan demo. Anda juga boleh melompat ke hadapan atau ke belakang atau ke langkah sebelumnya.
+DEMO_STOP	Mod Demo telah tamat.
+CONCURRENT_START	Mod Serentak
+CONCURRENT_START1	Mod Serentak menunjukkan anda langkah demi langkah bagaimana untuk melaksanakan tugas dalam aplikasi.
+CONCURRENT_START2	Simulasi disampuk selepas setiap langkah untuk memberi anda peluang untuk melengkapkan langkah pada aplikasi sebenar.
+CONCURRENT_STOP	Mod Serentak telah tamat.
+PRACTICE_START	Mod Latihan
+PRACTICE_START1	Dalam Mod Amalan anda boleh mencuba apa yang anda telah belajar dengan menyelesaikan tugas dalam aplikasi oleh diri sendiri.
+PRACTICE_START2	Hanya ikut arahan langkah demi langkah.
+PRACTICE_STOP	Mod Latihan selesai.
+TEST_START	Mod Ujian
+TEST_START1	Dalam Mod Ujian anda boleh menguji pengetahuan anda dengan menyelesaikan tugas dalam aplikasi oleh anda sendiri: Selain daripada sampel data yang perlu anda masukkan, anda tidak akan menerima apa-apa arahan langkah demi langkah. Tugas keseluruhan digambarkan dalam tetingkap tugas yang anda boleh membesarkan atau kurangkan seperti yang diperlukan menggunakan butang di tajuk bar.
+TEST_START2	Pada akhir ujian, skor anda akan dikira berdasarkan bilangan langkah-langkah betul yang diselesaikan. Pemarkahan ini adalah untuk penilaian diri anda di kawasan tugas.
+TEST_START3	Sila berhati-hati apa yang anda lakukan kerana sistem akan mendaftarkan mana-mana catatan yang silap eja dan klik salah dan mengurangkan skor anda dengan sewajarnya. Jika anda memutuskan untuk menerima bantuan daripada sistem untuk melengkapkan langkah, skor anda untuk langkan tertentu akan ditetapkan kepada sifar.
+TEST_START4	Jumlah skor anda akan dipaparkan pada akhir ujian. Sila cuba penuhi skor sasaran sebanyak @{res_mastery_percent}% .
+TEST_OK	Ujian lulus
+TEST_OK1	Tahniah, anda telah berjaya menyelesaikan tugas ini.
+TEST_FAILED	Ujian gagal
+TEST_FAILED1	Oleh kerana anda mencapai kurang daripada @{res_mastery_percent}% skor maksimum yang mungkin, kami mengesyorkan supaya anda pergi ke kandungan yang diliputi oleh kursus latihan ini dan sekali lagi menguji pengetahuan anda dalam mod ujian.
+TEST_FINISHED	Ujian ini adalah untuk penilaian diri anda sahaja. Keputusan tidak akan direkodkan atau diberikan kepada pihak ketiga.
+TEST_SCORE	Skor
+TEST_SCOREVALUE	@{res_collected_points} daripada @{res_possible_points}
+FREEPRESENTATION_START	Mod Persembahan Bebas
+FREEPRESENTATION_START1	Mod Persembahan Bebas membolehkan anda untuk melaksanakan proses dalam simulasi.
+FREEPRESENTATION_START2	Laksana tindakan langkah demi langkah. Guna kekunci F1 untuk mendapat bantuan.
+FREEPRESENTATION_STOP	Persembahan Bebas selesai.
+GUIDEDPRESENTATION_START	Mod Persembahan Berpandu
+GUIDEDPRESENTATION_START1	Mod Persembahan Berpandu melaksanakan proses dalam simulasi secara automatik. Penunjuk tetikus dan serlahan memaparkan langkah semasa.
+GUIDEDPRESENTATION_START2	Ikut tindakan langkah demi langkah dan sahkan setiap tindakan selepas itu.
+GUIDEDPRESENTATION_STOP	Persembahan Berpandu selesai.
+EXER_FAIL1	Tindakan anda dilakukan adalah tidak betul.
+EXER_FAIL2	Tindakan anda dilakukan adalah tidak betul. 1 mata sedang ditolak dari markah keseluruhan anda. Baki mata untuk tindakan ini: @1_rest-points_.
+EXER_FAIL3	Tindakan anda dilakukan adalah tidak betul. 1 mata sedang ditolak bagi setiap kesilapan dari markah keseluruhan anda. Baki mata untuk tindakan ini: @1_rest-points_.
+EXER_FAILKEY1	Anda menekan kekunci @1_key_.
+EXER_FAILKEY2	Kekunci fungsi yang boleh digunakan adalah: @1_keys_.
+EXER_FAILRADIO	Semua butang yang sah diserlahkan.
+EXER_FAILINPUT	Semua kawasan teks yang sah diserlahkan.
+EXER_FAILSELECT	Semua kotak dipilih yang sah diserlahkan.
+EXER_FAILDRAG	Anda menjalankan operasi seret @1_keys_ yang tidak sah.
+EXER_FAILDRAG1	Sila laksanakan operasi seret @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILDROP	Anda jalankan operasi jatuh @1_keys_ yang tidak sah.
+EXER_FAILDROP1	Sila laksanakan operasi jatuh @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILDBLCLICK	Anda menjalankan klik @1_keys_ yang tidak sah.
+EXER_FAILDBLCLICK1	Sila laksanakan dwiklik @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILCLICK	Anda @1_keys_ mengklik satu kawasan yang tidak sah.
+EXER_FAILCLICK1	Semua kawasan yang sah diserlahkan .
+EXER_FAILCLICK2	Anda menjalankan klik @1_keys_ yang tidak sah.
+EXER_FAILCLICK3	Sila laksanakan klik @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILENTER	Anda menjalankan legaran tetikus @1_keys_ yang tidak sah.
+EXER_FAILENTER1	Sila laksanakan legaran tetikus @1_keys_ dalam kawasan yang diserlahkan.
+EXER_FAILMCLICK	@1_keys_ klik tengah tidak dibenarkan.
+EXER_WOULDGOON	(Nota: Jika tidak, diteruskan secara automatik)
+EXER_YOURINPUT	Anda telah memasukkan "@1_input_".
+EXER_TEXTINPUT	Sila masukkan "@1" ke dalam medan input "@2"!
+EXER_SELECT	Sila pilih entri "@1"!
+EXER_GOON	Pergi ke langkah seterusnya
+EXER_SHOWHELP	Ya, tunjukkan bantuan
+EXER_TRYAGAIN	Cuba sekali lagi
+EXER_ASK4HELP	Adakah anda memerlukan bantuan?
+EXER_ONLY_VALID	Tindakan yang dibenarkan adalah:
+EXER_FORM_PREFIX	Masukkan nilai berikut:
+EXER_OR	atau
+EXER_AND	dan
+SCORE	Titik
+SCORE_REDUCED	Kemungkinan mata untuk langkah ini dikurangkan kepada
+TOUR_START	Simulasi bermula
+TOUR_STOP	Simulasi henti paksa
+TOUR_END	Simulasi tamat
+TOUR_PLAY	Butang teruskan
+TOUR_JUMP	Melangkau ke langkah lain dalam simulasi.
+TOUR_PREV	Kembali
+TOUR_NEXT	Seterusnya
+USER_ACTION_CORRECT_ACTION	Pelajar telah berjaya melaksanakan langkah.
+USER_ACTION_WRONG_ACTION	Pelajar membuat kesilapan.
+USER_ACTION_GOON	Pelajar yang mengklik pada "teruskan", tidak ada mata untuk langkah ini.
+USER_ACTION_GOON_AUTO	Disebabkan jumlah kesilapan, simulasi diteruskan secara automatik.
+USER_ACTION_HELP	Pelajar meminta bantuan, tidak ada mata untuk langkah ini.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Pelajar membuka kotak teks.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Pelajar menutup kotak teks.
+QUIZ_CORRECT_RESPONSE	Maklum balas yang tepat
+QUIZ_STUDENT_RESPONSE	Jawapan pelajar
+QUIZ_LATENCY	Masa
+QUIZ_SCORE	Skor yang Diperoleh
+QUIZ_REQ_SCORE	Skor yang Diperlukan
+QUIZ_MAX_SCORE	Skor Maksimum
+QUIZ_TIMEOUT_REACHED	Telah tamat masa 
+QUIZTYPE_MCHOICE	Kuiz: Aneka pilihan
+QUIZTYPE_SQMAQUIZ	Kuiz: Isikan medan
+QUIZTYPE_FIBQUIZ	Kuiz: Isi yang kosong
+QUIZTYPE_MATCHQUIZ	Kuiz: Pemadanan
+QUIZTYPE_CONNQUIZ	Kuiz: Sambungan
+QUIZTYPE_SCALEQUIZ	Kuiz: Kawalan gelongsor
+QUIZTYPE_GRIDQUIZ	Kuiz: Grid
+QUIZTYPE_HOTSPOTQUIZ	Kuiz: Kawasan khas
+QUIZTYPE_PUZZLEQUIZ	Kuiz: Teka-Teki
+QUIZTYPE_MIXQUIZ	Kuiz: Pengisihan
+CONNECTING	Sambungkan...
+SYNCHRONIZE	Segerak
+SYNCHRONIZED	Disegerakkan
+CONNECT	Sambungkan
+BUBBLESTYLE_NOT_FOUND	Gaya gelembung tidak ditemui.
+LOADING_MACROSET	Memuat kandungan dan sumber
+ZOOM_LEVEL_NOTIFICATION	Amaran: Tahap zum anda berlainan daripada 100%.
+ctx_html.header_title	Bantuan Konteks
+ctx_html.introtext	Kandungan bantuan berikut tersedia untuk konteks semasa. Klik item anda ingin mula.
+ctx_html.introtext_noresult	Tiada kandungan tersedia untuk konteks semasa. Buka library dari pengepala atau gunakan carian untuk mendapatkan kandungan selanjutnya.
+ctx_html.query_empty	Pertanyaan kosong.
+ctx_html.query_malformed	Pertanyaan tidak sah.
+ctx_html.search	Cari
+ctx_html.library	Buka library
+ctx_html.language	Bahasa
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Rakaman
+qr_hint_dlg.dont_bother	Jangan tunjukkan lagi
+qr_hint_dlg.hint_end	Selesai merakam.
+qr_hint_dlg.hint_pause	Jeda rakaman.
+btnOk	Terima Kasih
+qr_hint_dlg.hint_title	Pembayang Rakaman
+qr_hint_dlg.audio_help	Rekod teks anda sebelum memilih kawalan.
+quiz_error_no_template_file	Ralat: Fail templat tidak ditemui. Lalai akan digunakan.
+qr_hint_dlg.hint_end_1	Kekunci END
+qr_hint_dlg.hint_pause_1	Kekunci PAUSE

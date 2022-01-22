@@ -1,0 +1,11 @@
+﻿LIBRARY	library
+SHARE_CONTENT	Chia sẻ liên kết
+SHARE_BY_MAIL	Gửi email
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	Vai trò ngữ cảnh
+PLAY	Tiếp tục
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Gửi liên kết nội dung
+ERROR_2.h	@{LESSONPLAYER} không thể tải tập tin cấu hình cần thiết để có được chức năng thích hợp.
+	

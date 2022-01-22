@@ -1,0 +1,13 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Dela länk
+SHARE_BY_MAIL	Skicka e-post
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Skicka innehållslänk
+ERROR_2.h	Kursledaren kunde inte läsa in en konfigureringsfil som behövs för korrekt funktion.
+ctx_html.introtext_noresult	Innehåll är inte tillgängligt för aktuell kontext. öppna @{LIBRARY} från huvudet eller använd sökning för att hämta mer innehåll.
+ctx_html.library	Öppna @{LIBRARY}
+	

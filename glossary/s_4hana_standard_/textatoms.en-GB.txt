@@ -1,0 +1,5 @@
+﻿PLAYING	
+SEND_CONTENT	Send content link
+ctx_html.introtext_noresult	No content available for the current context. Open the @{LIBRARY} from the header or use the search to get further content.
+ctx_html.library	Open @{LIBRARY}
+	

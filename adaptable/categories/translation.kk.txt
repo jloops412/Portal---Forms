@@ -1,0 +1,9 @@
+﻿business_process	Бизнес процестер
+process_tutorials	Процесс оқулықтары
+guided_tours	Қадамдық нұсқаулықтар
+training_courses	Жаттығу курстары
+user_assistance	Пайдаланушы көмекшісі
+compliance	Сәйкестік
+tips_tricks	Кеңестер мен айла-тәсілдер
+faq	Жиі қойылатын сұрақтар
+misc	Басқа

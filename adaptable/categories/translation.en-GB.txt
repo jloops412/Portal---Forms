@@ -1,0 +1,9 @@
+﻿business_process	Business Processes
+process_tutorials	Process Tutorials
+guided_tours	Guided Tours
+training_courses	Training Courses
+user_assistance	User Assistance
+compliance	Compliance
+tips_tricks	Tips & Tricks
+faq	FAQ
+misc	Miscellaneous

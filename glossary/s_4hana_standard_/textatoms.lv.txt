@@ -1,0 +1,12 @@
+﻿LIBRARY	library
+LESSONPLAYER	trainer
+SHARE_CONTENT	Kopīgot saiti
+SHARE_BY_MAIL	Sūtīt e-pasta ziņojumu
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Sūtīt satura saiti
+ERROR_2.h	Kursa vadītājs nevarēja ielādēt pareizai funkcionalitātei nepieciešamo konfigurācijas failu.
+ctx_html.introtext_noresult	Pašreizējam kontekstam saturs nav pieejams. Atveriet @{LIBRARY}, izm. galveni, vai izm, meklēšanu, lai iegūtu vairāk satura.
+ctx_html.library	Atvērt @{LIBRARY}
+	

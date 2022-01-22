@@ -1,0 +1,13 @@
+﻿SHARE_CONTENT	Inhalte teilen
+SHARE_BY_MAIL	Teilen per E-Mail
+PLAYING	
+LIBFLAG_SLIDES	Buchseiteninhalte durchsuchen
+SEND_CONTENT	Link zu Inhalt senden
+ERROR_2.h	Der @{LESSONPLAYER} konnte eine für die ordnungsgemässe Ausführung erforderliche Konfigurationsdatei nicht laden.
+PRACTICE_START1	Im Übungs-Modus können Sie das Gelernte ausprobieren, indem Sie die Aufgabe innerhalb der Applikation selbst lösen.
+EXER_FAILINPUT	Alle zulässigen Eingabefelder sind markiert.
+QUIZ_TIMEOUT_REACHED	Timout erreicht
+BUBBLESTYLE_NOT_FOUND	Bubble-Stil nicht gefunden.
+ctx_html.introtext_noresult	Für aktuellen Kontext ist kein Inhalt verfügbar. Öffnen Sie die @{LIBRARY} über die Titelzeile oder verwenden Sie die Suchfunktion, um nach weiteren Inhalten zu suchen.
+ctx_html.library	@{LIBRARY} öffnen
+	

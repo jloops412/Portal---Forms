@@ -1,0 +1,262 @@
+﻿@charset "utf-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    outline:hidden;
+    background-color:transparent;
+    -ms-high-contrast-adjust:none;
+}
+
+body {
+    background: transparent url(../img/sh.png) repeat-x top left;
+    overflow:hidden;
+}
+
+#bodyBottom {
+    border-top: solid 1px #ddd;
+    background-position: left -30px;
+}
+
+h1 {
+    color:#fff;
+    font-family:arial,sans-serif;
+    font-size:14px;
+    font-weight:bold;
+    margin:0 0 0 150px;
+    height:35px;
+    padding:14px 0 0;
+    display:inline-block;
+    width:550px;
+}
+h1 span {
+    height:50px;
+    width:500px;
+    width:inherit;
+    display:block;
+    position:absolute;
+    left:0;
+    top:0;
+    margin:0;
+}
+
+a {
+    outline: none;
+}
+
+div.stopScale div.logo {
+    background: transparent url(../img/s.png) no-repeat -205px -279px;
+    display:block;
+    height:44px;
+    width:120px;
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+div.stopScale {
+    display: block; 
+    position: relative; 
+    min-width: 400px; 
+    margin: 0pt;
+    padding: 0pt; 
+    height:44px;
+    white-space:nowrap;
+    overflow:hidden;
+}
+
+
+.linksBar {
+    display:inline-block;
+    position:relative;
+    bottom:-1px;
+}
+
+#bodyBottom .linksBar {
+    border-top: solid 1px #ccc;
+    border-bottom: solid 1px white;
+    position:absolute;
+    left:250px;
+    top:7px;
+}
+
+.linksBar a {
+    font-size:9px;
+    color:#555;
+    font-family:verdana,sans-serif;
+    text-decoration:none;
+    padding: 0px 20px 2px 3px;
+    float:left;
+    margin:0;
+    background: transparent url(../img/divider.gif) no-repeat right -1px;
+}
+
+.linksBar a:hover {
+    color: #F0AB00;
+}
+
+.linksBar a.recentBC {
+    background-image: none;
+}
+
+.wannaAction {
+    height: 30px;
+    width: 250px;
+    position: absolute;
+    top: 8px;
+    right: 5px;
+}
+
+.wannaAction div {
+    float: right;
+    margin-left:2px;
+    height: 30px;
+    width:30px;
+    overflow:hidden;
+    background-image: url(../img/s.png);
+    background-repeat: no-repeat;
+}
+
+.wannaAction div a {
+    background-position: center 1px;
+    background-repeat:no-repeat;
+    display:block;
+    height:28px;
+}
+
+#searchBar {
+    position:absolute;
+    top: -5px;
+    width: 200px;
+    left: -90px;
+    background: transparent;
+    padding: 0px;
+}
+
+#searchBar input {
+    width: 194px;
+}
+
+#wannaFav {
+    position:relative;
+}
+
+#favMenu {
+    position:absolute;
+    top: -4px;
+    width: 270px;
+    display:block;
+    right: 5px;
+    background: #fcfcfc;
+    padding: 0;
+    margin:0;
+    list-style:none;
+    border: solid 1px #fff;
+}
+
+#favMenu li {
+    float:left;
+}
+
+#favMenu a {
+    color: black;
+    font-size: 11px;
+    padding: 2px 5px;
+    background:none;
+    height: 12px;
+}
+
+#favMenu a:hover {
+    background-color: #F0AB00;
+}
+
+a, a:active, a:hover, a:focus, a:visited {
+    display:block;
+    border:none;
+    text-decoration: none;
+    font-family: verdana, sans-serif;
+}
+
+#wannaExit {
+    background-position: 0 -210px;
+}
+
+#wannaExit:hover {
+    background-position: -30px -210px;
+}
+
+#wannaExit:active {
+    background-position: -60px -210px;
+}
+
+#wannaMail {
+    background-position: 0 -1140px;
+}
+
+#wannaMail:hover {
+    background-position: -30px -1140px;
+}
+
+#wannaMail:active {
+    background-position: -60px -1140px;
+}
+
+#wannaSearch {
+    background-position: 0 -660px;
+}
+
+#wannaSearch:hover {
+    background-position: -30px -660px;
+}
+
+#wannaSearch:active {
+    background-position: -60px -660px;
+}
+
+#wannaIndex {
+    background-position: 0 -1290px;
+}
+
+#wannaIndex:hover {
+    background-position: -30px -1290px;
+}
+
+#wannaIndex:active {
+    background-position: -60px -1290px;
+}
+
+#wannaFav {
+    background-position: 0 -1230px;
+}
+
+#wannaFav:hover {
+    background-position: -30px -1230px;
+}
+
+#wannaFav:active {
+    background-position: -60px -1230px;
+}
+
+#wannaPrint {
+    background-position: 0 -810px;
+}
+
+#wannaPrint:hover {
+    background-position: -30px -810px;
+}
+
+#wannaPrint:active {
+    background-position: -60px -810px;
+}
+
+#wannaBack {
+    background-position: 0 -570px;
+}
+
+#wannaBack:hover {
+    background-position: -30px -570px;
+}
+
+#wannaBack:active {
+    background-position: -60px -570px;
+}

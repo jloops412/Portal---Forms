@@ -1,0 +1,20 @@
+﻿SHARE_CONTENT	Partager le lien
+SHARE_BY_MAIL	Envoyer un e-mail
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_INFO	Information contextuelle
+CONTEXT_ROLES_NOROLES	Afficher contenu sans rôles
+SETTINGS	Options
+CLOSE_TASK	Fermez @{TASK}
+PLAYING	
+AUDIO_MUTE	Audio : muet
+AUDIO_PLAY	Audio : lecture
+AUDIO_PAUSE	Audio : pause
+AUDIO_ON	Audio : marche
+AUDIO_OFF	Audio : arrêt
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Envoyer lien vers contenu
+ERROR_2.h	Le @{LESSONPLAYER} n'a pas pu charger de fichier de configuration requis pour une fonctionnalité propre.
+QUIZ_TIMEOUT_REACHED	Délai d'expiration atteint
+ctx_html.introtext_noresult	Aucun contenu n'est disponible pour le contexte actuel. Ouvrez la @{LIBRARY} à partir de l'en-tête ou utilisez la recherche pour accéder à d'autres contenus.
+ctx_html.library	Ouvrir @{LIBRARY}
+	

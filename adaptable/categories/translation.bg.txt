@@ -1,0 +1,9 @@
+﻿business_process	Бизнес процеси
+process_tutorials	Обработка на учебни програми
+guided_tours	Турове с указания
+training_courses	Курсове на обучение
+user_assistance	Асистент на потребителя
+compliance	Съответствие
+tips_tricks	Съвети и трикове
+faq	Често задавани въпроси
+misc	Други

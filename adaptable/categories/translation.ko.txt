@@ -1,0 +1,9 @@
+﻿business_process	비즈니스 프로세스
+process_tutorials	프로세스 교재
+guided_tours	안내 동영상
+training_courses	교육 과정
+user_assistance	사용자 지원
+compliance	준수
+tips_tricks	유용한 팁
+faq	FAQ
+misc	기타

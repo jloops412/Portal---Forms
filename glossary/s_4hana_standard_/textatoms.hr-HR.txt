@@ -1,0 +1,11 @@
+﻿LESSONPLAYER	trainer
+SHARE_CONTENT	Podijeli vezu
+SHARE_BY_MAIL	Pošalji e-poštu
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Pošalji vezu sadržaja
+ERROR_2.h	Voditelj obuke nije mogao učitati obaveznu datoteku konfiguracije za ispravnu funkcionalnost.
+ctx_html.introtext_noresult	Sadržaj nije raspoloživ za trenutni kontekst. Otvorite @{LIBRARY} iz zaglavlja ili upotrijebite traženje za uzimanje daljnjeg sadržaja.
+ctx_html.library	Otvori @{LIBRARY}
+	

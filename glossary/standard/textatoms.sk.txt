@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Zdieľať obsah
+SHARE_BY_MAIL	Zdieľať e-mailom
+URL_OF_CURRENT_PAGE	URL aktuálnej stránky
+TASK	Úloha
+GLOSSARY	Slovník
+CONTEXT_INFO	Informácie kontextu
+CONTEXT_ROLES	Roly
+CONTEXT_ROLES_NOROLES	Zobraziť kontext bez rolí
+CONTEXT_MY_ROLES	Moje roly
+CLOSEBUBBLE	Zatvoriť bublinu
+MAXBUBBLE	Obnoviť bublinu
+MINBUBBLE	Minimalizovať bublinu
+VOLUME	Objem
+SETTINGS	Nastavenia
+CLOSE_TASK	Zatvorte @{TASK}
+CLOSE	Zatvoriť
+EXIT	Ukončiť
+SELECTION	Výber
+KEYWORD_SEARCH	Hľadanie podľa kľúčových slov
+SEARCH	Hľadať
+SEARCH_STRING	Hľadať reťazec
+KEYWORDS	Kľúčové slová
+SEARCH_CLEAR	Vymazať zadanie vyhľadávania
+FILTER	Filter
+RESOURCES	Zdroje
+VIEW	Zobraziť
+CANCEL	Zrušiť
+CONTINUING	Pokračovať
+OK	OK
+PLAY	Prehrať
+PAUSE	Pozastaviť
+BACK	Späť
+PREVIOUS	Predchádz.
+NEXT	Nasled.
+PLAYING	Prehráva sa
+PAUSED	Pozastaviť
+USERINPUT	Vstup
+IDLE	""
+START	Načítava sa stránka...
+RESTART	Reštartovať
+TEXT	Text
+TITLE	Nadpis
+MINIMIZE	Minimalizovať
+RESTORE	Obnoviť
+ACQUIRED_SCORE	Získané skóre
+TEST_RESULT	Výsledok
+TESTDETAILS	Zobraziť detaily
+TESTDETAILS1	Skryť detaily
+PRINT	Tlačiť stranu
+LESSON	Simulácia
+OF	z
+DESCRIPTION	Popis
+FULLSCREEN	Celá obrazovka
+TOGGLE_TASKINFO	Zobraziť/skryť popis úlohy
+PANEL_VIEWMODE	Režim zobrazenia panela
+PANEL_TOGGLE	Zobraziť/skryť panel
+PANEL	Bočný panel/celý obsah
+BOOKMARK_FAVORITE	Obľúbené
+CONTENT	Obsah/oblasť prehrávania
+TOC	Obsah
+FAVORITES	Obľúbené
+RECENT	História stránky
+QRCODE	QR Kód
+QR_URL_TOO_BIG	Príliš dlhá url. Nedá sa vygenerovať QR kód.
+CTRLKEY	ctrl
+ALTKEY	alt.
+SHIFTKEY	shift
+AUDIO_MUTE	Stlmiť zvuk
+AUDIO_PLAY	Prehrať zvuk
+AUDIO_PAUSE	Pozastaviť zvuk
+AUDIO_ON	Zvuk zap.
+AUDIO_OFF	Zvuk vyp.
+CHANNEL_MASTER	Hlavné
+CHANNEL_BOOKSOUND	Zvuk knihy
+CHANNEL_NARRATIVE	Rozprávanie
+CHANNEL_EFFECTS	Účinky
+LIB_NOMATCH	Žiadne zhody
+LIB_NOFILTER	Žiadny filter
+LIBFLAG_NEWWIN	Otvoriť obsah v novom okne
+LIBFLAG_TITLE	Hľadať názov
+LIBFLAG_SHORTDESC	Hľadať krátky popis
+LIBFLAG_DESC	Hľadať popis
+LIBFLAG_KEYW	Hľadať kľúčové slová
+LIBFLAG_SLIDES	Hľadať obsah stránky knihy
+GUI_TOP_BAR	Horný pruh
+GUI_BOTTOM_BAR	Dolný pruh
+ORIENTATION_TOGGLE_TOP	Horný pruh
+ORIENTATION_TOGGLE_BOTTOM	Dolný pruh
+FEEDBACK	Odozva pre autora
+FEEDBACK_TITLE	Vaša odozva
+FEEDBACK_QUESTION	Máte komentáre k tejto simulácii?
+FEEDBACK_MISTAKE	Objavil som chybu
+FEEDBACK_COMMENTS	Mám komentáre, želania
+FEEDBACK_SEND	Odoslať odozvu
+SEND_CONTENT	Zdieľať obsah
+SEND_CONTENT_SUBJECT	Odporučiť obsah
+SEND_CONTENT_TEMPLATE	Zdravím,\n\ntento obsah by Vás mohol zaujímať. \n\nPopis: @{SEND_CAPTION}\nOdkaz: @{SEND_LINK}\n\nS pozdravom\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Vyskytla sa chyba. Obráťte sa na svojho správcu.
+ERROR_GENERAL	Interná chyba.
+ERROR_1	Blokovanie dialógových okien bráni prehratiu simulácie.
+ERROR_1.h	Blokovanie dialógových okien zabránilo otvoreniu nového okna prehľadávača. Zatvorte blokovanie dialógových okien alebo ho pre túto doménu vypnite.
+ERROR_2	Potrebný konfiguračný súbor nebolo možné načítať.
+ERROR_2.h	@{LESSONPLAYER} nemohol načítať konfiguračný súbor potrebný pre správnu funkčnosť.
+SCORM_LOCATION_ERROR	Váš pokrok nebolo možné uložiť z dôvodu chýbajúcej funkčnosti systému LMS.
+RESTART_COMPLETED_LMS_LESSON	Spúšťate simuláciu, ktorá už bola dokončená a úspešne absolvovaná. Táto akcia vynuluje všetky predtým získané body a zruší označenie dokončenia alebo úspešného absolvovania. Naozaj chcete reštartovať?
+RESTART_Av_LMS_LESSON	Spúšťate simuláciu, ktorá už bola dokončená a úspešne absolvovaná. Táto akcia vynuluje všetky predtým získané body a zruší označenie dokončenia alebo úspešného absolvovania. Kliknite 'OK' na reštartovanie alebo 'Zrušiť' na zavretie.
+BOOK_NEXT_CHAPTER	Ďalšia kapitola
+BOOK_PREV_CHAPTER	Predchádzajúca kapitola
+BOOK_NEXT_PAGE	Ďalšia strana
+BOOK_PREV_PAGE	Predchádzajúca strana
+BOOK_INDEX_PAGE	Úvodná stránka
+SLIDE_MOREINFO	Ďalšie informácie
+SLIDE_TIPS	Tipy
+SLIDE_ATTACH	Prílohy
+SLIDE_SHOWATTACH	Zobraziť prílohy
+SLIDE_OPEN	Otvoriť
+SLIDE_ADD	Pridať
+SLIDE_EDIT	Upraviť
+SLIDE_DELETE	Odstrániť
+SLIDE_BUTTONAREA	Panel prehrávania
+HELP	Nápoveď
+HELP_REGION_BAR	Skratky: Stlačte, aby ste zamerali panel prehrávača
+HELP_REGION_PANEL	Stlačte, aby ste zamerali bočný panel
+HELP_REGION_CONTENT	Stlačte, aby ste zamerali obsah
+HELP_LIBRARY	Zobraziť nápoveď @{LIBRARY}
+HELP_TRAINER	Zobraziť nápoveď @{LESSONPLAYER}
+HELP_BOOK	Zobraziť nápoveď @{BOOKPLAYER}
+DEMO_START	Demonštračný režim
+DEMO_START1	V demonštračnom režime môžete sledovať vykonávanú aktivitu v rámci aplikácie. Jednoducho postupujte podľa simulácie. Všetky kroky sa vykonajú automaticky.
+DEMO_START2	Môžete použiť navigačnú lištu dole na obrazovke, aby ste prerušili alebo zastavili ukážku. Môžete tiež skočiť dopredu na ďalší alebo dozadu na predchádzajúci krok.
+DEMO_STOP	Demonštračný režim skončil.
+CONCURRENT_START	Súbežný režim
+CONCURRENT_START1	Súbežný režim vám zobrazí krok po kroku, ako vykonať úlohu v rámci aplikácie.
+CONCURRENT_START2	Simulácia sa preruší po každom kroku, aby ste mohli dokončiť krok v skutočnej aplikácii.
+CONCURRENT_STOP	Súbežný režim skončil.
+PRACTICE_START	Cvičný režim
+PRACTICE_START1	V cvičnom režime môžete vyskúšať, čo ste sa naučili, vyriešením úlohy v rámci aplikácie.
+PRACTICE_START2	Nasleduje pokyny krok po kroku.
+PRACTICE_STOP	Cvičný režim skončil.
+TEST_START	Testovací režim
+TEST_START1	V testovacom režime môžete otestovať svoje vedomosti vyriešením úlohy v rámci aplikácie: Odhliadnuc od vzorových údajov, ktoré musíte zadať, nedostanete žiadne inštrukcie ku krokom postupu. Celá úloha je popísaná v okne úlohy, ktoré môžete podľa potreby zväčšiť alebo minimalizovať pomocou tlačidiel na titulnej lište.
+TEST_START2	Na konci testu budete ohodnotený na základe počtu správne dokončených krokov. Toto bodovanie slúži na vaše vlastné hodnotenie v oblasti úloh.
+TEST_START3	Dávajte pozor na to, čo robíte, pretože systém zaregistruje všetky zle vyhláskované zadania a chybné kliknutia a primerane vám zníži počet bodov. Ak sa rozhodnete prijať pomoc od systému, aby ste dokončili krok, vaše skóre pre tento krok bude nula.
+TEST_START4	Vaše celkové skóre sa zobrazí na konci testu. Snažte sa dosiahnuť cieľové skóre @{res_mastery_percent}% .
+TEST_OK	Test úspešný
+TEST_OK1	Blahoželáme! Úspešne ste dokončili túto úlohu.
+TEST_FAILED	Test neúspešný
+TEST_FAILED1	Keďže ste dosiahli menej ako @{res_mastery_percent}% možného maximálneho počtu bodov, odporúčame vám ešte raz preštudovať obsah tohto školenia, a potom otestovať svoje vedomosti znovu v testovacom režime.
+TEST_FINISHED	Test bol len na vlastné hodnotenie. Výsledky sa nezaznamenajú ani neodošlú tretím stranám.
+TEST_SCORE	Skóre
+TEST_SCOREVALUE	@{res_collected_points} z @{res_possible_points}
+FREEPRESENTATION_START	Voľný prezentačný režim
+FREEPRESENTATION_START1	Voľný prezentačný režim umožňuje vykonať proces v simulácii.
+FREEPRESENTATION_START2	Akcie vykonajte krok za krokom. Nápoveď získate použítím klávesa F1.
+FREEPRESENTATION_STOP	Voľná prezentácia bola ukončená.
+GUIDEDPRESENTATION_START	Riadený prezentačný režim
+GUIDEDPRESENTATION_START1	V riadenom prezentačnom režime sa proces v simulácii vykoná automaticky. Aktuálny krok sa zobrazí ukazovateľom myši a zvýraznením.
+GUIDEDPRESENTATION_START2	Vykonajte akcie krok za krokom a každú akciu potvrďte.
+GUIDEDPRESENTATION_STOP	Riadená prezentácia bola ukončená.
+EXER_FAIL1	Vykonaná akcia bola nesprávna.
+EXER_FAIL2	Akcia, ktorú ste vykonali, bola nesprávna. Z celkového skóre sa odráta 1 bod. Zostávajúce body pre túto akciu: @1_rest-points_.
+EXER_FAIL3	Akcia, ktorú ste vykonali, bola nesprávna. Z celkového skóre sa za každú chybu odráta 1 bod. Zostávajúce body pre túto akciu: @1_rest-points_.
+EXER_FAILKEY1	Stlačili ste kláves @1_key_.
+EXER_FAILKEY2	Použiteľné funkčné klávesy sú: @1_keys_.
+EXER_FAILRADIO	Všetky platné tlačidlá sú zvýraznené.
+EXER_FAILINPUT	Všetky platné textové oblasti sú zvýraznené.
+EXER_FAILSELECT	Všetky platné polia výberu sú zvýraznené.
+EXER_FAILDRAG	Vykonali ste neplatnú operáciu presunutia @1_keys_.
+EXER_FAILDRAG1	Vykonajte operáciu presunutia @1_keys_ v rámci zvýraznenej oblasti.
+EXER_FAILDROP	Vykonali ste neplatnú operáciu pustenia @1_keys_.
+EXER_FAILDROP1	Vykonajte operáciu pustenia @1_keys_ v rámci zvýraznenej oblasti.
+EXER_FAILDBLCLICK	Vykonali ste neplatné dvojité kliknutie @1_keys_.
+EXER_FAILDBLCLICK1	Dvakrát kliknite @1_keys_ do zvýraznenej oblasti.
+EXER_FAILCLICK	Klikli @1_keys_ ste na neplatnú oblasť.
+EXER_FAILCLICK1	Všetky platné oblasti sú zvýraznené.
+EXER_FAILCLICK2	Vykonali ste neplatné kliknutie @1_keys_.
+EXER_FAILCLICK3	Kliknite @1_keys_ do zvýraznenej oblasti.
+EXER_FAILENTER	Vykonali ste neplatné presunutie myšou @1_keys_.
+EXER_FAILENTER1	Vykonajte presun myšou @1_keys_ v rámci zvýraznenej oblasti.
+EXER_FAILMCLICK	Kliknutie stredným tlačidlom myši @1_keys_ nie je povolený.
+EXER_WOULDGOON	(Poznámka: V opačnom prípade sa pokračuje automaticky)
+EXER_YOURINPUT	Zadali ste "@1_input_".
+EXER_TEXTINPUT	Zadajte "@1" do vstupného poľa "@2"!
+EXER_SELECT	Vyberte záznam "@1"!
+EXER_GOON	Prejdite na ďalší krok
+EXER_SHOWHELP	Áno, zobraz nápoveď
+EXER_TRYAGAIN	Skúste znova
+EXER_ASK4HELP	Potrebujete pomoc?
+EXER_ONLY_VALID	Povolené akcie sú:
+EXER_FORM_PREFIX	Zadajte nasledujúce hodnoty:
+EXER_OR	alebo
+EXER_AND	a
+SCORE	Body
+SCORE_REDUCED	Možné body pre tento krok znížené na
+TOUR_START	Spustiť simuláciu
+TOUR_STOP	Prerušiť simuláciu
+TOUR_END	Zastavenie simulácie
+TOUR_PLAY	Tlačidlo Pokračovať
+TOUR_JUMP	Preskočili ste do ďalšieho kroku v simulácii.
+TOUR_PREV	Späť
+TOUR_NEXT	Nasled.
+USER_ACTION_CORRECT_ACTION	Žiak úspešne vykonal krok.
+USER_ACTION_WRONG_ACTION	Žiak urobil chybu.
+USER_ACTION_GOON	Žiak klikol na "Pokračovať", žiadne body pre tento krok.
+USER_ACTION_GOON_AUTO	Simulácia pokračovala kvôli množstvu chýb automaticky.
+USER_ACTION_HELP	Žiak požiadal o nápoveď, žiadne body pre tento krok.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	Žiak otvoril textové pole.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	Žiak zatvoril textové pole.
+QUIZ_CORRECT_RESPONSE	Správna odpoveď
+QUIZ_STUDENT_RESPONSE	Odpoveď žiaka
+QUIZ_LATENCY	Čas
+QUIZ_SCORE	Získané skóre
+QUIZ_REQ_SCORE	Potrebné skóre
+QUIZ_MAX_SCORE	Maximálne skóre
+QUIZ_TIMEOUT_REACHED	Dosiahnutý časový limit
+QUIZTYPE_MCHOICE	Kvíz: Viacnásobný výber
+QUIZTYPE_SQMAQUIZ	Kvíz: Vyplňte polia
+QUIZTYPE_FIBQUIZ	Kvíz: Vyplňte prázdne miesta
+QUIZTYPE_MATCHQUIZ	Kvíz: Spojovanie
+QUIZTYPE_CONNQUIZ	Kvíz: Prepojenie
+QUIZTYPE_SCALEQUIZ	Kvíz: Ovládanie posunu
+QUIZTYPE_GRIDQUIZ	Kvíz: Mriežka
+QUIZTYPE_HOTSPOTQUIZ	Kvíz: Aktívny bod
+QUIZTYPE_PUZZLEQUIZ	Kvíz: Puzzle
+QUIZTYPE_MIXQUIZ	Kvíz: Triedenie
+CONNECTING	Pripája sa...
+SYNCHRONIZE	Synchronizovať
+SYNCHRONIZED	Synchronizované
+CONNECT	Spojiť
+BUBBLESTYLE_NOT_FOUND	Typ bubliny sa nenašiel.
+LOADING_MACROSET	Načítava sa obsah a zdroje.
+ZOOM_LEVEL_NOTIFICATION	Varovanie: Vaša úroveň zväčšenia je nastavená na inú hodnotu než 100%.
+ctx_html.header_title	Kontextová nápoveď
+ctx_html.introtext	Pre aktuálny kontext sú k dispozícii nasledujúce obsahy nápovede. Kliknite na položku, ktorú chcete spustiť.
+ctx_html.introtext_noresult	Pre aktuálny kontext nie je k dispozícii žiadny obsah. Na získanie ďalšieho obsahu otvorte library z hlavičky alebo použite vyhľadávanie.
+ctx_html.query_empty	Prázdna požiadavka
+ctx_html.query_malformed	Požiadavka neplatná
+ctx_html.search	Hľadať
+ctx_html.library	Otvoriť library
+ctx_html.language	Jazyk
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Záznam
+qr_hint_dlg.dont_bother	Už nezobrazovať
+qr_hint_dlg.hint_end	Dokončite záznam.
+qr_hint_dlg.hint_pause	Pozastavte záznam.
+btnOk	Ďakujeme
+qr_hint_dlg.hint_title	Poznámky k záznamu
+qr_hint_dlg.audio_help	Zaznamenajte svoj text pred výberom ovládacieho prvku.
+quiz_error_no_template_file	Chyba: Súbor predlôh sa nenašiel. Použije sa predvolený.
+qr_hint_dlg.hint_end_1	Kláves UKONČIŤ
+qr_hint_dlg.hint_pause_1	Kláves POZASTAVIŤ

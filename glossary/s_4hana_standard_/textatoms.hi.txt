@@ -1,0 +1,11 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+SHARE_CONTENT	लिंक साझा करें
+SHARE_BY_MAIL	ईमेल भेजें
+URL_OF_CURRENT_PAGE	URL
+CONTEXT_ROLES	प्रसंग की भूमिकाएं
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	सामग्री लिंक भेजें
+ERROR_2.h	@{LESSONPLAYER}, उचित कार्यात्मकता के लिए आवश्यक एक कॉन्फ़िगरेशन फ़ाइल लोड नहीं कर सका.
+	

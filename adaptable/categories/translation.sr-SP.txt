@@ -1,0 +1,9 @@
+﻿business_process	Poslovni procesi
+process_tutorials	Priručnici za učenje procesa
+guided_tours	Vođena upoznavanja sa sistemom
+training_courses	Kursevi obuke
+user_assistance	Pomoć za korisnika
+compliance	Usklađenost
+tips_tricks	Saveti i trikovi
+faq	Najčešća pitanja
+misc	Razno

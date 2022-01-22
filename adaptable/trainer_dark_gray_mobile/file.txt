@@ -1,0 +1,93 @@
+﻿{
+ "panel": {
+  "hor": {
+   "image": {"id": "sh.png", "x": 0, "y": 0, "repeat": "x"},
+   "h": 44,
+   "groups": [{
+    "outer_spacing_r": 20,
+    "elements": [{
+     "type": "logo",
+     "image": {"id": "s.png", "x": -205, "y": -279},
+     "w": 120,
+     "h": 44
+    }]
+   }, {
+    "outer_spacing_r": 20,
+    "outer_spacing_t": 7,
+    "elements": [{
+     "type": "control",
+     "subtype": "orientation_toggle_top",
+     "image": {"id": "s.png", "x": 0, "y": -1020},
+     "image_h": {"id": "s.png", "x": -30, "y": -1020},
+     "image_a": {"id": "s.png", "x": -60, "y": -1020},
+     "image_d": {"id": "s.png", "x": -90, "y": -1020},
+     "tooltip": "ORIENTATION_TOGGLE_TOP",
+     "w": 30,
+     "h": 30
+    }, {
+     "type": "control",
+     "subtype": "orientation_toggle_bottom",
+     "image": {"id": "s.png", "x": 0, "y": -1050},
+     "image_h": {"id": "s.png", "x": -30, "y": -1050},
+     "image_a": {"id": "s.png", "x": -60, "y": -1050},
+     "image_d": {"id": "s.png", "x": -90, "y": -1050},
+     "tooltip": "ORIENTATION_TOGGLE_BOTTOM",
+     "w": 30,
+     "h": 30
+    }]
+   }, {
+    "outer_spacing_l": 10,
+    "outer_spacing_r": 10,
+    "outer_spacing_t": 14,
+    "elements": [{
+     "type": "status",
+     "text_color": "#FFFFFF",
+     "font_weight": "bold",
+     "font_size": 14,
+     "font_family": "Arial,Helvetica,sans-serif",
+     "autosize": true,
+     "w": 100,
+     "h": 20
+    }]
+   }, {
+    "outer_spacing_r": 15,
+    "outer_spacing_t": 7,
+    "elements": [{
+     "type": "control",
+     "subtype": "mailto",
+     "image": {"id": "s.png", "x": 0, "y": -1140},
+     "image_h": {"id": "s.png", "x": -30, "y": -1140},
+     "image_a": {"id": "s.png", "x": -60, "y": -1140},
+     "image_d": {"id": "s.png", "x": -90, "y": -1140},
+     "tooltip": "SEND_CONTENT",
+     "w": 30,
+     "h": 30
+    }]
+   }, {
+    "outer_spacing_r": 5,
+    "outer_spacing_t": 7,
+    "inner_spacing": 5,
+    "elements": [{
+     "type": "control",
+     "subtype": "exit",
+     "image": {"id": "s.png", "x": 0, "y": -210},
+     "image_h": {"id": "s.png", "x": -30, "y": -210},
+     "image_a": {"id": "s.png", "x": -60, "y": -210},
+     "image_d": {"id": "s.png", "x": -90, "y": -210},
+     "tooltip": "EXIT",
+     "w": 30,
+     "h": 30,
+     "badge": {
+      "text_color": "#204B75",
+      "font_weight": "bold",
+      "font_size": 10,
+      "border_color": "#A7B5C3",
+      "background_color": "#F6F6F6",
+      "w": 5,
+      "h": 10
+     }
+    }]
+   }]
+  }
+ }
+}

@@ -1,0 +1,9 @@
+﻿SHARE_CONTENT	Zdieľať odkaz
+SHARE_BY_MAIL	Odoslať e-mail
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Odoslať odkaz na obsah
+ERROR_2.h	Školiteľ nemohol načítať konfiguračný súbor potrebný na správne fungovanie.
+ctx_html.introtext_noresult	Pre aktuálny kontext nie je k dispozícii žiadny obsah. Na získanie ďalšieho obsahu otvorte knižnicu z hlavičky alebo alebo použite vyhľadávanie.
+	

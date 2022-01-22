@@ -1,0 +1,10 @@
+﻿BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Sel kobling
+SHARE_BY_MAIL	Send e-post
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Send innholdslenke
+ERROR_2.h	@{LESSONPLAYER} kan ikke laste inn konfigurasjonsfilen som er nøvendig for korrekt funksjonalitet
+	

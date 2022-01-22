@@ -1,0 +1,13 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	κοινοποίηση σύνδεσης
+SHARE_BY_MAIL	αποστολή email
+URL_OF_CURRENT_PAGE	URL
+PLAYING	
+LIBFLAG_SLIDES	Search book page content
+SEND_CONTENT	Αποστολή συνδέσμου περιεχομένων
+ERROR_2.h	Ο εκπαιδευτής δεν φόρτωσε το αρχείο διαμόρφωσης που απαιτείται για τη σωστή λειτουργία.
+ctx_html.introtext_noresult	Μη διαθέσιμα περιεχόμενα για το τρέχον γενικό πλαίσιο. Ανοίξτε τη @{LIBRARY} από την κεφαλίδα ή χρησιμοποιήστε την αναζήτηση για να λάβετε περισσότερα περιεχόμενα
+ctx_html.library	Ανοιγμα @{LIBRARY}
+	

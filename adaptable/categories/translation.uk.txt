@@ -1,0 +1,9 @@
+﻿business_process	Бізнес-процеси
+process_tutorials	Навчальні програми для процесів
+guided_tours	Інтерактивна демонстрація
+training_courses	Навчальні курси
+user_assistance	Допомога користувачу
+compliance	Відповідність
+tips_tricks	Підказки і поради
+faq	ЗіВ
+misc	Різне

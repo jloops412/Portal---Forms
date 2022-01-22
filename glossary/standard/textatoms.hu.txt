@@ -1,0 +1,253 @@
+﻿LIBRARY	library
+BOOKPLAYER	book reader
+LESSONPLAYER	trainer
+SHARE_CONTENT	Tartalom megosztása
+SHARE_BY_MAIL	Megosztás e-mailben
+URL_OF_CURRENT_PAGE	Aktuális oldal URL-je
+TASK	Feladat
+GLOSSARY	Szójegyzék
+CONTEXT_INFO	Kontextusinformáció
+CONTEXT_ROLES	Szerepek
+CONTEXT_ROLES_NOROLES	Kontextus megjelenítése szerepek nélkül
+CONTEXT_MY_ROLES	Saját szerepek
+CLOSEBUBBLE	Szövegbuborék eltávolítása
+MAXBUBBLE	Buborék visszaállítása
+MINBUBBLE	Buborék kis méretre állítása
+VOLUME	Mennyiség
+SETTINGS	Beállítások
+CLOSE_TASK	@{TASK} bezárása
+CLOSE	Bezárás
+EXIT	Kilépés
+SELECTION	Kiválasztás
+KEYWORD_SEARCH	Kulcsszó keresése
+SEARCH	Keresés
+SEARCH_STRING	Keresőkifejezés
+KEYWORDS	Kulcsszavak
+SEARCH_CLEAR	Keresőszavak törlése
+FILTER	Szűrő
+RESOURCES	Erőforrások
+VIEW	Megjelenítés
+CANCEL	Mégse
+CONTINUING	Folytatás
+OK	OK
+PLAY	Lejátszás
+PAUSE	Szünet
+BACK	Vissza
+PREVIOUS	Vissza
+NEXT	Következő
+PLAYING	Lejátszás
+PAUSED	Szünet
+USERINPUT	Bevitel
+IDLE	""
+START	Oldal töltődik...
+RESTART	Újraindítás
+TEXT	Szöveg
+TITLE	Cím
+MINIMIZE	Kis méret
+RESTORE	Visszaállítás
+ACQUIRED_SCORE	Elért pontszám
+TEST_RESULT	Eredmény
+TESTDETAILS	Részletek megjelenítése
+TESTDETAILS1	Részletek elrejtése
+PRINT	Oldal nyomtatása
+LESSON	Szimuláció
+OF	/
+DESCRIPTION	Leírás
+FULLSCREEN	Teljes képernyő
+TOGGLE_TASKINFO	Feladatleírás megjelenítése/elrejtése
+PANEL_VIEWMODE	Panelmegjelenítési mód
+PANEL_TOGGLE	Panel megjelenítése/elrejtése
+PANEL	Oldalsáv/Összes tartalom
+BOOKMARK_FAVORITE	Kedvenc
+CONTENT	Tartalom/Lejátszási terület
+TOC	Tartalomjegyzék
+FAVORITES	Favoritok
+RECENT	Oldaltörténet
+QRCODE	QR-kód
+QR_URL_TOO_BIG	Az URL túl hosszú. Nem lehet QR-kódot generálni.
+CTRLKEY	Ctrl
+ALTKEY	Alt
+SHIFTKEY	Shift
+AUDIO_MUTE	Némítás
+AUDIO_PLAY	Hang lejátszása
+AUDIO_PAUSE	Hang szüneteltetése
+AUDIO_ON	Hang be
+AUDIO_OFF	Hang ki
+CHANNEL_MASTER	Törzs
+CHANNEL_BOOKSOUND	Könyvhang
+CHANNEL_NARRATIVE	Magyarázat
+CHANNEL_EFFECTS	Effektusok
+LIB_NOMATCH	Nincs találat
+LIB_NOFILTER	Nincs szűrő
+LIBFLAG_NEWWIN	Új ablakban
+LIBFLAG_TITLE	Keresés a címben
+LIBFLAG_SHORTDESC	Keresés a rövid leírásban
+LIBFLAG_DESC	Keresés a leírásban
+LIBFLAG_KEYW	Kulcsszavak keresése
+LIBFLAG_SLIDES	Keresés a könyvoldal tartalmában
+GUI_TOP_BAR	Felső sáv
+GUI_BOTTOM_BAR	Alsó sáv
+ORIENTATION_TOGGLE_TOP	Felső sáv
+ORIENTATION_TOGGLE_BOTTOM	Alsó sáv
+FEEDBACK	Visszajelzés a szerzőnek
+FEEDBACK_TITLE	Visszajelzés
+FEEDBACK_QUESTION	Vannak észrevételei ezzel a szimulációval kapcsolatban?
+FEEDBACK_MISTAKE	Hibát találtam
+FEEDBACK_COMMENTS	Javaslataim, kívánságaim vannak
+FEEDBACK_SEND	Visszajelzés elküldése
+SEND_CONTENT	Tartalom megosztása
+SEND_CONTENT_SUBJECT	Ajánlott tartalom
+SEND_CONTENT_TEMPLATE	Üdvözöljük!\n\nEz a tartalom érdekelheti Önt. \n\nFelirat: @{SEND_CAPTION}\nHivatkozás: @{SEND_LINK}\n\nÜdvözlettel,\n
+MGR_FEEDBACK_UNSPECIFIED_ERR	Hiba történt. Forduljon az adminisztrátorhoz.
+ERROR_GENERAL	Belső hiba.
+ERROR_1	Egy előugróablak-blokkoló megakadályozza a szimuláció lejátszását.
+ERROR_1.h	Egy előugróablak-blokkoló megakadályozta az új böngészőablak megjelenését. Zárja be az előugróablak-blokkolót, vagy kapcsolja ki erre a tartományra vonatkozóan.
+ERROR_2	A szükséges konfigurációs fájlt nem lehetett betölteni.
+ERROR_2.h	A(z) @{LESSONPLAYER} nem tudta betölteni a megfelelő működéshez szükséges konfigurációs fájlt.
+SCORM_LOCATION_ERROR	Az LMS-rendszerből hiányzó funkció miatt az előmenetelt nem lehetett menteni.
+RESTART_COMPLETED_LMS_LESSON	Olyan szimulációt indított el, amelyet már elvégzett vagy sikeresen teljesített. Ezzel nullára állítja vissza a korábban elért pontszámát, és törli a befejezett vagy megfelelt jelzést. Valóban újra szeretné kezdeni?
+RESTART_Av_LMS_LESSON	Olyan szimulációt indított el, amelyet már elvégzett vagy sikeresen teljesített. Ezzel nullára állítja vissza a korábban elért pontszámát, és törli a befejezett vagy megfelelt jelzést. Az újraindításhoz kattintson az OK gombra, a bezáráshoz pedig a Mégse gombra.
+BOOK_NEXT_CHAPTER	Következő fejezet
+BOOK_PREV_CHAPTER	Előző fejezet
+BOOK_NEXT_PAGE	Következő oldal
+BOOK_PREV_PAGE	Előző oldal
+BOOK_INDEX_PAGE	Kezdőoldal
+SLIDE_MOREINFO	További információ
+SLIDE_TIPS	Tippek
+SLIDE_ATTACH	Mellékletek
+SLIDE_SHOWATTACH	Mellékletek megjelenítése
+SLIDE_OPEN	Megnyitás
+SLIDE_ADD	Hozzáadás
+SLIDE_EDIT	Szerkesztés
+SLIDE_DELETE	Törlés
+SLIDE_BUTTONAREA	Lejátszás sávja
+HELP	Súgó
+HELP_REGION_BAR	Billentyűparancsok: Fókusz a lejátszó sávjára
+HELP_REGION_PANEL	Fókusz az oldalsávra
+HELP_REGION_CONTENT	Fókusz a tartalomra
+HELP_LIBRARY	@{LIBRARY} súgójának megjelenítése
+HELP_TRAINER	@{LESSONPLAYER} súgójának megjelenítése
+HELP_BOOK	@{BOOKPLAYER} súgójának megjelenítése
+DEMO_START	Demó mód
+DEMO_START1	Demó módban nyomon követheti egy feladat végrehajtását az alkalmazásban. Csak figyelje a bemutatót: valamennyi lépés automatikusan végrehajtásra kerül.
+DEMO_START2	A képernyő alján megjelenő navigációs sávval szüneteltetheti vagy leállíthatja az előadást. Ezen kívül előreugorhat a következő, illetve visszaugorhat az előző lépéshez.
+DEMO_STOP	A demó mód befejeződött.
+CONCURRENT_START	Egyidejű mód
+CONCURRENT_START1	Egyidejű módban lépésenként láthatja, hogyan kell végrehajtani a feladatot az alkalmazásban.
+CONCURRENT_START2	A szimuláció minden lépés után megszakad, lehetőséget adva rá, hogy Ön is elvégezze a műveletet a tényleges alkalmazásban.
+CONCURRENT_STOP	Az egyidejű üzemmód befejeződött.
+PRACTICE_START	Gyakorlás mód
+PRACTICE_START1	Gyakorlás módban kipróbálhatja a tanultakat, önállóan megoldva a feladatot az alkalmazásban.
+PRACTICE_START2	Csak a lépésenkénti útmutatót kell követnie.
+PRACTICE_STOP	A gyakorlás mód befejeződött.
+TEST_START	Teszt mód
+TEST_START1	Teszt módban önállóan ellenőrizheti a tudását egy feladat megoldásával az alkalmazásban: a megadandó mintaadatokon kívül nem kap lépésenkénti útmutatást. A teljes feladat ismertetése a feladatablakban olvasható, amelyet igény szerint nagyíthat vagy kicsinyíthet a címsáv gombjaival.
+TEST_START2	A teszt végén a rendszer a sikeresen végrehajtott lépések alapján értékeli a teljesítményét. Ez a pontszám önértékelésre szolgál a feladatterületen.
+TEST_START3	Figyelmesen hajtsa végre a műveleteket, mivel a rendszer regisztrálja az elgépeléseket és a helytelen kattintásokat, ennek megfelelően csökkentve a pontszámot. Ha úgy dönt, hogy egy lépéshez segítséget vesz igénybe, akkor ezzel elveszti az adott lépésre kapható pontokat.
+TEST_START4	A teszt végén megjelenik az összpontszám. Próbáljon legalább @{res_mastery_percent}%-os eredményt elérni.
+TEST_OK	Megfelelt a teszten.
+TEST_OK1	Gratulálunk, sikeresen teljesítette ezt a feladatot!
+TEST_FAILED	Nem felelt meg a teszten.
+TEST_FAILED1	Mivel nem érte el a maximális pontszám @{res_mastery_percent} %-át, ajánlatos e tanfolyam anyagát még egyszer átvenni, majd azt követően ismételten ellenőrizni a tudását teszt módban.
+TEST_FINISHED	Ez a teszt kizárólag önértékelésre szolgál. Az eredményeket a rendszer nem regisztrálja, és nem is továbbítja.
+TEST_SCORE	Pontszám
+TEST_SCOREVALUE	@{res_collected_points} / @{res_possible_points}
+FREEPRESENTATION_START	Szabad bemutató mód
+FREEPRESENTATION_START1	Szabad bemutató módban folyamatot hajthat végre a szimuláción belül.
+FREEPRESENTATION_START2	Végezze el a műveleteket lépésenként. Segítségért nyomja meg az F1 billentyűt.
+FREEPRESENTATION_STOP	A szabad bemutató befejeződött.
+GUIDEDPRESENTATION_START	Irányított bemutató mód
+GUIDEDPRESENTATION_START1	Az Irányított bemutató mód automatikusan végrehajt egy folyamatot a szimuláción belül. Egérmutató és kiemelés jeleníti meg az aktuális lépést.
+GUIDEDPRESENTATION_START2	Kövesse a műveleteket lépésenként, és azután mindegyiket erősítse meg.
+GUIDEDPRESENTATION_STOP	Az irányított bemutató befejeződött.
+EXER_FAIL1	Az elvégzett művelet helytelen volt.
+EXER_FAIL2	A végrehajtott művelet helytelen volt. 1 ponttal csökkent az összpontszáma. A műveletért még kapható pontok száma: @1_rest-points_.
+EXER_FAIL3	A végrehajtott művelet helytelen volt. 1 ponttal csökken az összpontszáma minden elkövetett hiba esetén. A műveletért még kapható pontok száma: @1_rest-points_.
+EXER_FAILKEY1	Megnyomta a(z) @1_key_ billentyűt.
+EXER_FAILKEY2	A használható funkcióbillentyűk a következők: @1_keys_.
+EXER_FAILRADIO	Minden érvényes gomb ki van emelve.
+EXER_FAILINPUT	Minden érvényes szövegterület ki van emelve.
+EXER_FAILSELECT	Minden érvényes jelölőmező ki van emelve.
+EXER_FAILDRAG	A(z) @1_keys_ húzási művelet érvénytelen volt.
+EXER_FAILDRAG1	Hajtson végre @1_keys_ húzási műveletet a kiemelt területen.
+EXER_FAILDROP	A(z) @1_keys_ ejtési művelet érvénytelen volt.
+EXER_FAILDROP1	Hajtson végre @1_keys_ ejtési műveletet a kiemelt területen.
+EXER_FAILDBLCLICK	A(z) @1_keys_ dupla kattintás érvénytelen volt.
+EXER_FAILDBLCLICK1	Hajtson végre @1_keys_ dupla kattintást a kiemelt területen.
+EXER_FAILCLICK	A(z) @1_keys_ kattintás érvénytelen területen történt.
+EXER_FAILCLICK1	Minden érvényes terület ki van emelve.
+EXER_FAILCLICK2	A(z) @1_keys_ kattintás érvénytelen volt.
+EXER_FAILCLICK3	Hajtson végre @1_keys_ kattintást a kiemelt területen.
+EXER_FAILENTER	A(z) @1_keys_ rámutatás érvénytelen volt.
+EXER_FAILENTER1	Hajtson végre @1_keys_ rámutatást a kiemelt területen.
+EXER_FAILMCLICK	@1_keys_ középső gombbal való kattintás nem engedélyezett.
+EXER_WOULDGOON	(Megjegyzés: egyébként automatikusan folytatódik)
+EXER_YOURINPUT	A következőt adta meg: "@1_input_".
+EXER_TEXTINPUT	Írja be a(z) "@1" értéket a(z) "@2" adatbeviteli mezőbe!
+EXER_SELECT	Válassza ki a(z) "@1" bejegyzést!
+EXER_GOON	Tovább a következő lépésre
+EXER_SHOWHELP	Igen, jelenjen meg segítség
+EXER_TRYAGAIN	Próbálja újra
+EXER_ASK4HELP	Segítségre van szüksége?
+EXER_ONLY_VALID	Megengedett műveletek:
+EXER_FORM_PREFIX	Írja be a következő értékeket:
+EXER_OR	vagy
+EXER_AND	és
+SCORE	Pontok
+SCORE_REDUCED	A lépésre kapható pontszám ennyire csökkent:
+TOUR_START	Szimuláció indítása
+TOUR_STOP	Szimuláció megszakítása
+TOUR_END	Szimuláció vége
+TOUR_PLAY	Folytatás gomb
+TOUR_JUMP	A szimuláció másik lépéséhez ugrott.
+TOUR_PREV	Vissza
+TOUR_NEXT	Következő
+USER_ACTION_CORRECT_ACTION	A tanuló sikeresen végrehajtotta a lépést.
+USER_ACTION_WRONG_ACTION	A tanuló hibát követett el.
+USER_ACTION_GOON	A tanuló a Folytatás gombra kattintott, ezért a lépésért nem jár pont.
+USER_ACTION_GOON_AUTO	A hibák száma miatt a szimuláció automatikusan folytatódott.
+USER_ACTION_HELP	A tanuló segítséget kért, ezért a lépésért nem jár pont.
+SLIDE_USER_ACTION_TEXTBOX_OPEN	A tanuló megnyitott egy szövegdobozt.
+SLIDE_USER_ACTION_TEXTBOX_CLOSE	A tanuló bezárt egy szövegdobozt.
+QUIZ_CORRECT_RESPONSE	Helyes válasz
+QUIZ_STUDENT_RESPONSE	A tanuló válasza
+QUIZ_LATENCY	Időpont
+QUIZ_SCORE	Elért pontszám
+QUIZ_REQ_SCORE	Szükséges pontszám
+QUIZ_MAX_SCORE	Maximális pontszám
+QUIZ_TIMEOUT_REACHED	Időtúllépés
+QUIZTYPE_MCHOICE	Kvíz: feleletválasztás
+QUIZTYPE_SQMAQUIZ	Kvíz: mezők kitöltése
+QUIZTYPE_FIBQUIZ	Kvíz: üres helyek kitöltése
+QUIZTYPE_MATCHQUIZ	Kvíz: párosítás
+QUIZTYPE_CONNQUIZ	Kvíz: összekapcsolás
+QUIZTYPE_SCALEQUIZ	Kvíz: csúszkavezérlő
+QUIZTYPE_GRIDQUIZ	Kvíz: rács
+QUIZTYPE_HOTSPOTQUIZ	Kvíz: hotspot
+QUIZTYPE_PUZZLEQUIZ	Kvíz: kirakójáték
+QUIZTYPE_MIXQUIZ	Kvíz: rendezés
+CONNECTING	Kapcsolódás...
+SYNCHRONIZE	Szinkronizálás
+SYNCHRONIZED	Szinkronizálva
+CONNECT	Kapcsolódás
+BUBBLESTYLE_NOT_FOUND	A buborékstílus nem található.
+LOADING_MACROSET	Tartalom és erőforrások betöltése.
+ZOOM_LEVEL_NOTIFICATION	Figyelem: A nagyítás nem 100%.
+ctx_html.header_title	Kontextusfüggő súgó
+ctx_html.introtext	A következő súgótartalom érhető el az aktuális kontextushoz. Kattintson az elindítani kívánt elemre.
+ctx_html.introtext_noresult	Nincs elérhető tartalom az aktuális kontextushoz. Nyissa meg a libraryt a fejlécből, vagy keressen további tartalmat a keresőfunkcióval.
+ctx_html.query_empty	Üres query.
+ctx_html.query_malformed	A query érvénytelen.
+ctx_html.search	Keresés
+ctx_html.library	library megnyitása
+ctx_html.language	Nyelv
+qr_hint_dlg.IDC_QR_HINT_DLG_CAPTION	Felvétel
+qr_hint_dlg.dont_bother	Ne jelenjen meg újra
+qr_hint_dlg.hint_end	A felvétel befejezése.
+qr_hint_dlg.hint_pause	A felvétel szüneteltetése.
+btnOk	Köszönjük!
+qr_hint_dlg.hint_title	Felvételi tippek
+qr_hint_dlg.audio_help	Vezérlőelem kiválasztása előtt vegye fel a szöveget.
+quiz_error_no_template_file	Hiba: A sablon nem található. Az alapértelmezett lesz használva.
+qr_hint_dlg.hint_end_1	END billentyű
+qr_hint_dlg.hint_pause_1	PAUSE billentyű

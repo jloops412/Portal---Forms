@@ -1,0 +1,9 @@
+﻿business_process	ビジネスプロセス
+process_tutorials	プロセスチュートリアル
+guided_tours	ガイドツアー
+training_courses	トレーニングコース
+user_assistance	ユーザアシスタンス
+compliance	コンプライアンス
+tips_tricks	ヒントとコツ
+faq	FAQ
+misc	その他

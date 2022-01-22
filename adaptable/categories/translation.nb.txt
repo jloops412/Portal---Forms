@@ -1,0 +1,9 @@
+﻿business_process	Forretningsprosesser
+process_tutorials	Prosesslæreprogrammer
+guided_tours	Omvisninger
+training_courses	Opplæringskurs
+user_assistance	Brukerstøtte
+compliance	Konformitet
+tips_tricks	Tips og råd
+faq	Ofte stilte spørsmål
+misc	Diverse
